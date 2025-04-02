@@ -1,56 +1,55 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "Roure: Quiet!"
+	line "No surtis!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "Roure: Hi ha"
+	line "#mon salvatges"
+	cont "als matolls!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Et cal el teu"
+	line "propi #mon"
+	cont "per combatre."
+	cont "Ja ho tinc!"
 
-	para "Here, come with"
-	line "me!"
+	para "Vine amb mi!"
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "Jo també estic"
+	line "criant #mon!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Vull que siguin"
+	line "forts per"
+	cont "protegir-me!"
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "No és increïble"
+	line "la tecnologia?"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Podem transferir"
+	line "objectes i"
+	cont "#mon en forma"
+	cont "de dades al PC!"
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "Laboratoris Roure:"
+	line "Recerca #mon"
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "Vilablanca:"
+	line "El color"
+	cont "dels inicis"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "Can <PLAYER>"
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "Can <RIVAL>"
 	done

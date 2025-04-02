@@ -1,22 +1,21 @@
 _VermilionPidgeyHouseYoungsterText::
-	text "I'm getting my"
-	line "PIDGEY to fly a"
-	cont "letter to SAFFRON"
-	cont "in the north!"
+	text "En Parrup portarà"
+	line "la carta al nord,"
+	cont "a Ciutat Daurada!"
 	done
 
 _VermilionPidgeyHousePidgeyText::
-	text "PIDGEY: Kurukkoo!@"
+	text "Parrup: Parrucu!@"
 	text_end
 
 _VermilionPidgeyHouseLetterText::
-	text "Dear PIPPI, I hope"
-	line "to see you soon."
+	text "Hola Lara. Espero"
+	line "veure't aviat."
 
-	para "I heard SAFFRON"
-	line "has problems with"
-	cont "TEAM ROCKET."
+	para "He sentit que el"
+	line "Team Rocket està"
+	cont "donant guerra."
 
-	para "VERMILION appears"
-	line "to be safe."
+	para "A Ciutat Ocre"
+	line "estem segurs."
 	done

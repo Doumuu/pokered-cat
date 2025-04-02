@@ -1,31 +1,31 @@
 _PokemonTower1FReceptionistText::
-	text "#MON TOWER was"
-	line "erected in the"
-	cont "memory of #MON"
-	cont "that had died."
+	text "La Torre #mon"
+	line "es va erigir com"
+	cont "a monument als"
+	cont "#mon morts."
 	done
 
 _PokemonTower1FMiddleAgedWomanText::
-	text "Did you come to"
-	line "pay respects?"
-	cont "Bless you!"
+	text "Vens a visitar el"
+	line "temple? Ets molt"
+	cont "madur, noi."
 	done
 
 _PokemonTower1FBaldingGuyText::
-	text "I came to pray"
-	line "for my CLEFAIRY."
+	text "He vingut a pregar"
+	line "pel meu Ària..."
 
-	para "Sniff! I can't"
-	line "stop crying..."
+	para "Nif! No puc deixar"
+	line "de plorar..."
 	done
 
 _PokemonTower1FGirlText::
-	text "My GROWLITHE..."
-	line "Why did you die?"
+	text "Trobo a faltar"
+	line "el meu Cànic..."
 	done
 
 _PokemonTower1FChannelerText::
-	text "I am a CHANNELER!"
-	line "There are spirits"
-	cont "up to mischief!"
+	text "Com a sacerdot,"
+	line "noto ànimes"
+	cont "perdues per aquí."
 	done

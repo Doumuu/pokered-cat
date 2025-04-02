@@ -1,45 +1,47 @@
 _PokemonTower3FChanneler1BattleText::
-	text "Urrg...Awaa..."
-	line "Huhu...graa.."
+	text "... Aah..."
+	line "... Hu, hu...!"
 	done
 
 _PokemonTower3FChanneler1EndBattleText::
-	text "Hwa!"
-	line "I'm saved!"
+	text "Ua!"
+	line "M'has salvat!"
 	prompt
 
 _PokemonTower3FChanneler1AfterBattleText::
-	text "The GHOSTs can be"
-	line "identified by the"
-	cont "SILPH SCOPE."
+	text "Pots indentificar"
+	line "els fantasmes amb"
+	cont "el Visor Silph."
 	done
 
 _PokemonTower3FChanneler2BattleText::
-	text "Kekeke...."
-	line "Kwaaah!"
+	text "..."
+	line "Gehehe!"
 	done
 
 _PokemonTower3FChanneler2EndBattleText::
-	text "Hmm?"
-	line "What am I doing?"
+	text "...Eh?"
+	line "On soc?"
 	prompt
 
 _PokemonTower3FChanneler2AfterBattleText::
-	text "Sorry! I was"
-	line "possessed!"
+	text "Perdona, m'estava"
+	line "controlant un"
+	cont "#mon fantasma!"
 	done
 
 _PokemonTower3FChanneler3BattleText::
-	text "Be gone!"
-	line "Evil spirit!"
+	text "...Fora d'aquí!"
+	line "...Gehehe!"
 	done
 
 _PokemonTower3FChanneler3EndBattleText::
-	text "Whew!"
-	line "The spirit left!"
+	text "Ah...!"
+	line "Ja ha marxat."
 	prompt
 
 _PokemonTower3FChanneler3AfterBattleText::
-	text "My friends were"
-	line "possessed too!"
+	text "Els fantasmes"
+	line "estan atacant"
+	cont "els meus amics."
 	done

@@ -1,35 +1,34 @@
 _Route4CooltrainerF1Text::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	text "Au! M'he topat"
+	line "amb un #mon"
+	cont "roca, GEODUDE!"
 	done
 
 _Route4CooltrainerF2BattleText::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "He vingut a pels"
+	line "#mon bolets!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "Oh! El"
+	line "meu petit bolet!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "Crec que ja no"
+	line "queda cap bolet."
 
-	para "I think I got"
-	line "them all."
+	para "Els he agafat"
+	line "tots jo."
 	done
 
 _Route4MtMoonSignText::
-	text "MT.MOON"
-	line "Tunnel Entrance"
+	text "Mt.Lluna:"
+	line "Entrada al túnel"
 	done
 
 _Route4SignText::
-	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	text "Ruta 4"
+	line "Mt.Lluna -"
+	cont "Ciutat Blaucel"
 	done

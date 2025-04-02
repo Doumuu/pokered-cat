@@ -1,133 +1,133 @@
 _Route11Gambler1BattleText::
-	text "Win, lose or draw!"
+	text "O guanyes o perds!"
 	done
 
 _Route11Gambler1EndBattleText::
-	text "Atcha!"
-	line "Didn't go my way!"
+	text "Avui"
+	line "no tinc sort."
 	prompt
 
 _Route11Gambler1AfterBattleText::
-	text "#MON is life!"
-	line "And to live is to"
-	cont "gamble!"
+	text "Els #mon són"
+	line "vida! I viure"
+	cont "és jugar!"
 	done
 
 _Route11Gambler2BattleText::
-	text "Competition! I"
-	line "can't get enough!"
+	text "M'encanta competir"
+	line "a l'atzar!"
 	done
 
 _Route11Gambler2EndBattleText::
-	text "I had"
-	line "a chance!"
+	text "L'atzar"
+	line "és el que té."
 	prompt
 
 _Route11Gambler2AfterBattleText::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "No pots tenir por"
+	line "de perdre en una"
+	cont "batalla #mon!"
 	done
 
 _Route11Youngster1BattleText::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "Siguem honestos i"
+	line "no fem trampes!"
 	done
 
 _Route11Youngster1EndBattleText::
-	text "Huh?"
-	line "That's not right!"
+	text "Eh?"
+	line "Ni de conya!"
 	prompt
 
 _Route11Youngster1AfterBattleText::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "He sigut honest i"
+	line "estic content!"
 	done
 
 _Route11SuperNerd1BattleText::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "Hola! Ves amb"
+	line "compte amb"
+	cont "l'electricitat!"
 	done
 
 _Route11SuperNerd1EndBattleText::
-	text "That"
-	line "was electric!"
+	text "M'ha"
+	line "guanyat un nen!"
 	prompt
 
 _Route11SuperNerd1AfterBattleText::
-	text "Spread the word"
-	line "to save energy!"
+	text "L'electricitat és"
+	line "molt important!"
 	done
 
 _Route11Youngster2BattleText::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "Fa poc que soc"
+	line "entrenador, però"
+	cont "et guanyaré!"
 	done
 
 _Route11Youngster2EndBattleText::
-	text "My"
-	line "#MON couldn't!"
+	text "Crec"
+	line "que m'he flipat."
 	prompt
 
 _Route11Youngster2AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "Què vols? Deixa'm"
+	line "en pau!"
 	done
 
 _Route11Gambler3BattleText::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "Ho, ho! Mai m'ha"
+	line "guanyat ningú!"
 	done
 
 _Route11Gambler3EndBattleText::
-	text "My"
-	line "first loss!"
+	text "Perdo"
+	line "per primer cop..."
 	prompt
 
 _Route11Gambler3AfterBattleText::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Perdre o guanyar"
+	line "és probabilitat."
 	done
 
 _Route11Gambler4BattleText::
-	text "I have never won"
-	line "before..."
+	text "Mai tinc sort i"
+	line "sempre perdo..."
 	done
 
 _Route11Gambler4EndBattleText::
-	text "I saw"
-	line "this coming..."
+	text "Ai..."
+	line "Perdo com sempre."
 	prompt
 
 _Route11Gambler4AfterBattleText::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "Perdre no sempre"
+	line "és culpa teva."
 	done
 
 _Route11Youngster3BattleText::
-	text "I'm the best in"
-	line "my class!"
+	text "Soc el més fort"
+	line "de classe!"
 	done
 
 _Route11Youngster3EndBattleText::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text "He"
+	line "d'entrenar més"
+	cont "els meus #mon."
 	prompt
 
 _Route11Youngster3AfterBattleText::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "Hi ha un #mon"
+	line "gros que baixa"
+	cont "sempre de les"
+	cont "muntanyes."
 
-	para "It's strong if"
-	line "you can get it."
+	para "Qui el caçi tindrà"
+	line "un equip fort."
 	done
 
 _Route11SuperNerd2BattleText::
-	text "Watch out for"
-	line "live wires!"
+	text "Has apagat els"
+	line "llums de casa?"
 	done

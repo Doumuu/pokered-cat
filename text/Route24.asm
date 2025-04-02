@@ -1,67 +1,66 @@
 _Route24CooltrainerM1YouBeatOurContestText::
-	text "Congratulations!"
-	line "You beat our 5"
-	cont "contest trainers!@"
+	text "Enhorabona!"
+	line "Has vençut els"
+	cont "5 entrenadors!@"
 	text_end
 
 _Route24CooltrainerM1YouJustEarnedAPrizeText::
 	text_start
 
-	para "You just earned a"
-	line "fabulous prize!"
+	para "Aquí tens el"
+	line "teu premi!"
 	prompt
 
 _Route24CooltrainerM1ReceivedNuggetText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> rep"
+	line "un @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route24CooltrainerM1NoRoomText::
-	text "You don't have"
-	line "any room!"
+	text "Tens la bossa"
+	line "plena!"
 	done
 
 _Route24CooltrainerM1JoinTeamRocketText::
-	text "By the way, would"
-	line "you like to join"
-	cont "TEAM ROCKET?"
+	text "Per cert, vols"
+	line "unir-te al"
+	cont "Team Rocket?"
 
-	para "We're a group"
-	line "dedicated to evil"
-	cont "using #MON!"
+	para "El nostre grup fa"
+	line "servir #mon"
+	cont "per fer el mal."
 
-	para "Want to join?"
+	para "T'hi vols unir?"
 
-	para "Are you sure?"
+	para "Segur que no?"
 
-	para "Come on, join us!"
+	para "Vinga, va!"
 
-	para "I'm telling you"
-	line "to join!"
+	para "Et dic que"
+	line "t'hi uneixis!"
 
-	para "OK, you need"
-	line "convincing!"
+	para "Veig que t'hauré"
+	line "de convèncer."
 
-	para "I'll make you an"
-	line "offer you can't"
-	cont "refuse!"
+	para "Aquesta és la"
+	line "darrera oferta."
 	done
 
 _Route24CooltrainerM1DefeatedText::
-	text "Arrgh!"
-	line "You are good!"
+	text "Aagh!"
+	line "Ets bo, nano!"
 	prompt
 
 _Route24CooltrainerM1YouCouldBecomeATopLeaderText::
-	text "With your ability,"
-	line "you could become"
-	cont "a top leader in"
-	cont "TEAM ROCKET!"
+	text "Amb la teva traça"
+	line "podries ser un"
+	cont "líder dins del"
+	cont "Team Rocket!"
 	done
 
 _Route24CooltrainerM2BattleText::
-	text "I saw your feat"
-	line "from the grass!"
+	text "T'he vist lluitar"
+	line "des d'aquí!"
 	done

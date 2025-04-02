@@ -341,18 +341,18 @@ SpecialEnterMap::
 	jp EnterMap
 
 ContinueText:
-	db "CONTINUE"
+	db "Continua"
 	next ""
 	; fallthrough
 
 NewGameText:
-	db   "NEW GAME"
-	next "OPTION@"
+	db   "Partida nova"
+	next "Opcions@"
 
 CableClubOptionsText:
-	db   "TRADE CENTER"
-	next "COLOSSEUM"
-	next "CANCEL@"
+	db   "Trade Center"
+	next "Colosseu"
+	next "Enrere@"
 
 DisplayContinueGameInfo:
 	xor a
@@ -364,7 +364,7 @@ DisplayContinueGameInfo:
 	hlcoord 5, 9
 	ld de, SaveScreenInfoText
 	call PlaceString
-	hlcoord 12, 9
+	hlcoord 5, 9
 	ld de, wPlayerName
 	call PlaceString
 	hlcoord 17, 11
@@ -390,7 +390,7 @@ PrintSaveScreenText:
 	hlcoord 5, 2
 	ld de, SaveScreenInfoText
 	call PlaceString
-	hlcoord 12, 2
+	hlcoord 5, 2
 	ld de, wPlayerName
 	call PlaceString
 	hlcoord 17, 4
@@ -435,10 +435,10 @@ PrintPlayTime:
 	jp PrintNumber
 
 SaveScreenInfoText:
-	db   "PLAYER"
-	next "BADGES    "
-	next "#DEX    "
-	next "TIME@"
+	db   ""
+	next "Medalles    "
+	next "#dex    "
+	next "Temps@"
 
 DisplayOptionMenu:
 	hlcoord 0, 0
@@ -577,15 +577,15 @@ DisplayOptionMenu:
 	sub 6
 	jr .updateTextSpeedXCoord
 .fromSlowToMedium
-	sub 7
+	sub 6
 	jr .updateTextSpeedXCoord
 .pressedRightInTextSpeed
 	ld a, [wOptionsTextSpeedCursorX] ; text speed cursor X coordinate
-	cp 14
+	cp 13
 	jr z, .updateTextSpeedXCoord
-	cp 7
+	cp 6
 	jr nz, .fromFastToMedium
-	add 7
+	add 6
 	jr .updateTextSpeedXCoord
 .fromFastToMedium
 	add 6
@@ -594,19 +594,19 @@ DisplayOptionMenu:
 	jp .eraseOldMenuCursor
 
 TextSpeedOptionText:
-	db   "TEXT SPEED"
-	next " FAST  MEDIUM SLOW@"
+	db   "Velocitat text"
+	next " Ràpid Mitjà Lent@"
 
 BattleAnimationOptionText:
-	db   "BATTLE ANIMATION"
-	next " ON       OFF@"
+	db   "Animació batalla"
+	next " Sí       No@"
 
 BattleStyleOptionText:
-	db   "BATTLE STYLE"
-	next " SHIFT    SET@"
+	db   "Estil batalla"
+	next " Rotatiu  Fix@"
 
 OptionMenuCancelText:
-	db "CANCEL@"
+	db "Enrere@"
 
 ; sets the options variable according to the current placement of the menu cursors in the options menu
 SetOptionsFromCursorPositions:

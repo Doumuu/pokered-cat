@@ -1,91 +1,91 @@
 _FileDataDestroyedText::
-	text "The file data is"
-	line "destroyed!"
+	text "El fitxer està"
+	line "corromput."
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Would you like to"
-	line "SAVE the game?"
+	text "Vols desar"
+	line "la partida?"
 	done
 
 _GameSavedText::
-	text "<PLAYER> saved"
-	line "the game!"
+	text "Partida desada."
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "Se sobrescriurà"
+	line "la partida"
+	cont "desada, d'acord?"
 	done
 
 _WhenYouChangeBoxText::
-	text "When you change a"
-	line "#MON BOX, data"
-	cont "will be saved."
+	text "La partida es"
+	line "desarà al canviar"
+	cont "de bloc."
 
-	para "Is that okay?"
+	para "D'acord?"
 	done
 
 _ChooseABoxText::
-	text "Choose a"
-	line "<PKMN> BOX.@"
+	text "Selecciona un"
+	line "Bloc <PKMN>.@"
 	text_end
 
 _EvolvedText::
 	text_ram wStringBuffer
-	text " evolved"
+	text_start
+	line "ha evolucionat"
 	done
 
 _IntoText::
 	text_start
-	line "into @"
+	line "<SCROLL>a @"
 	text_ram wNameBuffer
 	text "!"
 	done
 
 _StoppedEvolvingText::
-	text "Huh? @"
+	text "Eh? @"
 	text_ram wStringBuffer
 	text_start
-	line "stopped evolving!"
+	line "ja no evoluciona!"
 	prompt
 
 _IsEvolvingText::
-	text "What? @"
+	text "Eh? @"
 	text_ram wStringBuffer
 	text_start
-	line "is evolving!"
+	line "està evolucionant!"
 	done
 
 _FellAsleepText::
 	text "<TARGET>"
-	line "fell asleep!"
+	line "s'ha adormit!"
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
-	line "already asleep!"
+	text "<TARGET> ja"
+	line "està adormit!"
 	prompt
 
 _PoisonedText::
 	text "<TARGET>"
-	line "was poisoned!"
+	line "s'ha enverinat!"
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
+	text "<TARGET>"
 	line "badly poisoned!"
 	prompt
 
 _BurnedText::
 	text "<TARGET>"
-	line "was burned!"
+	line "té cremades!"
 	prompt
 
 _FrozenText::
 	text "<TARGET>"
-	line "was frozen solid!"
+	line "s'ha glaçat!"
 	prompt
 
 _FireDefrostedText::
@@ -124,13 +124,13 @@ _FellText::
 	prompt
 
 _RanFromBattleText::
-	text "<USER>"
-	line "ran from battle!"
+	text "<USER> ha"
+	line "fugit del combat!"
 	prompt
 
 _RanAwayScaredText::
-	text "<TARGET>"
-	line "ran away scared!"
+	text "<TARGET> ha"
+	line "fugit espantat!"
 	prompt
 
 _WasBlownAwayText::
@@ -159,27 +159,27 @@ _LoweredItsHeadText::
 
 _SkyAttackGlowingText::
 	text_start
-	line "is glowing!"
+	line "està brillant!"
 	prompt
 
 _FlewUpHighText::
 	text_start
-	line "flew up high!"
+	line "ha sortit volant!"
 	prompt
 
 _DugAHoleText::
 	text_start
-	line "dug a hole!"
+	line "ha fet un forat!"
 	prompt
 
 _BecameConfusedText::
 	text "<TARGET>"
-	line "became confused!"
+	line "està confús!"
 	prompt
 
 _MimicLearnedMoveText::
 	text "<USER>"
-	line "learned"
+	line "ha après"
 	cont "@"
 	text_ram wNameBuffer
 	text "!"
@@ -194,20 +194,20 @@ _MoveWasDisabledText::
 	prompt
 
 _NothingHappenedText::
-	text "Nothing happened!"
+	text "No ha funcionat!"
 	prompt
 
 _NoEffectText::
-	text "No effect!"
+	text "No té efecte!"
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "però ha fallat!"
 	prompt
 
 _DidntAffectText::
-	text "It didn't affect"
-	line "<TARGET>!"
+	text "No té cap efecte"
+	line "en <TARGET>!"
 	prompt
 
 _IsUnaffectedText::
@@ -253,7 +253,7 @@ _WasSeededText::
 
 _EvadedAttackText::
 	text "<TARGET>"
-	line "evaded attack!"
+	line "ho ha esquivat!"
 	prompt
 
 _HitWithRecoilText::

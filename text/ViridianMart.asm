@@ -1,31 +1,31 @@
 _ViridianMartClerkSayHiToOakText::
-	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	text "Dona-li records"
+	line "al Dr.Roure!"
 	done
 
 _ViridianMartClerkYouCameFromPalletTownText::
-	text "Hey! You came from"
-	line "PALLET TOWN?"
+	text "Ei! Que vens"
+	line "de Vilablanca?"
 	done
 
 _ViridianMartClerkParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
+	text "Coneixes el"
+	line "Dr.Roure, oi?"
 
-	para "His order came in."
-	line "Will you take it"
-	cont "to him?"
+	para "Li ha arribat"
+	line "un paquet."
+	cont "Li pots entregar?"
 
-	para "<PLAYER> got"
-	line "OAK's PARCEL!@"
+	para "<PLAYER> rep"
+	line "un paquet!@"
 	text_end
 
 _ViridianMartYoungsterText::
-	text "This shop sells"
-	line "many ANTIDOTEs."
+	text "Aquesta botiga té"
+	line "molts antídots."
 	done
 
 _ViridianMartCooltrainerMText::
-	text "No! POTIONs are"
-	line "all sold out."
+	text "Oh, no! No els"
+	line "queden pocions!"
 	done

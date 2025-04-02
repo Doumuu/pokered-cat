@@ -1,24 +1,24 @@
 _CeruleanPokecenterSuperNerdText::
-	text "That BILL!"
+	text "Odio l'Èric!"
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
+	para "He sentit que fa"
+	line "el que sigui per"
+	cont "tenir #mon"
+	cont "rars."
 	done
 
 _CeruleanPokecenterGentlemanText::
-	text "Have you heard"
-	line "about BILL?"
+	text "Has sentit a"
+	line "parlar de l'Èric?"
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+	para "Tothom el coneix"
+	line "per Pokemaniac!"
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+	para "Però crec que la"
+	line "gent només li té"
+	cont "enveja."
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+	para "Qui no presumiria"
+	line "de #mon en"
+	cont "el seu lloc?"
 	done

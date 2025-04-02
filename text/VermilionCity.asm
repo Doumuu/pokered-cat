@@ -1,6 +1,6 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "Aquí mirem de"
+	line "no contaminar."
 
 	para "We've heard GRIMER"
 	line "multiplies in"
@@ -8,62 +8,62 @@ _VermilionCityBeautyText::
 	done
 
 _VermilionCityGambler1DidYouSeeText::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Has vist el"
+	line "St.Anne atracat"
+	cont "al port?"
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "El St.Anne"
+	line "ha partit!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Tornarà d'aquí"
+	line "a un any."
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Benvingut al"
+	line "St.Anne!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Benvingut al"
+	line "St.Anne."
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "Bitllet,"
+	line "si us plau?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "<PLAYER> mostra"
+	line "el Bitllet St."
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Benvingut al"
+	line "St.Anne!"
 	done
 
 _VermilionCitySailor1YouNeedATicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<PLAYER> no té"
+	line "un bitllet."
 
-	para "Sorry!"
+	para "Ho sentim."
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Cal un bitllet"
+	line "per embarcar."
 	done
 
 _VermilionCitySailor1ShipSetSailText::
-	text "The ship set sail."
+	text "El vaixell"
+	line "ha partit."
 	done
 
 _VermilionCityGambler2Text::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Estic fent una"
+	line "casa en aquest"
+	cont "terreny."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "Li dono feina"
+	line "al meu #mon."
 	done
 
 _VermilionCityMachopText::
@@ -73,55 +73,52 @@ _VermilionCityMachopText::
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "Un MACHOP està"
+	line "aplanant el"
+	cont "terreny."
 	done
 
 _VermilionCitySailor2Text::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "El St.Anne és un"
+	line "creuer de luxe"
+	cont "molt famós."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Ve a Ciutat Ocre"
+	line "un cop l'any."
 	done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	text "Ciutat Ocre:"
+	line "L'ocàs etern"
 	done
 
 _VermilionCityNoticeSignText::
-	text "NOTICE!"
+	text "Atenció:"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "#mon adormit"
+	line "a la Ruta 12."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	para "Desvieu-vos pel"
+	line "Túnel Roca fins a"
+	cont "Vilamalva."
 
-	para "VERMILION POLICE"
+	para "Policia d'Ocre"
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "#mon Club:"
+	line "Benvingut, fans"
+	cont "dels #mon!"
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "Líder del gimnàs"
+	line "#mon de Ciutat"
+	cont "Ocre: Tt.Slate,"
 
-	para "The Lightning "
-	line "American!"
+	para "El llamp americà"
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "Port Ocre"
 	done

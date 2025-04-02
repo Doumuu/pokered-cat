@@ -91,30 +91,31 @@ _Route16Biker6AfterBattleText::
 	done
 
 _Route16Text7::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "Un #mon adormit"
+	line "bloqueja el camí."
 	done
 
 _Route16SnorlaxWokeUpText::
-	text "SNORLAX woke up!"
+	text "Dropo s'ha"
+	line "despertat!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "Està irritat"
+	line "i ataca!"
 	done
 
 _Route16SnorlaxReturnedToMountainsText::
-	text "With a big yawn,"
-	line "SNORLAX returned"
-	cont "to the mountains!"
+	text "Dropo se'n torna"
+	line "a la muntanya"
+	cont "mentre badalla!"
 	done
 
 _Route16CyclingRoadSignText::
-	text "Enjoy the slope!"
-	line "CYCLING ROAD"
+	text "Carril Bici:"
+	line "Fa baixada!"
 	done
 
 _Route16SignText::
-	text "ROUTE 16"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "Ruta 16"
+	line "Ciutat Iridescent"
+	cont "- Ciutat Rosa"
 	done

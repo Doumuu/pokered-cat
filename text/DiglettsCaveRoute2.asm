@@ -1,9 +1,9 @@
 _DiglettsCaveRoute2FishingGuruText::
-	text "I went to ROCK"
-	line "TUNNEL, but it's"
-	cont "dark and scary."
+	text "He estat al Túnel"
+	line "Roca, però és"
+	cont "fosc i fa por!"
 
-	para "If a #MON's"
-	line "FLASH could light"
-	cont "it up..."
+	para "Hi veuria amb un"
+	line "#mon que"
+	cont "pogués fer Flaix."
 	done

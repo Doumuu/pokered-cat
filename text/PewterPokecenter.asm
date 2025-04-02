@@ -1,11 +1,11 @@
 _PewterPokecenterGentlemanText::
-	text "What!?"
+	text "Com dius?!"
 
-	para "TEAM ROCKET is"
-	line "at MT.MOON? Huh?"
-	cont "I'm on the phone!"
+	para "El Team Rocket"
+	line "és al Mt.Lluna?"
+	cont "Estic al telèfon!"
 
-	para "Scram!"
+	para "Escampa la boira!"
 	done
 
 _PewterPokecenterJigglypuffText::

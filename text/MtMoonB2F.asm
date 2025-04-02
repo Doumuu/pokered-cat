@@ -1,125 +1,124 @@
 _MtMoonB2FDomeFossilYouWantText::
-	text "You want the"
-	line "DOME FOSSIL?"
+	text "Vols el"
+	line "Fòssil Dom?"
 	done
 
 _MtMoonB2FHelixFossilYouWantText::
-	text "You want the"
-	line "HELIX FOSSIL?"
+	text "Vols el"
+	line "Fòssil Hèlix?"
 	done
 
 _MtMoonB2FReceivedFossilText::
-	text "<PLAYER> got the"
+	text "<PLAYER> obté"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _MtMoonB2FYouHaveNoRoomText::
-	text "Look, you've got"
-	line "no room for this.@"
+	text "Ho sento, no tens"
+	line "prou espai.@"
 	text_end
 
 _MtMoonB2FSuperNerdTheyreBothMineText::
-	text "Hey, stop!"
+	text "Ei, alto!"
 
-	para "I found these"
-	line "fossils! They're"
-	cont "both mine!"
+	para "Els dos fòssils"
+	line "els he trobat jo!"
+	cont "Són meus!"
 	done
 
 _MtMoonB2FSuperNerdOkIllShareText::
 	text "OK!"
-	line "I'll share!"
+	line "Els compartiré!"
 	prompt
 
 _MtMoonB2fSuperNerdEachTakeOneText::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "Ens quedem un"
+	line "cadascun, doncs."
 	done
 
 _MtMoonB2FSuperNerdTheresAPokemonLabText::
-	text "Far away, on"
-	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
-	cont "LAB."
+	text "Lluny d'aquí, a"
+	line "l'Illa Escarlata,"
+	cont "hi ha un"
+	cont "laboratori."
 
-	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	para "Fan recerca sobre"
+	line "regeneració de"
+	cont "fòssils #mon."
 	done
 
 _MtMoonB2FSuperNerdThenThisIsMineText::
-	text "All right. Then"
-	line "this is mine!@"
+	text "Molt bé, doncs"
+	line "aquest és meu!@"
 	text_end
 
 _MtMoonB2FRocket1BattleText::
-	text "TEAM ROCKET will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for cash!"
+	text "El Team Rocket"
+	line "trobarà i reviurà"
+	cont "els fòssils per"
+	cont "fer-ne negoci!"
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urgh!"
-	line "Now I'm mad!"
+	text "Agh!"
+	line "Ara m'he empipat!"
 	prompt
 
 _MtMoonB2FRocket1AfterBattleText::
-	text "You made me mad!"
-	line "TEAM ROCKET will"
-	cont "blacklist you!"
+	text "Prepara't per ser"
+	line "a la llista negra"
+	cont "del Team Rocket!"
 	done
 
 _MtMoonB2FRocket2BattleText::
-	text "We, TEAM ROCKET,"
-	line "are #MON"
-	cont "gangsters!"
+	text "El Team Rocket"
+	line "som traficants"
+	cont "de #mon!"
 	done
 
 _MtMoonB2FRocket2EndBattleText::
-	text "I blew"
-	line "it!"
+	text "L'he"
+	line "espifiat!"
 	prompt
 
 _MtMoonB2FRocket2AfterBattleText::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "Càsum...!"
+	line "Els meus companys"
+	cont "ja t'ensenyaran!"
 	done
 
 _MtMoonB2FRocket3BattleText::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "Estem fent feina"
+	line "important, aquí!"
+	cont "Fot el camp!"
 	done
 
 _MtMoonB2FRocket3EndBattleText::
-	text "So, you"
-	line "are good."
+	text "Ah..."
+	line "Ets bo, marrec."
 	prompt
 
 _MtMoonB2FRocket3AfterBattleText::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "Si trobes un"
+	line "fòssil, dona-me'l"
+	cont "i calla!"
 	done
 
 _MtMoonB2FRocket4BattleText::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "Les criatures"
+	line "heu de deixar els"
+	cont "adults en pau!"
 	done
 
 _MtMoonB2FRocket4EndBattleText::
-	text "I'm"
-	line "steamed!"
+	text "Quina"
+	line "pallissa!"
 	prompt
 
 _MtMoonB2FRocket4AfterBattleText::
-	text "#MON lived"
-	line "here long before"
-	cont "people came."
+	text "Abans dels humans,"
+	line "aquí hi vivien"
+	cont "#mon"
 	done

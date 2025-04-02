@@ -1,133 +1,134 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "Hola! A tu no et"
+	line "tinc gaire vist!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "Els entrenadors"
+	line "amb futur han"
+	cont "de tenir una"
+	cont "estratègia clara."
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "Quina estratègia"
+	line "tens amb el teu"
+	cont "equip #mon?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "La meva és un"
+	line "sistema ofensiu"
+	cont "amb #mon de"
+	cont "tipus aigua!"
 	done
 
 _CeruleanGymMistyTM11ExplanationText::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+	text "L'MT11 conté"
+	line "Bombolleig."
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "Ensenya-ho a un"
+	line "#mon d'aigua!"
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "La Medalla blava"
+	line "fa que tots els"
+	cont "#mon fins al"
+	cont "n30 t'obeeixin."
 
-	para "That includes"
-	line "even outsiders!"
+	para "Inclosos els"
+	line "#mon aliens!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "A més, ara pots"
+	line "fer servir el"
+	cont "moviment Tall."
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "Podràs tallar"
+	line "arbustos per"
+	cont "obrir-te camí!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "També et dono el"
+	line "meu MT preferit."
 	done
 
 _CeruleanGymMistyReceivedTM11Text::
-	text "<PLAYER> received"
-	line "TM11!@"
+	text "<PLAYER> obté"
+	line "MT11!@"
 	text_end
 
 _CeruleanGymMistyTM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+	text "Més et val"
+	line "fer-hi lloc!"
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::
-	text "Wow!"
-	line "You're too much!"
+	text "Carai!"
+	line "Ets massa!"
 
-	para "All right!"
+	para "Molt bé!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@"
+	para "Aquí tens la"
+	line "Medalla blava"
+	cont "com a trofeu.@"
 	text_end
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "Jo ja tinc prou"
+	line "nivell per a tu!"
 
-	para "MISTY can wait!"
+	para "Deixa la Marina!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	text "M'has"
+	line "superat!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "Lluitar amb altres"
+	line "entrenadors"
+	cont "t'ajuda a veure"
+	cont "si ets prou bo."
 	done
 
 _CeruleanGymBattleText2::
-	text "Splash!"
+	text "Xap, xap!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "Soc el primer!"
+	line "Prepara't!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "No"
+	line "pot ser!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "La Marina és"
+	line "millor que jo!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "No perdrà contra"
+	line "algú com tu!"
 	done
 
 _CeruleanGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Home!"
+	line "Futur mestre!"
 
-	para "Here's my advice!"
+	para "Para atenció:"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "La Marina, la"
+	line "líder, fa servir"
+	cont "#mon d'aigua!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "Pots drenar aigua"
+	line "amb #mon de"
+	cont "tipus herba!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "O emprar atacs"
+	line "elèctrics!"
 	done
 
 _CeruleanGymGymGuideBeatMistyText::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "Has derrotat la"
+	line "Marina! Ho sabia!"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "Fem un equip de"
+	line "conya, tu i jo!"
+	cont "No creus?"
 	done

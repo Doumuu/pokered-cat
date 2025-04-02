@@ -1,37 +1,40 @@
 _RedsHouse1FMomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "Mare: Suposo"
+	line "que els fills han"
+	cont "de marxar de casa"
+	cont "algun dia..."
+	para "Res, parlo sola."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "El nostre veí,"
+	line "el Dr.Roure,"
+	cont "t'està buscant."
 	done
 
 _RedsHouse1FMomYouShouldRestText::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	text "Mare: <PLAYER>!"
+	line "Hauries de fer"
+	cont "una becaina."
 	prompt
 
 _RedsHouse1FMomLookingGreatText::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "Mare: <PLAYER>,"
+	line "tu i el teu"
+	cont "#mon sou"
+	cont "tan bufons!"
+	cont "Aneu amb compte!"
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "Hi ha una pel·li"
+	line "a la tele d'uns"
+	cont "nens caminant"
+	cont "per unes vies."
 
-	para "I better go too."
+	para "Millor vaig"
+	line "tirant."
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Oops, wrong side."
+	text "Ui, per aquest"
+	line "costat no."
 	done

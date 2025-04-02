@@ -1,59 +1,59 @@
 _NameRatersHouseNameRaterWantMeToRateText::
-	text "Hello, hello!"
-	line "I am the official"
-	cont "NAME RATER!"
+	text "Benvingut a cal"
+	line "Nomòleg, l'expert"
+	cont "en noms!"
 
-	para "Want me to rate"
-	line "the nicknames of"
-	cont "your #MON?"
+	para "Vols que miri els"
+	line "noms dels teus"
+	cont "#mon?"
 	done
 
 _NameRatersHouseNameRaterWhichPokemonText::
-	text "Which #MON"
-	line "should I look at?"
+	text "Quin #mon vols"
+	line "que avaluï?"
 	prompt
 
 _NameRatersHouseNameRaterGiveItANiceNameText::
 	text_ram wNameBuffer
-	text ", is it?"
-	line "That is a decent"
-	cont "nickname!"
+	text ", oi?"
+	line "És un nom força"
+	cont "interessant!"
 
-	para "But, would you"
-	line "like me to give"
-	cont "it a nicer name?"
+	para "Però podria ser"
+	line "millor..."
 
-	para "How about it?"
+	para "Vols canviar-li"
+	line "el nom?"
 	done
 
 _NameRatersHouseNameRaterWhatShouldWeNameItText::
-	text "Fine! What should"
-	line "we name it?"
+	text "Quin nom vols"
+	line "que li posem?"
 	prompt
 
 _NameRatersHouseNameRaterPokemonHasBeenRenamedText::
-	text "OK! This #MON"
-	line "has been renamed"
+	text "Fet! Ara, aquest"
+	line "#mon es diu"
 	cont "@"
 	text_ram wBuffer
 	text "!"
 
-	para "That's a better"
-	line "name than before!"
+	para "Sona molt millor"
+	line "que abans!"
 	done
 
 _NameRatersHouseNameRaterComeAnyTimeYouLikeText::
-	text "Fine! Come any"
-	line "time you like!"
+	text "Entesos. Torna"
+	line "quan vulguis!"
 	done
 
 _NameRatersHouseNameRaterATrulyImpeccableNameText::
 	text_ram wNameBuffer
-	text ", is it?"
-	line "That is a truly"
-	cont "impeccable name!"
+	text ", oi?"
+	line "Déu-n'hi-do, és"
+	cont "un nom fabulós!"
 
-	para "Take good care of"
+	para "Cuida't bé de"
 	line "@"
 	text_ram wNameBuffer
 	text "!"

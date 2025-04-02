@@ -121,12 +121,13 @@ LoadTownMap_Nest:
 	ld [hl], $ff
 	push hl
 	call DisplayWildLocations
-	call GetMonName
+	ld de, MonsNestText
 	hlcoord 1, 0
 	call PlaceString
 	ld h, b
 	ld l, c
-	ld de, MonsNestText
+	call GetMonName
+	hlcoord 9, 0
 	call PlaceString
 	call WaitForTextScrollButtonPress
 	call ExitTownMap
@@ -136,7 +137,7 @@ LoadTownMap_Nest:
 	ret
 
 MonsNestText:
-	db "'s NEST@"
+	db "Mapa de@"
 
 LoadTownMap_Fly::
 	call ClearSprites
@@ -419,7 +420,7 @@ DisplayWildLocations:
 	jp CopyData
 
 AreaUnknownText:
-	db " AREA UNKNOWN@"
+	db "  Desconeguda@"
 
 TownMapCoordsToOAMCoords:
 ; in: lower nybble of a = x, upper nybble of a = y

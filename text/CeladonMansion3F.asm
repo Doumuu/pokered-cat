@@ -1,67 +1,61 @@
 _CeladonMansion3FProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "Soc programador!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Soc dissenyador"
+	line "gràfic! T'he"
+	cont "dibuixat jo!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "Jo he escrit la"
+	line "història! Oi que"
+	cont "és maca l'Erika?"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "I la Marina!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "I la Natsume!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Is that right?"
+	text "Jo he fet el"
+	line "disseny del joc!"
 
-	para "I'm the game"
-	line "designer!"
+	para "Acabar la #dex"
+	line "no és fàcil, però"
+	cont "molts ànims!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
-
-	para "When you finish,"
-	line "come tell me!"
+	para "Quan l'acabis,"
+	line "vine a veure'm."
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
+	text "Ostres! Has acabat"
+	line "la teva #dex!"
+	cont "Enhorabona!"
 	cont "...@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "És el codi del"
+	line "joc! Millor no"
+	cont "toco res..."
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "Algú està jugant"
+	line "en comptes de"
+	cont "treballar."
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "És el guió! Millor"
+	line "no llegeixo"
+	cont "el final!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
-	text "GAME FREAK"
-	line "Development Room"
+	text "Game Freak"
+	line "Desenvolupament"
 	done

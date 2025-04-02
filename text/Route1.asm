@@ -1,50 +1,50 @@
 _Route1Youngster1MartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "Hola! Treballo"
+	line "al Pokexprés."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	para "És una cadena"
+	line "de botigues."
+	cont "Vine a veure'ns a"
+	cont "ciutat Maragda!"
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "Saps què? Te'n"
+	line "dono una mostra."
+	cont "Aquí tens!"
 	prompt
 
 _Route1Youngster1GotPotionText::
-	text "<PLAYER> got"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route1Youngster1AlsoGotPokeballsText::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "També venem"
+	line "#balls per"
+	cont "atrapar #mon!"
 	done
 
 _Route1Youngster1NoRoomText::
-	text "You have too much"
-	line "stuff with you!"
+	text "Tens la bossa"
+	line "plena."
 	done
 
 _Route1Youngster2Text::
-	text "See those ledges"
-	line "along the road?"
+	text "Hi ha desnivells"
+	line "per tot el camí."
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "Fan una mica de"
+	line "por, però es"
+	cont "poden baixar!"
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "Així s'arriba"
+	line "molt més ràpid"
+	cont "a Ciutat Maragda."
 	done
 
 _Route1SignText::
-	text "ROUTE 1"
-	line "PALLET TOWN -"
-	cont "VIRIDIAN CITY"
+	text "RUTA 1"
+	line "Vilablanca -"
+	cont "Ciutat Maragda"
 	done

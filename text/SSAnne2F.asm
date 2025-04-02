@@ -1,63 +1,63 @@
 _SSAnne2FWaiterText::
-	text "This ship, she is"
-	line "a luxury liner"
-	cont "for trainers!"
+	text "En aquest vaixell"
+	line "hi ha entrenadors"
+	cont "molt famosos!"
 
-	para "At every port, we"
-	line "hold parties with"
-	cont "invited trainers!"
+	para "Fem trobades amb"
+	line "ells a cada port"
+	cont "que atraquem."
 	done
 
 _SSAnne2FRivalText::
-	text "<RIVAL>: Bonjour!"
+	text "<RIVAL>: Bonjour,"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
-	line "you here!"
+	para "Em sorprèn"
+	line "trobar-te aquí!"
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "T'hi han convidat"
+	line "de veritat?"
 
-	para "So how's your"
-	line "#DEX coming?"
+	para "Per cert, com va"
+	line "la #dex?"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "Jo ja n'he"
+	line "atrapat 40!"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "Canviar de ruta va"
+	line "bé per tenir-ne"
+	cont "de diferents!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "Ves pels matolls!"
 	done
 
 _SSAnne2FRivalDefeatedText::
-	text "Humph!"
+	text "Hm!"
 
-	para "At least you're"
-	line "raising your"
-	cont "#MON!"
+	para "Sembla que estàs"
+	line "entrenant bé els"
+	cont "teus #mon!"
 	prompt
 
 _SSAnne2FRivalVictoryText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! Què"
+	line "et passa, nen?"
 
-	para "You should shape"
-	line "up, pal!"
+	para "T'has de posar"
+	line "en forma, eh!"
 	prompt
 
 _SSAnne2FRivalCutMasterText::
-	text "<RIVAL>: I heard"
-	line "there was a CUT"
-	cont "master on board."
+	text "<RIVAL>: Diuen"
+	line "que el mestre del"
+	cont "tall és a bord!"
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "A mi m'ha semblat"
+	line "un avi normal."
 
-	para "But, CUT itself is"
-	line "really useful!"
+	para "Eh, però el tall"
+	line "és súper útil!"
 
-	para "You should go see"
-	line "him! Smell ya!"
+	para "Ves a veure'l!"
+	line "Bon vent!"
 	done

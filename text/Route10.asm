@@ -1,108 +1,108 @@
 _Route10SuperNerd1BattleText::
-	text "Wow, are you a"
-	line "#MANIAC too?"
-	cont "Want to see my"
-	cont "collection?"
+	text "Ei, també ets un"
+	line "Pokefriqui? Vols"
+	cont "veure la meva"
+	cont "col·lecció?"
 	done
 
 _Route10SuperNerd1EndBattleText::
-	text "Humph."
-	line "I'm not angry!"
+	text "Hm!"
+	line "No estic enfadat!"
 	prompt
 
 _Route10SuperNerd1AfterBattleText::
-	text "I have more rare"
-	line "#MON at home!"
+	text "Tinc més #mon"
+	line "rars a casa."
 	done
 
 _Route10Hiker1BattleText::
-	text "Ha-hahah-ah-ha!"
+	text "Hahah ahahaha!"
 	done
 
 _Route10Hiker1EndBattleText::
-	text "Ha-haha!"
-	line "Not laughing!"
-	cont "Ha-hay fever!"
-	cont "Haha-ha-choo!"
+	text "Haha...!"
+	line "M'he menjat..."
+	cont "bolets del riure!"
+	cont "Hahahaha!"
 	prompt
 
 _Route10Hiker1AfterBattleText::
-	text "Haha-ha-choo!"
-	line "Ha-choo!"
-	cont "Snort! Snivel!"
+	text "Hahaha haha..."
+	line "Ha... Ha..."
+	cont "Aah..."
 	done
 
 _Route10SuperNerd2BattleText::
-	text "Hi kid, want to"
-	line "see my #MON?"
+	text "Ei, vols veure"
+	line "els meus #mon?"
 	done
 
 _Route10SuperNerd2EndBattleText::
-	text "Oh no!"
-	line "My #MON!"
+	text "Gah!"
+	line "Anaves de debò!"
 	prompt
 
 _Route10SuperNerd2AfterBattleText::
-	text "I don't like you"
-	line "for beating me!"
+	text "M'has guanyat."
+	line "No em caus bé."
 	done
 
 _Route10CooltrainerF1BattleText::
-	text "I've been to a"
-	line "#MON GYM a few"
-	cont "times. But, I"
-	cont "lost each time."
+	text "He anat a gimnasos"
+	line "#mon, però"
+	cont "sempre perdo!"
 	done
 
 _Route10CooltrainerF1EndBattleText::
-	text "Ohh!"
-	line "Blew it again!"
+	text "Havia"
+	line "entrenat molt!"
 	prompt
 
 _Route10CooltrainerF1AfterBattleText::
-	text "I noticed some"
-	line "#MANIACs"
-	cont "prowling around."
+	text "Per aquí"
+	line "hi ha molts"
+	cont "Pokefriquis."
 	done
 
 _Route10Hiker2BattleText::
-	text "Ah! This mountain"
-	line "air is delicious!"
+	text "L'aire de la"
+	line "muntanya no"
+	cont "fa pudor!"
 	done
 
 _Route10Hiker2EndBattleText::
-	text "That"
-	line "cleared my head!"
+	text "Ja"
+	line "m'has refrescat."
 	prompt
 
 _Route10Hiker2AfterBattleText::
-	text "I feel bloated on"
-	line "mountain air!"
+	text "M'he inflat de"
+	line "tant respirar!"
 	done
 
 _Route10CooltrainerF2BattleText::
-	text "I'm feeling a bit"
-	line "faint from this"
-	cont "tough hike."
+	text "Ah... Ah..."
+	line "Caminar per la"
+	cont "muntanya esgota!"
 	done
 
 _Route10CooltrainerF2EndBattleText::
-	text "I'm"
-	line "not up to it!"
+	text "No"
+	line "s'hi val!"
 	prompt
 
 _Route10CooltrainerF2AfterBattleText::
-	text "The #MON here"
-	line "are so chunky!"
-	cont "There should be a"
-	cont "pink one with a"
-	cont "floral pattern!"
+	text "Els #mon de la"
+	line "muntanya són"
+	cont "massa totxos!"
+	cont "Si n'hi haguessin"
+	cont "de roses, encara."
 	done
 
 _Route10RockTunnelSignText::
-	text "ROCK TUNNEL"
+	text "Túnel Roca"
 	done
 
 _Route10PowerPlantSignText::
-	text "POWER PLANT"
+	text "Central Elèctrica"
 	done

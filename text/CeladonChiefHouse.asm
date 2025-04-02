@@ -1,22 +1,22 @@
 _CeladonChiefHouseChiefText::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "Hehe! Les màquines"
+	line "són un negoci,"
+	cont "no hi ha dubte!"
 	done
 
 _CeladonChiefHouseRocketText::
-	text "CHIEF!"
+	text "President!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "Avui hem enviat"
+	line "2000 #mon com"
+	cont "a premis."
 	done
 
 _CeladonChiefHouseSailorText::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "No toquis el"
+	line "pòster que hi ha"
+	cont "al GameCorner!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "No hi ha cap botó"
+	line "al darrere!"
 	done

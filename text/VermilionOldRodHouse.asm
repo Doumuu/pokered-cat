@@ -1,23 +1,23 @@
 _VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU!"
+	text "Soc el Mestre"
+	line "Pescador!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "M'entusiaaasma"
+	line "la pesca!"
 
-	para "Do you like to"
-	line "fish?"
+	para "A tu t'agrada"
+	line "pescar?"
 	done
 
 _VermilionOldRodHouseFishingGuruTakeThisText::
-	text "Grand! I like"
-	line "your style!"
+	text "Maco, m'encanta"
+	line "el teu estil!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Emporta't això"
+	line "i pesca!"
 
-	para "<PLAYER> received"
-	line "an @"
+	para "<PLAYER> rep"
+	line "una @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,31 +25,31 @@ _VermilionOldRodHouseFishingGuruTakeThisText::
 _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "La pesca és un"
+	line "estil de vida!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "De rius a mars,"
+	line "estanys a oceans,"
+	cont "pescar el peix"
+	cont "gros és el somni!"
 	done
 
 _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... Quina"
+	line "decepció..."
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
-	text "Hello there,"
+	text "Bon dia,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Que piquen"
+	line "els peixos?"
 	done
 
 _VermilionOldRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "Oh, no!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "No tens espai"
+	line "a la bossa!"
 	done

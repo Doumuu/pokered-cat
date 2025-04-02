@@ -1,146 +1,144 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "Arreu del món, hi"
+	line "ha entrenadors"
+	cont "ben diferents."
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	para "Tu fas pinta de"
+	line "ser un entrenador"
+	cont "#mon trempat."
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "Ves al gimnàs de"
+	line "Ciutat Blaucel i"
+	cont "posa't a prova!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Wait! Take this"
-	line "with you!"
+	text "Espera! Emporta't"
+	line "això."
 	done
 
 _PewterGymReceivedTM34Text::
-	text "<PLAYER> received"
-	line "TM34!@"
+	text "<PLAYER> rep"
+	line "MT34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "Els MT són"
+	line "moviments tècnics"
+	cont "per ensenyar als"
+	cont "#mon."
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "Només es poden"
+	line "fer servir una"
+	cont "vegada, així que"
+	cont "tria el #mon"
+	cont "amb cura."
 
-	para "TM34 contains"
-	line "BIDE!"
+	para "L'MT34 conté"
+	line "Tenacitat."
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "El #mon rebrà"
+	line "dany durant el"
+	cont "combat i llavors"
+	cont "atacarà amb el"
+	cont "doble de força."
 	done
 
 _PewterGymTM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "Tens la bossa"
+	line "plena!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "T'he"
+	cont "subestimat."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Com a trofeu, rep"
+	line "si us plau la"
+	cont "Medalla grisa."
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	para "<PLAYER> rep"
+	line "la Medalla grisa!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "És una medalla"
+	line "oficial de la"
+	cont "Lliga #mon."
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "Els #mon del"
+	line "portador es fan"
+	cont "encara més forts."
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "Ara podràs fer"
+	line "servir el"
+	cont "moviment Flaix."
 	prompt
 
 _PewterGymCooltrainerMBattleText::
-	text "Stop right there,"
-	line "kid!"
+	text "Eh, marrec!"
+	line "On creus que vas?"
 
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "Ets a anys llum"
+	line "de poder combatre"
+	cont "en Roc!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Darn!"
+	text "Ah!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "Els anys llum no"
+	line "mesuren temps,"
+	cont "sinó distància!"
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "Ets bo, però"
+	line "no tan bo com"
+	cont "en Roc!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "Hola! Et puc dir"
+	line "què és el que"
+	cont "cal per ser un"
+	cont "mestre #mon."
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "Tot i que no soc"
+	line "entrenador, sé"
+	cont "com pots guanyar!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "Deixa'm que"
+	line "t'ajudi!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "All right! Let's"
-	line "get happening!"
+	text "Comencem, doncs."
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "El 1r #mon de"
+	line "la llista és el"
+	cont "que sortirà 1r"
+	cont "en una batalla."
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Si canvies l'ordre"
+	line "dels #mon,"
+	cont "els combats seran"
+	cont "molt més fàcils!"
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "No et penso"
+	line "cobrar! Escolta:"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "Tal com pensava,"
+	line "tens fusta de"
+	cont "mestre #mon!"
 	done

@@ -1,6 +1,6 @@
 _Route12SnorlaxText::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "Hi ha un #mon"
+	line "adormit al camí!"
 	done
 
 _Route12SnorlaxWokeUpText::

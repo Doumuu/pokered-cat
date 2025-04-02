@@ -31,8 +31,8 @@ _CyclingIsFunText::
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
-	line "lights the area!"
+	text "Un flaix encegador"
+	line "il·lumina la zona!"
 	prompt
 
 _WarpToLastPokemonCenterText::
@@ -80,25 +80,25 @@ _GotMonText::
 	text_end
 
 _SentToBoxText::
-	text "There's no more"
-	line "room for #MON!"
+	text "No tens espai per"
+	line "a més #mon!"
 	cont "@"
 	text_ram wBoxMonNicks
-	text " was"
-	cont "sent to #MON"
-	cont "BOX @"
+	text " s'ha"
+	cont "enviat al Bloc"
+	cont "@"
 	text_ram wStringBuffer
-	text " on PC!"
+	text " del PC!"
 	done
 
 _BoxIsFullText::
-	text "There's no more"
-	line "room for #MON!"
+	text "No tens espai per"
+	line "a més #mon!"
 
-	para "The #MON BOX"
-	line "is full and can't"
-	cont "accept any more!"
+	para "El Bloc #mon"
+	line "està ple i ja no"
+	cont "n'hi caben més."
 
-	para "Change the BOX at"
-	line "a #MON CENTER!"
+	para "Canvia de Bloc al"
+	line "Centre #mon!"
 	done

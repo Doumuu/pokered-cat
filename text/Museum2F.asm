@@ -1,45 +1,46 @@
 _Museum2FYoungsterText::
-	text "MOON STONE?"
+	text "La Pedra lluna?"
 
-	para "What's so special"
-	line "about it?"
+	para "I què té"
+	line "d'especial?"
 	done
 
 _Museum2FGrampsText::
-	text "July 20, 1969!"
+	text "20 de juliol"
+	line "de 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "El 1r aterratge"
+	line "a la lluna!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Em vaig comprar"
+	line "un TV a color!"
 	done
 
 _Museum2FScientistText::
-	text "We have a space"
-	line "exhibit now."
+	text "Ara tenim una"
+	line "expo espacial."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Vull un Pikachu!"
+	line "És tan maco!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Li he dit al pare"
+	line "que me'n caci un."
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Sí, de veritat"
+	line "que te'l caçaré!"
 	done
 
 _Museum2FSpaceShuttleSignText::
-	text "SPACE SHUTTLE"
-	line "COLUMBIA"
+	text "Transbordador"
+	line "espacial Columbia"
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteorit que va"
+	line "caure al Mt.Lluna"
+	cont "(Pedra lluna?)"
 	done

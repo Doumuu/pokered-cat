@@ -1,21 +1,20 @@
 _CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
-	text "Give her which"
-	line "drink?"
+	text "Quina beguda"
+	line "li dones?"
 	done
 
 _CeladonMartRoofLittleGirlYayFreshWaterText::
-	text "Yay!"
+	text "Que bé!"
 
-	para "FRESH WATER!"
+	para "Aigua!"
 
-	para "Thank you!"
+	para "Moltes gràcies!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Té, et dono això.@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM13Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -26,26 +25,25 @@ _CeladonMartRoofLittleGirlTM13ExplanationText::
 
 	para "@"
 	text_ram wStringBuffer
-	text " contains"
-	line "ICE BEAM!"
+	text " conté"
+	line "Raig de gel!"
 
-	para "It can freeze the"
-	line "target sometimes!@"
+	para "Pot congelar"
+	line "el contrincant!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYaySodaPopText::
-	text "Yay!"
+	text "Que bé!"
 
-	para "SODA POP!"
+	para "Un refresc!"
 
-	para "Thank you!"
+	para "Moltes gràcies!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Té, et dono això.@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM48Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -56,97 +54,95 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 
 	para "@"
 	text_ram wStringBuffer
-	text " contains"
-	line "ROCK SLIDE!"
+	text " conté"
+	line "Esllavissada!"
 
-	para "It can spook the"
-	line "target sometimes!@"
+	para "Pot espantar"
+	line "el contrincant!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYayLemonadeText::
-	text "Yay!"
+	text "Que bé!"
 
-	para "LEMONADE!"
+	para "Una llimonada!"
 
-	para "Thank you!"
+	para "Moltes gràcies!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Té, et dono això.@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM49Text::
-	text "<PLAYER> received"
-	line "TM49!@"
+	text "<PLAYER> rep"
+	line "MT49!@"
 	text_end
 
 _CeladonMartRoofLittleGirlTM49ExplanationText::
 	text_start
 
-	para "TM49 contains"
-	line "TRI ATTACK!@"
+	para "MT49 conté"
+	line "Triatac!@"
 	text_end
 
 _CeladonMartRoofLittleGirlNoRoomText::
-	text "You don't have"
-	line "space for this!@"
+	text "No tens lloc"
+	line "a la bossa!@"
 	text_end
 
 _CeladonMartRoofLittleGirlImNotThirstyText::
-	text "No thank you!"
-	line "I'm not thirsty"
-	cont "after all!@"
+	text "No, gràcies!"
+	line "Ja no tinc set."
 	text_end
 
 _CeladonMartRoofSuperNerdText::
-	text "My sister is a"
-	line "trainer, believe"
-	cont "it or not."
+	text "Saps què? La meva"
+	line "germana és una"
+	cont "entrenadora."
 
-	para "But, she's so"
-	line "immature, she"
-	cont "drives me nuts!"
+	para "Però és tan"
+	line "immadura que em"
+	cont "porta de cap!"
 	done
 
 _CeladonMartRoofLittleGirlImThirstyText::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "Tinc set!"
+	line "Vull una beguda!"
 	done
 
 _CeladonMartRoofLittleGirlGiveHerADrinkText::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "Tinc set!"
+	line "Vull una beguda!"
 
-	para "Give her a drink?"
+	para "Vols donar-li"
+	line "una beguda?"
 	done
 
 _CeladonMartRoofCurrentFloorSignText::
-	text "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	text "Terrat: Màquines"
+	line "expenedores"
 	done
 
 _VendingMachineText1::
-	text "A vending machine!"
-	line "Here's the menu!"
+	text "Una màquina de"
+	line "begudes! Aviam..."
 	prompt
 
 _VendingMachineText4::
-	text "Oops, not enough"
-	line "money!"
+	text "Ui, no tinc"
+	line "diners!"
 	done
 
 _VendingMachineText5::
+	text "Has comprat"
+	line "@"
 	text_ram wStringBuffer
-	text_start
-	line "popped out!"
+	text "!"
 	done
 
 _VendingMachineText6::
-	text "There's no more"
-	line "room for stuff!"
+	text "No tinc lloc"
+	line "a la bossa!"
 	done
 
 _VendingMachineText7::
-	text "Not thirsty!"
+	text "Mmm...no tinc set."
 	done

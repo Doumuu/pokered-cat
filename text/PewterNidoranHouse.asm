@@ -1,25 +1,25 @@
 _PewterNidoranHouseNidoranText::
-	text "NIDORAN: Bowbow!@"
+	text "Nidoran: Bub!@"
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "Nidoran, seu!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "El nostre #mon"
+	line "és forà, així que"
+	cont "mai ens fa cas."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "Un #mon forà"
+	line "és un que s'ha"
+	cont "intercanviat."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "Creixen ràpid,"
+	line "però solen no fer"
+	cont "cas a entrenadors"
+	cont "inexperts!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "Si tinguéssim"
+	line "medalles..."
 	done

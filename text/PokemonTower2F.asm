@@ -1,57 +1,55 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
-	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text "<RIVAL>: Ei,"
+	line "<PLAYER>! Què"
+	cont "hi fas, aquí?"
+	cont "Que se t'han mort"
+	cont "els #mon?"
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "Encara els veig"
+	line "prou vius. Per"
+	cont "què no lluitem?"
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "What?"
-	line "You stinker!"
+	text "Agh!"
+	line "Ho fas prou bé!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "Però t'ho he"
+	line "posat fàcil..."
 	prompt
 
 _PokemonTower2FRivalVictoryText::
-	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	text "<RIVAL>: Quins"
+	line "#mon més"
+	cont "febles tens!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "Els hauries"
+	line "d'entrenar més!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::
-	text "How's your #DEX"
-	line "coming, pal?"
-	cont "I just caught a"
-	cont "CUBONE!"
+	text "Per cert, com tens"
+	line "la #dex? Jo"
+	cont "acabo d'atrapar"
+	cont "un Crànic!"
 
-	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	para "Ara vull caçar-ne"
+	line "un Prànic..."
 
-	para "I doubt there are"
-	line "any left! Well, I"
-	cont "better get going!"
-	cont "I've got a lot to"
-	cont "accomplish, pal!"
+	para "Aviam si el trobo!"
+	line "...Au, me'n vaig,"
+	cont "que tinc coses a"
+	cont "fer, no com tu!"
 
-	para "Smell ya later!"
+	para "Bon vent!"
 	done
 
 _PokemonTower2FChannelerText::
-	text "Even we could not"
-	line "identify the"
-	cont "wayward GHOSTs!"
+	text "Els #mon"
+	line "fantasmes no es"
+	cont "poden caçar..."
 
-	para "A SILPH SCOPE"
-	line "might be able to"
-	cont "unmask them."
+	para "Potser amb un"
+	line "Visor Silph sí"
+	cont "seria possible!"
 	done

@@ -1,36 +1,35 @@
 _CeruleanTrashedHouseFishingGuruTheyStoleATMText::
-	text "Those miserable"
-	line "ROCKETs!"
+	text "Els Rocket són"
+	line "uns desgraciats!"
 
-	para "Look what they"
-	line "did here!"
+	para "Mira quin"
+	line "desastre!"
 
-	para "They stole a TM"
-	line "for teaching"
-	cont "#MON how to"
-	cont "DIG holes!"
+	para "M'han robat un MT"
+	line "que ensenya els"
+	cont "#mon a"
+	cont "excavar!"
 
-	para "That cost me a"
-	line "bundle, it did!"
+	para "Em va costar un"
+	line "ull de la cara!"
 	done
 
 _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
-	text "I figure what's"
-	line "lost is lost!"
+	text "Bé, què hi farem!"
 
-	para "I decided to teach"
-	line "DIGLETT how to"
-	cont "DIG without a TM!"
+	para "Entrenaré"
+	line "l'Excavet perquè"
+	cont "excavi sense MT."
 	done
 
 _CeruleanTrashedHouseGirlText::
-	text "TEAM ROCKET must"
-	line "be trying to DIG"
-	cont "their way into no"
-	cont "good!"
+	text "Segur que el Team"
+	line "Rocket té un pla"
+	cont "per excavar a"
+	cont "algun lloc."
 	done
 
 _CeruleanTrashedHouseWallHoleText::
-	text "TEAM ROCKET left"
-	line "a way out!"
+	text "El Team Rocket ha"
+	line "deixat un forat"
 	done

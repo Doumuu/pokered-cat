@@ -1,61 +1,60 @@
 _PokemonTower6FGhostWasCubonesMotherText::
-	text "The GHOST was the"
-	line "restless soul of"
-	cont "CUBONE's mother!"
+	text "El fantasma era"
+	line "l'ànima de la"
+	cont "mare de'n Crànic!"
 	done
 
 _PokemonTower6FSoulWasCalmedText::
-	text "The mother's soul"
-	line "was calmed."
-
-	para "It departed to"
-	line "the afterlife!"
+	text "L'ànima s'ha pogut"
+	line "tranquil·litzar i"
+	cont "ha marxat al"
+	cont "més enllà."
 	done
 
 _PokemonTower6FChanneler1BattleText::
-	text "Give...me..."
-	line "blood..."
+	text "Vull... les"
+	line "teves forces..."
 	done
 
 _PokemonTower6FChanneler1EndBattleText::
-	text "Groan!"
+	text "Uuu!"
 	prompt
 
 _PokemonTower6FChanneler1AfterBattleText::
-	text "I feel anemic and"
-	line "weak..."
+	text "Em sento molt"
+	line "dèbil..."
 	done
 
 _PokemonTower6FChanneler2BattleText::
-	text "Urff... Kwaah!"
+	text "Estic... trista..."
 	done
 
 _PokemonTower6FChanneler2EndBattleText::
-	text "Some-"
-	line "thing fell out!"
+	text "Sento"
+	line "alguna cosa..."
 	prompt
 
 _PokemonTower6FChanneler2AfterBattleText::
-	text "Hair didn't fall"
-	line "out! It was an"
-	cont "evil spirit!"
+	text "Acaba de sortir"
+	line "el fantasma de"
+	cont "dins meu!"
 	done
 
 _PokemonTower6FChanneler3BattleText::
-	text "Ke..ke...ke..."
-	line "ke..ke...ke!!"
+	text "Hehehe..."
+	line "Hehehe..."
 	done
 
 _PokemonTower6FChanneler3EndBattleText::
-	text "Keee!"
+	text "Uaah!"
 	prompt
 
 _PokemonTower6FChanneler3AfterBattleText::
-	text "What's going on"
-	line "here?"
+	text "Què està"
+	line "passant?"
 	done
 
 _PokemonTower6FBeGoneText::
-	text "Be gone..."
-	line "Intruders..."
+	text "...Fuig"
+	line "d'aquí...!"
 	done

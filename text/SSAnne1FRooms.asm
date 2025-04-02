@@ -1,105 +1,105 @@
 _SSAnne1FRoomsWigglytuffText::
-	text "WIGGLYTUFF: Puup"
-	line "pupuu!@"
+	text "Nuvolat: Nuu!"
+	line "Nunuu!@"
 	text_end
 
 _SSAnne1FRoomsGentleman1BattleText::
-	text "I travel alone"
-	line "on my journeys!"
+	text "Sempre viatjo"
+	line "amb els #mon."
 
-	para "My #MON are my"
-	line "only friends!"
+	para "Són els meus"
+	line "únics amics!"
 	done
 
 _SSAnne1FRoomsGentleman1EndBattleText::
-	text "My, my"
-	line "friends..."
+	text "Ah!"
+	line "Els meus amics..."
 	prompt
 
 _SSAnne1FRoomsGentleman1AfterBattleText::
-	text "You should be"
-	line "nice to friends!"
+	text "Cuida sempre"
+	line "els teus amics!"
 	done
 
 _SSAnne1FRoomsGentleman2BattleText::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "Què fas entrant"
+	line "sense permís?"
 	done
 
 _SSAnne1FRoomsGentleman2EndBattleText::
-	text "Humph!"
-	line "You rude child!"
+	text "Hm."
+	line "Que maleducat!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "Surt d'aquí!"
+	line "Vull estar sol!"
 	done
 
 _SSAnne1FRoomsYoungsterBattleText::
-	text "I love #MON!"
-	line "Do you?"
+	text "M'estimo molt els"
+	line "meu #mon! I tu?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
-	text "Wow! "
-	line "You're great!"
+	text "Uau! "
+	line "Ets molt fort!"
 	prompt
 
 _SSAnne1FRoomsYoungsterAfterBattleText::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Ei! Vols ser"
+	line "el meu amic?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "Podem intercan-"
+	line "viar-nos #mon!"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Mira els #mon"
+	line "que he atrapat"
+	cont "arreu del món!"
 	done
 
 _SSAnne1FRoomsCooltrainerFEndBattleText::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "Aii!"
+	line "Amb el que m'ha"
+	cont "costat caçar-los!"
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "Has fet mal als"
+	line "meus #mon!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "Ara hauries de"
+	line "portar-los a un"
+	cont "Centre #mon!"
 	done
 
 _SSAnne1FRoomsGirl1Text::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "Grum! Porta'm"
+	line "un pastís de"
+	cont "milfulls, sispli!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "Viatjar en creuer"
+	line "és molt còmode!"
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "Sempre viatjo"
+	line "amb en Nuvolat!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
-	text "We are cruising"
-	line "around the world."
+	text "Viatjo pel món amb"
+	line "els meus fills."
 	done
 
 _SSAnne1FRoomsGentleman3Text::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "Xxx! Soc un agent"
+	line "internacional!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "Segueixo la pista"
+	line "del Team Rocket."
 	done

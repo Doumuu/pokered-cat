@@ -1,52 +1,52 @@
 _SSAnneBowSuperNerdText::
-	text "The party's over."
-	line "The ship will be"
-	cont "departing soon."
+	text "La trobada s'ha"
+	line "acabat. El creuer"
+	cont "partirà aviat."
 	done
 
 _SSAnneBowSailor1Text::
-	text "Scrubbing decks"
-	line "is hard work!"
+	text "Uf! Fregar la"
+	line "coberta és mortal!"
 	done
 
 _SSAnneBowCooltrainerMText::
-	text "Urf. I feel ill."
+	text "No em trobo bé..."
 
-	para "I stepped out to"
-	line "get some air."
+	para "He sortit perquè"
+	line "em toqui l'aire."
 	done
 
 _SSAnneBowSailor2BattleText::
-	text "Hey matey!"
+	text "Ei, grumet!"
 
-	para "Let's do a little"
-	line "jig!"
+	para "Fem un ball"
+	line "de bastons?"
 	done
 
 _SSAnneBowSailor2EndBattleText::
-	text "You're"
-	line "impressive!"
+	text "Pas"
+	line "mal, grumet!"
 	prompt
 
 _SSAnneBowSailor2AfterBattleText::
-	text "How many kinds of"
-	line "#MON do you"
-	cont "think there are?"
+	text "Quants tipus de"
+	line "#mon creus"
+	cont "que hi ha?"
 	done
 
 _SSAnneBowSailor3BattleText::
-	text "Ahoy there!"
-	line "Are you seasick?"
+	text "Ei, al·lot!"
+	line "Que et mareges?"
 	done
 
 _SSAnneBowSailor3EndBattleText::
-	text "I was"
-	line "just careless!"
+	text "M'he"
+	line "confiat massa."
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "My Pa said there"
-	line "are 100 kinds of"
-	cont "#MON. I think"
-	cont "there are more."
+	text "El pare diu que hi"
+	line "ha 100 #mon"
+	cont "diferents. Jo dic"
+	cont "que n'hi ha més."
 	done

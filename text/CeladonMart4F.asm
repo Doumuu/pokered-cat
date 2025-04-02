@@ -1,26 +1,22 @@
 _CeladonMart4FSuperNerdText::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "Vull comprar-li"
+	line "una Pokenina a"
+	cont "la meva xicota."
 	done
 
 _CeladonMart4FYoungsterText::
-	text "I heard something"
-	line "useful."
+	text "Un consell"
+	line "molt útil:"
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "si llences una"
+	line "Pokenina a un"
+	cont "#mon en combat"
+	cont "el distrauràs!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "Express yourself"
-	line "with gifts!"
+	text "P4: Regals"
 
-	para "4F: WISEMAN GIFTS"
-
-	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	para "Rebaixes en"
+	line "Pedres Evolutives"
 	done

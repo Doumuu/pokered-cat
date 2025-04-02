@@ -47,18 +47,17 @@ _BoulderText::
 	done
 
 _MartSignText::
-	text "All your item"
-	line "needs fulfilled!"
-	cont "#MON MART"
+	text "Pokexprés:"
+	line "Articles #mon"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "Centre #mon:"
+	line "Atenció primària"
 	done
 
 _FoundItemText::
-	text "<PLAYER> found"
+	text "<PLAYER> ha trobat"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -70,79 +69,77 @@ _NoMoreRoomForItemText::
 	done
 
 _OaksAideHiText::
-	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	text "Ei! Em coneixes?"
+	line "Soc l'ajudant del"
+	cont "Dr.Roure!"
 
-	para "If you caught @"
+	para "Si atrapes @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
-	cont "I'm supposed to"
-	cont "give you an"
+	line "tipus de #mon,"
+	cont "et donaré un"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "!"
 
-	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	para "Així que, tens"
+	line "com a mínim @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds of"
-	cont "#MON?"
+	text_start
+	cont "tipus de #mon?"
 	done
 
 _OaksAideUhOhText::
-	text "Let's see..."
-	line "Uh-oh! You have"
-	cont "caught only @"
+	text "Aviam..."
+	line "Sembla que només"
+	cont "has atrapat @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "kinds of #MON!"
+	cont "tipus de #mon."
 
-	para "You need @"
+	para "N'has de tenir @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds"
-	line "if you want the"
+	text_start
+	line "si vols el"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideComeBackText::
-	text "Oh. I see."
+	text "Ah, d'acord."
 
-	para "When you get @"
+	para "Quan en tinguis @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds, come back"
-	cont "for @"
+	line "tipus, torna a"
+	cont "pel @"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideHereYouGoText::
-	text "Great! You have"
-	line "caught @"
+	text "Que bé! Has"
+	line "atrapat @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " kinds "
-	cont "of #MON!"
-	cont "Congratulations!"
+	text " tipus "
+	cont "de #mon!"
+	cont "Enhorabona!"
 
-	para "Here you go!"
+	para "Aquí tens."
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> got the"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wOaksAideRewardItemName
 	text "!@"
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
+	text "Ah, veig que"
+	line "no tens lloc a"
+	cont "a la bossa pel"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."

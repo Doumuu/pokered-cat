@@ -139,14 +139,16 @@ DisplayMoneyBox:
 	call ClearScreenArea
 	hlcoord 12, 1
 	ld de, wPlayerMoney
-	ld c, $a3
+	ld c, $83;
 	call PrintBCDNumber
+	ld a, $f0
+	ld [hl], a ;
 	ld hl, wStatusFlags5
 	res BIT_NO_TEXT_DELAY, [hl]
 	ret
 
 CurrencyString:
-	db "      ¥@"
+	db "      @¥"
 
 DoBuySellQuitMenu:
 	ld a, [wStatusFlags5]
@@ -502,9 +504,9 @@ DisplayFieldMoveMonMenu:
 INCLUDE "data/moves/field_move_names.asm"
 
 PokemonMenuEntries:
-	db   "STATS"
-	next "SWITCH"
-	next "CANCEL@"
+	db   "Info"
+	next "Mou"
+	next "Enrere@"
 
 GetMonFieldMoves:
 	ld a, [wWhichPokemon]

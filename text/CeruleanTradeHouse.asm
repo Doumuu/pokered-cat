@@ -1,9 +1,8 @@
 _CeruleanTradeHouseGrannyText::
-	text "My husband likes"
-	line "trading #MON."
+	text "El meu marit"
+	line "intercanvia"
+	cont "#mon."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+	para "Si tu en tens,"
+	line "parla amb ell."
 	done

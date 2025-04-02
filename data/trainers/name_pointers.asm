@@ -53,11 +53,11 @@ TrainerNamePointers:
 	assert_table_length NUM_TRAINERS
 
 .YoungsterName:     db "YOUNGSTER@"
-.BugCatcherName:    db "BUG CATCHER@"
+.BugCatcherName:    db "Caçainsectes@"
 .LassName:          db "LASS@"
 .JrTrainerMName:    db "JR.TRAINER♂@"
 .JrTrainerFName:    db "JR.TRAINER♀@"
-.PokemaniacName:    db "POKéMANIAC@"
+.PokemaniacName:    db "Pokéfriqui@"
 .SuperNerdName:     db "SUPER NERD@"
 .BurglarName:       db "BURGLAR@"
 .EngineerName:      db "ENGINEER@"
@@ -67,7 +67,7 @@ TrainerNamePointers:
 .RockerName:        db "ROCKER@"
 .JugglerName:       db "JUGGLER@"
 .BlackbeltName:     db "BLACKBELT@"
-.ProfOakName:       db "PROF.OAK@"
+.ProfOakName:       db "Dr.Roure@"
 .ChiefName:         db "CHIEF@"
 .ScientistName:     db "SCIENTIST@"
 .RocketName:        db "ROCKET@"

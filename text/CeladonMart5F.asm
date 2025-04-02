@@ -1,28 +1,28 @@
 _CeladonMart5FGentlemanText::
-	text "#MON ability"
-	line "enhancers can be"
-	cont "bought only here."
+	text "Només aquí venen"
+	line "vitamines per als"
+	cont "#mon!"
 
-	para "Use CALCIUM to"
-	line "increase SPECIAL"
-	cont "abilities."
+	para "Lisozim augmenta"
+	line "les habilitats"
+	cont "especials."
 
-	para "Use CARBOS to"
-	line "increase SPEED."
+	para "Indometacina puja"
+	line "la velocitat."
 	done
 
 _CeladonMart5FSailorText::
-	text "I'm here for"
-	line "#MON ability"
-	cont "enhancers."
+	text "He vingut a"
+	line "comprar vitamines"
+	cont "per als #mon."
 
-	para "PROTEIN increases"
-	line "ATTACK power."
+	para "Taurina augmenta"
+	line "l'atac."
 
-	para "IRON increases"
-	line "DEFENSE!"
+	para "Bromhexina puja"
+	line "la defensa!"
 	done
 
 _CeladonMart5FCurrentFloorSignText::
-	text "5F: DRUG STORE"
+	text "P6: Farmàcia"
 	done

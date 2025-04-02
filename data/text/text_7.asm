@@ -8,41 +8,42 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text "<PLAYER> puja a@"
 	text_end
 
 _GotOnBicycleText2::
+	text "la @"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text "<PLAYER> baixa@"
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
+	text "de la @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "Has llençat"
 	line "@"
 	text_ram wNameBuffer
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
+	text "Vols llençar"
 	line "@"
 	text_ram wStringBuffer
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "És massa valuós"
+	line "per llençar-ho!"
 	prompt
 
 _AlreadyKnowsText::
@@ -69,72 +70,71 @@ _TradedForText::
 	text_end
 
 _WannaTrade1Text::
-	text "I'm looking for"
+	text "Estic buscant un"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "! Wanna"
+	text "! Vols"
 
-	para "trade one for"
-	line "@"
+	para "canviar-me'l per"
+	line "un @"
 	text_ram wInGameTradeReceiveMonName
 	text "? "
 	done
 
 _NoTrade1Text::
-	text "Awww!"
-	line "Oh well..."
+	text "Ooh..."
+	line "Quin greu..."
 	done
 
 _WrongMon1Text::
-	text "What? That's not"
-	line "@"
+	text "Mmm... aquest no"
+	line "és un @"
 	text_ram wInGameTradeGiveMonName
-	text "!"
+	text "."
 
-	para "If you get one,"
-	line "come back here!"
+	para "Quan en tinguis un"
+	line "vine a veure'm!"
 	done
 
 _Thanks1Text::
-	text "Hey thanks!"
+	text "Moltes gràcies!"
 	done
 
 _AfterTrade1Text::
-	text "Isn't my old"
+	text "T'agrada el meu"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text " great?"
+	text "?"
 	done
 
 _WannaTrade2Text::
-	text "Hello there! Do"
-	line "you want to trade"
+	text "Ei, hola!"
+	line "Vols canviar un"
 
-	para "your @"
+	para "@"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "for @"
+	line "per un @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "Bé, si no vols..."
 	done
 
 _WrongMon2Text::
-	text "Hmmm? This isn't"
+	text "Aquest no és un"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "Think of me when"
-	line "you get one."
+	para "Torna quan en"
+	line "tinguis un!"
 	done
 
 _Thanks2Text::
-	text "Thanks!"
+	text "Moltes gràcies!"
 	done
 
 _AfterTrade2Text::
@@ -147,54 +147,53 @@ _AfterTrade2Text::
 	done
 
 _WannaTrade3Text::
-	text "Hi! Do you have"
+	text "Hola! Tens un"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "?"
 
-	para "Want to trade it"
-	line "for @"
+	para "Me'l canvies per"
+	line "un @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade3Text::
-	text "That's too bad."
+	text "Quina pena."
 	done
 
 _WrongMon3Text::
-	text "...This is no"
+	text "Aquest no és un"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "."
+	text "..."
 
-	para "If you get one,"
-	line "trade it with me!"
+	para "Si n'atrapes"
+	line "un, canvia-me'l!"
 	done
 
 _Thanks3Text::
-	text "Thanks pal!"
+	text "Moltes gràcies!"
 	done
 
 _AfterTrade3Text::
-	text "How is my old"
+	text "Com està el meu"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 
-	para "My @"
+	para "El meu @"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	line "doing great!"
+	cont "està molt bé!"
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "No hi ha res"
+	line "per tallar!"
 	prompt
 
 _UsedCutText::
 	text_ram wNameBuffer
-	text " hacked"
-	line "away with CUT!"
+	text " fa"
+	line "servir Tall!"
 	prompt

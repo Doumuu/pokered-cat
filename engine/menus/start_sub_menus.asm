@@ -541,20 +541,22 @@ DrawTrainerInfo:
 	call TrainerInfo_DrawVerticalLine
 	hlcoord 19, 10
 	call TrainerInfo_DrawVerticalLine
-	hlcoord 6, 9
+	hlcoord 5, 9
 	ld de, TrainerInfo_BadgesText
 	call PlaceString
 	hlcoord 2, 2
 	ld de, TrainerInfo_NameMoneyTimeText
 	call PlaceString
-	hlcoord 7, 2
+	hlcoord 6, 2
 	ld de, wPlayerName
 	call PlaceString
-	hlcoord 8, 4
+	hlcoord 9, 4
 	ld de, wPlayerMoney
-	ld c, $e3
+	ld c, $c3
 	call PrintBCDNumber
-	hlcoord 9, 6
+	ld a, $f0 ;
+	ld [hl], a ;
+	hlcoord 8, 6
 	ld de, wPlayTimeHours ; hours
 	lb bc, LEFT_ALIGN | 1, 3
 	call PrintNumber
@@ -569,13 +571,13 @@ TrainerInfo_FarCopyData:
 	jp FarCopyData2
 
 TrainerInfo_NameMoneyTimeText:
-	db   "NAME/"
-	next "MONEY/"
-	next "TIME/@"
+	db   "Nom:"
+	next "Diners:"
+	next "Temps:@"
 
 ; $76 is a circle tile
 TrainerInfo_BadgesText:
-	db $76,"BADGES",$76,"@"
+	db $76,"Medalles",$76,"@"
 
 ; draws a text box on the trainer info screen
 ; height is always 6

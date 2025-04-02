@@ -1,13 +1,13 @@
 _ViridianSchoolHouseBrunetteGirlText::
-	text "Whew! I'm trying"
-	line "to memorize all"
-	cont "my notes."
+	text "Estic intentant"
+	line "memoritzar els"
+	cont "meus apunts..."
 	done
 
 _ViridianSchoolHouseCooltrainerFText::
-	text "Okay!"
+	text "Bé, doncs..."
 
-	para "Be sure to read"
-	line "the blackboard"
-	cont "carefully!"
+	para "llegeix amb cura"
+	line "el contingut"
+	cont "de la pissarra."
 	done

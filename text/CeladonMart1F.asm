@@ -1,31 +1,28 @@
 _CeladonMart1FReceptionistText::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "Benvingut al"
+	line "Pokexprés de"
+	cont "Ciutat Iridescent."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "El cartell de la"
+	line "dreta n'indica"
+	cont "els departaments."
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "P1: Informació"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "P2: Entrenadors"
 
-	para "3F: TV GAME SHOP"
+	para "P3: Videojocs"
 
-	para "4F: WISEMAN GIFTS"
+	para "P4: Regals"
 
-	para "5F: DRUG STORE"
+	para "P5: Farmàcia"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "Terrat: Màquines"
+	line "expenedores"
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "P1: Informació"
 	done

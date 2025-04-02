@@ -1,154 +1,152 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
+	text "Vaig atrapar"
+	line "un Boirum a"
+	cont "Illa Escarlata!"
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "És bo, però quan"
+	line "s'emprenya deixa"
+	cont "anar gas tòxic..."
 	done
 
 _CeladonCityGramps1Text::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "Aquest gimnàs està"
+	line "ple de dones...!"
 	done
 
 _CeladonCityGirlText::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "El GameCorner"
+	line "dona mala imatge"
+	cont "a la ciutat."
 	done
 
 _CeladonCityGramps2Text::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "Les màquines m'han"
+	line "tornat a escurar!"
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "Hauria d'haver"
+	line "interncanviat les"
+	cont "monedes!"
 	done
 
 _CeladonCityGramps3Text::
-	text "Hello, there!"
+	text "Com va això!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "T'he vist per aquí"
+	line "però mai havíem"
+	cont "pogut parlar."
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "Tinc un detallet"
+	line "per a tu!"
 	prompt
 
 _CeladonCityGramps3ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonCityGramps3TM41ExplanationText::
-	text "TM41 teaches"
-	line "SOFTBOILED!"
+	text "L'MT41 ensenya"
+	line "Covaous!"
 
-	para "Only one #MON"
-	line "can use it!"
+	para "Només funciona"
+	line "amb un #mon."
 
-	para "That #MON is"
-	line "CHANSEY!"
+	para "Aquest #mon"
+	line "és en Fadi!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "No tens lloc"
+	line "a la bossa."
 	done
 
 _CeladonCityFisherText::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "Aquest és el meu"
+	line "soci, l'Espinall!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "Va evolucionar amb"
+	line "la Pedra aigua!"
 	done
 
 _CeladonCityPoliwrathText::
-	text "POLIWRATH: Ribi"
-	line "ribit!@"
+	text "Espinall: Croc!"
+	line "Rauc, rauc!@"
 	text_end
 
 _CeladonCityRocket1Text::
-	text "What are you"
-	line "staring at?"
+	text "Com em tornis"
+	line "a mirar, rebràs!"
 	done
 
 _CeladonCityRocket2Text::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "No et fiquis amb"
+	line "el Team Rocket!"
 	done
 
 _CeladonCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "+Punteria augmenta"
+	line "la precisió dels"
+	cont "atacs."
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "+Crític fa créixer"
+	line "la probabilitat de"
+	cont "cops crítics."
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Aconsegueix-los"
+	line "al Pokexprés de"
+	cont "Ciutat Iridescent!"
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	text "Ciutat Iridescent:"
+	line "La resplendor"
+	cont "del somnis"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
-	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	text "Líder del gimnàs"
+	line "#mon de Ciutat"
+	cont "Iridescent:"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "Erika, l'amant"
+	line "de la natura."
 	done
 
 _CeladonCityMansionSignText::
-	text "CELADON MANSION"
+	text "Mansió Iridescent"
 	done
 
 _CeladonCityDeptStoreSignText::
-	text "Find what you"
-	line "need at CELADON"
-	cont "DEPT. STORE!"
+	text "Pokexprés de"
+	line "Ciutat Iridescent"
+	cont "Ho tenim tot!"
 	done
 
 _CeladonCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	para "Efecte Escut"
+	line "protegeix els"
+	cont "#mon d'atacs"
+	cont "especials com el"
+	cont "foc o l'aigua."
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Aconsegueix-lo"
+	line "al Pokexprés de"
+	cont "Ciutat Iridescent!"
 	done
 
 _CeladonCityPrizeExchangeSignText::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "Premicanvi:"
+	line "Canviem monedes"
+	cont "per grans premis!"
 	done
 
 _CeladonCityGameCornerSignText::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	text "Rocket GameCorner:"
+	line "Joc per a adults"
 	done

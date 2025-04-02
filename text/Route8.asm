@@ -1,154 +1,151 @@
 _Route8SuperNerd1BattleText::
-	text "You look good at"
-	line "#MON, but"
-	cont "how's your chem?"
+	text "Tens #mon forts"
+	line "però com portes"
+	cont "les ciències?"
 	done
 
 _Route8SuperNerd1EndBattleText::
-	text "Ow!"
-	line "Meltdown!"
+	text "Bum!"
+	line "Col·lisió!"
 	prompt
 
 _Route8SuperNerd1AfterBattleText::
-	text "I am better at"
-	line "school than this!"
+	text "Se'm dona millor"
+	line "estudiar..."
 	done
 
 _Route8Gambler1BattleText::
-	text "All right! Let's"
-	line "roll the dice!"
+	text "Vinga! Fem girar"
+	line "la ruleta?"
 	done
 
 _Route8Gambler1EndBattleText::
-	text "Drat!"
-	line "Came up short!"
+	text "Avui"
+	line "tinc mala sort!"
 	prompt
 
 _Route8Gambler1AfterBattleText::
-	text "Lady Luck's not"
-	line "with me today!"
+	text "No és bon dia per"
+	line "apostar, avui."
 	done
 
 _Route8SuperNerd2BattleText::
-	text "You need strategy"
-	line "to win at this!"
+	text "Per lluitar cal"
+	line "una estratègia!"
 	done
 
 _Route8SuperNerd2EndBattleText::
-	text "It's"
-	line "not logical!"
+	text "Què"
+	line "ha fallat?!"
 	prompt
 
 _Route8SuperNerd2AfterBattleText::
-	text "Go with GRIMER"
-	line "first...and..."
-	cont "...and...then..."
+	text "Primer trec en"
+	line "Viscox... no."
+	cont "Millor trec..."
 	done
 
 _Route8CooltrainerF1BattleText::
-	text "I like NIDORAN, so"
-	line "I collect them!"
+	text "Col·lecciono"
+	line "Nidorans!"
 	done
 
 _Route8CooltrainerF1EndBattleText::
-	text "Why? Why??"
+	text "Per què?"
 	prompt
 
 _Route8CooltrainerF1AfterBattleText::
-	text "When #MON grow"
-	line "up they get ugly!"
-	cont "They shouldn't"
-	cont "evolve!"
+	text "Quan els #mon"
+	line "evolucionen es"
+	cont "tornen lletjos!"
 	done
 
 _Route8SuperNerd3BattleText::
-	text "School is fun, but"
-	line "so are #MON."
+	text "M'agrada estudiar,"
+	line "també lluitar..."
 	done
 
 _Route8SuperNerd3EndBattleText::
-	text "I'll"
-	line "stay with school."
+	text "Seguiré"
+	line "estudiant..."
 	prompt
 
 _Route8SuperNerd3AfterBattleText::
-	text "We're stuck here"
-	line "because of the"
-	cont "gates at SAFFRON."
+	text "Vull sortir d'aquí"
+	line "però el peatge de"
+	cont "Ciutat Daurada"
+	cont "ens té engabiats!"
 	done
 
 _Route8CooltrainerF2BattleText::
-	text "MEOWTH is so cute,"
-	line "meow, meow, meow!"
+	text "En Siameu és súper"
+	line "bufó! Meuu, meuu!"
 	done
 
 _Route8CooltrainerF2EndBattleText::
-	text "Meow!"
+	text "Meu!"
 	prompt
 
 _Route8CooltrainerF2AfterBattleText::
-	text "I think PIDGEY"
-	line "and RATTATA"
-	cont "are cute too!"
+	text "En Parrup i en"
+	line "Ratata també són"
+	cont "molt macos!"
 	done
 
 _Route8CooltrainerF3BattleText::
-	text "We must look"
-	line "silly standing"
-	cont "here like this!"
+	text "Què fem plantats"
+	line "com estaquirots?"
 	done
 
 _Route8CooltrainerF3EndBattleText::
-	text "Look what"
-	line "you did!"
+	text "És"
+	line "culpa teva!"
 	prompt
 
 _Route8CooltrainerF3AfterBattleText::
-	text "SAFFRON's gate"
-	line "keeper won't let"
-	cont "us through."
-	cont "He's so mean!"
+	text "El guàrdia del"
+	line "peatge no ens"
+	cont "deixa passar!"
 	done
 
 _Route8Gambler2BattleText::
-	text "I'm a rambling,"
-	line "gambling dude!"
+	text "T'has trobat un"
+	line "jugador rodamon!"
 	done
 
 _Route8Gambler2EndBattleText::
-	text "Missed"
-	line "the big score!"
+	text "Millor"
+	line "em trasllado..."
 	prompt
 
 _Route8Gambler2AfterBattleText::
-	text "Gambling and"
-	line "#MON are like"
-	cont "eating peanuts!"
-	cont "Just can't stop!"
+	text "El joc i els"
+	line "#mon són"
+	cont "addictius!"
 	done
 
 _Route8CooltrainerF4BattleText::
-	text "What's a cute,"
-	line "round and fluffy"
-	cont "#MON?"
+	text "Mira quin #mon"
+	line "més rodonet i"
+	cont "bufó que tinc!"
 	done
 
 _Route8CooltrainerF4EndBattleText::
-	text "Stop!"
+	text "Prou!"
 
-	para "Don't be so mean"
-	line "to my CLEFAIRY!"
+	para "Deixa el meu"
+	line "Ària en pau!"
 	prompt
 
 _Route8CooltrainerF4AfterBattleText::
-	text "I heard that"
-	line "CLEFAIRY evolves"
-	cont "when it's exposed"
-	cont "to a MOON STONE."
+	text "He sentit que els"
+	line "Ària evolucionen"
+	cont "quan tenen davant"
+	cont "una Pedra Lluna."
 	done
 
 _Route8UndergroundSignText::
-	text "UNDERGROUND PATH"
-	line "CELADON CITY -"
-	cont "LAVENDER TOWN"
+	text "Via subterrània:"
+	line "Ciutat Iridiscent"
+	cont "- Vilamalva"
 	done

@@ -1,123 +1,122 @@
 _ViridianForestYoungster1Text::
-	text "I came here with"
-	line "some friends!"
+	text "He vingut al bosc"
+	line "amb alguns amics."
 
-	para "They're out for"
-	line "#MON fights!"
+	para "Busquen fer"
+	line "batalles #mon."
 	done
 
 _ViridianForestYoungster2BattleText::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle'em!"
+	text "Ei! Tens"
+	line "#mon! Vinga,"
+	cont "fem una batalla!"
 	done
 
 _ViridianForestYoungster2EndBattleText::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "Oh,"
+	line "no! El meu Seruga"
+	cont "no és prou fort!"
 	prompt
 
 _ViridianForestYoungster2AfterBattleText::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "Xxt! Espantes"
+	line "els insectes!"
 	done
 
 _ViridianForestYoungster3BattleText::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "Ei, marrec! Què"
+	line "fas per aquí?"
 	done
 
 _ViridianForestYoungster3EndBattleText::
-	text "Huh?"
-	line "I ran out of"
-	cont "#MON!"
+	text "Carai!"
+	line "Ja no em queden"
+	cont "#mon!"
 	prompt
 
 _ViridianForestYoungster3AfterBattleText::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "Grr! Hauré de"
+	line "caçar #mon"
+	cont "més forts!"
 	done
 
 _ViridianForestYoungster4BattleText::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "Para el carro!"
+	line "Vas amb pressa?"
 	done
 
 _ViridianForestYoungster4EndBattleText::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "Ja"
+	line "veig que això"
+	cont "se't dona bé."
 	prompt
 
 _ViridianForestYoungster4AfterBattleText::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
+	text "De vegades pots"
+	line "trobar coses"
+	cont "a terra."
 
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	para "Jo estic buscant"
+	line "el que he perdut."
 	done
 
 _ViridianForestYoungster5Text::
-	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	text "M'he quedat sense"
+	line "#balls per"
+	cont "caçar #mon!"
 
-	para "You should carry"
-	line "extras!"
+	para "És important"
+	line "dur-ne de més!"
 	done
 
 _ViridianForestTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	para "Per evitar"
+	line "#mon salvatges"
+	cont "fuig de les zones"
+	cont "de matolls."
 	done
 
 _ViridianForestUseAntidoteSignText::
-	text "For poison, use"
-	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	text "Si t'enverines,"
+	line "pren antídot!"
+	cont "Disponible als"
+	cont "Pokexprés."
 	done
 
 _ViridianForestTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "Contact PROF.OAK"
-	line "via PC to get"
-	cont "your #DEX"
-	cont "evaluated!"
+	para "El Dr.Roure"
+	line "avaluarà la teva"
+	cont "#dex via"
+	cont "connexió PC."
 	done
 
 _ViridianForestTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
-	cont "#MON!"
+	para "No caceu els"
+	line "#mon d'altres"
+	cont "entrenadors!"
+	cont "Atrapeu-ne només"
+	cont "els salvatges."
 	done
 
 _ViridianForestTrainerTips4Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "Weaken #MON"
-	line "before attempting"
-	cont "capture!"
+	para "Debiliteu els"
+	line "#mon abans de"
+	cont "capturar-los."
 
-	para "When healthy,"
-	line "they may escape!"
+	para "Si estan sans,"
+	line "es poden escapar!"
 	done
 
 _ViridianForestLeavingSignText::
-	text "LEAVING"
-	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	text "Sortida de"
+	line "Bosc Maragda a"
+	cont "Ciutat Argent"
 	done

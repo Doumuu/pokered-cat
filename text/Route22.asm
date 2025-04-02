@@ -1,49 +1,48 @@
 _Route22RivalBeforeBattleText1::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Ei,"
 	line "<PLAYER>!"
 
-	para "You're going to"
-	line "#MON LEAGUE?"
+	para "Vas a la"
+	line "Lliga #mon?"
 
-	para "Forget it! You"
-	line "probably don't"
-	cont "have any BADGEs!"
+	para "Oblida-te'n!"
+	line "Segur que no tens"
+	cont "cap medalla!"
 
-	para "The guard won't"
-	line "let you through!"
+	para "El guarda no et"
+	line "deixarà entrar."
 
-	para "By the way, did"
-	line "your #MON"
-	cont "get any stronger?"
+	para "Per cert, ja són"
+	line "més forts els"
+	cont "teus #mon?"
 	done
 
 _Route22RivalAfterBattleText1::
-	text "I heard #MON"
-	line "LEAGUE has many"
-	cont "tough trainers!"
+	text "He sentit que la"
+	line "Lliga #mon"
+	cont "és difícil."
 
-	para "I have to figure"
-	line "out how to get"
-	cont "past them!"
+	para "Vull ser més fort"
+	line "que tots aquests"
+	cont "entrenadors!"
 
-	para "You should quit"
-	line "dawdling and get"
-	cont "a move on!"
+	para "Tu t'hauries"
+	line "d'espavilar i"
+	cont "no ser tan dropo!"
 	done
 
 _Route22Rival1DefeatedText::
-	text "Awww!"
-	line "You just lucked"
-	cont "out!"
+	text "Bah!"
+	line "Quina sort!"
 	prompt
 
 _Route22Rival1VictoryText::
-	text "<RIVAL>: What?"
-	line "Why do I have 2"
-	cont "#MON?"
+	text "<RIVAL>: Com?"
+	line "Que per què tinc"
+	cont "2 #mon?"
 
-	para "You should catch"
-	cont "some more too!"
+	para "Espavila i"
+	cont "atrapa'n alguns!"
 	prompt
 
 _Route22RivalBeforeBattleText2::
@@ -81,10 +80,10 @@ _Route22RivalAfterBattleText2::
 	done
 
 _Route22Rival2DefeatedText::
-	text "What!?"
+	text "Fatal!"
 
-	para "I was just"
-	line "careless!"
+	para "Com ho he fet"
+	line "tan malament?"
 	prompt
 
 _Route22Rival2VictoryText::
@@ -99,6 +98,6 @@ _Route22Rival2VictoryText::
 	prompt
 
 _Route22PokemonLeagueSignText::
-	text "#MON LEAGUE"
-	line "Front Gate"
+	text "Lliga #mon"
+	line "Entrada principal"
 	done

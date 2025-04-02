@@ -1,64 +1,64 @@
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "Capità: Bueerg!"
+	line "Em trobo fatal..."
+	cont "Rot! Marejat..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "<PLAYER> fa"
+	line "un massatge"
+	cont "al capità!"
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "Ralet..."
+	line "Ralet...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "Capità: Fiu!"
+	line "Gràcies! Ja em"
+	cont "trobo millor."
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "Vols veure la"
+	line "tècnica de tall?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "Te la ensenyaria"
+	line "si em trobés bé."
 
-	para "I know! You can"
-	line "have this!"
+	para "Ja ho sé!"
+	line "Queda't això!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "any time!"
+	para "Ensenya-li al teu"
+	line "#mon i podràs"
+	cont "tallar sempre que"
+	cont "vulguis!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> got"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "CAPTAIN: Whew!"
+	text "Capità: Uf!"
 
-	para "Now that I'm not"
-	line "sick any more, I"
-	cont "guess it's time."
+	para "Ara que ja em"
+	line "trobo bé, crec"
+	cont "que va sent hora."
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "Ai, no! No tens"
+	line "lloc a la bossa!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "Ecs! No hauria"
+	line "d'haver mirat!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "Com superar el"
+	line "mal de mariners."
+	cont "El capità està"
+	cont "llegint això!"
 	done

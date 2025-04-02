@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "WITHDRAW ITEM"
-	next "DEPOSIT ITEM"
-	next "TOSS ITEM"
-	next "LOG OFF@"
+	db   "Retirar obj."
+	next "Desar obj."
+	next "Eliminar obj."
+	next "Apagar@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

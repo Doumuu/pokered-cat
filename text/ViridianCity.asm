@@ -1,36 +1,35 @@
 _ViridianCityYoungster1Text::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "Portes #balls"
+	line "al cinturó!"
+	cont "Tens #mon!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "És increïble que"
+	line "els puguis portar"
+	cont "sempre a sobre!"
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
-	line "is always closed."
+	text "Aquest gimnàs"
+	line "sempre està buit."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Em pregunto qui"
+	line "serà el líder."
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "El líder del"
+	line "gimnàs ha tornat!"
 	done
 
 _ViridianCityYoungster2YouWantToKnowAboutText::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	text "Vols saber una"
+	line "curiositat de"
+	cont "dos #mon"
+	cont "eruga?"
 	done
 
 ViridianCityYoungster2OkThenText::
-	text "Oh, OK then!"
+	text "Cap problema!"
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
@@ -43,54 +42,54 @@ ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "Avi! Aixeca't"
+	line "de terra!"
+
+	para "Hauré d'esperar"
+	line "que se li passi."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "Quan vaig de"
+	line "compres a Ciutat"
+	cont "Argent, passo pel"
+	cont "camí sinuós del"
+	cont "bosc Maragda."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "You can't go"
-	line "through here!"
+	text "Ei, tu! ...Hip!"
+	line "Et diré una cosa."
 
-	para "This is private"
-	line "property!"
+	para "No pots passar"
+	line "per aquí... Hip!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "Uaaa..."
+	line "Em dec haver"
+	cont "quedat adormit."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "He somiat que un"
+	line "DROWZEE es menjava"
+	cont "el meu somni."
+	cont "Què és això?"
+	cont "D'on ha sortit"
+	cont "aquest MT?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "Quin mal rotllo!"
+	line "Té, queda-t'ho!"
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "TM42!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "TM42 contains"
-	line "DREAM EATER..."
-	cont "...Snore..."
+	text "L'MT42 conté"
+	line "Menjasomnis."
+	cont "...Rrr..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
@@ -99,83 +98,80 @@ _ViridianCityFisherTM42NoRoomText::
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Crec que havia"
+	line "begut un pèl"
+	cont "massa..."
 
-	para "Sure you can go"
-	line "through!"
+	para "Quin mal de cap!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "Que tens pressa?"
 	done
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
-	text "I see you're using"
-	line "a #DEX."
+	text "Veig que cerques"
+	line "#mon..."
 
-	para "When you catch a"
-	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	para "Quan atrapes un"
+	line "#mon, es desa"
+	cont "informació nova"
+	cont "a la #dex."
 
-	para "What? Don't you"
-	line "know how to catch"
-	cont "#MON?"
+	para "Què dius? Que no"
+	line "saps com atrapar"
+	cont "#mon?"
 
-	para "I'll show you"
-	line "how to then."
+	para "Deixa'm que"
+	line "t'ensenyi."
 	done
 
 _ViridianCityOldManTimeIsMoneyText::
-	text "Time is money..."
-	line "Go along then."
+	text "El temps és or."
+	line "Que vagi bé."
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Debilita abans"
+	line "els #mon que"
+	cont "vulguis atrapar."
 	done
 
 _ViridianCitySignText::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "Ciutat Maragda:"
+	line "La verdor perenne"
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Entreneu #mon"
+	line "i feu créixer"
+	cont "la col·lecció!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Com més #mon"
+	line "tingueu, més"
+	cont "forts sereu!"
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Els #mon tenen"
+	line "punts de poder,"
+	cont "que fan servir"
+	cont "a les batalles."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "Per reomplir-los,"
+	line "porteu els"
+	cont "vostres #mon"
+	cont "al Centre #mon!"
 	done
 
 _ViridianCityGymSignText::
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	text "Gimnàs #mon"
+	line "de Ciutat Maragda"
 	done
 
 _ViridianCityGymLockedText::
-	text "The GYM's doors"
-	line "are locked..."
+	text "La porta està"
+	line "tancada..."
 	done

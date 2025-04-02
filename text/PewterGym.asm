@@ -1,18 +1,18 @@
 _PewterGymBrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "Em dic Roc."
+	line "Soc el líder del"
+	cont "gimnàs d'Argent."
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "Crec que tota"
+	line "pedra fa paret,"
+	cont "defensa i atac."
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "Per això els meus"
+	line "#mon són de"
+	cont "tipus roca."
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "Encara vols"
+	line "lluitar?"
+	cont "Està bé. Doncs"
+	cont "endavant!"
 	done

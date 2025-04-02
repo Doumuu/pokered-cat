@@ -1,78 +1,79 @@
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "Sr.Fuji: Eh? Em"
+	line "volies salvar?"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "Gràcies, però..."
+	line "he vingut a"
+	cont "tranquil·litzar"
+	cont "l'ànima de la"
+	cont "mare de Crànic."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "...Ah, dius que"
+	line "l'ànima s'ha anat"
+	cont "al més enllà?"
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "Moltes gràcies per"
+	line "la teva ajuda."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "Em vols acompanyar"
+	line "a casa, doncs?"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "La Casa #mon"
+	line "està la peu"
+	cont "d'aquesta torre."
 	done
 
 _PokemonTower7FRocket1BattleText::
-	text "What do you want?"
-	line "Why are you here?"
+	text "Eh? Què vols?"
+	line "Què fas aquí?"
 	done
 
 _PokemonTower7FRocket1EndBattleText::
-	text "I give up!"
+	text "D'acord!"
 	prompt
 
 _PokemonTower7FRocket1AfterBattleText::
-	text "I'm not going to"
-	line "forget this!"
+	text "Això no quedarà"
+	line "així, nen!"
 	done
 
 _PokemonTower7FRocket2BattleText::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "Aquest vell s'ha"
+	line "plantat a la"
+	cont "nostra base!"
 
-	para "We're talking it"
-	line "over as adults!"
+	para "Deia que matàvem"
+	line "#mon."
+
+	para "Només parlàvem"
+	line "tranquil·lament."
 	done
 
 _PokemonTower7FRocket2EndBattleText::
-	text "Please!"
-	line "No more!"
+	text "Ja"
+	line "n'he tingut prou!"
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MON are only"
-	line "good for making"
-	cont "money!"
+	text "Els #mon només"
+	line "serveixen per"
+	cont "fer negoci!"
 
-	para "Stay out of our"
-	line "business!"
+	para "No hi fiquis"
+	line "el nas, marrec!"
 	done
 
 _PokemonTower7FRocket3BattleText::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "Com no guanyis, et"
+	line "quedes sense avi!"
 	done
 
 _PokemonTower7FRocket3EndBattleText::
-	text "Don't"
-	line "fight us ROCKETs!"
+	text "El Team"
+	line "Rocket guanyarà!"
 	prompt
 
 _PokemonTower7FRocket3AfterBattleText::
-	text "You're not getting"
-	line "away with this!"
+	text "Grr...! Ens"
+	line "les pagaràs!"
 	done

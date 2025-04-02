@@ -1,46 +1,45 @@
 _MtMoonPokecenterYoungsterText::
-	text "I've 6 # BALLs"
-	line "set in my belt."
+	text "Porto 6 #balls"
+	line "al cinturó."
 
-	para "At most, you can"
-	line "carry 6 #MON."
+	para "Com a molt, pots"
+	line "portar 6 #mon."
 	done
 
 _MtMoonPokecenterGentlemanText::
-	text "TEAM ROCKET"
-	line "attacks CERULEAN"
-	cont "citizens..."
+	text "El Team Rocket"
+	line "ataca ciutadans"
+	cont "de Blaucel..."
 
-	para "TEAM ROCKET is"
-	line "always in the"
-	cont "news!"
+	para "El Team Rocket"
+	line "sempre surt a"
+	cont "les notícies!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanIGotADealText::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
+	text "Home: Ei, hola!"
+	line "Tinc una oferta"
+	cont "només per a tu!"
 
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	para "Et deixo aquest"
+	line "formós Magikarp"
+	cont "només per 500¥!"
+	cont "Què me'n dius?"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "No? Si t'estic"
+	line "fent un favor!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "Crec que et"
+	line "falten diners!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoRefundsText::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "Home: No accepto"
+	line "devolucions!"
 	done
 
 _MtMoonPokecenterClipboardText::

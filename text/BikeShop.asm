@@ -1,71 +1,70 @@
 _BikeShopClerkWelcomeText::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "Benvingut a"
+	line "Bici Easy."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "Tenim bicis"
+	line "per a tothom!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "És una bona bici!"
+	line "La vols?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "Ho sento! No tens"
+	line "prous diners!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, that's..."
+	text "Ah, portes..."
 
-	para "A BIKE VOUCHER!"
+	para "un Cupó bici!"
 
-	para "OK! Here you go!"
+	para "Aquí tens!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "<PLAYER> canvia"
+	line "el Cupó bici per"
+	cont "una bicicleta.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "some time!"
+	text "Que vagi bé!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "T'agrada la"
+	line "nova bici?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "Pots portar-la"
+	line "pels carrils bici"
+	cont "i per les coves!"
 	done
 
 _BikeShopBagFullText::
-	text "You better make"
-	line "room for this!"
+	text "Has de fer lloc"
+	line "a la bossa!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "A mi ja em va"
+	line "bé una bici "
+	cont "senzilleta."
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	para "A les de muntanya"
+	line "no els pots posar"
+	cont "una cistella."
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "Aquestes bicis"
+	line "són xules, però"
+	cont "valen un ronyó!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "Ei! La teva bici"
+	line "és xulíssima!"
 	done

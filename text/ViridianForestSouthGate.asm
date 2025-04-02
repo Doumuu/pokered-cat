@@ -1,13 +1,13 @@
 _ViridianForestSouthGateGirlText::
-	text "Are you going to"
-	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	text "Que vas al"
+	line "Bosc Maragda?"
+	cont "Ves amb compte!"
+	cont "És un laberint!"
 	done
 
 _ViridianForestSouthGateLittleGirlText::
-	text "RATTATA may be"
-	line "small, but its"
-	cont "bite is wicked!"
-	cont "Did you get one?"
+	text "Per ser petit, la"
+	line "mossegada d'un"
+	cont "Ratata és brutal!"
+	cont "T'han mossegat?"
 	done

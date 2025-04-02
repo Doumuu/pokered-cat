@@ -1,69 +1,68 @@
 _SSAnneKitchenCook1Text::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "Eh! Que estàs"
+	line "al mig!"
+	cont "Surt d'aquí!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "He vist una bola"
+	line "estranya a la"
+	cont "paperera..."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "Vaig de bòlit!"
+	line "Quin mareig..."
 	done
 
 _SSAnneKitchenCook4Text::
-	text "Hum-de-hum-de-"
-	line "ho..."
+	text "Laralí, laralà..."
 
-	para "I peel spuds"
-	line "every day!"
-	cont "Hum-hum..."
+	para "Pelo patates"
+	line "per dinar!"
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Did you hear about"
-	line "SNORLAX?"
+	text "Coneixes"
+	line "l'Snorlax?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Només fa que"
+	line "menjar i dormir!"
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Snivel...Sniff..."
+	text "Laralí, laralà..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Pelo cebes"
+	line "per sopar!"
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "Ehem! Soc el"
+	line "cap de cuina."
 
-	para "Le main course is"
+	para "El menú d'avui és"
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salmon du Salad!"
+	text "llenguado a"
+	line "la meunière!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "Segur que ningú"
+	line "vol peix..."
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Eels au Barbecue!"
+	text "verdures a"
+	line "la planxa!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "Només pels que"
+	line "estan a dieta..."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Prime Beef Steak!"
+	text "filet mignon!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "No confondre"
+	line "per minyó..."
 	done

@@ -1,108 +1,106 @@
 _Museum1FScientist1ComeAgainText::
-	text "Come again!"
+	text "A reveure!"
 	done
 
 _Museum1FScientist1WouldYouLikeToComeInText::
-	text "It's ¥50 for a"
-	line "child's ticket."
+	text "L'entrada per a"
+	line "nens val 50¥."
 
-	para "Would you like to"
-	line "come in?"
+	para "Vols comprar-la?"
 	done
 
 _Museum1FScientist1ThankYouText::
-	text "Right, ¥50!"
-	line "Thank you!"
+	text "Perfecte, 50¥."
+	line "Gràcies!"
 	done
 
 _Museum1FScientist1DontHaveEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "No tens prous"
+	line "diners."
 	prompt
 
 _Museum1FScientist1DoYouKnowWhatAmberIsText::
-	text "You can't sneak"
-	line "in the back way!"
+	text "No pots colar-te"
+	line "pel darrere!"
 
-	para "Oh, whatever!"
-	line "Do you know what"
-	cont "AMBER is?"
+	para "Bah, tant se val!"
+	line "Saps el que"
+	cont "és l'Ambre?"
 	done
 
 _Museum1FScientist1TheresALabSomewhereText::
-	text "There's a lab"
-	line "somewhere trying"
-	cont "to resurrect"
-	cont "ancient #MON"
-	cont "from AMBER."
+	text "Un laboratori"
+	line "està intentant"
+	cont "recrear #mon"
+	cont "antics a partir"
+	cont "d'Ambre."
 	done
 
 _Museum1FScientist1AmberIsFossilizedTreeSapText::
-	text "AMBER is fossil-"
-	line "ized tree sap."
+	text "L'Ambre és resina"
+	line "fosilitzada."
 	done
 
 _Museum1FScientist1GoToOtherSideText::
-	text "Please go to the"
-	line "other side!"
+	text "Per l'altra porta"
+	line "si us plau!"
 	done
 
 _Museum1FScientist1TakePlentyOfTimeText::
-	text "Take plenty of"
-	line "time to look!"
+	text "Pren-te el temps"
+	line "que et calgui."
 	done
 
 _Museum1FGamblerText::
-	text "That is one"
-	line "magnificent"
-	cont "fossil!"
+	text "Quin fòssil tan"
+	line "espectacular!"
 	done
 
 _Museum1FScientist2TakeThisToAPokemonLabText::
-	text "Ssh! I think that"
-	line "this chunk of"
-	cont "AMBER contains"
-	cont "#MON DNA!"
+	text "Xxt! Crec que"
+	line "aquest tros"
+	cont "d'Ambre conté"
+	cont "ADN de #mon."
 
-	para "It would be great"
-	line "if #MON could"
-	cont "be resurrected"
-	cont "from it!"
+	para "Seria fantàstic"
+	line "si es fes servir"
+	cont "per recrear"
+	cont "#mon antics!"
 
-	para "But, my colleagues"
-	line "just ignore me!"
+	para "Però els companys"
+	line "no ho veuen bé..."
 
-	para "So I have a favor"
-	line "to ask!"
+	para "així que t'he de"
+	line "demanar un favor."
 
-	para "Take this to a"
-	line "#MON LAB and"
-	cont "get it examined!"
+	para "Porta-ho al"
+	line "laboratori perquè"
+	cont "ho examinin!"
 	prompt
 
 _Museum1FScientist2ReceivedOldAmberText::
-	text "<PLAYER> received"
-	line "OLD AMBER!@"
+	text "<PLAYER> rep"
+	line "Ambre secret!@"
 	text_end
 
 _Museum1FScientist2GetTheOldAmberCheckText::
-	text "Ssh! Get the OLD"
-	line "AMBER checked!"
+	text "Xt! Porta l'ambre"
+	line "al laboratori!"
 	done
 
 _Museum1FScientist2YouDontHaveSpaceText::
-	text "You don't have"
-	line "space for this!"
+	text "Tens la bossa"
+	line "plena."
 	done
 
 _Museum1FScientist3Text::
-	text "We are proud of 2"
-	line "fossils of very"
-	cont "rare, prehistoric"
-	cont "#MON!"
+	text "Estem orgullosos"
+	line "dels 2 fòssils"
+	cont "prehistòrics de"
+	cont "#mon exposats!"
 	done
 
 _Museum1FOldAmberText::
-	text "The AMBER is"
-	line "clear and gold!"
+	text "L'Ambre és daurat"
+	line "i transparent."
 	done

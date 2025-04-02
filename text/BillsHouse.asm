@@ -1,88 +1,86 @@
 _BillsHouseBillImNotAPokemonText::
-	text "Hiya! I'm a"
-	line "#MON..."
-	cont "...No I'm not!"
+	text "Hola! Soc un"
+	line "#mon...!"
+	cont "És broma!"
 
-	para "Call me BILL!"
-	line "I'm a true blue"
-	cont "#MANIAC! Hey!"
-	cont "What's with that"
-	cont "skeptical look?"
+	para "Em dic Èric."
+	line "La gent em diu"
+	cont "Pokefriqui!"
+	cont "Ei, per què em"
+	cont "mires així?"
 
-	para "I'm not joshing"
-	line "you, I screwed up"
-	cont "an experiment and"
-	cont "got combined with"
-	cont "a #MON!"
+	para "Estava fent un"
+	line "experiment i"
+	cont "sense voler m'he"
+	cont "m'he combinat amb"
+	cont "un #mon!"
 
-	para "So, how about it?"
-	line "Help me out here!"
+	para "Què me'n dius? Em"
+	line "podries ajudar?"
 	done
 
 _BillsHouseBillUseSeparationSystemText::
-	text "When I'm in the"
-	line "TELEPORTER, go to"
-	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	text "Quan sigui dins"
+	line "del teletrans-"
+	cont "portador, incia"
+	cont "la separació"
+	cont "cel·lular al PC!"
 	done
 
 _BillsHouseBillNoYouGottaHelpText::
-	text "No!? Come on, you"
-	line "gotta help a guy"
-	cont "in deep trouble!"
+	text "No!? Vinga, va,"
+	line "que les estic"
+	cont "passant magres!"
 
-	para "What do you say,"
-	line "chief? Please?"
-	cont "OK? All right!"
+	para "Vinga, rei,"
+	line "si us plau!"
+	cont "Sí? Perfecte!"
 	prompt
 
 _BillsHouseBillThankYouText::
-	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
-	cont "owe you one!"
+	text "Èric: Visca!"
+	line "Gràcies, rei!"
+	cont "Te'n dec una!"
 
-	para "So, did you come"
-	line "to see my #MON"
-	cont "collection?"
-	cont "You didn't?"
-	cont "That's a bummer."
+	para "Així que ets aquí"
+	line "per veure la meva"
+	cont "col·lecció?"
+	cont "No? Vaja, home."
 
-	para "I've got to thank"
-	line "you... Oh here,"
-	cont "maybe this'll do."
+	para "Per cert, això és"
+	line "per agrair-te"
+	cont "la teva ajuda."
 	prompt
 
 _SSTicketReceivedText::
-	text "<PLAYER> received"
-	line "an @"
+	text "<PLAYER> rep"
+	line "un @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "Portes massa cosa"
+	line "a sobre, rei!"
 	done
 
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
-	text "That cruise ship,"
-	line "S.S.ANNE, is in"
-	cont "VERMILION CITY."
-	cont "Its passengers"
-	cont "are all trainers!"
+	text "St.Anne és el"
+	line "creuer que hi ha"
+	cont "a Ciutat Ocre."
+	cont "Els passatgers"
+	cont "són entrenadors!"
 
-	para "They invited me"
-	line "to their party,"
-	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
-	cont "instead of me?"
+	para "M'han convidat a"
+	line "la festa, però no"
+	cont "m'agrada fer el"
+	cont "paperot. Per què"
+	cont "no hi vas tu?"
 	done
 
 _BillsHouseBillCheckOutMyRarePokemonText::
-	text "BILL: Look, bud,"
-	line "just check out"
-	cont "some of my rare"
-	cont "#MON on my PC!"
+	text "Èric: Ei, rei,"
+	line "sente't lliure de"
+	cont "mirar els #mon"
+	cont "rars del PC."
 	done

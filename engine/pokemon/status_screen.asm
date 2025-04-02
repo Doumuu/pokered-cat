@@ -118,7 +118,7 @@ StatusScreen:
 	call DrawLineBox ; Draws the box around types, ID No. and OT
 	hlcoord 10, 9
 	ld de, Type1Text
-	call PlaceString ; "TYPE1/"
+	call PlaceString ; "Tipus1/"
 	hlcoord 11, 3
 	predef DrawHP
 	ld hl, wStatusScreenHPBarColor
@@ -129,13 +129,13 @@ StatusScreen:
 	ld de, wLoadedMonStatus
 	call PrintStatusCondition
 	jr nz, .StatusWritten
-	hlcoord 16, 6
+	hlcoord 15, 6
 	ld de, OKText
-	call PlaceString ; "OK"
+	call PlaceString ; "Ok"
 .StatusWritten
 	hlcoord 9, 6
 	ld de, StatusText
-	call PlaceString ; "STATUS/"
+	call PlaceString ; "Estat/"
 	hlcoord 14, 2
 	call PrintLevel ; Pokémon level
 	ld a, [wMonHIndex]
@@ -205,11 +205,11 @@ NamePointers2:
 	dw wDayCareMonName
 
 Type1Text:
-	db   "TYPE1/"
+	db   "Tipus1/"
 	next ""
 	; fallthrough
 Type2Text:
-	db   "TYPE2/"
+	db   "Tipus2/"
 	next ""
 	; fallthrough
 IDNoText:
@@ -217,14 +217,14 @@ IDNoText:
 	next ""
 	; fallthrough
 OTText:
-	db   "OT/"
+	db   "EO/"
 	next "@"
 
 StatusText:
-	db "STATUS/@"
+	db "Estat/@"
 
 OKText:
-	db "OK@"
+	db "Ok@"
 
 ; Draws a line starting from hl high b and wide c
 DrawLineBox:
@@ -290,10 +290,10 @@ PrintStat:
 	ret
 
 StatsText:
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPEED"
-	next "SPECIAL@"
+	db   "Atac"
+	next "Defensa"
+	next "Veloc."
+	next "Espec.@"
 
 StatusScreen2:
 	ldh a, [hTileAnimations]
@@ -464,8 +464,8 @@ CalcExpToLevelUp:
 	ret
 
 StatusScreenExpText:
-	db   "EXP POINTS"
-	next "LEVEL UP@"
+	db   "Punts exp"
+	next "Nivell seg@"
 
 StatusScreen_ClearName:
 	ld bc, 10

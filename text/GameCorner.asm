@@ -1,190 +1,187 @@
 _GameCornerBeauty1Text::
-	text "Welcome!"
+	text "Benvingut!"
 
-	para "You can exchange"
-	line "your coins for"
-	cont "fabulous prizes"
-	cont "next door."
+	para "Pots canviar les"
+	line "teves monedes per"
+	cont "premis a la"
+	cont "botiga del costat."
 	done
 
 _GameCornerClerk1DoYouNeedSomeGameCoinsText::
-	text "Welcome to ROCKET"
-	line "GAME CORNER!"
+	text "Benvingut a Rocket"
+	line "GameCorner!"
 
-	para "Do you need some"
-	line "game coins?"
+	para "Necessites"
+	line "monedes?"
 
-	para "It's ¥1000 for 50"
-	line "coins. Would you"
-	cont "like some?"
+	para "Són 1000¥ per 50"
+	line "monedes. D'acord?"
 	done
 
 _GameCornerClerk1ThanksHereAre50CoinsText::
-	text "Thanks! Here are"
-	line "your 50 coins!"
+	text "Gràcies! Aquí tens"
+	line "les 50 monedes."
 	done
 
 _GameCornerClerk1PleaseComePlaySometimeText::
-	text "No? Please come"
-	line "play sometime!"
+	text "No? Torna i juga"
+	line "un altre dia!"
 	done
 
 _GameCornerClerk1CantAffordTheCoinsText::
-	text "You can't afford"
-	line "the coins!"
+	text "No tens diners per"
+	line "les monedes."
 	done
 
 _GameCornerClerk1CoinCaseIsFullText::
-	text "Oops! Your COIN"
-	line "CASE is full."
+	text "Ui, tens el"
+	line "moneder ple."
 	done
 
 _GameCornerClerk1DontHaveCoinCaseText::
-	text "You don't have a"
-	line "COIN CASE!"
+	text "No tens moneder!"
 	done
 
 _GameCornerMiddleAgedMan1Text::
-	text "Keep this quiet."
+	text "Alerta, nano."
 
-	para "It's rumored that"
-	line "this place is run"
-	cont "by TEAM ROCKET."
+	para "Diuen que el Team"
+	line "Rocket és l'amo"
+	cont "d'aquest local."
 	done
 
 _GameCornerBeauty2Text::
-	text "I think these"
-	line "machines have"
-	cont "different odds."
+	text "Estic segura que"
+	line "les màquines"
+	cont "estan trucades..."
 	done
 
 _GameCornerFishingGuruWantToPlayText::
-	text "Kid, do you want"
-	line "to play?"
+	text "Ei, nen,"
+	line "vols jugar?"
 	prompt
 
 _GameCornerFishingGuruReceived10CoinsText::
-	text "<PLAYER> received"
-	line "10 coins!@"
+	text "<PLAYER> rep"
+	line "10 monedes!@"
 	text_end
 
 _GameCornerFishingGuruDontNeedMyCoinsText::
-	text "You don't need my"
-	line "coins!"
+	text "No et donaré"
+	line "més monedes!"
 	done
 
 _GameCornerFishingGuruWinsComeAndGoText::
-	text "Wins seem to come"
-	line "and go."
+	text "Tant pots guanyar"
+	line "com perdre..."
 	done
 
 _GameCornerMiddleAgedWomanText::
-	text "I'm having a"
-	line "wonderful time!"
+	text "M'ho estic"
+	line "passant bomba!"
 	done
 
 _GameCornerGymGuideChampInMakingText::
-	text "Hey!"
+	text "Ooh!"
 
-	para "You have better"
-	line "things to do,"
-	cont "champ in making!"
+	para "Quina sorpresa"
+	line "veure't per aquí,"
+	cont "futur mestre!"
 
-	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
-	cont "She uses grass-"
-	cont "type #MON!"
+	para "L'Erika, la líder"
+	line "del gimnàs, fa"
+	cont "servir #mon de"
+	cont "tipus planta."
 
-	para "She might appear"
-	line "docile, but don't"
-	cont "be fooled!"
+	para "Que no t'enganyi"
+	line "la seva calma!"
+	cont "És molt tenaç!"
 	done
 
 _GameCornerGymGuideTheyOfferRarePokemonText::
-	text "They offer rare"
-	line "#MON that can"
-	cont "be exchanged for"
-	cont "your coins."
+	text "Aquí pots canviar"
+	line "bons #mon per"
+	cont "monedes."
 
-	para "But, I just can't"
-	line "seem to win!"
+	para "Ho intento, però"
+	line "no hi ha manera!"
 	done
 
 _GameCornerGamblerText::
-	text "Games are scary!"
-	line "It's so easy to"
-	cont "get hooked!"
+	text "Ai, és molt fàcil"
+	line "enganxar-se a les"
+	cont "màquines!"
 	done
 
 _GameCornerClerk2WantSomeCoinsText::
-	text "What's up? Want"
-	line "some coins?"
+	text "Ei, com va?"
+	line "Vols monedes?"
 	prompt
 
 _GameCornerClerk2Received20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "<PLAYER> rep"
+	line "20 monedes!@"
 	text_end
 
 _GameCornerClerk2YouHaveLotsOfCoinsText::
-	text "You have lots of"
-	line "coins!"
+	text "Tens un munt"
+	line "de monedes!"
 	done
 
 _GameCornerClerk2INeedMoreCoinsText::
-	text "Darn! I need more"
-	line "coins for the"
-	cont "#MON I want!"
+	text "Coi, no tinc prou"
+	line "monedes pel"
+	cont "#mon que vull!"
 	done
 
 _GameCornerGentlemanThrowingMeOffText::
-	text "Hey, what? You're"
-	line "throwing me off!"
-	cont "Here are some"
-	cont "coins, shoo!"
+	text "Què vols? M'estàs"
+	line "distraient."
+	cont "Té unes monedes!"
+	cont "Va, passa!"
 	prompt
 
 _GameCornerGentlemanReceived20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "<PLAYER> rep"
+	line "20 monedes!@"
 	text_end
 
 _GameCornerGentlemanYouGotYourOwnCoinsText::
-	text "You've got your"
-	line "own coins!"
+	text "Ja tens monedes!"
 	done
 
 _GameCornerGentlemanCloselyWatchTheReelsText::
-	text "The trick is to"
-	line "watch the reels"
-	cont "closely!"
+	text "El truc és seguir"
+	line "els dibuixos de"
+	cont "la màquina."
 	done
 
 _GameCornerRocketImGuardingThisPosterText::
-	text "I'm guarding this"
-	line "poster!"
-	cont "Go away, or else!"
+	text "Estic vigilant"
+	line "el cartell. Fot"
+	cont "el camp o rebràs!"
 	done
 
 _GameCornerRocketBattleEndText::
-	text "Dang!"
+	text "...Bufa!"
 	prompt
 
 _GameCornerRocketAfterBattleText::
-	text "Our hideout might"
-	line "be discovered! I"
-	cont "better tell BOSS!"
+	text "Han descobert"
+	line "l'amagatall! L'hi"
+	cont "he de dir al cap!"
 	done
 
 _GameCornerPosterSwitchBehindPosterText::
-	text "Hey!"
+	text "Ah!"
 
-	para "A switch behind"
-	line "the poster!?"
-	cont "Let's push it!@"
+	para "Hi ha un botó"
+	line "darrere del"
+	cont "cartell! Aviam"
+	cont "què passa...@"
 	text_end
 
 _GameCornerOopsForgotCoinCaseText::
-	text "Oops! Forgot the"
-	line "COIN CASE!"
+	text "Ai, no tens"
+	line "moneder!"
 	done

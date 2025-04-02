@@ -49,23 +49,24 @@ _ItemUseBallText08::
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
-	line "will be added for"
+	text "La #dex ha"
+	line "afegit info sobre"
 	cont "@"
 	text_ram wEnemyMonNick
 	text "!@"
 	text_end
 
 _SurfingGotOnText::
-	text "<PLAYER> got on"
-	line "@"
+	text "<PLAYER> ha"
+	line "pujat a sobre"
+	cont "de @"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _SurfingNoPlaceToGetOffText::
-	text "There's no place"
-	line "to get off!"
+	text "No hi ha lloc"
+	line "per baixar."
 	prompt
 
 _VitaminStatRoseText::
@@ -92,21 +93,21 @@ _ThrewRockText::
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
-	line "FLUTE."
+	text "Toques la"
+	line "Pokeflauta."
 
-	para "Now, that's a"
-	line "catchy tune!"
+	para "Quina melodia"
+	line "tan bona!"
 	prompt
 
 _FluteWokeUpText::
-	text "All sleeping"
-	line "#MON woke up."
+	text "Tots els #mon"
+	line "s'han despertat!"
 	prompt
 
 _PlayedFluteHadEffectText::
-	text "<PLAYER> played the"
-	line "# FLUTE.@"
+	text "<PLAYER> toca"
+	line "la Pokeflauta.@"
 	text_end
 
 _CoinCaseNumCoinsText::
@@ -154,34 +155,34 @@ _PPRestoredText::
 	prompt
 
 _BootedUpTMText::
-	text "Booted up a TM!"
+	text "Iniciant MT."
 	prompt
 
 _BootedUpHMText::
-	text "Booted up an HM!"
+	text "Iniciant MO."
 	prompt
 
 _TeachMachineMoveText::
-	text "It contained"
-	line "@"
+	text "Conté @"
 	text_ram wStringBuffer
 	text "!"
 
-	para "Teach @"
+	para "Vols que un"
+	line "#mon aprengui"
+	cont "@"
 	text_ram wStringBuffer
-	text_start
-	line "to a #MON?"
+	text "?"
 	done
 
 _MonCannotLearnMachineMoveText::
 	text_ram wNameBuffer
-	text " is not"
-	line "compatible with"
+	text " no és"
+	line "compatible amb"
 	cont "@"
 	text_ram wStringBuffer
 	text "."
 
-	para "It can't learn"
+	para "No pot aprendre"
 	line "@"
 	text_ram wStringBuffer
 	text "."

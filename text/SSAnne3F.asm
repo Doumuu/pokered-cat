@@ -1,7 +1,7 @@
 _SSAnne3FSailorText::
-	text "Our CAPTAIN is a"
-	line "sword master!"
+	text "El capità és un"
+	line "un espadatxí."
 
-	para "He even teaches"
-	line "CUT to #MON!"
+	para "Per això ensenya"
+	line "tall als #mon!"
 	done

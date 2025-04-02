@@ -68,10 +68,10 @@ LinkCableHelpText2:
 	text_end
 
 HowToLinkText:
-	db   "HOW TO LINK"
-	next "COLOSSEUM"
-	next "TRADE CENTER"
-	next "STOP READING@"
+	db   "Enllaçar"
+	next "Colosseu"
+	next "Trade Center"
+	next "Enrere@"
 
 LinkCableInfoTexts:
 	dw LinkCableInfoText1
