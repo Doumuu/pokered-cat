@@ -57,7 +57,7 @@ _OaksLabReceivedMonText::
 
 _OaksLabLastMonText::
 	text "Aquest és l'últim"
-	line "#mon de l'avi."
+	line "#mon del Dr."
 	done
 
 _OaksLabOak1WhichPokemonDoYouWantText::
@@ -90,8 +90,7 @@ _OaksLabOak1DeliverParcelText::
 	line "congeniat força!"
 
 	para "Deus ser un"
-	line "entrenador"
-	cont "excel·lent."
+	line "bon entrenador."
 
 	para "Com dius? M'has"
 	line "portat una cosa?"
@@ -133,9 +132,9 @@ _OaksLabGivePokeballsExplanationText::
 	para "Quan aparegui un"
 	line "#mon, fes via!"
 
-	para "Llença-li una"
+	para "Llança-li una"
 	line "#ball per"
-	line "atrapar-lo!"
+	cont "atrapar-lo!"
 
 	para "És possible que"
 	line "no el puguis"
@@ -147,8 +146,9 @@ _OaksLabGivePokeballsExplanationText::
 	done
 
 _OaksLabOak1ComeSeeMeSometimesText::
-	text "Roure: Passa't"
-	line "de tant en tant."
+	text "Roure: Passa a"
+	line "veure'm de tant"
+	line "en tant."
 
 	para "Vull veure com"
 	line "vas ampliant la"
@@ -160,13 +160,14 @@ _OaksLabOak1HowIsYourPokedexComingText::
 	line "de veure't!"
 	cont "Com portes la"
 	cont "#dex? Deixa'm"
-	cont "que vegi!"
+	cont "que la vegi!"
 	prompt
 
 _OaksLabPokedexText::
 	text "Sembla una"
-	line "enclopèdia, però"
-	cont "està en blanc."
+	line "enciclopèdia,"
+	cont "però no hi ha"
+	cont "res escrit..."
 	done
 
 _OaksLabOak2Text::
@@ -282,8 +283,8 @@ _OaksLabRivalGrampsText::
 	done
 
 _OaksLabRivalWhatDidYouCallMeForText::
-	text "<RIVAL>: Per"
-	line "què m'has cridat?"
+	text "<RIVAL>: Per què"
+	line "m'has cridat?"
 	done
 
 _OaksLabOakIHaveARequestText::
@@ -349,7 +350,7 @@ _OaksLabRivalLeaveItAllToMeText::
 	cont "meva germana."
 
 	para "I li diré que no"
-	line "te'n doni un!"
+	line "te'n doni cap!"
 	done
 
 _OaksLabScientistText::

@@ -4,7 +4,7 @@ _SSAnne2FRoomsGentleman3Text::
 	cont "ningú dormir com"
 	cont "aquest #mon!"
 
-	para "Mite'l com dorm!"
+	para "Mi-te'l com dorm!"
 	prompt
 
 _SSAnne2FRoomsGentleman4Text::
@@ -20,8 +20,8 @@ _SSAnne2FRoomsGrampsText::
 
 _SSAnne2FRoomsGentleman5Text::
 	text "Has estat a la"
-	line "Zona Safari de"
-	cont "Ciutat Rosa?"
+	line "Zona Safari"
+	cont "de Rosó?"
 
 	para "Hi ha una pila de"
 	line "#mon rars!"

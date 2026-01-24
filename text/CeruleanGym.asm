@@ -21,7 +21,7 @@ _CeruleanGymMistyTM11ExplanationText::
 	text "L'MT11 conté"
 	line "Bombolleig."
 
-	para "Ensenya-ho a un"
+	para "Ensenya-l'hi a un"
 	line "#mon d'aigua!"
 	done
 

@@ -70,8 +70,8 @@ BattleMenuText:
 	next "Bossa Esc@"
 
 SafariZoneBattleMenuText:
-	db   "BALL×       BAIT"
-	next "THROW ROCK  RUN@"
+	db   "Bola×     Esquer"
+	next "Pedra     Fuig@"
 
 SwitchStatsCancelText:
 	db   "Canvia"

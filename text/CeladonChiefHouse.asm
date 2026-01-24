@@ -5,11 +5,11 @@ _CeladonChiefHouseChiefText::
 	done
 
 _CeladonChiefHouseRocketText::
-	text "President!"
+	text "Senyor!"
 
 	para "Avui hem enviat"
-	line "2000 #mon com"
-	cont "a premis."
+	line "2.000 #mon"
+	cont "com a premis."
 	done
 
 _CeladonChiefHouseSailorText::

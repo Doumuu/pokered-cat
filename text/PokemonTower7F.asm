@@ -4,12 +4,12 @@ _PokemonTower7FMrFujiRescueText::
 
 	para "Gràcies, però..."
 	line "he vingut a"
-	cont "tranquil·litzar"
-	cont "l'ànima de la"
-	cont "mare de Crànic."
+	cont "consolar l'ànima"
+	cont "de la mare d'en"
+	cont "pobre Crànic."
 
 	para "...Ah, dius que"
-	line "l'ànima s'ha anat"
+	line "l'ànima ha marxat"
 	cont "al més enllà?"
 
 	para "Moltes gràcies per"
@@ -19,7 +19,7 @@ _PokemonTower7FMrFujiRescueText::
 	line "a casa, doncs?"
 
 	para "La Casa #mon"
-	line "està la peu"
+	line "es troba al peu"
 	cont "d'aquesta torre."
 	done
 
@@ -69,8 +69,8 @@ _PokemonTower7FRocket3BattleText::
 	done
 
 _PokemonTower7FRocket3EndBattleText::
-	text "El Team"
-	line "Rocket guanyarà!"
+	text "Els Rocket"
+	line "guanyarem!"
 	prompt
 
 _PokemonTower7FRocket3AfterBattleText::

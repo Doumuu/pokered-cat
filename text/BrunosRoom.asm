@@ -1,37 +1,36 @@
 _BrunoBeforeBattleText::
-	text "I am BRUNO of"
-	line "the ELITE FOUR!"
+	text "Em dic Shiba,"
+	line "del Quartet!"
 
-	para "Through rigorous"
-	line "training, people"
-	cont "and #MON can"
-	cont "become stronger!"
+	para "Tant els humans"
+	line "com els #mon"
+	cont "poden ser forts"
+	cont "si s'entrenen."
 
-	para "I've weight"
-	line "trained with"
-	cont "my #MON!"
+	para "Jo m'he entrenat"
+	line "de valent amb els"
+	cont "meus #mon!"
 
 	para "<PLAYER>!"
 
-	para "We will grind you"
-	line "down with our"
-	cont "superior power!"
+	para "Obre bé els ulls"
+	line "i observa el"
+	cont "nostre poder!"
 
-	para "Hoo hah!"
+	para "Hu-ha!"
 	done
 
 _BrunoEndBattleText::
-	text "Why?"
-	line "How could I lose?"
+	text "Com puc"
+	line "haver perdut?"
 	prompt
 
 _BrunoAfterBattleText::
-	text "My job is done!"
-	line "Go face your next"
-	cont "challenge!"
+	text "Bé, jo ja he fet"
+	line "la meva feina..."
+	cont "Passa endavant!"
 	done
 
 _BrunosRoomBrunoDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Veu: No fugis!"
 	done

@@ -1,16 +1,16 @@
 _CardKeySuccessText1::
-	text "Bingo!@"
+	text "Visca!@"
 	text_end
 
 _CardKeySuccessText2::
 	text_start
-	line "The CARD KEY"
-	cont "opened the door!"
+	line "La Targeta clau"
+	cont "ha obert la porta!"
 	done
 
 _CardKeyFailText::
-	text "Darn! It needs a"
-	line "CARD KEY!"
+	text "Ai! Em cal una"
+	line "Targeta clau!"
 	done
 
 _TrainerNameText::
@@ -19,17 +19,17 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Not even a nibble!"
+	text "No piquen..."
 	prompt
 
 _NothingHereText::
-	text "Looks like there's"
-	line "nothing here."
+	text "Sembla que no"
+	line "hi ha res."
 	prompt
 
 _ItsABiteText::
 	text "Oh!"
-	line "It's a bite!"
+	line "Han picat!"
 	prompt
 
 _ExclamationText::
@@ -37,13 +37,13 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Ground rose up"
-	line "somewhere!"
+	text "El terra s'ha"
+	line "esquerdat!"
 	done
 
 _BoulderText::
-	text "This requires"
-	line "STRENGTH to move!"
+	text "Et cal Força"
+	line "per moure-ho!"
 	done
 
 _MartSignText::
@@ -64,8 +64,8 @@ _FoundItemText::
 	text_end
 
 _NoMoreRoomForItemText::
-	text "No more room for"
-	line "items!"
+	text "No t'hi caben"
+	line "més objectes!"
 	done
 
 _OaksAideHiText::
@@ -100,23 +100,20 @@ _OaksAideUhOhText::
 	para "N'has de tenir @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "si vols el"
-	cont "@"
+	line "si vols @"
 	text_ram wOaksAideRewardItemName
-	text "."
-	done
+	text_end
 
 _OaksAideComeBackText::
 	text "Ah, d'acord."
 
-	para "Quan en tinguis @"
+	para "Quan tinguis @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
 	line "tipus, torna a"
 	cont "pel @"
 	text_ram wOaksAideRewardItemName
-	text "."
-	done
+	text_end
 
 _OaksAideHereYouGoText::
 	text "Que bé! Has"
@@ -142,5 +139,4 @@ _OaksAideNoRoomText::
 	cont "a la bossa pel"
 	cont "@"
 	text_ram wOaksAideRewardItemName
-	text "."
-	done
+	text_end

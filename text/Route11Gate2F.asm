@@ -34,8 +34,7 @@ _Route11Gate2FRightBinocularsText::
 	line "binocles."
 
 	para "L'única manera"
-	line "d'anar de Ciutat"
-	cont "Blaucel a"
-	cont "Vilamalva és pel"
-	cont "Túnel Roca."
+	line "d'anar de Blaucel"
+	cont "a Vilamalva és"
+	cont "pel Túnel Roca."
 	done

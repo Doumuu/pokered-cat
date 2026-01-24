@@ -1,86 +1,85 @@
 _WardensHouseWardenGibberish1Text::
-	text "WARDEN: Hif fuff"
-	line "hefifoo!"
+	text "Vigilant: Aduda!"
+	line "Eds Doqued"
+	cont "man dubat da"
+	cont "dentaduda!"
 
-	para "Ha lof ha feef ee"
-	line "hafahi ho. Heff"
-	cont "hee fwee!"
+	para "Edtà a da"
+	line "Dona Dafadi!"
+	cont "Madudadàs?"
 	done
 
 _WardensHouseWardenGibberish2Text::
-	text "Ah howhee ho hoo!"
-	line "Eef ee hafahi ho!"
+	text "Moddes dàcies!"
+	line "Beda Dona Dafadi!"
 	done
 
 _WardensHouseWardenGibberish3Text::
-	text "Ha? He ohay heh"
-	line "ha hoo ee haheh!"
+	text "Com? Do em bods"
+	line "adudà? Mod bé."
 	done
 
 _WardensHouseWardenGaveTheGoldTeethText::
-	text "<PLAYER> gave the"
-	line "GOLD TEETH to the"
-	cont "WARDEN!@"
+	text "<PLAYER> dona"
+	line "les Dents d'or"
+	cont "al Vigilant!@"
 	text_end
 
 _WardensHouseWardenTeethPoppedInHisTeethText::
 	text_start
 
-	para "The WARDEN popped"
-	line "in his teeth!"
+	para "El Vigilant s'ha"
+	line "posat les dents."
 	prompt
 
 _WardensHouseWardenThanksText::
-	text "WARDEN: Thanks,"
-	line "kid! No one could"
-	cont "understand a word"
-	cont "that I said."
+	text "Vigilant: Gràcies,"
+	line "noi! Ningú em"
+	cont "podia entendre!"
 
-	para "I couldn't work"
-	line "that way."
-	cont "Let me give you"
-	cont "something for"
-	cont "your trouble."
+	para "M'era molt difícil"
+	line "treballar. Té,"
+	cont "deixa'm donar-te"
+	cont "un detall."
 	prompt
 
 _WardensHouseWardenReceivedHM04Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _WardensHouseWardenHM04ExplanationText::
-	text "WARDEN: HM04"
-	line "teaches STRENGTH!"
+	text "Vigilant: MO04"
+	line "conté Força!"
 
-	para "It lets #MON"
-	line "move boulders"
-	cont "when you're out-"
-	cont "side of battle."
+	para "Permet als #mon"
+	line "moure roques fora"
+	cont "dels combats."
 
-	para "Oh yes, did you"
-	line "find SECRET HOUSE"
-	cont "in SAFARI ZONE?"
+	para "Per cert, has vist"
+	line "la Casa secreta a"
+	cont "la Zona Safari?"
 
-	para "If you do, you"
-	line "win an HM!"
+	para "Si hi entres, et"
+	line "donaran una MO!"
 
-	para "I hear it's the"
-	line "rare SURF HM."
+	para "Diuen que és"
+	line "l'MO de Surf!"
 	done
 
 _WardensHouseWardenHM04NoRoomText::
-	text "Your pack is"
-	line "stuffed full!"
+	text "Tens la bossa"
+	line "plena, noi!"
 	done
 
 _WardensHouseDisplayPhotosAndFossilsText::
-	text "#MON photos"
-	line "and fossils."
+	text "Fotos i fòssils"
+	line "de #mon."
 	done
 
 _WardensHouseDisplayMerchandiseText::
-	text "Old #MON"
-	line "merchandise."
+	text "Marxandatge antic"
+	line "de #mon."
 	done

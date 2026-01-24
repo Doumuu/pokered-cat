@@ -10,7 +10,7 @@ _CeladonCityLittleGirlText::
 
 _CeladonCityGramps1Text::
 	text "Aquest gimnàs està"
-	line "ple de dones...!"
+	line "ple de noies...!"
 	done
 
 _CeladonCityGirlText::
@@ -29,7 +29,7 @@ _CeladonCityGramps2Text::
 	done
 
 _CeladonCityGramps3Text::
-	text "Com va això!"
+	text "Com va això?"
 
 	para "T'he vist per aquí"
 	line "però mai havíem"
@@ -54,7 +54,7 @@ _CeladonCityGramps3TM41ExplanationText::
 	line "amb un #mon."
 
 	para "Aquest #mon"
-	line "és en Fadi!"
+	line "és en Xamba!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
@@ -71,8 +71,7 @@ _CeladonCityFisherText::
 	done
 
 _CeladonCityPoliwrathText::
-	text "Espinall: Croc!"
-	line "Rauc, rauc!@"
+	text "Espinall: Rauc!@"
 	text_end
 
 _CeladonCityRocket1Text::
@@ -82,7 +81,7 @@ _CeladonCityRocket1Text::
 
 _CeladonCityRocket2Text::
 	text "No et fiquis amb"
-	line "el Team Rocket!"
+	line "els Rocket!"
 	done
 
 _CeladonCityTrainerTips1Text::
@@ -93,36 +92,36 @@ _CeladonCityTrainerTips1Text::
 	cont "atacs."
 
 	para "+Crític fa créixer"
-	line "la probabilitat de"
-	cont "cops crítics."
+	line "la probabilitat"
+	cont "de cops crítics."
 
 	para "Aconsegueix-los"
-	line "al Pokexprés de"
-	cont "Ciutat Iridescent!"
+	line "al Pokexprés"
+	cont "d'Iridescent!"
 	done
 
 _CeladonCitySignText::
-	text "Ciutat Iridescent:"
+	text "Iridescent:"
 	line "La resplendor"
 	cont "del somnis"
 	done
 
 _CeladonCityGymSignText::
-	text "Líder del gimnàs"
-	line "#mon de Ciutat"
-	cont "Iridescent:"
+	text "Líder del"
+	line "gimnàs #mon"
+	cont "d'Iridescent:"
 
 	para "Erika, l'amant"
-	line "de la natura."
+	line "de la natura"
 	done
 
 _CeladonCityMansionSignText::
-	text "Mansió Iridescent"
+	text "Edifici Iridescent"
 	done
 
 _CeladonCityDeptStoreSignText::
-	text "Pokexprés de"
-	line "Ciutat Iridescent"
+	text "Pokexprés"
+	line "d'Iridescent:"
 	cont "Ho tenim tot!"
 	done
 
@@ -136,8 +135,8 @@ _CeladonCityTrainerTips2Text::
 	cont "foc o l'aigua."
 
 	para "Aconsegueix-lo"
-	line "al Pokexprés de"
-	cont "Ciutat Iridescent!"
+	line "al Pokexprés"
+	cont "d'Iridescent!"
 	done
 
 _CeladonCityPrizeExchangeSignText::

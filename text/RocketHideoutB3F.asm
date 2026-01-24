@@ -1,7 +1,7 @@
 _RocketHideoutB3FRocket1BattleText::
 	text "Deixa de ficar-te"
-	line "en les temes del"
-	cont "Team Rocket!"
+	line "en els temes"
+	cont "dels Rocket!"
 	done
 
 _RocketHideoutB3FRocket1EndBattleText::

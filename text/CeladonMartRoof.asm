@@ -28,14 +28,14 @@ _CeladonMartRoofLittleGirlTM13ExplanationText::
 	text " conté"
 	line "Raig de gel!"
 
-	para "Pot congelar"
+	para "Pot glaçar"
 	line "el contrincant!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYaySodaPopText::
 	text "Que bé!"
 
-	para "Un refresc!"
+	para "Psicola!"
 
 	para "Moltes gràcies!"
 
@@ -55,7 +55,7 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 	para "@"
 	text_ram wStringBuffer
 	text " conté"
-	line "Esllavissada!"
+	line "Enderroc!"
 
 	para "Pot espantar"
 	line "el contrincant!@"
@@ -64,7 +64,7 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 _CeladonMartRoofLittleGirlYayLemonadeText::
 	text "Que bé!"
 
-	para "Una llimonada!"
+	para "Cacaollet!"
 
 	para "Moltes gràcies!"
 
@@ -90,7 +90,7 @@ _CeladonMartRoofLittleGirlNoRoomText::
 
 _CeladonMartRoofLittleGirlImNotThirstyText::
 	text "No, gràcies!"
-	line "Ja no tinc set."
+	line "Ja no tinc set.@"
 	text_end
 
 _CeladonMartRoofSuperNerdText::

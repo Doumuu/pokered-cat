@@ -110,6 +110,6 @@ _RockTunnel1FCooltrainerF3AfterBattleText::
 
 _RockTunnel1FSignText::
 	text "Túnel Roca:"
-	line "Ciutat Blaucel -"
+	line "Blaucel -"
 	cont "Vilamalva"
 	done

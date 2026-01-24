@@ -123,59 +123,58 @@ _CeruleanCityGuardText::
 	text "Han entrat"
 	line "a robar."
 
-	para "És obvi que el"
-	line "Team Rocket hi"
-	cont "està al darrere!"
+	para "És obvi que els"
+	line "Rocket hi estan"
+	cont "al darrere."
 
 	para "Els Rocket donen"
 	line "feina fins i tot"
-	cont "a la Policia!"
+	cont "a la policia!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
-	text "OK! SLOWBRO!"
-	line "Use SONICBOOM!"
-	cont "Come on, SLOWBRO"
-	cont "pay attention!"
+	text "Vinga, Salamaimó!"
+	line "Bang sònic! Va!"
+	cont "Salamaimó...!"
+	cont "Para atenció!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroPunchText::
-	text "SLOWBRO punch!"
-	line "No! You blew it"
-	cont "again!"
+	text "Ataca, Salamaimó!"
+	line "No! Així no!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
-	text "SLOWBRO, WITHDRAW!"
-	line "No! That's wrong!"
+	text "Aah...Salamaimó!"
+	line "Ho fas malament!"
 
-	para "It's so hard to"
-	line "control #MON!"
+	para "És difícil dirigir"
+	line "els #mon!"
 
-	para "Your #MON's"
-	line "obedience depends"
-	cont "on your abilities"
-	cont "as a trainer!"
+	para "La seva obediència"
+	line "depèn de les"
+	cont "teves habilitats"
+	cont "com a entrenador."
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
-	text "SLOWBRO took a"
-	line "snooze..."
+	text "En Salamaimó fa"
+	line "una becaina."
 	done
 
 _CeruleanCitySlowbroIsLoafingAroundText::
-	text "SLOWBRO is"
-	line "loafing around..."
+	text "En Salamaimó"
+	line "fa el gandul."
 	done
 
 _CeruleanCitySlowbroTurnedAwayText::
-	text "SLOWBRO turned"
-	line "away..."
+	text "En Salamaimó"
+	line "gira l'esquena."
 	done
 
 _CeruleanCitySlowbroIgnoredOrdersText::
-	text "SLOWBRO"
-	line "ignored orders..."
+	text "En Salamaimó"
+	line "no fa cas."
 	done
 
 _CeruleanCityCooltrainerF2Text::
@@ -200,7 +199,7 @@ _CeruleanCitySuperNerd3Text::
 	done
 
 _CeruleanCitySignText::
-	text "Ciutat Blaucel:"
+	text "Blaucel:"
 	line "Misteriosa"
 	cont "com el mar"
 	done
@@ -222,9 +221,9 @@ _CeruleanCityBikeShopSign::
 
 _CeruleanCityGymSign::
 	text "Líder del gimnàs"
-	line "#mon de Ciutat"
+	line "#mon de"
 	cont "Blaucel: Marina,"
 
-	para "la sinera"
-	line "buscabregues!"
+	para "la sirena"
+	line "buscabregues"
 	done

@@ -1,6 +1,6 @@
 _Route2TradeHouseScientistText::
 	text "Els #mon"
-	line "desmaiats poden"
+	line "estabornits poden"
 	cont "usar moviments"
 	cont "com Tall!"
 	done

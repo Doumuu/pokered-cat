@@ -123,7 +123,7 @@ _Route11Youngster3AfterBattleText::
 	cont "sempre de les"
 	cont "muntanyes."
 
-	para "Qui el caçi tindrà"
+	para "Qui el caci tindrà"
 	line "un equip fort."
 	done
 

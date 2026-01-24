@@ -1,26 +1,26 @@
 _Route16Gate2FLittleBoyText::
-	text "I'm going for a"
-	line "ride with my girl"
-	cont "friend!"
+	text "He sortit a fer un"
+	line "tomb amb bici amb"
+	cont "la meva xicota!"
 	done
 
 _Route16Gate2FLittleGirlText::
-	text "We're going"
-	line "riding together!"
+	text "Hi, hi! Estem"
+	line "anant d'excursió!"
 	done
 
 _Route16Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Mires pels"
+	line "binocles."
 
-	para "It's CELADON DEPT."
-	line "STORE!"
+	para "És el Pokexprés"
+	line "d'Iridescent!"
 	done
 
 _Route16Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Mires pels"
+	line "binocles."
 
-	para "There's a long"
-	line "path over water!"
+	para "Hi ha un camí que"
+	line "travessa el mar!"
 	done

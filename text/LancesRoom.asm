@@ -1,64 +1,64 @@
 _LancesRoomLanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you <PLAYER>!"
+	text "Ah, <PLAYER>!"
+	line "Has arribat..."
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Soc el líder del"
+	line "Quartet. Em diuen"
+	cont "Alix, el domador"
+	cont "de dracs."
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Els dracs són"
+	line "bèsties sagrades"
+	cont "i llegendàries!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "Són difícils de"
+	line "caçar i de criar,"
+	cont "però res se'ls"
+	cont "pot comparar!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "Són gairebé"
+	line "indestructibles!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Bé, preparat"
+	line "per perdre?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "O prefereixes"
+	line "girar cua,"
+	cont "<PLAYER>?"
 	done
 
 _LancesRoomLanceEndBattleText::
-	text "That's it!"
+	text "Ooh!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "Costa dir-ho, però"
+	line "tens fusta com a"
+	cont "entrenador, noi!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "No em puc creure"
+	line "hagis guanyat"
+	cont "els meus dracs,"
+	cont "<PLAYER>!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "Doncs ets el"
+	line "campió de la"
+	cont "Lliga #mon!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...o això diria"
+	line "si no tinguessis"
+	cont "un altre rival."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "T'espera un altre"
+	line "entrenador."
+	cont "Es diu..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Ell ha vençut"
+	cont "el Quartet abans"
+	cont "que tu."
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "Ell és el"
+	line "campió de la"
+	cont "Lliga #mon!@"
 	text_end

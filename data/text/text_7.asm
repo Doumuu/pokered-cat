@@ -1,5 +1,5 @@
 _ItemUseText001::
-	text "<PLAYER> used@"
+	text "<PLAYER> usa@"
 	text_end
 
 _ItemUseText002::
@@ -48,22 +48,22 @@ _TooImportantToTossText::
 
 _AlreadyKnowsText::
 	text_ram wNameBuffer
-	text " knows"
+	text " ja sap"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _ConnectCableText::
-	text "Okay, connect the"
-	line "cable like so!"
+	text "Molt bé. Connecta"
+	line "el cable així!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> traded"
+	text "<PLAYER> ha canviat"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " for"
+	text " per"
 	cont "@"
 	text_ram wInGameTradeReceiveMonName
 	text "!@"
@@ -87,7 +87,7 @@ _NoTrade1Text::
 	done
 
 _WrongMon1Text::
-	text "Mmm... aquest no"
+	text "Mmm...aquest no"
 	line "és un @"
 	text_ram wInGameTradeGiveMonName
 	text "."
@@ -138,12 +138,12 @@ _Thanks2Text::
 	done
 
 _AfterTrade2Text::
-	text "The @"
+	text "El @"
 	text_ram wInGameTradeGiveMonName
-	text " you"
-	line "traded to me"
+	text " que"
+	line "m'has canviat"
 
-	para "went and evolved!"
+	para "ha evolucionat!"
 	done
 
 _WannaTrade3Text::
@@ -182,14 +182,15 @@ _AfterTrade3Text::
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 
-	para "El meu @"
+	para "El teu @"
 	text_ram wInGameTradeGiveMonName
-	cont "està molt bé!"
+	text_start
+	line "està molt bé!"
 	done
 
 _NothingToCutText::
 	text "No hi ha res"
-	line "per tallar!"
+	line "a tallar!"
 	prompt
 
 _UsedCutText::

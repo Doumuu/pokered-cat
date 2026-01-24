@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "Retirar obj."
-	next "Desar obj."
-	next "Eliminar obj."
-	next "Apagar@"
+	db   "Retira obj."
+	next "Desa obj."
+	next "Elimina obj."
+	next "Desconnecta@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

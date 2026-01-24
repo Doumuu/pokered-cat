@@ -529,9 +529,9 @@ MonsStatsRoseText:
 	ret
 
 GreatlyRoseText:
-	text_pause
 	text_far _GreatlyRoseText
-; fallthrough
+	text_end
+
 RoseText:
 	text_far _RoseText
 	text_end
@@ -734,9 +734,9 @@ MonsStatsFellText:
 	ret
 
 GreatlyFellText:
-	text_pause
 	text_far _GreatlyFellText
-; fallthrough
+	text_end
+
 FellText:
 	text_far _FellText
 	text_end
@@ -754,7 +754,7 @@ PrintStatText:
 	jr .findStatName_inner
 .foundStatName
 	ld de, wStringBuffer
-	ld bc, $a
+	ld bc, 13
 	jp CopyData
 
 INCLUDE "data/battle/stat_mod_names.asm"

@@ -1,27 +1,27 @@
 _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
-	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	text "El Vigilant de"
+	line "Zona Safari és"
+	cont "vell però actiu!"
 
-	para "All his teeth are"
-	line "false, though."
+	para "Però el pobre"
+	line "porta dentadura"
+	cont "i no se l'entén."
 	done
 
 _FuchsiaBillsGrandpasHouseBillsGrandpaText::
-	text "Hmm? You've met"
-	line "BILL?"
+	text "Eh? Ah, dius que"
+	line "coneixes l'Èric?"
 
-	para "He's my grandson!"
+	para "És el meu net!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
+	para "Fins i tot de"
+	line "petit li agradava"
+	cont "col·leccionar coses."
 	done
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+	text "El meu germà té"
+	line "#mon al PC!"
 
-	para "Did he show you?"
+	para "T'ho ha ensenyat?"
 	done

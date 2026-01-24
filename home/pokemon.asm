@@ -320,11 +320,11 @@ PrintStatusCondition::
 	pop de
 	jr nz, PrintStatusConditionNotFainted
 ; if the pokemon's HP is 0, print "FNT"
-	ld a, "F"
+	ld a, "E"
 	ld [hli], a
-	ld a, "N"
+	ld a, "s"
 	ld [hli], a
-	ld [hl], "T"
+	ld [hl], "t"
 	and a
 	ret
 

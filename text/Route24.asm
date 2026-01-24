@@ -25,10 +25,10 @@ _Route24CooltrainerM1NoRoomText::
 
 _Route24CooltrainerM1JoinTeamRocketText::
 	text "Per cert, vols"
-	line "unir-te al"
-	cont "Team Rocket?"
+	line "unir-te als"
+	cont "Rocket?"
 
-	para "El nostre grup fa"
+	para "La nostra banda fa"
 	line "servir #mon"
 	cont "per fer el mal."
 
@@ -56,8 +56,8 @@ _Route24CooltrainerM1DefeatedText::
 _Route24CooltrainerM1YouCouldBecomeATopLeaderText::
 	text "Amb la teva traça"
 	line "podries ser un"
-	cont "líder dins del"
-	cont "Team Rocket!"
+	cont "líder dins dels"
+	cont "Rocket!"
 	done
 
 _Route24CooltrainerM2BattleText::

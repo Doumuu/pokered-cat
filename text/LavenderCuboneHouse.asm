@@ -1,25 +1,24 @@
 _LavenderCuboneHouseCuboneText::
-	text "CUBONE: Kyarugoo!@"
+	text "Crànic: Crauuu!@"
 	text_end
 
 _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
-	text "I hate those"
-	line "horrible ROCKETs!"
+	text "Mai perdonaré"
+	line "els Rocket!"
 
-	para "That poor CUBONE's"
-	line "mother..."
+	para "Pobra mare"
+	line "d'en Crànic..."
 
-	para "It was killed"
-	line "trying to escape"
-	cont "from TEAM ROCKET!"
+	para "Els Rocket la van"
+	line "matar mentre"
+	cont "intentava fugir."
 	done
 
 _LavenderCuboneHouseBrunetteGirlGhostIsGoneText::
-	text "The GHOST of"
-	line "#MON TOWER is"
-	cont "gone!"
+	text "El fantasma de la"
+	line "Torre #mon ja"
+	cont "no hi és!"
 
-	para "Someone must have"
-	line "soothed its"
-	cont "restless soul!"
+	para "Algú deu haver"
+	line "consolat l'ànima."
 	done

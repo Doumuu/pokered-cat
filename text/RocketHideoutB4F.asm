@@ -20,7 +20,7 @@ _RocketHideoutB4FGiovanniWhatCannotBeText::
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
 	text "Ja veig que cuides"
-	line "els teus #MON."
+	line "els teus #mon."
 
 	para "Un nen com tu mai"
 	line "podrà entendre"

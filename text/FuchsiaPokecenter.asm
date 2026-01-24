@@ -1,20 +1,19 @@
 _FuchsiaPokecenterRockerText::
-	text "You can't win"
-	line "with just one"
-	cont "strong #MON."
+	text "Tenir un #mon"
+	line "fort no et fa un"
+	cont "bon entrenador."
 
-	para "It's tough, but"
-	line "you have to raise"
-	cont "them evenly."
+	para "No és fàcil, però"
+	line "ha d'haver-hi un"
+	cont "equilibri."
 	done
 
 _FuchsiaPokecenterCooltrainerFText::
-	text "There's a narrow"
-	line "trail west of"
-	cont "VIRIDIAN CITY."
+	text "Hi ha un caminet"
+	line "a l'oest de"
+	cont "Verdins que duu a"
+	cont "la Lliga #mon!"
 
-	para "It goes to #MON"
-	line "LEAGUE HQ."
-	cont "The HQ governs"
-	cont "all trainers."
+	para "Hi van els millors"
+	line "entrenadors!"
 	done

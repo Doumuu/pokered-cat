@@ -5,7 +5,7 @@ _CeruleanTrashedHouseFishingGuruTheyStoleATMText::
 	para "Mira quin"
 	line "desastre!"
 
-	para "M'han robat un MT"
+	para "M'han robat una MT"
 	line "que ensenya els"
 	cont "#mon a"
 	cont "excavar!"
@@ -23,13 +23,13 @@ _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
 	done
 
 _CeruleanTrashedHouseGirlText::
-	text "Segur que el Team"
-	line "Rocket té un pla"
-	cont "per excavar a"
-	cont "algun lloc."
+	text "Segur que els"
+	line "Rocket tenen un"
+	cont "pla per excavar"
+	cont "a algun lloc."
 	done
 
 _CeruleanTrashedHouseWallHoleText::
-	text "El Team Rocket ha"
-	line "deixat un forat"
+	text "Els Rocket han"
+	line "deixat un forat."
 	done

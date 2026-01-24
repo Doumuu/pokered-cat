@@ -1,13 +1,13 @@
 _PokemonTower6FGhostWasCubonesMotherText::
 	text "El fantasma era"
 	line "l'ànima de la"
-	cont "mare de'n Crànic!"
+	cont "mare d'en Crànic!"
 	done
 
 _PokemonTower6FSoulWasCalmedText::
 	text "L'ànima s'ha pogut"
 	line "tranquil·litzar i"
-	cont "ha marxat al"
+	cont "se n'ha anat al"
 	cont "més enllà."
 	done
 

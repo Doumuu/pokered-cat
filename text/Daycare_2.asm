@@ -19,7 +19,7 @@ _DaycareGentlemanOnlyHaveOneMonText::
 
 _DaycareGentlemanCantAcceptMonWithHMText::
 	text "No puc acceptar"
-	line "#MON amb un"
+	line "#mon amb un"
 	cont "moviment MO."
 	done
 

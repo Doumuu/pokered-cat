@@ -19,11 +19,11 @@ _SaffronGateGuardYouCanGoOnThroughText::
 	text_start
 
 	para "..."
-	line "Glup glup..."
+	line "Glup, glup..."
 	cont "..."
 	cont "Aah..."
 	cont "Si vols anar a"
-	cont "Ciutat Daurada..."
+	cont "Daurada..."
 	cont "..."
 	cont "ja pots passar."
 	cont "Els ho diré als"

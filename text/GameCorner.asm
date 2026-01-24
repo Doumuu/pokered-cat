@@ -15,7 +15,7 @@ _GameCornerClerk1DoYouNeedSomeGameCoinsText::
 	line "monedes?"
 
 	para "Són 1000¥ per 50"
-	line "monedes. D'acord?"
+	line "monedes, d'acord?"
 	done
 
 _GameCornerClerk1ThanksHereAre50CoinsText::
@@ -45,9 +45,9 @@ _GameCornerClerk1DontHaveCoinCaseText::
 _GameCornerMiddleAgedMan1Text::
 	text "Alerta, nano."
 
-	para "Diuen que el Team"
-	line "Rocket és l'amo"
-	cont "d'aquest local."
+	para "Diuen que aquest"
+	line "local és dels"
+	cont "Rocket."
 	done
 
 _GameCornerBeauty2Text::

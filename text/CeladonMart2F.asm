@@ -1,6 +1,6 @@
 _CeladonMart2FMiddleAgedManText::
-	text "Repel.Top manté"
-	line "segurs els"
+	text "Repel·lent Top"
+	line "manté segurs els"
 	cont "#mon dèbils."
 
 	para "És més eficaç que"
@@ -14,7 +14,7 @@ _CeladonMart2FGirlText::
 	done
 
 _CeladonMart2FCurrentFloorSignText::
-	text "P2: Entrenadors"
+	text "P1: Entrenadors"
 
 	para "Productes #mon"
 	line "per a entrenadors"

@@ -38,7 +38,7 @@ _SSAnne1FRoomsGentleman2AfterBattleText::
 
 _SSAnne1FRoomsYoungsterBattleText::
 	text "M'estimo molt els"
-	line "meu #mon! I tu?"
+	line "meus #mon! Tu?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
@@ -101,5 +101,5 @@ _SSAnne1FRoomsGentleman3Text::
 	line "internacional!"
 
 	para "Segueixo la pista"
-	line "del Team Rocket."
+	line "dels Rocket."
 	done

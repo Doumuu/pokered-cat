@@ -1,195 +1,188 @@
 _Route17Biker1BattleText::
-	text "There's no money"
-	line "in fighting kids!"
+	text "Lluitar amb nens"
+	line "també dona pasta!"
 	done
 
 _Route17Biker1EndBattleText::
-	text "Burned"
-	line "out!"
+	text "No he"
+	line "guanyat res!"
 	prompt
 
 _Route17Biker1AfterBattleText::
-	text "Good stuff is"
-	line "lying around on"
-	cont "CYCLING ROAD!"
+	text "Treuràs diners si"
+	line "vens el que et"
+	cont "trobis pel carril."
 	done
 
 _Route17Biker2BattleText::
-	text "What do you want,"
-	line "kiddo?"
+	text "Vols veure la"
+	line "força que tinc?"
 	done
 
 _Route17Biker2EndBattleText::
-	text "Whoo!"
+	text "Fiu!"
 	prompt
 
 _Route17Biker2AfterBattleText::
-	text "I could belly-"
-	line "bump you outta"
-	cont "here!"
+	text "Per cert, toca'm"
+	line "el bíceps, va!"
 	done
 
 _Route17Biker3BattleText::
-	text "You heading to"
-	line "FUCHSIA?"
+	text "Vas cap a Rosó?"
 	done
 
 _Route17Biker3EndBattleText::
-	text "Crash and"
-	line "burn!"
+	text "Quin"
+	line "accident!"
 	prompt
 
 _Route17Biker3AfterBattleText::
-	text "I love racing"
-	line "downhill!"
+	text "M'encanta fer la"
+	line "baixada tot d'una."
 	done
 
 _Route17Biker4BattleText::
-	text "We're BIKERs!"
-	line "Highway stars!"
+	text "Els motards"
+	line "no fem broma!"
 	done
 
 _Route17Biker4EndBattleText::
-	text "Smoked!"
+	text "Puf!"
 	prompt
 
 _Route17Biker4AfterBattleText::
-	text "Are you looking"
-	line "for adventure?"
+	text "Tens nassos, eh?"
 	done
 
 _Route17Biker5BattleText::
-	text "Let VOLTORB"
-	line "electrify you!"
+	text "El meu Bòltir"
+	line "et vol saludar."
 	done
 
 _Route17Biker5EndBattleText::
-	text "Grounded"
-	line "out!"
+	text "Adeu!"
 	prompt
 
 _Route17Biker5AfterBattleText::
-	text "I got my VOLTORB"
-	line "at the abandoned"
-	cont "POWER PLANT."
+	text "Vaig trobar el"
+	line "Bòltir a la"
+	cont "Central elèctrica."
 	done
 
 _Route17Biker6BattleText::
-	text "My #MON won't"
-	line "evolve! Why?"
+	text "Els meus #mon"
+	line "no evolucionen!"
 	done
 
 _Route17Biker6EndBattleText::
-	text "Why,"
-	line "you!"
+	text "Grr..."
 	prompt
 
 _Route17Biker6AfterBattleText::
-	text "Maybe some #MON"
-	line "need element"
-	cont "STONEs to evolve."
+	text "Potser a alguns"
+	line "#mon els calen"
+	cont "Pedres evolutives"
+	cont "per evolucionar..."
 	done
 
 _Route17Biker7BattleText::
-	text "I need a little"
-	line "exercise!"
+	text "He de fer una"
+	line "mica d'exercici."
 	done
 
 _Route17Biker7EndBattleText::
-	text "Whew!"
-	line "Good workout!"
+	text "Uf!"
+	line "Força intens!"
 	prompt
 
 _Route17Biker7AfterBattleText::
-	text "I'm sure I lost"
-	line "weight there!"
+	text "Diria que he"
+	line "perdut pes i tot!"
 	done
 
 _Route17Biker8BattleText::
-	text "Be a rebel!"
+	text "Els homes han"
+	line "de ser forts!"
 	done
 
 _Route17Biker8EndBattleText::
-	text "Aaaargh!"
+	text "Aah!"
 	prompt
 
 _Route17Biker8AfterBattleText::
-	text "Be ready to fight"
-	line "for your beliefs!"
+	text "Els homes lluiten"
+	line "pel que creuen!"
 	done
 
 _Route17Biker9BattleText::
-	text "Nice BIKE!"
-	line "How's it handle?"
+	text "Quina bici!"
+	line "Va bé, o què?"
 	done
 
 _Route17Biker9EndBattleText::
-	text "Shoot!"
+	text "Càsum!"
 	prompt
 
 _Route17Biker9AfterBattleText::
-	text "The slope makes"
-	line "it hard to steer!"
+	text "Aquesta pendent"
+	line "complica conduir!"
 	done
 
 _Route17Biker10BattleText::
-	text "Get lost kid!"
-	line "I'm bushed!"
+	text "Estic reventat..."
+	line "quina mandra."
 	done
 
 _Route17Biker10EndBattleText::
-	text "Are you"
-	line "satisfied?"
+	text "Ja?"
 	prompt
 
 _Route17Biker10AfterBattleText::
-	text "I need to catch"
-	line "a few Zs!"
+	text "Necessito una"
+	line "becaineta."
 	done
 
 _Route17NoticeSign1Text::
-	text "It's a notice!"
+	text "El cartell diu:"
 
-	para "Watch out for"
-	line "discarded items!"
+	para "Vigileu de no"
+	line "tirar objectes!"
 	done
 
 _Route17TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "All #MON are"
-	line "unique."
-
-	para "Even #MON of"
-	line "the same type and"
-	cont "level grow at"
-	cont "different rates."
+	para "Dos #mon iguals"
+	line "del mateix nivell"
+	cont "tenen diferències"
+	cont "en habilitats. I"
+	cont "es nota més quan"
+	cont "van creixent."
 	done
 
 _Route17TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "Press the A or B"
-	line "Button to stay in"
-	cont "place while on a"
-	cont "slope."
+	para "Els botons A o B"
+	line "us frenaran a la"
+	cont "pendent."
 	done
 
 _Route17SignText::
-	text "ROUTE 17"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "Ruta 17"
+	line "Iridescent - Rosó"
 	done
 
 _Route17NoticeSign2Text::
-	text "It's a notice!"
+	text "El cartell diu:"
 
-	para "Don't throw the"
-	line "game, throw #"
-	cont "BALLs instead!"
+	para "No llanceu la"
+	line "tovallola,"
+	cont "llanceu #balls!"
 	done
 
 _Route17CyclingRoadEndsSignText::
-	text "CYCLING ROAD"
-	line "Slope ends here!"
+	text "Carril bici:"
+	line "Fi de la pendent"
 	done

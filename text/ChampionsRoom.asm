@@ -1,146 +1,141 @@
 _ChampionsRoomRivalIntroText::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Ei!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "Què fas aquí,"
+	line "<PLAYER>? Ha, ha!"
+	cont "Que fort!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "Tu no pots ser el"
+	line "meu rival, oi? No"
+	cont "ets gaire fort!"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "Mentre enllestia"
+	line "la #dex, he"
+	cont "caçat els #mon"
+	cont "perfectes!"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "Tinc un equip"
+	line "de tipus variats"
+	cont "per vèncer"
+	cont "qualsevol rival!"
 
-	para "And now!"
+	para "I mira'm ara!"
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+	para "Soc el campió de"
+	line "la Lliga #mon!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	para "<PLAYER>!"
+	line "Saps que vol"
+	cont "dir, això?"
 
-	para "I'll tell you!"
+	para "T'ho diré!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "Soc el millor"
+	line "entrenador"
+	cont "del món!"
 	done
 
 _RivalDefeatedText::
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	text "No!"
+	line "M'has guanyat?"
+	cont "És impossible!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "Després de tot"
+	line "l'esforç per ser"
+	cont "el campió..."
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "s'ha acabat tot?"
+	line "No m'ho crec."
 	prompt
 
 _RivalVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+	text "Haha!"
+	line "He guanyat!"
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+	para "Sembla que has"
+	line "perdut, <PLAYER>!"
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "Però has arribat"
+	line "fins a mi, el"
+	cont "mestre suprem!"
 
-	para "Nice try, loser!"
+	para "Enhorabona!"
 	line "Hahaha!"
 	prompt
 
 _ChampionsRoomRivalAfterBattleText::
-	text "Why?"
-	line "Why did I lose?"
+	text "Com..."
+	line "pot ser?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "He criat els meus"
+	line "#mon a la"
+	cont "perfecció..."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "Doncs res."
+	line "Ets el campió de"
+	cont "la Lliga #mon."
 
-	para "Although I don't"
-	line "like to admit it."
+	para "...Tot i que em"
+	line "costi admetre-ho."
 	done
 
 _ChampionsRoomOakText::
-	text "OAK: <PLAYER>!"
+	text "Roure: <PLAYER>!"
 	done
 
 _ChampionsRoomOakCongratulatesPlayerText::
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LEAGUE"
-	cont "champion!"
+	text "Roure: Ets el"
+	line "campió de la"
+	cont "Lliga #mon!"
+	cont "Enhorabona!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
+	para "Has crescut molt"
+	line "des que vas"
+	cont "marxar amb en"
 	cont "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "<PLAYER>, you have"
-	line "come of age!"
+	para "Ets tot un"
+	line "homenet, <PLAYER>!"
 	done
 
 _ChampionsRoomOakDisappointedWithRivalText::
-	text "OAK: <RIVAL>! I'm"
-	line "disappointed!"
+	text "Roure: <RIVAL>!"
+	line "Quin greu..."
 
-	para "I came when I"
-	line "heard you beat"
-	cont "the ELITE FOUR!"
+	para "He vingut al"
+	line "sentir que havies"
+	cont "guanyat la Lliga!"
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+	para "Però quan he"
+	line "arribat, ja"
+	cont "havies perdut!"
 
-	para "<RIVAL>! Do you"
-	line "understand why"
-	cont "you lost?"
+	para "<RIVAL>!"
+	line "Entens per què"
+	cont "has perdut?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+	para "T'has oblidat de"
+	line "de tractar els"
+	cont "#mon amb amor"
+	cont "i confiança!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
+	para "Això és el que cal"
+	line "per ser un mestre."
 	done
 
 _ChampionsRoomOakComeWithMeText::
-	text "OAK: <PLAYER>!"
+	text "Roure: <PLAYER>!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+	para "Saps per què has"
+	line "pogut guanyar la"
+	cont "Lliga, oi?"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+	para "El lligam que"
+	line "t'uneix als teus"
+	cont "#mon és únic."
 
-	para "<PLAYER>!"
-	line "Come with me!"
+	para "Escolta, <PLAYER>,"
+	line "vine amb mi!"
 	done

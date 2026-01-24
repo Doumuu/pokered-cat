@@ -1,26 +1,22 @@
 _FuchsiaGymKogaBeforeBattleText::
-	text "KOGA: Fwahahaha!"
+	text "Koga: Hu, hu...!"
 
-	para "A mere child like"
-	line "you dares to"
-	cont "challenge me?"
+	para "Un nyicris com"
+	line "tu s'atreveix a"
+	cont "desafiar-me?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "El verí i la son"
+	line "et deixaran"
+	cont "estabornit, noi!"
 
-	para "You shall feel"
-	line "the despair of"
-	cont "poison and sleep"
-	cont "techniques!"
+	para "Preparat per veure"
+	line "tècniques ninja?"
 	done
 
 _FuchsiaGymKogaReceivedSoulBadgeText::
-	text "Humph!"
-	line "You have proven"
-	cont "your worth!"
+	text "Hm!"
+	line "Molt bé, noi."
 
-	para "Here! Take the"
-	line "SOULBADGE!"
+	para "T'has guanyat la"
+	line "Medalla rosa!"
 	prompt

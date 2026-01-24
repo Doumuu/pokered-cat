@@ -2,7 +2,7 @@ _PokemonTower1FReceptionistText::
 	text "La Torre #mon"
 	line "es va erigir com"
 	cont "a monument als"
-	cont "#mon morts."
+	cont "#mon difunts."
 	done
 
 _PokemonTower1FMiddleAgedWomanText::
@@ -21,11 +21,11 @@ _PokemonTower1FBaldingGuyText::
 
 _PokemonTower1FGirlText::
 	text "Trobo a faltar"
-	line "el meu Cànic..."
+	line "el meu Càdill..."
 	done
 
 _PokemonTower1FChannelerText::
 	text "Com a sacerdot,"
-	line "noto ànimes"
-	cont "perdues per aquí."
+	line "noto ànimes per-"
+	cont "dudes per aquí."
 	done

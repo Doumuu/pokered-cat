@@ -12,7 +12,7 @@ _DaycareGentlemanWhichMonText::
 
 _DaycareGentlemanWillLookAfterMonText::
 	text "Molt bé. Cuidaré"
-	line "de @"
+	line "el teu @"
 	text_ram wNameBuffer
 	text_start
 	cont "durant un temps."
@@ -54,7 +54,7 @@ _DaycareGentlemanGotMonBackText::
 
 _DaycareGentlemanMonNeedsMoreTimeText::
 	text "Ja has tornat?"
-	line "En @"
+	line "El teu @"
 	text_ram wNameBuffer
 	text_start
 	cont "encara necessita"

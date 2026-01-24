@@ -1,6 +1,6 @@
 _ViridianForestSouthGateGirlText::
 	text "Que vas al"
-	line "Bosc Maragda?"
+	line "bosc de Verdins?"
 	cont "Ves amb compte!"
 	cont "És un laberint!"
 	done

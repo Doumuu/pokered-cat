@@ -1,23 +1,22 @@
 _Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "Soc el germà del"
+	line "Pescador savi!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "M'encanta pescar!"
 
-	para "Do you like to"
-	line "fish?"
+	para "A tu t'agrada"
+	line "la pesca?"
 	done
 
 _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "Que bé! Em caus"
+	line "bé, nano!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Emporta't això"
+	line "i pesca!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "<PLAYER> rep"
+	line "una @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,38 +24,38 @@ _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "La pesca és un"
+	line "estil de vida."
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "De rius a mars,"
+	line "estanys a oceans,"
+	cont "pescar el peix"
+	cont "gros és la meta!"
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Quin greu"
+	line "em sap, noiet."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::
-	text "Hello there,"
+	text "Que bo veure't,"
 	line "<PLAYER>!"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "Si pesques amb la"
+	line "Súper canya a"
+	cont "diferents llocs,"
+	cont "trobaràs #mon"
+	cont "molt diversos."
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "Tira la canya"
+	line "on puguis!"
 	done
 
 _Route12SuperRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "Ai, mare!"
 
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	para "Tenia un regal per"
+	line "a tu, però no"
+	cont "tens espai!"
 	done

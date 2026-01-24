@@ -34,13 +34,13 @@ _MtMoonB2FSuperNerdOkIllShareText::
 	prompt
 
 _MtMoonB2fSuperNerdEachTakeOneText::
-	text "Ens quedem un"
+	text "Ens en quedem un"
 	line "cadascun, doncs."
 	done
 
 _MtMoonB2FSuperNerdTheresAPokemonLabText::
 	text "Lluny d'aquí, a"
-	line "l'Illa Escarlata,"
+	line "l'illa Escarlata,"
 	cont "hi ha un"
 	cont "laboratori."
 
@@ -55,8 +55,8 @@ _MtMoonB2FSuperNerdThenThisIsMineText::
 	text_end
 
 _MtMoonB2FRocket1BattleText::
-	text "El Team Rocket"
-	line "trobarà i reviurà"
+	text "Els Rocket troba-"
+	line "rem i reviurem"
 	cont "els fòssils per"
 	cont "fer-ne negoci!"
 	done
@@ -69,12 +69,12 @@ _MtMoonB2FRocket1EndBattleText::
 _MtMoonB2FRocket1AfterBattleText::
 	text "Prepara't per ser"
 	line "a la llista negra"
-	cont "del Team Rocket!"
+	cont "dels Rocket!"
 	done
 
 _MtMoonB2FRocket2BattleText::
-	text "El Team Rocket"
-	line "som traficants"
+	text "Els Rocket som"
+	line "traficants de"
 	cont "de #mon!"
 	done
 
@@ -86,7 +86,7 @@ _MtMoonB2FRocket2EndBattleText::
 _MtMoonB2FRocket2AfterBattleText::
 	text "Càsum...!"
 	line "Els meus companys"
-	cont "ja t'ensenyaran!"
+	cont "ja t'espavilaran!"
 	done
 
 _MtMoonB2FRocket3BattleText::
@@ -120,5 +120,5 @@ _MtMoonB2FRocket4EndBattleText::
 _MtMoonB2FRocket4AfterBattleText::
 	text "Abans dels humans,"
 	line "aquí hi vivien"
-	cont "#mon"
+	cont "molts #mon."
 	done

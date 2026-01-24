@@ -46,37 +46,35 @@ _Route22Rival1VictoryText::
 	prompt
 
 _Route22RivalBeforeBattleText2::
-	text "<RIVAL>: What?"
-	line "<PLAYER>! What a"
-	cont "surprise to see"
-	cont "you here!"
+	text "<RIVAL>: Òndia,"
+	line "<PLAYER>! Quina"
+	cont "sorpresa veure't"
+	cont "per aquí!"
 
-	para "So you're going to"
-	line "#MON LEAGUE?"
+	para "Així que vas a la"
+	line "Lliga #mon?"
 
-	para "You collected all"
-	line "the BADGEs too?"
-	cont "That's cool!"
+	para "I tens totes les"
+	line "medalles! Que bé!"
 
-	para "Then I'll whip you"
-	line "<PLAYER> as a"
-	cont "warm up for"
-	cont "#MON LEAGUE!"
+	para "Vols escalfar amb"
+	line "mi abans d'anar a"
+	cont "la Lliga #mon?"
 
-	para "Come on!"
+	para "Vinga!"
 	done
 
 _Route22RivalAfterBattleText2::
-	text "That loosened me"
-	line "up! I'm ready for"
-	cont "#MON LEAGUE!"
+	text "Ja he escalfat"
+	line "prou! Me'n vaig"
+	cont "a la Lliga!"
 
-	para "<PLAYER>, you need"
-	line "more practice!"
+	para "<PLAYER>, encara"
+	line "has d'entrenar."
 
-	para "But hey, you know"
-	line "that! I'm out of"
-	cont "here. Smell ya!"
+	para "Però això ja ho"
+	line "saps, oi? Apa!"
+	cont "Bon vent!"
 	done
 
 _Route22Rival2DefeatedText::
@@ -88,13 +86,13 @@ _Route22Rival2DefeatedText::
 
 _Route22Rival2VictoryText::
 	text "<RIVAL>: Hahaha!"
-	line "<PLAYER>! That's"
-	cont "your best? You're"
-	cont "nowhere near as"
-	cont "good as me, pal!"
+	line "Això és tot el"
+	cont "que saps fer?"
+	cont "No m'arribes ni a"
+	cont "la sola, nen!"
 
-	para "Go train some"
-	line "more! You loser!"
+	para "Ves-te'n a"
+	line "entrenar, corre!"
 	prompt
 
 _Route22PokemonLeagueSignText::

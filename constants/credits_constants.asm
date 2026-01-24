@@ -5,7 +5,7 @@
 	const CRED_TA_OOTA        ; $02
 	const CRED_MORIMOTO       ; $03
 	const CRED_WATANABE       ; $04
-	const CRED_MASUDE         ; $05
+	const CRED_MASUDA         ; $05
 	const CRED_NISINO         ; $06
 	const CRED_SUGIMORI       ; $07
 	const CRED_NISHIDA        ; $08
@@ -13,14 +13,14 @@
 	const CRED_KAWAGUCHI      ; $0A
 	const CRED_ISHIHARA       ; $0B
 	const CRED_YAMAUCHI       ; $0C
-	const CRED_ZINNAI         ; $0D
+	const CRED_JINNAI         ; $0D
 	const CRED_HISHIDA        ; $0E
 	const CRED_SAKAI          ; $0F
 	const CRED_YAMAGUCHI      ; $10
 	const CRED_YAMAMOTO       ; $11
 	const CRED_TANIGUCHI      ; $12
 	const CRED_NONOMURA       ; $13
-	const CRED_FUZIWARA       ; $14
+	const CRED_FUJIWARA       ; $14
 	const CRED_MATSUSIMA      ; $15
 	const CRED_TOMISAWA       ; $16
 	const CRED_KAWAMOTO       ; $17
@@ -48,22 +48,13 @@
 	const CRED_SA_OOTA        ; $2D
 	const CRED_YOSHIKAWA      ; $2E
 	const CRED_TO_OOTA        ; $2F
-	const CRED_US_STAFF       ; $30
-	const CRED_US_COORD       ; $31
-	const CRED_TILDEN         ; $32
-	const CRED_KAWAKAMI       ; $33
-	const CRED_HI_NAKAMURA    ; $34
-	const CRED_GIESE          ; $35
-	const CRED_OSBORNE        ; $36
-	const CRED_TRANS          ; $37
-	const CRED_OGASAWARA      ; $38
-	const CRED_IWATA          ; $39
-	const CRED_IZUSHI         ; $3A
-	const CRED_HARADA         ; $3B
-	const CRED_MURAKAWA       ; $3C
-	const CRED_FUKUI          ; $3D
-	const CRED_CLUB           ; $3E
-	const CRED_PAAD           ; $3F
+	const CRED_CORR           ; $30
+	const CRED_AINA           ; $31
+	const CRED_TRANS          ; $32
+	const CRED_CISNEROS       ; $33
+	const CRED_ANDREU         ; $34
+	const CRED_EMILIO         ; $35
+
 DEF NUM_CRED_STRINGS EQU const_value
 
 	const_def -1, -1

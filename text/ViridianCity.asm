@@ -12,8 +12,8 @@ _ViridianCityGambler1GymAlwaysClosedText::
 	text "Aquest gimnàs"
 	line "sempre està buit."
 
-	para "Em pregunto qui"
-	line "serà el líder."
+	para "Em pregunto qui en"
+	line "deu ser el líder."
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
@@ -33,12 +33,12 @@ ViridianCityYoungster2OkThenText::
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "En Seruga no és"
+	line "verinós, però"
+	cont "en Picoll sí."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "Compte amb l'atac"
+	line "Dard verinós!"
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
@@ -50,19 +50,19 @@ _ViridianCityGirlHasntHadHisCoffeeYetText::
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "Quan vaig de"
-	line "compres a Ciutat"
-	cont "Argent, passo pel"
-	cont "camí sinuós del"
-	cont "bosc Maragda."
+	text "Quan vaig de com-"
+	line "pres a Llicorella"
+	cont "passo pel camí"
+	cont "sinuós del bosc"
+	cont "de Verdins."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "Ei, tu! ...Hip!"
+	text "Ei, tu!...Hip!"
 	line "Et diré una cosa."
 
 	para "No pots passar"
-	line "per aquí... Hip!"
+	line "per aquí...hip!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
@@ -71,19 +71,19 @@ ViridianCityFisherYouCanHaveThisText::
 	cont "quedat adormit."
 
 	para "He somiat que un"
-	line "DROWZEE es menjava"
+	line "Sobec es menjava"
 	cont "el meu somni."
 	cont "Què és això?"
 	cont "D'on ha sortit"
 	cont "aquest MT?"
 
 	para "Quin mal rotllo!"
-	line "Té, queda-t'ho!"
+	line "Té, queda-te'l!"
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
 	text "<PLAYER> rep"
-	line "TM42!@"
+	line "MT42!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
@@ -93,8 +93,8 @@ _ViridianCityFisherTM42ExplanationText::
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Portes massa cosa"
+	line "a sobre, nano."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
@@ -108,10 +108,10 @@ _ViridianCityOldManHadMyCoffeeNowText::
 	done
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
-	text "Veig que cerques"
-	line "#mon..."
+	text "Així que atrapes"
+	line "#mon, eh?"
 
-	para "Quan atrapes un"
+	para "Quan caces un"
 	line "#mon, es desa"
 	cont "informació nova"
 	cont "a la #dex."
@@ -121,7 +121,7 @@ _ViridianCityOldManKnowHowToCatchPokemonText::
 	cont "#mon?"
 
 	para "Deixa'm que"
-	line "t'ensenyi."
+	line "te n'ensenyi!"
 	done
 
 _ViridianCityOldManTimeIsMoneyText::
@@ -130,13 +130,13 @@ _ViridianCityOldManTimeIsMoneyText::
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "Debilita abans"
-	line "els #mon que"
-	cont "vulguis atrapar."
+	text "Debilita els"
+	line "#mon abans"
+	cont "d'atrapar-los."
 	done
 
 _ViridianCitySignText::
-	text "Ciutat Maragda:"
+	text "Verdins:"
 	line "La verdor perenne"
 	done
 
@@ -156,19 +156,19 @@ _ViridianCityTrainerTips2Text::
 	text "Als entrenadors:"
 
 	para "Els #mon tenen"
-	line "punts de poder,"
+	line "punts de poder"
 	cont "que fan servir"
 	cont "a les batalles."
 
 	para "Per reomplir-los,"
 	line "porteu els"
 	cont "vostres #mon"
-	cont "al Centre #mon!"
+	cont "al Centre #mon."
 	done
 
 _ViridianCityGymSignText::
 	text "Gimnàs #mon"
-	line "de Ciutat Maragda"
+	line "de Verdins"
 	done
 
 _ViridianCityGymLockedText::

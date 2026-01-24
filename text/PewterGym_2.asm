@@ -8,13 +8,13 @@ _PewterGymBrockPostBattleAdviceText::
 	cont "#mon trempat."
 
 	para "Ves al gimnàs de"
-	line "Ciutat Blaucel i"
-	cont "posa't a prova!"
+	line "Blaucel i posa't"
+	cont "a prova!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Espera! Emporta't"
-	line "això."
+	text "Espera!"
+	line "Emporta't això."
 	done
 
 _PewterGymReceivedTM34Text::
@@ -53,7 +53,7 @@ _PewterGymTM34NoRoomText::
 
 _PewterGymBrockReceivedBoulderBadgeText::
 	text "T'he"
-	cont "subestimat."
+	line "subestimat."
 
 	para "Com a trofeu, rep"
 	line "si us plau la"
@@ -85,7 +85,7 @@ _PewterGymCooltrainerMBattleText::
 
 	para "Ets a anys llum"
 	line "de poder combatre"
-	cont "en Roc!"
+	cont "contra en Roc!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::

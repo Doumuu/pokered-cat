@@ -1,7 +1,7 @@
 _Route4CooltrainerF1Text::
 	text "Au! M'he topat"
-	line "amb un #mon"
-	cont "roca, GEODUDE!"
+	line "amb un Barroc,"
+	cont "un #mon roca."
 	done
 
 _Route4CooltrainerF2BattleText::
@@ -30,5 +30,5 @@ _Route4MtMoonSignText::
 _Route4SignText::
 	text "Ruta 4"
 	line "Mt.Lluna -"
-	cont "Ciutat Blaucel"
+	cont "Blaucel"
 	done

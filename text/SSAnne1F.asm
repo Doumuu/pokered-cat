@@ -7,7 +7,7 @@ _SSAnne1FWaiterText::
 	line "res, estic a la"
 	cont "teva disposició."
 
-	para "... Ja veig que"
+	para "...Ja veig que"
 	line "no parles gaire."
 	done
 

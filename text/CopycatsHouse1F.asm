@@ -1,21 +1,18 @@
 _CopycatsHouse1FMiddleAgedWomanText::
-	text "My daughter is so"
-	line "self-centered."
-	cont "She only has a"
-	cont "few friends."
+	text "La meva filla és"
+	line "molt egocèntrica."
+	cont "Per això no té"
+	cont "gaires amics."
 	done
 
 _CopycatsHouse1FMiddleAgedManText::
-	text "My daughter likes"
-	line "to mimic people."
+	text "A la meva filla li"
+	line "encanta imitar."
 
-	para "Her mimicry has"
-	line "earned her the"
-	cont "nickname COPYCAT"
-	cont "around here!"
+	para "Per aquí tothom"
+	line "li diu Copieta."
 	done
 
 _CopycatsHouse1FChanseyText::
-	text "CHANSEY: Chaan!"
-	line "Sii!@"
+	text "Xamba: Xam-xam!@"
 	text_end

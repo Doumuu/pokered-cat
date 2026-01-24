@@ -1,35 +1,35 @@
 _UndergroundPathRoute7CopyUnusedGirlText::
-	text "I want to shop at"
-	line "the dept. store"
-	cont "in CELADON but..."
+	text "Vull anar al"
+	line "centre comercial"
+	cont "d'Iridescent..."
 
-	para "There are so many"
-	line "rough looking"
-	cont "people there."
+	para "però hi ha massa"
+	line "gent amb males"
+	cont "pintes."
 	done
 
 _UndergroundPathRoute7CopyUnusedTeamRocketHadAHideoutText::
-	text "TEAM ROCKET had a"
-	line "secret hideout in"
-	cont "CELADON CITY?"
+	text "Els Rocket tenen"
+	line "un cau secret a"
+	cont "Iridescent, dius?"
 	done
 
 _UndergroundPathRoute7CopyUnusedMiddleAgedManText::
-	text "You're here to"
-	line "shop in CELADON?"
+	text "Vas de compres"
+	line "a Iridescent?"
 
-	para "Just step outside"
-	line "and head west!"
+	para "Al sortir ves"
+	line "cap a l'oest."
 	done
 
 _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
-	text "The UNDERGROUND"
-	line "PATH goes beneath"
-	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	text "La via subterrània"
+	line "passa per sota de"
+	cont "Daurada i va cap"
+	cont "a Vilamalva."
 
-	para "If you're heading"
-	line "to CERULEAN, go"
-	cont "to the building"
-	cont "across the road."
+	para "Si vas a Daurada,"
+	line "entra a l'edifici"
+	cont "que hi ha al"
+	cont "carrer de davant."
 	done

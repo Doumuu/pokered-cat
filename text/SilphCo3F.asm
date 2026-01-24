@@ -1,46 +1,45 @@
 _SilphCo3FSilphWorkerMWhatShouldIDoText::
-	text "I work for SILPH."
-	line "What should I do?"
+	text "Treballo per a"
+	line "Silph! Què faig?"
 	done
 
 _SilphCo3FSilphWorkerMYouSavedUsText::
-	text "<PLAYER>! You and"
-	line "your #MON"
-	cont "saved us!"
+	text "<PLAYER>! Tu i"
+	line "els teus #mon"
+	cont "ens heu salvat!"
 	done
 
 _SilphCo3FRocketBattleText::
-	text "Quit messing with"
-	line "us, kid!"
+	text "Deixa de ficar-te"
+	line "on no et demanen!"
 	done
 
 _SilphCo3FRocketEndBattleText::
-	text "I give"
-	line "up!"
+	text "D'acord!"
 	prompt
 
 _SilphCo3FRocketAfterBattleText::
-	text "A hint? You can"
-	line "open doors with a"
-	cont "CARD KEY!"
+	text "...Una pista? Pots"
+	line "obrir portes amb"
+	cont "una targeta!"
 	done
 
 _SilphCo3FScientistBattleText::
-	text "I support TEAM"
-	line "ROCKET more than"
-	cont "I support SILPH!"
+	text "Estic més de part"
+	line "dels Rocket que"
+	cont "de Silph!"
 	done
 
 _SilphCo3FScientistEndBattleText::
-	text "You"
-	line "really got me!"
+	text "M'he"
+	line "confiat!"
 	prompt
 
 _SilphCo3FScientistAfterBattleText::
-	text "Humph..."
+	text "...Què?"
 
-	para "TEAM ROCKET said"
-	line "that if I helped"
-	cont "them, they'd let"
-	cont "me study #MON!"
+	para "Els Rocket em van"
+	line "dir que si els"
+	cont "ajudava, podria"
+	cont "fer investigació!"
 	done

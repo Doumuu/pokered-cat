@@ -12,7 +12,7 @@ _BillsHouseBillImNotAPokemonText::
 	para "Estava fent un"
 	line "experiment i"
 	cont "sense voler m'he"
-	cont "m'he combinat amb"
+	cont "combinat amb"
 	cont "un #mon!"
 
 	para "Què me'n dius? Em"
@@ -22,19 +22,20 @@ _BillsHouseBillImNotAPokemonText::
 _BillsHouseBillUseSeparationSystemText::
 	text "Quan sigui dins"
 	line "del teletrans-"
-	cont "portador, incia"
+	cont "portador, inicia"
 	cont "la separació"
 	cont "cel·lular al PC!"
 	done
 
 _BillsHouseBillNoYouGottaHelpText::
 	text "No!? Vinga, va,"
-	line "que les estic"
-	cont "passant magres!"
+	line "que no té gràcia."
+	cont "Fes-me el favor!"
 
-	para "Vinga, rei,"
-	line "si us plau!"
-	cont "Sí? Perfecte!"
+	para "...Vinga, rei."
+	para "T'ho prego!"
+	para "...Dius que sí?"
+	line "Moltes gràcies!"
 	prompt
 
 _BillsHouseBillThankYouText::
@@ -45,7 +46,8 @@ _BillsHouseBillThankYouText::
 	para "Així que ets aquí"
 	line "per veure la meva"
 	cont "col·lecció?"
-	cont "No? Vaja, home."
+
+	para "No? Vaja, home."
 
 	para "Per cert, això és"
 	line "per agrair-te"
@@ -67,7 +69,7 @@ _SSTicketNoRoomText::
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	text "St.Anne és el"
 	line "creuer que hi ha"
-	cont "a Ciutat Ocre."
+	cont "a Ocre."
 	cont "Els passatgers"
 	cont "són entrenadors!"
 

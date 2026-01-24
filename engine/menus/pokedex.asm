@@ -366,7 +366,7 @@ PokedexOwnText:
 	db "Tinc@"
 
 PokedexContentsText:
-	db "Index@"
+	db "Índex@"
 
 PokedexMenuItemsText:
 	db   "Info"

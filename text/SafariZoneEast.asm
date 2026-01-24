@@ -1,16 +1,16 @@
 _SafariZoneEastRestHouseSignText::
-	text "REST HOUSE"
+	text "Cabana respir"
 	done
 
 _SafariZoneEastTrainerTipsText::
-	text "TRAINER TIPS"
+	text "Als entrenadors:"
 
-	para "The remaining time"
-	line "declines only"
-	cont "while you walk!"
+	para "El temps anirà"
+	line "baixant a mesura"
+	cont "que camineu."
 	done
 
 _SafariZoneEastSignText::
-	text "CENTER AREA"
-	line "NORTH: AREA 2"
+	text "Zona central"
+	line "Nord: Zona 2"
 	done

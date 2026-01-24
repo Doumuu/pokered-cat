@@ -72,7 +72,7 @@ StartMenuSaveText:
 	db "Desa@"
 
 StartMenuResetText:
-	db "Reinicia@"
+	db "Reinici@"
 
 StartMenuExitText:
 	db "Surt@"

@@ -1,64 +1,63 @@
 _CinnabarLabMetronomeRoomScientist1Text::
-	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	text "Pst! He creat una"
+	line "MT molt xula!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "Ja veuràs que"
+	line "divertida!"
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
-	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	text "Pst! L'MT és"
+	line "Metrònom!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "Fa que el teu"
+	line "#mon faci"
+	cont "servir atacs que"
+	cont "no coneix!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "Tens la bossa"
+	line "pleníssima!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "Evo té 3 tipus"
+	line "diferents"
+	cont "d'evolucions."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "There's an e-mail"
-	line "message!"
+	text "Hi ha un correu"
+	line "electrònic."
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	para "«Els 3 #mon"
+	line "llegendaris són"
+	cont "Glaciot, Voltrò"
+	cont "i Flàliga."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "Se'n desconeix"
+	line "la distribució."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "Explorarem la"
+	line "cova a prop de"
+	cont "Blaucel.»"
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+	para "-Equip de"
+	line "Recerca #mon"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "An amber pipe!"
+	text "Un tub d'ambre!"
 	done

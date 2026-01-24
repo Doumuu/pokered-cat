@@ -1,7 +1,7 @@
 _PewterGymBrockPreBattleText::
-	text "Em dic Roc."
-	line "Soc el líder del"
-	cont "gimnàs d'Argent."
+	text "Em dic Roc. Soc el"
+	line "líder del gimnàs"
+	cont "de Llicorella."
 
 	para "Crec que tota"
 	line "pedra fa paret,"
@@ -13,6 +13,5 @@ _PewterGymBrockPreBattleText::
 
 	para "Encara vols"
 	line "lluitar?"
-	cont "Està bé. Doncs"
-	cont "endavant!"
+	cont "Doncs endavant!"
 	done

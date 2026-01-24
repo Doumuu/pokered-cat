@@ -43,8 +43,8 @@ _PokemonTower5FChanneler4EndBattleText::
 	prompt
 
 _PokemonTower5FChanneler4AfterBattleText::
-	text "Ja soc jo"
-	line "mateixa!"
+	text "Ja torno a"
+	line "ser jo!"
 	done
 
 _PokemonTower5FChanneler5BattleText::

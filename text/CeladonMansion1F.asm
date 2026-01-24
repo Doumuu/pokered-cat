@@ -21,6 +21,6 @@ _CeladonMansion1FNidoranFText::
 	text_end
 
 _CeladonMansion1FManagersSuiteSignText::
-	text "Mansió Iriscent"
+	text "Edifici Iridescent"
 	line "Despatx directiu"
 	done

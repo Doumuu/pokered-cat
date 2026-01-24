@@ -17,9 +17,9 @@ _LavenderTownLittleGirlHaHaGuessNotText::
 	done
 
 _LavenderTownCooltrainerMText::
-	text "Aquest poble"
-	line "és conegut pel"
-	cont "cementiri #mon."
+	text "El cementiri"
+	line "#mon del poble"
+	cont "és icònic."
 
 	para "Tothom prega pels"
 	line "#mon morts a"
@@ -33,8 +33,8 @@ _LavenderTownSuperNerdText::
 
 	para "Diuen que són"
 	line "els #mon que"
-	cont "el Team Rocket"
-	cont "ha matat."
+	cont "els Rocket"
+	cont "han matat."
 	done
 
 _LavenderTownSignText::
@@ -50,7 +50,7 @@ _LavenderTownSilphScopeSignText::
 	para "El Visor Silph"
 	line "ho fa possible!"
 
-	para "Corporació Silph"
+	para "Silph Company"
 	done
 
 _LavenderTownPokemonHouseSignText::

@@ -1,1509 +1,1509 @@
 _RhydonDexEntry::
-	text "Protected by an"
-	next "armor-like hide,"
-	next "it is capable of"
+	text "La seva banya és"
+	next "tan potent que"
+	next "pot perforar"
 
-	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	page "roques. L'evolu-"
+	next "ció l'ha permès"
+	next "caminar dret"
 	dex
 
 _KangaskhanDexEntry::
-	text "The infant rarely"
-	next "ventures out of"
-	next "its mother's"
+	text "La femella cuida"
+	next "les seves cries"
+	next "a la bossa."
 
-	page "protective pouch"
-	next "until it is 3"
-	next "years old"
+	page "Fa servir l'atac"
+	next "Puny cíclic de"
+	next "manera eficaç"
 	dex
 
 _NidoranMDexEntry::
-	text "Stiffens its ears"
-	next "to sense danger."
-	next "The larger its"
+	text "Bat les orelles"
+	next "per escoltar els"
+	next "sons llunyans."
 
-	page "horns, the more"
-	next "powerful its"
-	next "secreted venom"
+	page "Quan s'altera,"
+	next "eriça les seves"
+	next "pues"
 	dex
 
 _ClefairyDexEntry::
-	text "Its magical and"
-	next "cute appeal has"
-	next "many admirers."
+	text "És l'animal de"
+	next "companyia per"
+	next "excel·lència."
 
-	page "It is rare and"
-	next "found only in"
-	next "certain areas"
+	page "Amb tot, no és"
+	next "gens fàcil"
+	next "de trobar"
 	dex
 
 _SpearowDexEntry::
-	text "Eats bugs in"
-	next "grassy areas. It"
-	next "has to flap its"
+	text "Salta nerviós d'un"
+	next "lloc a un altre."
+	next "Malgrat la seva"
 
-	page "short wings at"
-	next "high speed to"
-	next "stay airborne"
+	page "fragilitat, l'atac"
+	next "Repetició el fa"
+	next "un rival temible"
 	dex
 
 _VoltorbDexEntry::
-	text "Usually found in"
-	next "power plants."
-	next "Easily mistaken"
+	text "Ésser amb origen"
+	next "desconegut. Se"
+	next "n'han vist"
 
-	page "for a # BALL,"
-	next "they have zapped"
-	next "many people"
+	page "de salvatges"
+	next "xisclant o"
+	next "autodestruint-se"
 	dex
 
 _NidokingDexEntry::
-	text "It uses its"
-	next "powerful tail in"
-	next "battle to smash,"
+	text "Reconeixible per"
+	next "la seva dura"
+	next "cuirassa i llarga"
 
-	page "constrict, then"
-	next "break the prey's"
-	next "bones"
+	page "banya, la qual"
+	next "és punxeguda"
+	next "i verinosa"
 	dex
 
 _SlowbroDexEntry::
-	text "The SHELLDER that"
-	next "is latched onto"
-	next "SLOWPOKE's tail"
+	text "Evolució de"
+	next "Salamandró que es"
+	next "caracteritza per"
 
-	page "is said to feed"
-	next "on the host's left"
-	next "over scraps"
+	page "tenir un Petxino"
+	next "enganxat a"
+	next "la cua"
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "Té un bulb a"
+	next "l'esquena que"
+	next "absorbeix"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "nutrients i"
+	next "floreix quan"
+	next "ha crescut"
 	dex
 
 _ExeggutorDexEntry::
-	text "Legend has it that"
-	next "on rare occasions,"
-	next "one of its heads"
+	text "Rep el nom de"
+	next "«bosc tropical"
+	next "amb potes»."
 
-	page "will drop off and"
-	next "continue on as an"
-	next "EXEGGCUTE"
+	page "Cada llavor té"
+	next "una cara i perso-"
+	next "nalitat pròpies"
 	dex
 
 _LickitungDexEntry::
-	text "Its tongue can be"
-	next "extended like a"
-	next "chameleon's. It"
+	text "La llengua és el"
+	next "doble de llarga"
+	next "que el seu cos."
 
-	page "leaves a tingling"
-	next "sensation when it"
-	next "licks enemies"
+	page "Sovint, la fa"
+	next "servir com a"
+	next "braç per atacar"
 	dex
 
 _ExeggcuteDexEntry::
-	text "Often mistaken"
-	next "for eggs."
-	next "When disturbed,"
+	text "Malgrat tenir"
+	next "aparença d'ous,"
+	next "s'ha descobert"
 
-	page "they quickly"
-	next "gather and attack"
-	next "in swarms"
+	page "que és l'ésser"
+	next "viu més semblant"
+	next "a unes llavors"
 	dex
 
 _GrimerDexEntry::
-	text "Appears in filthy"
-	next "areas. Thrives by"
-	next "sucking up"
+	text "Nascut a partir"
+	next "de residus"
+	next "exposats a la"
 
-	page "polluted sludge"
-	next "that is pumped"
-	next "out of factories"
+	page "radiació de la"
+	next "lluna. S'alimenta"
+	next "de brossa"
 	dex
 
 _GengarDexEntry::
-	text "Under a full moon,"
-	next "this #MON"
-	next "likes to mimic"
+	text "Es diu que surt"
+	next "de la foscor"
+	next "per llevar les"
 
-	page "the shadows of"
-	next "people and laugh"
-	next "at their fright"
+	page "vides d'aquells"
+	next "que es perden"
+	next "a les muntanyes"
 	dex
 
 _NidoranFDexEntry::
-	text "Although small,"
-	next "its venomous"
-	next "barbs render this"
+	text "Tot i que és"
+	next "petit, les seves"
+	next "pues tòxiques"
 
-	page "#MON dangerous."
-	next "The female has"
-	next "smaller horns"
+	page "i banyes el"
+	next "fan un #mon"
+	next "amenaçant"
 	dex
 
 _NidoqueenDexEntry::
-	text "Its hard scales"
-	next "provide strong"
-	next "protection. It"
+	text "El recobreixen"
+	next "escames primes"
+	next "com agulles."
 
-	page "uses its hefty"
-	next "bulk to execute"
-	next "powerful moves"
+	page "Quan s'altera,"
+	next "les escames"
+	next "s'ericen"
 	dex
 
 _CuboneDexEntry::
-	text "Because it never"
-	next "removes its skull"
-	next "helmet, no one"
+	text "Porta el crani"
+	next "de la seva mare"
+	next "al cap."
 
-	page "has ever seen"
-	next "this #MON's"
-	next "real face"
+	page "Es diu que sovint"
+	next "plora quan se"
+	next "sent sol"
 	dex
 
 _RhyhornDexEntry::
-	text "Its massive bones"
-	next "are 1000 times"
-	next "harder than human"
+	text "De gran força"
+	next "però intel·ligència"
+	next "limitada."
 
-	page "bones. It can"
-	next "easily knock a"
-	next "trailer flying"
+	page "És capaç de tombar"
+	next "un gratacel amb"
+	next "el seu placatge"
 	dex
 
 _LaprasDexEntry::
-	text "A #MON that"
-	next "has been over-"
-	next "hunted almost to"
+	text "És tan intel·ligent"
+	next "que pot entendre"
+	next "la parla humana."
 
-	page "extinction. It"
-	next "can ferry people"
-	next "across the water"
+	page "També li agrada"
+	next "portar gent"
+	next "sobre l'aigua"
 	dex
 
 _ArcanineDexEntry::
-	text "A #MON that"
-	next "has been admired"
-	next "since the past"
+	text "#mon que es"
+	next "descriu a algunes"
+	next "llegendes xineses."
 
-	page "for its beauty."
-	next "It runs agilely"
-	next "as if on wings"
+	page "Es conegut per"
+	next "córrer a gran"
+	next "velocitat"
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "#mon d'Amèrica"
+	next "del Sud que es"
+	next "creia extint."
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "Té una gran"
+	next "intuïció i aprèn"
+	next "qualsevol atac"
 	dex
 
 _GyaradosDexEntry::
-	text "Rarely seen in"
-	next "the wild. Huge"
-	next "and vicious, it"
+	text "Extremadament"
+	next "agressiu per"
+	next "naturalesa."
 
-	page "is capable of"
-	next "destroying entire"
-	next "cities in a rage"
+	page "Dispara Megalàser"
+	next "per la boca i"
+	next "causa destrucció"
 	dex
 
 _ShellderDexEntry::
-	text "Its hard shell"
-	next "repels any kind"
-	next "of attack."
+	text "La seva closca"
+	next "és més dura que"
+	next "un diamant."
 
-	page "It is vulnerable"
-	next "only when its"
-	next "shell is open"
+	page "Amb tot, per dins"
+	next "és de constitució"
+	next "suau i tova"
 	dex
 
 _TentacoolDexEntry::
-	text "Drifts in shallow"
-	next "seas. Anglers who"
-	next "hook them by"
+	text "Els seus ulls són"
+	next "transparents com"
+	next "cristalls."
 
-	page "accident are"
-	next "often punished by"
-	next "its stinging acid"
+	page "Els fa servir per"
+	next "disparar rajos de"
+	next "llum misteriosos"
 	dex
 
 _GastlyDexEntry::
-	text "Almost invisible,"
-	next "this gaseous"
-	next "#MON cloaks"
+	text "De constitució"
+	next "gasosa, aquest"
+	next "#mon pot tombar"
 
-	page "the target and"
-	next "puts it to sleep"
-	next "without notice"
+	page "en tan sols dos"
+	next "segons animals"
+	next "com l'elefant"
 	dex
 
 _ScytherDexEntry::
-	text "With ninja-like"
-	next "agility and speed,"
-	next "it can create the"
+	text "Amb les seves"
+	next "fulles esmolades"
+	next "pot trinxar els"
 
-	page "illusion that"
-	next "there is more"
-	next "than one"
+	page "seus enemics. No"
+	next "sol emprar les"
+	next "ales per volar"
 	dex
 
 _StaryuDexEntry::
-	text "An enigmatic"
-	next "#MON that can"
-	next "effortlessly"
+	text "Apareix en grans"
+	next "quantitats a les"
+	next "costes. De nit,"
 
-	page "regenerate any"
-	next "appendage it"
-	next "loses in battle"
+	page "el seu nucli"
+	next "emet una llum"
+	next "vermellosa"
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "Estaborneix les"
+	next "seves preses"
+	next "esclafant-les amb"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "el cos. Pot"
+	next "amagar-se dins la"
+	next "closca ràpidament"
 	dex
 
 _PinsirDexEntry::
-	text "If it fails to"
-	next "crush the victim"
-	next "in its pincers,"
+	text "Té dues banyes"
+	next "amb què pot fer"
+	next "molta força."
 
-	page "it will swing it"
-	next "around and toss"
-	next "it hard"
+	page "Quan atrapa una"
+	next "presa, no la"
+	next "deixa anar"
 	dex
 
 _TangelaDexEntry::
-	text "The whole body is"
-	next "swathed with wide"
-	next "vines that are"
+	text "Les seves lianes"
+	next "blaves enreden"
+	next "tot allò que"
 
-	page "similar to sea-"
-	next "weed. Its vines"
-	next "shake as it walks"
+	page "toca. Encara es"
+	next "desconeix la"
+	next "seva identitat"
 	dex
 
 _GrowlitheDexEntry::
-	text "Very protective"
-	next "of its territory."
-	next "It will bark and"
+	text "De caràcter afable"
+	next "i molt lleial als"
+	next "humans. Borda i"
 
-	page "bite to repel"
-	next "intruders from"
-	next "its space"
+	page "mossega per marcar"
+	next "el seu territori"
+	next "als enemics"
 	dex
 
 _OnixDexEntry::
-	text "As it grows, the"
-	next "stone portions of"
-	next "its body harden"
+	text "Sovint es troba"
+	next "sota terra, on"
+	next "viu i busca"
 
-	page "to become similar"
-	next "to a diamond, but"
-	next "colored black"
+	page "menjar. Es capaç"
+	next "de moure's a més"
+	next "de 80 km/h"
 	dex
 
 _FearowDexEntry::
-	text "With its huge and"
-	next "magnificent wings,"
-	next "it can keep aloft"
+	text "Quan vola, sol"
+	next "estendre les ales"
+	next "per planejar."
 
-	page "without ever"
-	next "having to land"
-	next "for rest"
+	page "Pot quedar-se"
+	next "enlaire durant"
+	next "tot un dia"
 	dex
 
 _PidgeyDexEntry::
-	text "A common sight in"
-	next "forests and woods."
-	next "It flaps its"
+	text "De caràcter més"
+	next "aviat poruc, pre-"
+	next "fereix amagar-se"
 
-	page "wings at ground"
-	next "level to kick up"
-	next "blinding sand"
+	page "rere la vegetació"
+	next "per caçar petits"
+	next "insectes"
 	dex
 
 _SlowpokeDexEntry::
-	text "Incredibly slow"
-	next "and dopey. It"
-	next "takes 5 seconds"
+	text "De mirada perduda,"
+	next "tot i que es"
+	next "desconeix en què"
 
-	page "for it to feel"
-	next "pain when under"
-	next "attack"
+	page "pensa. Empra la"
+	next "cua per pescar"
+	next "i alimentar-se"
 	dex
 
 _KadabraDexEntry::
-	text "It emits special"
-	next "alpha waves from"
-	next "its body that"
+	text "Es diu que un noi"
+	next "que no podia con-"
+	next "trolar els seus"
 
-	page "induce headaches"
-	next "just by being"
-	next "close by"
+	page "poders es va con-"
+	next "vertir en el"
+	next "primer Kadabra"
 	dex
 
 _GravelerDexEntry::
-	text "Rolls down slopes"
-	next "to move. It rolls"
-	next "over any obstacle"
+	text "Baixa des de dalt"
+	next "de les muntanyes"
+	next "a tota velocitat."
 
-	page "without slowing"
-	next "or changing its"
-	next "direction"
+	page "Es recomana pre-"
+	next "caució en camins"
+	next "i bifurcacions"
 	dex
 
 _ChanseyDexEntry::
-	text "A rare and elusive"
-	next "#MON that is"
-	next "said to bring"
+	text "Pon diversos ous"
+	next "cada dia, els"
+	next "quals són molt"
 
-	page "happiness to those"
-	next "who manage to get"
-	next "it"
+	page "selectes i conte-"
+	next "nen gran quanti-"
+	next "tat de nutrients"
 	dex
 
 _MachokeDexEntry::
-	text "Its muscular body"
-	next "is so powerful, it"
-	next "must wear a power"
+	text "La seva esplèndida"
+	next "musculatura mai"
+	next "es cansa. Sovint"
 
-	page "save belt to be"
-	next "able to regulate"
-	next "its motions"
+	page "rep la tasca"
+	next "d'ajudar a moure"
+	next "objectes pesants"
 	dex
 
 _MrMimeDexEntry::
-	text "If interrupted"
-	next "while it is"
-	next "miming, it will"
+	text "De caràcter viu,"
+	next "és capaç de crear"
+	next "parets del no-res"
 
-	page "slap around the"
-	next "offender with its"
-	next "broad hands"
+	page "fent servir els"
+	next "seus moviments"
+	next "mímics"
 	dex
 
 _HitmonleeDexEntry::
-	text "When in a hurry,"
-	next "its legs lengthen"
-	next "progressively."
+	text "Les seves cames"
+	next "tenen una àmplia"
+	next "flexibilitat i"
 
-	page "It runs smoothly"
-	next "with extra long,"
-	next "loping strides"
+	page "pot fer puntades"
+	next "de peu des d'una"
+	next "gran distància"
 	dex
 
 _HitmonchanDexEntry::
-	text "While apparently"
-	next "doing nothing, it"
-	next "fires punches in"
+	text "Té l'esperit d'un"
+	next "boxejador profes-"
+	next "sional. Els seus"
 
-	page "lightning fast"
-	next "volleys that are"
-	next "impossible to see"
+	page "cops de puny són"
+	next "supersònics i"
+	next "precisos"
 	dex
 
 _ArbokDexEntry::
-	text "It is rumored that"
-	next "the ferocious"
-	next "warning markings"
+	text "El dibuix que té"
+	next "al cos es semblant"
+	next "a una cara maligna"
 
-	page "on its belly"
-	next "differ from area"
-	next "to area"
+	page "que usa per espan-"
+	next "tar ràpidament les"
+	next "seves preses"
 	dex
 
 _ParasectDexEntry::
-	text "A host-parasite"
-	next "pair in which the"
-	next "parasite mushroom"
+	text "Excreta espores"
+	next "tòxiques des del"
+	next "seu capell, les"
 
-	page "has taken over the"
-	next "host bug. Prefers"
-	next "damp places"
+	page "quals s'usen com"
+	next "a herbes remeieres"
+	next "a la Xina"
 	dex
 
 _PsyduckDexEntry::
-	text "While lulling its"
-	next "enemies with its"
-	next "vacant look, this"
+	text "Pateix de mal"
+	next "de cap crònic."
+	next "Quan es torna"
 
-	page "wily #MON will"
-	next "use psychokinetic"
-	next "powers"
+	page "més intens, fa"
+	next "sorgir d'ell"
+	next "poders mentals"
 	dex
 
 _DrowzeeDexEntry::
-	text "Puts enemies to"
-	next "sleep then eats"
-	next "their dreams."
+	text "Descendent de"
+	next "l'ésser mitològic"
+	next "Baku, devorador de"
 
-	page "Occasionally gets"
-	next "sick from eating"
-	next "bad dreams"
+	page "somnis. És molt"
+	next "hàbil en l'ús de"
+	next "l'hipnotisme"
 	dex
 
 _GolemDexEntry::
-	text "Its boulder-like"
-	next "body is extremely"
-	next "hard. It can"
+	text "La seva closca és"
+	next "tan forta i dura"
+	next "com la roca."
 
-	page "easily withstand"
-	next "dynamite blasts"
-	next "without damage"
+	page "Cada any, a mesura"
+	next "que creix, va"
+	next "mudant de pell"
 	dex
 
 _MagmarDexEntry::
-	text "Its body always"
-	next "burns with an"
-	next "orange glow that"
+	text "Sovint se'l troba"
+	next "a prop de cràters"
+	next "volcànics."
 
-	page "enables it to"
-	next "hide perfectly"
-	next "among flames"
+	page "La seva temperatu-"
+	next "ra corporal arriba"
+	next "als 1.200 graus"
 	dex
 
 _ElectabuzzDexEntry::
-	text "Normally found"
-	next "near power plants,"
-	next "they can wander"
+	text "Li encanta alimen-"
+	next "tar-se d'electri-"
+	next "citat. Normalment"
 
-	page "away and cause"
-	next "major blackouts"
-	next "in cities"
+	page "ronda per centrals"
+	next "elèctriques i"
+	next "subestacions"
 	dex
 
 _MagnetonDexEntry::
-	text "Formed by several"
-	next "MAGNEMITEs linked"
-	next "together. They"
+	text "Grup format per"
+	next "diversos Magnet."
+	next "Fa descàrregues"
 
-	page "frequently appear"
-	next "when sunspots"
-	next "flare up"
+	page "potents d'ones"
+	next "magnètiques"
+	next "d'alta tensió"
 	dex
 
 _KoffingDexEntry::
-	text "Because it stores"
-	next "several kinds of"
-	next "toxic gases in"
+	text "El seu cos està"
+	next "inflat per gasos"
+	next "tòxics."
 
-	page "its body, it is"
-	next "prone to exploding"
-	next "without warning"
+	page "L'olor que desprèn"
+	next "fa fàcil detectar-"
+	next "ne un a prop"
 	dex
 
 _MankeyDexEntry::
-	text "Extremely quick to"
-	next "anger. It could"
-	next "be docile one"
+	text "De constitució"
+	next "àgil, però de"
+	next "caràcter ferotge."
 
-	page "moment then"
-	next "thrashing away"
-	next "the next instant"
+	page "Causa violència"
+	next "extrema quan està"
+	next "furiós"
 	dex
 
 _SeelDexEntry::
-	text "The protruding"
-	next "horn on its head"
-	next "is very hard."
+	text "De pell ferma i"
+	next "de color clara,"
+	next "que el permet"
 
-	page "It is used for"
-	next "bashing through"
-	next "thick ice"
+	page "estar actiu en"
+	next "temperatures de"
+	next "-40 graus"
 	dex
 
 _DiglettDexEntry::
-	text "Lives about one"
-	next "yard underground"
-	next "where it feeds on"
+	text "Es desplaça sota"
+	next "terra a poca"
+	next "profunditat."
 
-	page "plant roots. It"
-	next "sometimes appears"
-	next "above ground"
+	page "Se'l pot detectar"
+	next "pel rastre que va"
+	next "deixant rere seu"
 	dex
 
 _TaurosDexEntry::
-	text "When it targets"
-	next "an enemy, it"
-	next "charges furiously"
+	text "Quan és a punt de"
+	next "fer un plactage,"
+	next "mou bruscament"
 
-	page "while whipping its"
-	next "body with its"
-	next "long tails"
+	page "el cos per tal"
+	next "de fuetejar les"
+	next "seves tres cues"
 	dex
 
 _FarfetchdDexEntry::
-	text "The sprig of"
-	next "green onions it"
-	next "holds is its"
+	text "Sempre porta al"
+	next "bec un porro"
+	next "que fa servir"
 
-	page "weapon. It is"
-	next "used much like a"
-	next "metal sword"
+	page "per fer el seu"
+	next "niu i atacar els"
+	next "oponents"
 	dex
 
 _VenonatDexEntry::
-	text "Lives in the"
-	next "shadows of tall"
-	next "trees where it"
+	text "Fa servir els"
+	next "ulls com a radar"
+	next "per veure-hi a"
 
-	page "eats insects. It"
-	next "is attracted by"
-	next "light at night"
+	page "la foscor. També"
+	next "és capaç de dis-"
+	next "parar-hi rajos"
 	dex
 
 _DragoniteDexEntry::
-	text "An extremely"
-	next "rarely seen"
-	next "marine #MON."
+	text "Malgrat la seva"
+	next "grandària, pot"
+	next "donar la volta"
 
-	page "Its intelligence"
-	next "is said to match"
-	next "that of humans"
+	page "al món pels aires"
+	next "en tan sols 16"
+	next "hores"
 	dex
 
 _DoduoDexEntry::
-	text "A bird that makes"
-	next "up for its poor"
-	next "flying with its"
+	text "#mon bicèfal"
+	next "que va sortir"
+	next "d'una mutació."
 
-	page "fast foot speed."
-	next "Leaves giant"
-	next "footprints"
+	page "Té la capacitat"
+	next "de córrer a més"
+	next "de 100 km/h"
 	dex
 
 _PoliwagDexEntry::
-	text "Its newly grown"
-	next "legs prevent it"
-	next "from running. It"
+	text "De pell suau i"
+	next "humida. Rep el"
+	next "seu nom per la"
 
-	page "appears to prefer"
-	next "swimming than"
-	next "trying to stand"
+	page "forma que té"
+	next "dibuixada a"
+	next "l'abdomen"
 	dex
 
 _JynxDexEntry::
-	text "It seductively"
-	next "wiggles its hips"
-	next "as it walks. It"
+	text "Es comunica fent"
+	next "servir un llen-"
+	next "guatge semblant"
 
-	page "can cause people"
-	next "to dance in"
-	next "unison with it"
+	page "al dels humans"
+	next "que encara s'està"
+	next "desxifrant"
 	dex
 
 _MoltresDexEntry::
-	text "Known as the"
-	next "legendary bird of"
-	next "fire. Every flap"
+	text "Un dels ocells"
+	next "llegendaris. Els"
+	next "que l'han vist"
 
-	page "of its wings"
-	next "creates a dazzling"
-	next "flash of flames"
+	page "es meravellen de"
+	next "les seves ales"
+	next "semblants a foc"
 	dex
 
 _ArticunoDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear to"
+	text "Un dels ocells"
+	next "llegendaris. La"
+	next "seva cua llarga"
 
-	page "doomed people who"
-	next "are lost in icy"
-	next "mountains"
+	page "crea una silueta"
+	next "al cel que és"
+	next "espectacular"
 	dex
 
 _ZapdosDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear"
+	text "Un dels ocells"
+	next "llegendaris."
+	next "Quan vola, fa un"
 
-	page "from clouds while"
-	next "dropping enormous"
-	next "lightning bolts"
+	page "so semblant als"
+	next "esclats i espetecs"
+	next "elèctrics"
 	dex
 
 _DittoDexEntry::
-	text "Capable of copying"
-	next "an enemy's genetic"
-	next "code to instantly"
+	text "Pot recombinar la"
+	next "seva estructura"
+	next "cel·lular per"
 
-	page "transform itself"
-	next "into a duplicate"
-	next "of the enemy"
+	page "transformar-se en"
+	next "qualsevol altre"
+	next "ésser viu"
 	dex
 
 _MeowthDexEntry::
-	text "Adores circular"
-	next "objects. Wanders"
-	next "the streets on a"
+	text "Dorm profundament"
+	next "durant el dia. De"
+	next "nit, es passeja"
 
-	page "nightly basis to"
-	next "look for dropped"
-	next "loose change"
+	page "pel seu territori,"
+	next "alerta de possi-"
+	next "bles intrusos"
 	dex
 
 _KrabbyDexEntry::
-	text "Its pincers are"
-	next "not only powerful"
-	next "weapons, they are"
+	text "Viuen ben a prop"
+	next "del mar. Són capa-"
+	next "ços de regenerar"
 
-	page "used for balance"
-	next "when walking"
-	next "sideways"
+	page "les seves pinces"
+	next "si les han perdut"
+	next "en un combat"
 	dex
 
 _VulpixDexEntry::
-	text "At the time of"
-	next "birth, it has"
-	next "just one tail."
+	text "De cadell, té sis"
+	next "precioses cues."
+	next "A mesura que va"
 
-	page "The tail splits"
-	next "from its tip as"
-	next "it grows older"
+	page "creixent, li van"
+	next "sortint cues"
+	next "addicionals"
 	dex
 
 _NinetalesDexEntry::
-	text "Very smart and"
-	next "very vengeful."
-	next "Grabbing one of"
+	text "Té nou cues ben"
+	next "llargues i un"
+	next "pelatge que"
 
-	page "its many tails"
-	next "could result in a"
-	next "1000-year curse"
+	page "brilla com l'or."
+	next "Es diu que pot"
+	next "viure 1.000 anys"
 	dex
 
 _PikachuDexEntry::
-	text "When several of"
-	next "these #MON"
-	next "gather, their"
+	text "Té petites bosses"
+	next "elèctriques a les"
+	next "galtes. Quan sent"
 
-	page "electricity could"
-	next "build and cause"
-	next "lightning storms"
+	page "por, llança"
+	next "descàrregues als"
+	next "seus oponents"
 	dex
 
 _RaichuDexEntry::
-	text "Its long tail"
-	next "serves as a"
-	next "ground to protect"
+	text "Llança descàrre-"
+	next "gues elèctriques"
+	next "que poden arribar"
 
-	page "itself from its"
-	next "own high voltage"
-	next "power"
+	page "als 100.000 volts."
+	next "Fins i tot pot"
+	next "tombar elefants"
 	dex
 
 _DratiniDexEntry::
-	text "Long considered a"
-	next "mythical #MON"
-	next "until recently"
+	text "Els més joves"
+	next "poden fer més de"
+	next "2 metres."
 
-	page "when a small"
-	next "colony was found"
-	next "living underwater"
+	page "A mesura que"
+	next "creix, va mudant"
+	next "de pell"
 	dex
 
 _DragonairDexEntry::
-	text "A mystical #MON"
-	next "that exudes a"
-	next "gentle aura."
+	text "Capaç de viure"
+	next "tant a mars com"
+	next "a llacs. Encara"
 
-	page "Has the ability"
-	next "to change climate"
-	next "conditions"
+	page "que no té ales,"
+	next "se n'han vist"
+	next "alguns volant"
 	dex
 
 _KabutoDexEntry::
-	text "A #MON that"
-	next "was resurrected"
-	next "from a fossil"
+	text "#mon que ha"
+	next "sigut regenerat"
+	next "a partir d'un"
 
-	page "found in what was"
-	next "once the ocean"
-	next "floor eons ago"
+	page "fòssil antic."
+	next "Usa la seva closca"
+	next "per protegir-se"
 	dex
 
 _KabutopsDexEntry::
-	text "Its sleek shape is"
-	next "perfect for swim-"
-	next "ming. It slashes"
+	text "És un nedador"
+	next "excel·lent. Empra"
+	next "els seus braços"
 
-	page "prey with its"
-	next "claws and drains"
-	next "the body fluids"
+	page "per tallar i"
+	next "drenar les seves"
+	next "preses"
 	dex
 
 _HorseaDexEntry::
-	text "Known to shoot"
-	next "down flying bugs"
-	next "with precision"
+	text "Fa servir la cua"
+	next "per mantenir"
+	next "l'equilibri."
 
-	page "blasts of ink"
-	next "from the surface"
-	next "of the water"
+	page "Té l'habilitat"
+	next "de llançar tinta"
+	next "per la boca"
 	dex
 
 _SeadraDexEntry::
-	text "Capable of swim-"
-	next "ming backwards by"
-	next "rapidly flapping"
+	text "Té el cos recobert"
+	next "d'escames esmolades"
+	next "que poden punxar"
 
-	page "its wing-like"
-	next "pectoral fins and"
-	next "stout tail"
+	page "i estabornir els"
+	next "enemics i les"
+	next "preses"
 	dex
 
 _SandshrewDexEntry::
-	text "Burrows deep"
-	next "underground in"
-	next "arid locations"
+	text "Viu i té el seu"
+	next "cau sota terra."
+	next "Quan se sent"
 
-	page "far from water."
-	next "It only emerges"
-	next "to hunt for food"
+	page "amenaçat, es pro-"
+	next "teig arronsant-se"
+	next "en forma de bola"
 	dex
 
 _SandslashDexEntry::
-	text "Curls up into a"
-	next "spiny ball when"
-	next "threatened. It"
+	text "Empra les urpes i"
+	next "les pues de la"
+	next "seva esquena per"
 
-	page "can roll while"
-	next "curled up to"
-	next "attack or escape"
+	page "atacar mentre es"
+	next "mou a gran velo-"
+	next "citat"
 	dex
 
 _OmanyteDexEntry::
-	text "Although long"
-	next "extinct, in rare"
-	next "cases, it can be"
+	text "#mon marítim"
+	next "prehistòric que"
+	next "va desaparèixer"
 
-	page "genetically"
-	next "resurrected from"
-	next "fossils"
+	page "fa temps. Neda"
+	next "fent servir"
+	next "deu tentacles"
 	dex
 
 _OmastarDexEntry::
-	text "A prehistoric"
-	next "#MON that died"
-	next "out when its"
+	text "Fa servir els seus"
+	next "tentacles com mans"
+	next "i peus. Mossega"
 
-	page "heavy shell made"
-	next "it impossible to"
-	next "catch prey"
+	page "les seves preses"
+	next "un cop les té"
+	next "immòbils"
 	dex
 
 _JigglypuffDexEntry::
-	text "When its huge eyes"
-	next "light up, it sings"
-	next "a mysteriously"
+	text "Captiva els ene-"
+	next "mics amb els seus"
+	next "ulls grossos."
 
-	page "soothing melody"
-	next "that lulls its"
-	next "enemies to sleep"
+	page "Llavors, canta una"
+	next "plàcida melodia"
+	next "per adomir-los"
 	dex
 
 _WigglytuffDexEntry::
-	text "The body is soft"
-	next "and rubbery. When"
-	next "angered, it will"
+	text "El seu pelatge"
+	next "és suau, fi i"
+	next "brillant. Això"
 
-	page "suck in air and"
-	next "inflate itself to"
-	next "an enormous size"
+	page "el fa tan valuós"
+	next "que transmet una"
+	next "imatge de luxe"
 	dex
 
 _EeveeDexEntry::
-	text "Its genetic code"
-	next "is irregular."
-	next "It may mutate if"
+	text "#mon rar que"
+	next "pot evolucionar"
+	next "de diferents"
 
-	page "it is exposed to"
-	next "radiation from"
-	next "element STONEs"
+	page "maneres depenent"
+	next "de l'element al"
+	next "qual s'exposi"
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "Emmagatzema calor"
+	next "dins del seu cos"
+	next "i pot agafar aire"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "per llançar flames"
+	next "d'uns 1.700 graus"
+	next "centígrads"
 	dex
 
 _JolteonDexEntry::
-	text "It accumulates"
-	next "negative ions in"
-	next "the atmosphere to"
+	text "Quan està alterat"
+	next "o defensiu eriça"
+	next "el seu pelatge,"
 
-	page "blast out 10000-"
-	next "volt lightning"
-	next "bolts"
+	page "el qual és capaç"
+	next "de foradar els"
+	next "seus enemics"
 	dex
 
 _VaporeonDexEntry::
-	text "Lives close to"
-	next "water. Its long"
-	next "tail is ridged"
+	text "L'estructura cel-"
+	next "lular del seu cos"
+	next "és semblant a la"
 
-	page "with a fin which"
-	next "is often mistaken"
-	next "for a mermaid's"
+	page "de l'aigua, cosa"
+	next "que el permet"
+	next "camuflar-s'hi"
 	dex
 
 _MachopDexEntry::
-	text "Loves to build"
-	next "its muscles."
-	next "It trains in all"
+	text "Té els músculs"
+	next "desenvolupats"
+	next "des de jove."
 
-	page "styles of martial"
-	next "arts to become"
-	next "even stronger"
+	page "És capaç de"
+	next "lluitar contra"
+	next "cent homes"
 	dex
 
 _ZubatDexEntry::
-	text "Forms colonies in"
-	next "perpetually dark"
-	next "places. Uses"
+	text "Com que no té"
+	next "ulls, fa servir"
+	next "l'ecolocalització"
 
-	page "ultrasonic waves"
-	next "to identify and"
-	next "approach targets"
+	page "per orientar-se"
+	next "i lluitar contra"
+	next "els seus enemics"
 	dex
 
 _EkansDexEntry::
-	text "Moves silently"
-	next "and stealthily."
-	next "Eats the eggs of"
+	text "És molt comú en"
+	next "zones de matolls."
+	next "Fa vibrar la"
 
-	page "birds, such as"
-	next "PIDGEY and"
-	next "SPEAROW, whole"
+	page "llengua per tal"
+	next "de detectar perill"
+	next "al seu voltant"
 	dex
 
 _ParasDexEntry::
-	text "Burrows to suck"
-	next "tree roots. The"
-	next "mushrooms on its"
+	text "Els bolets que"
+	next "té a l'esquena"
+	next "són cordíceps"
 
-	page "back grow by draw-"
-	next "ing nutrients from"
-	next "the bug host"
+	page "xinesos, que"
+	next "creixen com a"
+	next "paràsits"
 	dex
 
 _PoliwhirlDexEntry::
-	text "Capable of living"
-	next "in or out of"
-	next "water. When out"
+	text "Té dues cames ben"
+	next "desenvolupades."
+	next "Això el permet"
 
-	page "of water, it"
-	next "sweats to keep"
-	next "its body slimy"
+	page "viure en terra"
+	next "ferma, tot i que"
+	next "resideix a l'aigua"
 	dex
 
 _PoliwrathDexEntry::
-	text "An adept swimmer"
-	next "at both the front"
-	next "crawl and breast"
+	text "Nedador excel·lent"
+	next "que supera en"
+	next "estil i rapidesa"
 
-	page "stroke. Easily"
-	next "overtakes the best"
-	next "human swimmers"
+	page "els nedadors"
+	next "humans de més"
+	next "experiència"
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "forests, eating"
-	next "leaves."
+	text "Habita en boscos"
+	next "i zones cobertes"
+	next "de matolls."
 
-	page "It has a sharp"
-	next "venomous stinger"
-	next "on its head"
+	page "Té un fibló tòxic"
+	next "al cap que fa uns"
+	next "5 cm de llargada"
 	dex
 
 _KakunaDexEntry::
-	text "Almost incapable"
-	next "of moving, this"
-	next "#MON can only"
+	text "Es troba en un"
+	next "estat temporal"
+	next "d'inactivitat."
 
-	page "harden its shell"
-	next "to protect itself"
-	next "from predators"
+	page "Això fa que"
+	next "gairebé no pugui"
+	next "moure's"
 	dex
 
 _BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
+	text "Pot agrupar-se en"
+	next "eixams i atacar"
+	next "usant el fibló,"
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+	page "el qual és molt"
+	next "verinós. Vola a"
+	next "gran velocitat"
 	dex
 
 _DodrioDexEntry::
-	text "Uses its three"
-	next "brains to execute"
-	next "complex plans."
+	text "Espècie poc comuna"
+	next "que és difícil de"
+	next "trobar. Els seus"
 
-	page "While two heads"
-	next "sleep, one head"
-	next "stays awake"
+	page "tres caps repre-"
+	next "senten alegria,"
+	next "ira i tristor"
 	dex
 
 _PrimeapeDexEntry::
-	text "Always furious"
-	next "and tenacious to"
-	next "boot. It will not"
+	text "Està sempre enfu-"
+	next "rismat. Quan per-"
+	next "segueix una presa,"
 
-	page "abandon chasing"
-	next "its quarry until"
-	next "it is caught"
+	page "no s'atura fins"
+	next "que és capaç"
+	next "d'atrapar-la"
 	dex
 
 _DugtrioDexEntry::
-	text "A team of DIGLETT"
-	next "triplets."
-	next "It triggers huge"
+	text "En una batalla,"
+	next "sovint s'enterra"
+	next "per atacar els"
 
-	page "earthquakes by"
-	next "burrowing 60 miles"
-	next "underground"
+	page "seus enemics i"
+	next "agafar-los per"
+	next "sorpresa"
 	dex
 
 _VenomothDexEntry::
-	text "The dust-like"
-	next "scales covering"
-	next "its wings are"
+	text "Té les ales cober-"
+	next "tes d'escames"
+	next "tòxiques semblants"
 
-	page "color coded to"
-	next "indicate the kinds"
-	next "of poison it has"
+	page "a la pols que"
+	next "escampa quan bat"
+	next "les ales"
 	dex
 
 _DewgongDexEntry::
-	text "Stores thermal"
-	next "energy in its"
-	next "body. Swims at a"
+	text "El cobreix una"
+	next "capa de pell"
+	next "gruixida i blanca."
 
-	page "steady 8 knots"
-	next "even in intensely"
-	next "cold waters"
+	page "Com més fred és"
+	next "el clima, més"
+	next "actiu està"
 	dex
 
 _CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
+	text "És de color verd"
+	next "viu. Quan creix,"
+	next "muda de pell,"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+	page "es cobreix de"
+	next "seda i es trans-"
+	next "forma en capoll"
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "Encara que és"
+	next "molt resistent"
+	next "per fora,"
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "un atac fort pot"
+	next "afectar el seu"
+	next "cos fràgil"
 	dex
 
 _ButterfreeDexEntry::
-	text "In battle, it"
-	next "flaps its wings"
-	next "at high speed to"
+	text "Les seves ales"
+	next "són impermeables."
+	next "Això el permet"
 
-	page "release highly"
-	next "toxic dust into"
-	next "the air"
+	page "volar fins i tot"
+	next "durant pluges"
+	next "torrencials"
 	dex
 
 _MachampDexEntry::
-	text "Using its heavy"
-	next "muscles, it throws"
-	next "powerful punches"
+	text "Els seus quatre"
+	next "braços musculats"
+	next "poden llançar"
 
-	page "that can send the"
-	next "victim clear over"
-	next "the horizon"
+	page "una ràfega de"
+	next "1.000 cops de puny"
+	next "en només 2 segons"
 	dex
 
 _GolduckDexEntry::
-	text "Often seen swim-"
-	next "ming elegantly by"
-	next "lake shores. It"
+	text "Les seves potes"
+	next "palmades el fan un"
+	next "excel·lent nedador."
 
-	page "is often mistaken"
-	next "for the Japanese"
-	next "monster, Kappa"
+	page "Sovint se'l veu"
+	next "nedant a llacs i"
+	next "estanys"
 	dex
 
 _HypnoDexEntry::
-	text "When it locks eyes"
-	next "with an enemy, it"
-	next "will use a mix of"
+	text "Sempre porta un"
+	next "pèndol a sobre."
+	next "En una ocasió,"
 
-	page "PSI moves such as"
-	next "HYPNOSIS and"
-	next "CONFUSION"
+	page "un Hipno va abduir"
+	next "un nen després"
+	next "d'hipnotizar-lo"
 	dex
 
 _GolbatDexEntry::
-	text "Once it strikes,"
-	next "it will not stop"
-	next "draining energy"
+	text "S'enganxa a la"
+	next "seva presa amb"
+	next "els ullals i pot"
 
-	page "from the victim"
-	next "even if it gets"
-	next "too heavy to fly"
+	page "xuclar de cop"
+	next "fins a 300 ml"
+	next "de sang"
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "#mon de natura"
+	next "ferotge a causa"
+	next "d'experiments que"
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "van recombinar el"
+	next "seu codi genètic"
+	next "repetidament"
 	dex
 
 _SnorlaxDexEntry::
-	text "Very lazy. Just"
-	next "eats and sleeps."
-	next "As its rotund"
+	text "Es torna agressiu"
+	next "si no ingereix"
+	next "400 kg de menjar"
 
-	page "bulk builds, it"
-	next "becomes steadily"
-	next "more slothful"
+	page "cada dia. Després"
+	next "d'atipar-se, torna"
+	next "a dormir-se"
 	dex
 
 _MagikarpDexEntry::
-	text "In the distant"
-	next "past, it was"
-	next "somewhat stronger"
+	text "És inútil pel que"
+	next "fa a la seva força"
+	next "i velocitat."
 
-	page "than the horribly"
-	next "weak descendants"
-	next "that exist today"
+	page "De fet, és el"
+	next "#mon més insig-"
+	next "nificant del món"
 	dex
 
 _MukDexEntry::
-	text "Thickly covered"
-	next "with a filthy,"
-	next "vile sludge. It"
+	text "Sovint no se'l veu"
+	next "perquè es camufla"
+	next "amb el terra."
 
-	page "is so toxic, even"
-	next "its footprints"
-	next "contain poison"
+	page "Qualsevol contacte"
+	next "amb ell pot causar"
+	next "enverinament"
 	dex
 
 _KinglerDexEntry::
-	text "The large pincer"
-	next "has 10000 hp of"
-	next "crushing power."
+	text "La seva pinça més"
+	next "grossa té una"
+	next "força equivalent"
 
-	page "However, its huge"
-	next "size makes it"
-	next "unwieldy to use"
+	page "a 10.000 cavalls."
+	next "Es mou amb molta"
+	next "dificultat"
 	dex
 
 _CloysterDexEntry::
-	text "When attacked, it"
-	next "launches its"
-	next "horns in quick"
+	text "La seva closca pot"
+	next "resistir atacs tan"
+	next "forts com el"
 
-	page "volleys. Its"
-	next "innards have"
-	next "never been seen"
+	page "napalm. Només surt"
+	next "de la closca per"
+	next "atacar"
 	dex
 
 _ElectrodeDexEntry::
-	text "It stores electric"
-	next "energy under very"
-	next "high pressure."
+	text "Sovint explota"
+	next "davant de tota"
+	next "mena d'estímul."
 
-	page "It often explodes"
-	next "with little or no"
-	next "provocation"
+	page "Això fa que se'l"
+	next "conegui pel nom"
+	next "«la bola bomba»"
 	dex
 
 _ClefableDexEntry::
-	text "A timid fairy"
-	next "#MON that is"
-	next "rarely seen. It"
+	text "Té un sentit tan"
+	next "fi de l'oïda que"
+	next "pot sentir sons"
 
-	page "will run and hide"
-	next "the moment it"
-	next "senses people"
+	page "provinents de fins"
+	next "a un quilòmetre"
+	next "de distància"
 	dex
 
 _WeezingDexEntry::
-	text "Where two kinds"
-	next "of poison gases"
-	next "meet, 2 KOFFINGs"
+	text "És el resultat"
+	next "d'una mutació"
+	next "sobtada, la qual"
 
-	page "can fuse into a"
-	next "WEEZING over many"
-	next "years"
+	page "causa l'aparició"
+	next "d'un altre Boirum"
+	next "siamès"
 	dex
 
 _PersianDexEntry::
-	text "Although its fur"
-	next "has many admirers,"
-	next "it is tough to"
+	text "Té un caràcter"
+	next "salvatge. Quan"
+	next "aixeca la cua"
 
-	page "raise as a pet"
-	next "because of its"
-	next "fickle meanness"
+	page "vol dir que està"
+	next "llest per atacar"
+	next "el seu oponent"
 	dex
 
 _MarowakDexEntry::
-	text "The bone it holds"
-	next "is its key weapon."
-	next "It throws the"
+	text "Originalment de"
+	next "naturalesa dèbil,"
+	next "tot i tornar-se"
 
-	page "bone skillfully"
-	next "like a boomerang"
-	next "to KO targets"
+	page "agressiu i fer"
+	next "servir ossos com"
+	next "a armes"
 	dex
 
 _HaunterDexEntry::
-	text "Because of its"
-	next "ability to slip"
-	next "through block"
+	text "Es diu que quan"
+	next "estem sols i ens"
+	next "sentim observats"
 
-	page "walls, it is said"
-	next "to be from an-"
-	next "other dimension"
+	page "en la foscor és"
+	next "senyal que hi ha"
+	next "un Pectre present"
 	dex
 
 _AbraDexEntry::
-	text "Using its ability"
-	next "to read minds, it"
-	next "will identify"
+	text "Dorm 18 hores al"
+	next "dia. Fa servir"
+	next "els seus poders"
 
-	page "impending danger"
-	next "and TELEPORT to"
-	next "safety"
+	page "mentals fins i"
+	next "tot quan està"
+	next "totalment adormit"
 	dex
 
 _AlakazamDexEntry::
-	text "Its brain can out-"
-	next "perform a super-"
-	next "computer."
+	text "No li agraden els"
+	next "atacs físics."
+	next "Sol emprar una"
 
-	page "Its intelligence"
-	next "quotient is said"
-	next "to be 5,000"
+	page "varietat de poders"
+	next "mentals per vèncer"
+	next "els seus rivals"
 	dex
 
 _PidgeottoDexEntry::
-	text "Very protective"
-	next "of its sprawling"
-	next "territorial area,"
+	text "Les seves urpes"
+	next "són tan fortes"
+	next "que pot carregar"
 
-	page "this #MON will"
-	next "fiercely peck at"
-	next "any intruder"
+	page "un Escamou fins"
+	next "al seu niu a més"
+	next "de 100 km"
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "Obre les seves"
+	next "espectaculars ales"
+	next "per intimidar les"
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "preses. Pot volar"
+	next "a la velocitat"
+	next "del so"
 	dex
 
 _StarmieDexEntry::
-	text "Its central core"
-	next "glows with the"
-	next "seven colors of"
+	text "El seu patró tan"
+	next "geomètric ha fet"
+	next "que molts pensin"
 
-	page "the rainbow. Some"
-	next "people value the"
-	next "core as a gem"
+	page "que es tracta d'un"
+	next "#mon que ha"
+	next "vingut de l'espai"
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Té una llavor a"
+	next "l'esquena des del"
+	next "seu naixement que"
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "continua creixent"
+	next "a mesura que es"
+	next "desenvolupa"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "De la seva flor"
+	next "surt una fragància"
+	next "captivadora que"
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "amaina els rivals"
+	next "més ferotges en"
+	next "una batalla"
 	dex
 
 _TentacruelDexEntry::
-	text "The tentacles are"
-	next "normally kept"
-	next "short. On hunts,"
+	text "Té 80 tentacles"
+	next "que pot moure amb"
+	next "total llibertat."
 
-	page "they are extended"
-	next "to ensnare and"
-	next "immobilize prey"
+	page "Els fa servir per"
+	next "atacar i enverinar"
+	next "els seus oponents"
 	dex
 
 _GoldeenDexEntry::
-	text "Its tail fin"
-	next "billows like an"
-	next "elegant ballroom"
+	text "Les aletes dorsals"
+	next "i pectorals estan"
+	next "desenvolupades i"
 
-	page "dress, giving it"
-	next "the nickname of"
-	next "the Water Queen"
+	page "el permeten nedar"
+	next "a una velocitat"
+	next "de cinc nusos"
 	dex
 
 _SeakingDexEntry::
-	text "In the autumn"
-	next "spawning season,"
-	next "they can be seen"
+	text "La banya que té"
+	next "al cap és tan"
+	next "esmolada com una"
 
-	page "swimming power-"
-	next "fully up rivers"
-	next "and creeks"
+	page "broca. Forada"
+	next "roques per fer-hi"
+	next "el niu"
 	dex
 
 _PonytaDexEntry::
-	text "Its hooves are 10"
-	next "times harder than"
-	next "diamonds. It can"
+	text "De cos lleuger,"
+	next "però amb una gran"
+	next "força a les potes."
 
-	page "trample anything"
-	next "completely flat"
-	next "in little time"
+	page "Pot saltar per"
+	next "sobre d'edificis"
+	next "sencers"
 	dex
 
 _RapidashDexEntry::
-	text "Very competitive,"
-	next "this #MON will"
-	next "chase anything"
+	text "El seu galop pot"
+	next "arribar fins els"
+	next "240 km/h, un"
 
-	page "that moves fast"
-	next "in the hopes of"
-	next "racing it"
+	page "espectacle en"
+	next "flames tan ràpid"
+	next "com un tren bala"
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "Té unes dents molt"
+	next "esmolades. Creixen"
+	next "constantment, i"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "per això rosega"
+	next "objectes durs per"
+	next "desgastar-les"
 	dex
 
 _RaticateDexEntry::
-	text "It uses its whis-"
-	next "kers to maintain"
-	next "its balance."
+	text "Les potes poste-"
+	next "riors tenen tres"
+	next "dits cadascuna."
 
-	page "It apparently"
-	next "slows down if"
-	next "they are cut off"
+	page "Com que són palma-"
+	next "des, pot travessar"
+	next "rius nedant"
 	dex
 
 _NidorinoDexEntry::
-	text "An aggressive"
-	next "#MON that is"
-	next "quick to attack."
+	text "S'altera fàcilment"
+	next "i té tanta força"
+	next "a la banya que"
 
-	page "The horn on its"
-	next "head secretes a"
-	next "powerful venom"
+	page "pot perforar fins"
+	next "i tot materials"
+	next "com el diamant"
 	dex
 
 _NidorinaDexEntry::
-	text "The female's horn"
-	next "develops slowly."
-	next "Prefers physical"
+	text "La femella té un"
+	next "caràcter més suau."
+	next "Emet sons ultra-"
 
-	page "attacks such as"
-	next "clawing and"
-	next "biting"
+	page "sònics per confon-"
+	next "dre els seus"
+	next "enemics"
 	dex
 
 _GeodudeDexEntry::
-	text "Found in fields"
-	next "and mountains."
-	next "Mistaking them"
+	text "La seva forma"
+	next "rodona el fa fàcil"
+	next "d'agafar. Algunes"
 
-	page "for boulders,"
-	next "people often step"
-	next "or trip on them"
+	page "persones l'han fet"
+	next "servir en guerres"
+	next "de boles de neu"
 	dex
 
 _PorygonDexEntry::
-	text "A #MON that"
-	next "consists entirely"
-	next "of programming"
+	text "Primer #mon"
+	next "artificial que"
+	next "s'ha pogut crear"
 
-	page "code. Capable of"
-	next "moving freely in"
-	next "cyberspace"
+	page "gràcies a les"
+	next "tecnologies més"
+	next "avançades"
 	dex
 
 _AerodactylDexEntry::
-	text "A ferocious, pre-"
-	next "historic #MON"
-	next "that goes for the"
+	text "Regenerat a partir"
+	next "de material genè-"
+	next "tic de dinosaure"
 
-	page "enemy's throat"
-	next "with its serrated"
-	next "saw-like fangs"
+	page "que es trobava en"
+	next "un ambre. Té un"
+	next "crit ensordidor"
 	dex
 
 _MagnemiteDexEntry::
-	text "Uses anti-gravity"
-	next "to stay suspended."
-	next "Appears without"
+	text "Levita enlaire per"
+	next "moure's. Amb el"
+	next "seu poder"
 
-	page "warning and uses"
-	next "THUNDER WAVE and"
-	next "similar moves"
+	page "electromagnètic,"
+	next "pot emetre una Ona"
+	next "imant per atacar"
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Té una flama a la"
+	next "punta de la cua"
+	next "d'ençà que neix."
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "Si s'apagués"
+	next "aquesta flama,"
+	next "moriria"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Pot retreure el"
+	next "coll endins la"
+	next "closca per"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "disparar aigua"
+	next "per la boca amb"
+	next "molta potència"
 	dex
 
 _CharmeleonDexEntry::
-	text "When it swings"
-	next "its burning tail,"
-	next "it elevates the"
+	text "Fa servir la cua"
+	next "per colpejar i"
+	next "fer caure els"
 
-	page "temperature to"
-	next "unbearably high"
-	next "levels"
+	page "enemics. Després,"
+	next "els esquinça amb"
+	next "les seves urpes"
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "#mon que molta"
+	next "gent té com a ani-"
+	next "mal de companyia."
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "La cua peluda és"
+	next "símbol de la seva"
+	next "longevitat"
 	dex
 
 _CharizardDexEntry::
-	text "Spits fire that"
-	next "is hot enough to"
-	next "melt boulders."
+	text "Fa servir les ales"
+	next "per elevar-se a"
+	next "uns 1.400 metres."
 
-	page "Known to cause"
-	next "forest fires"
-	next "unintentionally"
+	page "Té l'habilitat de"
+	next "llançar flames"
+	next "per la boca"
 	dex
 
 _OddishDexEntry::
-	text "During the day,"
-	next "it keeps its face"
-	next "buried in the"
+	text "El seu nom cien-"
+	next "tífic és Chaminae."
+	next "De nit, camina"
 
-	page "ground. At night,"
-	next "it wanders around"
-	next "sowing its seeds"
+	page "fins a 300 m de"
+	next "distància amb les"
+	next "seves arrels"
 	dex
 
 _GloomDexEntry::
-	text "The fluid that"
-	next "oozes from its"
-	next "mouth isn't drool."
+	text "Els seus pistils"
+	next "emeten una pudor"
+	next "molt forta."
 
-	page "It is a nectar"
-	next "that is used to"
-	next "attract prey"
+	page "Fins i tot a 2 km"
+	next "de distància pot"
+	next "provocar desmais"
 	dex
 
 _VileplumeDexEntry::
-	text "The larger its"
-	next "petals, the more"
-	next "toxic pollen it"
+	text "Té els pètals més"
+	next "grosos del món,"
+	next "que fa servir per"
 
-	page "contains. Its big"
-	next "head is heavy and"
-	next "hard to hold up"
+	page "escampar pol·len i"
+	next "provocar al·lèrgies"
+	next "intencionadament"
 	dex
 
 _BellsproutDexEntry::
-	text "A carnivorous"
-	next "#MON that traps"
-	next "and eats bugs."
+	text "Com que els pètals"
+	next "li donen forma de"
+	next "cara humana,"
 
-	page "It uses its root"
-	next "feet to soak up"
-	next "needed moisture"
+	page "es diu que podria"
+	next "ser un tipus de"
+	next "mandràgora"
 	dex
 
 _WeepinbellDexEntry::
-	text "It spits out"
-	next "POISONPOWDER to"
-	next "immobilize the"
+	text "Empra les seves"
+	next "fulles per atacar"
+	next "els enemics."
 
-	page "enemy and then"
-	next "finishes it with"
-	next "a spray of ACID"
+	page "També pot escupir"
+	next "un líquid que és"
+	next "molt corrossiu"
 	dex
 
 _VictreebelDexEntry::
-	text "Said to live in"
-	next "huge colonies"
-	next "deep in jungles,"
+	text "Atreu les preses"
+	next "amb una olor sem-"
+	next "blant a la mel."
 
-	page "although no one"
-	next "has ever returned"
-	next "from there"
+	page "Un cop se les ha"
+	next "menjat, les dissol"
+	next "en àcid corrossiu"
 	dex

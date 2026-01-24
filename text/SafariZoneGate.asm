@@ -1,97 +1,95 @@
 _SafariZoneGateSafariZoneWorker1Text::
-	text "Welcome to the"
-	line "SAFARI ZONE!"
+	text "Benvingut a"
+	line "la Zona safari!"
 	done
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
-	text "For just ¥500,"
-	line "you can catch all"
-	cont "the #MON you"
-	cont "want in the park!"
+	text "Per 500¥, podràs"
+	line "caçar tots els"
+	cont "#mon del parc"
+	cont "que vulguis."
 
-	para "Would you like to"
-	line "join the hunt?@"
+	para "T'hi animes?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
-	text "That'll be ¥500"
-	line "please!"
+	text "Perfecte!"
+	line "Seran 500¥."
 
-	para "We only use a"
-	line "special # BALL"
-	cont "here."
+	para "Aquí fem servir"
+	line "unes #ball"
+	cont "especials."
 
-	para "<PLAYER> received"
-	line "30 SAFARI BALLs!@"
+	para "<PLAYER> rep"
+	line "30 Safariballs!@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
 	text_start
 
-	para "We'll call you on"
-	line "the PA when you"
-	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	para "T'avisarem quan"
+	line "se t'hagi acabat"
+	cont "el temps o les"
+	cont "Safariballs."
 	done
 
 _SafariZoneGateSafariZoneWorker1PleaseComeAgainText::
-	text "OK! Please come"
-	line "again!"
+	text "D'acord."
+	line "A reveure!"
 	done
 
 _SafariZoneGateSafariZoneWorker1NotEnoughMoneyText::
-	text "Oops! Not enough"
-	line "money!"
+	text "Ah, no tens"
+	line "prous diners!"
 	done
 
 _SafariZoneGateSafariZoneWorker1LeavingEarlyText::
-	text "Leaving early?@"
+	text "Ja marxes?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::
-	text "Please return any"
-	line "SAFARI BALLs you"
-	cont "have left."
+	text "Pots deixar aquí"
+	line "les Safariballs"
+	cont "que et queden."
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodLuckText::
-	text "Good Luck!"
+	text "Ànims!"
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
-	text "Did you get a"
-	line "good haul?"
-	cont "Come again!"
+	text "Espero que hagis"
+	line "pogut caçar molt!"
+	cont "Que vagi bé!"
 	done
 
 _SafariZoneGateSafariZoneWorker2FirstTimeHereText::
-	text "Hi! Is it your"
-	line "first time here?"
+	text "Hola! Ets nou"
+	line "a Joc safari?"
 	done
 
 _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
-	text "SAFARI ZONE has 4"
-	line "zones in it."
+	text "La Zona safari té"
+	line "4 zones diferents."
 
-	para "Each zone has"
-	line "different kinds"
-	cont "of #MON. Use"
-	cont "SAFARI BALLs to"
-	cont "catch them!"
+	para "Cada zona té"
+	line "#mon variats."
+	cont "Pots caçar-los"
+	cont "amb Safariballs!"
 
-	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	para "El joc s'acabarà"
+	line "quan no et quedi"
+	cont "més temps o"
+	cont "Safariballs."
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+	para "Abans de començar,"
+	line "obre un bloc"
+	cont "#mon nou per"
+	cont "tenir espai per a"
+	cont "més #mon!"
 	done
 
 _SafariZoneGateSafariZoneWorker2YoureARegularHereText::
-	text "Sorry, you're a"
-	line "regular here!"
+	text "Ah, llavors ja"
+	line "ho coneixes."
 	done

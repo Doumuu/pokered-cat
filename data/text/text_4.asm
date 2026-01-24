@@ -66,8 +66,8 @@ _PokemartItemBagEmptyText::
 	prompt
 
 _PokemartUnsellableItemText::
-	text "I can't put a"
-	line "price on that."
+	text "Això no t'ho"
+	line "puc comprar."
 	prompt
 
 _PokemartThankYouText::
@@ -150,27 +150,26 @@ _ForgotAndText::
 	prompt
 
 _HMCantDeleteText::
-	text "HM techniques"
-	line "can't be deleted!"
+	text "Els MO no es"
+	line "poden esborrar!"
 	prompt
 
 _PokemonCenterWelcomeText::
 	text "Benvingut al"
 	line "Centre #mon!"
 
-	para "Podem fer que"
-	line "els teus #mon"
-	cont "es recuperin."
+	para "Aquí pots curar"
+	line "els teus #mon."
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "Vols que curem"
-	line "els teus #mon?"
+	text "Vols que"
+	line "els curem?"
 	done
 
 _NeedYourPokemonText::
-	text "D'acord. Comencem"
-	line "amb el procés."
+	text "D'acord, doncs."
+	line "Iniciem el procés."
 	done
 
 _PokemonFightingFitText::
@@ -183,10 +182,10 @@ _PokemonCenterFarewellText::
 	done
 
 _CableClubNPCAreaReservedFor2FriendsLinkedByCableText::
-	text "This area is"
-	line "reserved for 2"
-	cont "friends who are"
-	cont "linked by cable."
+	text "Aquesta zona és"
+	line "per a 2 amics que"
+	cont "es connectin per"
+	cont "Cable Link."
 	done
 
 _CableClubNPCWelcomeText::
@@ -195,33 +194,33 @@ _CableClubNPCWelcomeText::
 	done
 
 _CableClubNPCPleaseApplyHereHaveToSaveText::
-	text "Please apply here."
+	text "De seguida"
+	line "us connectem."
 
-	para "Before opening"
-	line "the link, we have"
-	cont "to save the game."
+	para "Desarem primer"
+	line "la partida."
 	done
 
 _CableClubNPCPleaseWaitText::
-	text "Please wait.@"
+	text "Un moment.@"
 	text_end
 
 _CableClubNPCLinkClosedBecauseOfInactivityText::
 	vc_patch Change_link_closed_inactivity_message
 IF DEF(_RED_VC) || DEF(_BLUE_VC)
-	text "Please come again!"
+	text "A reveure!"
 	done
 	text_start
-	text "sed because of"
-	cont "inactivity."
+	text "tancat per"
+	cont "inactivitat."
 ELSE
-	text "The link has been"
-	line "closed because of"
-	cont "inactivity."
+	text "L'enllaç s'ha"
+	line "tancat per"
+	cont "inactivitat."
 ENDC
 	vc_patch_end
 
-	para "Please contact"
-	line "your friend and"
-	cont "come again!"
+	para "Parla amb el"
+	line "teu amic i"
+	cont "torna aviat!"
 	done

@@ -1,157 +1,156 @@
 _Route19CooltrainerM1BattleText::
-	text "Have to warm up"
-	line "before my swim!"
+	text "Escalfo abans de"
+	line "ficar-m'hi!"
 	done
 
 _Route19CooltrainerM1EndBattleText::
-	text "All"
-	line "warmed up!"
+	text "Ben"
+	line "escalfat!"
 	prompt
 
 _Route19CooltrainerM1AfterBattleText::
-	text "Thanks, kid! I'm"
-	line "ready for a swim!"
+	text "Gràcies! Llest"
+	line "per banyar-me!"
 	done
 
 _Route19CooltrainerM2BattleText::
-	text "Wait! You'll have"
-	line "a heart attack!"
+	text "Compte amb els"
+	line "talls de digestió!"
 	done
 
 _Route19CooltrainerM2EndBattleText::
-	text "Ooh!"
-	line "That's chilly!"
+	text "Uuu!"
+	line "Quin fred!"
 	prompt
 
 _Route19CooltrainerM2AfterBattleText::
-	text "Watch out for"
-	line "TENTACOOL!"
+	text "Compte amb les"
+	line "Meduixes!"
 	done
 
 _Route19Swimmer1BattleText::
-	text "I love swimming!"
-	line "What about you?"
+	text "M'encanta nedar!"
+	line "I a tu?"
 	done
 
 _Route19Swimmer1EndBattleText::
-	text "Belly"
-	line "flop!"
+	text "M'has"
+	line "ofegat!"
 	prompt
 
 _Route19Swimmer1AfterBattleText::
-	text "I can beat #MON"
-	line "at swimming!"
+	text "Soc millor nedant"
+	line "que els #mon!"
 	done
 
 _Route19Swimmer2BattleText::
-	text "What's beyond the"
-	line "horizon?"
+	text "Pots nedar fins"
+	line "a l'horitzó?"
 	done
 
 _Route19Swimmer2EndBattleText::
-	text "Glub!"
+	text "Glup!"
 	prompt
 
 _Route19Swimmer2AfterBattleText::
-	text "I see a couple of"
-	line "islands!"
+	text "Veig dues illes!"
 	done
 
 _Route19Swimmer3BattleText::
-	text "I tried diving"
-	line "for #MON, but"
-	cont "it was a no go!"
+	text "Volia bussejar per"
+	line "atrapar #mon"
+	cont "però no funciona!"
 	done
 
 _Route19Swimmer3EndBattleText::
-	text "Help!"
+	text "Ajuda!"
 	prompt
 
 _Route19Swimmer3AfterBattleText::
-	text "You have to fish"
-	line "for sea #MON!"
+	text "Els #mon marins"
+	line "s'atrapen pescant!"
 	done
 
 _Route19Swimmer4BattleText::
-	text "I look at the"
-	line "sea to forget!"
+	text "Mirar el mar"
+	line "em calma molt."
 	done
 
 _Route19Swimmer4EndBattleText::
-	text "Ooh!"
-	line "Traumatic!"
+	text "Ah,"
+	line "quina ràbia!"
 	prompt
 
 _Route19Swimmer4AfterBattleText::
-	text "I'm looking at the"
-	line "sea to forget!"
+	text "Sento pau després"
+	line "de mirar el mar."
 	done
 
 _Route19Swimmer5BattleText::
-	text "Oh, I just love"
-	line "your ride! Can I"
-	cont "have it if I win?"
+	text "Que maco el teu"
+	line "#mon! Me'l"
+	cont "dones si guanyo?"
 	done
 
 _Route19Swimmer5EndBattleText::
-	text "Oh!"
-	line "I lost!"
+	text "Ah!"
+	line "He perdut!"
 	prompt
 
 _Route19Swimmer5AfterBattleText::
-	text "It's still a long"
-	line "way to go to"
-	cont "SEAFOAM ISLANDS."
+	text "Encara tinc un"
+	line "tros fins a les"
+	cont "illes Bessones!"
 	done
 
 _Route19Swimmer6BattleText::
-	text "Swimming's great!"
-	line "Sunburns aren't!"
+	text "M'encanta nedar!"
+	line "Odio cremar-me!"
 	done
 
 _Route19Swimmer6EndBattleText::
-	text "Shocker!"
+	text "Crema!"
 	prompt
 
 _Route19Swimmer6AfterBattleText::
-	text "My boy friend"
-	line "wanted to swim to"
-	cont "SEAFOAM ISLANDS."
+	text "El meu xicot volia"
+	line "nedar fins a les"
+	cont "illes Bessones."
 	done
 
 _Route19Swimmer7BattleText::
-	text "These waters are"
-	line "treacherous!"
+	text "Aquest mar és"
+	line "molt traïdor!"
 	done
 
 _Route19Swimmer7EndBattleText::
-	text "Ooh!"
-	line "Dangerous!"
+	text "Quin"
+	line "perill!"
 	prompt
 
 _Route19Swimmer7AfterBattleText::
-	text "I got a cramp!"
-	line "Glub, glub..."
+	text "M'ha donat una"
+	line "rampa a la cama!"
 	done
 
 _Route19Swimmer8BattleText::
-	text "I swam here, but"
-	line "I'm tired."
+	text "He nedat fins aquí"
+	line "i estic reventada!"
 	done
 
 _Route19Swimmer8EndBattleText::
-	text "I'm"
-	line "exhausted..."
+	text "Buf!"
+	line "No puc més!"
 	prompt
 
 _Route19Swimmer8AfterBattleText::
-	text "LAPRAS is so big,"
-	line "it must keep you"
-	cont "dry on water."
+	text "En Lapras et porta"
+	line "a sobre sense que"
+	cont "et mullis!"
 	done
 
 _Route19SignText::
-	text "SEA ROUTE 19"
-	line "FUCHSIA CITY -"
-	cont "SEAFOAM ISLANDS"
+	text "Ruta marítima 19"
+	line "Rosó -"
+	cont "Illes Bessones"
 	done

@@ -33,8 +33,8 @@ _PokemonTower2FRivalHowsYourDexText::
 	cont "acabo d'atrapar"
 	cont "un Crànic!"
 
-	para "Ara vull caçar-ne"
-	line "un Prànic..."
+	para "Ara vull caçar"
+	line "un Prànic."
 
 	para "Aviam si el trobo!"
 	line "...Au, me'n vaig,"
@@ -51,5 +51,5 @@ _PokemonTower2FChannelerText::
 
 	para "Potser amb un"
 	line "Visor Silph sí"
-	cont "seria possible!"
+	cont "que es podria!"
 	done

@@ -9,15 +9,14 @@ _PewterCityCooltrainerFText::
 	done
 
 _PewterCityCooltrainerMText::
-	text "En aquesta ciutat"
-	line "els entrenadors"
-	cont "fan pena!"
+	text "Massa marrecs"
+	line "caçainsectes hi"
+	cont "ha a la ciutat!"
 
-	para "La majoria són"
-	line "caçainsectes!"
-	cont "Només s'ho prèn"
-	cont "seriosament el"
-	cont "líder del gimnàs."
+	para "Encara sort que"
+	line "en Roc, el líder"
+	cont "del gimnàs, s'ho"
+	cont "prèn seriosament."
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
@@ -32,15 +31,15 @@ _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "De veritat?"
+	text "De debò?"
 	line "Hi has d'anar!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
 	text "És aquí."
 	line "Has de pagar per"
-	cont "entrar, però val"
-	cont "la pena!"
+	cont "entrar-hi, però"
+	cont "val la pena!"
 	cont "Adeu-siau!"
 	done
 
@@ -50,7 +49,7 @@ _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
 	done
 
 _PewterCitySuperNerd2ThatsRightText::
-	text "Així és! No vull"
+	text "Exacte! No vull"
 	line "cap #mon aquí!"
 	done
 
@@ -70,8 +69,8 @@ _PewterCityYoungsterYoureATrainerFollowMeText::
 
 _PewterCityYoungsterGoTakeOnBrockText::
 	text "Si et sents"
-	line "preparat, combat"
-	cont "amb en Roc!"
+	line "preparat, lluita"
+	cont "contra en Roc!"
 	done
 
 _PewterCityTrainerTipsText::
@@ -86,30 +85,30 @@ _PewterCityTrainerTipsText::
 _PewterCityPoliceNoticeSignText::
 	text "Atenció:"
 
-	para "S'ha vist lladres"
+	para "S'han vist lladres"
 	line "robant fòssils de"
 	cont "#mon al Mt."
 	cont "Lluna. Truca a la"
-	cont "policia d'Argent"
+	cont "policia del poble"
 	cont "si tens pistes."
 	done
 
 _PewterCityMuseumSignText::
 	text "Museu de Ciències"
-	line "de Ciutat Argent"
+	line "de Llicorella"
 	done
 
 _PewterCityGymSignText::
 	text "Líder del gimnàs"
-	line "#mon de Ciutat"
-	cont "Argent: Roc,"
+	line "#mon de"
+	cont "Llicorella: Roc,"
 
-	para "L'entrenador"
+	para "l'entrenador"
 	line "inalterable!"
 	done
 
 _PewterCitySignText::
-	text "Ciutat Argent:"
+	text "Llicorella:"
 	line "Grisenca com"
 	cont "la pedra"
 	done

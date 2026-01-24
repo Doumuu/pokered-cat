@@ -74,8 +74,8 @@ _PoisonedText::
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>"
-	line "badly poisoned!"
+	text "<TARGET> s'ha"
+	line "enverinat molt!"
 	prompt
 
 _BurnedText::
@@ -89,38 +89,38 @@ _FrozenText::
 	prompt
 
 _FireDefrostedText::
-	text "Fire defrosted"
+	text "El foc desglaça"
 	line "<TARGET>!"
 	prompt
 
 _MonsStatsRoseText::
-	text "<USER>'s"
-	line "@"
 	text_ram wStringBuffer
-	text "@"
+	text " de"
+	line "<USER>"
+	cont "ha pujat@"
 	text_end
 
 _GreatlyRoseText::
-	text "<SCROLL>greatly@"
+	text " molt"
 	text_end
 
 _RoseText::
-	text " rose!"
+	text "!"
 	prompt
 
 _MonsStatsFellText::
-	text "<TARGET>'s"
-	line "@"
 	text_ram wStringBuffer
-	text "@"
+	text " de"
+	line "<TARGET>"
+	cont "ha baixat@"
 	text_end
 
 _GreatlyFellText::
-	text "<SCROLL>greatly@"
+	text " molt"
 	text_end
 
 _FellText::
-	text " fell!"
+	text "!"
 	prompt
 
 _RanFromBattleText::
@@ -134,8 +134,8 @@ _RanAwayScaredText::
 	prompt
 
 _WasBlownAwayText::
-	text "<TARGET>"
-	line "was blown away!"
+	text "<TARGET> ha"
+	line "sortit volant!"
 	prompt
 
 _ChargeMoveEffectText::
@@ -144,17 +144,17 @@ _ChargeMoveEffectText::
 
 _MadeWhirlwindText::
 	text_start
-	line "made a whirlwind!"
+	line "crea un remolí!"
 	prompt
 
 _TookInSunlightText::
 	text_start
-	line "took in sunlight!"
+	line "absorbeix llum!"
 	prompt
 
 _LoweredItsHeadText::
 	text_start
-	line "lowered its head!"
+	line "acota el cap!"
 	prompt
 
 _SkyAttackGlowingText::
@@ -174,7 +174,7 @@ _DugAHoleText::
 
 _BecameConfusedText::
 	text "<TARGET>"
-	line "està confús!"
+	line "està confós!"
 	prompt
 
 _MimicLearnedMoveText::
@@ -186,11 +186,11 @@ _MimicLearnedMoveText::
 	prompt
 
 _MoveWasDisabledText::
-	text "<TARGET>'s"
-	line "@"
+	text "L'atac @"
 	text_ram wNameBuffer
-	text " was"
-	cont "disabled!"
+	text_start
+	line "de <TARGET>"
+	cont "s'ha blocat!"
 	prompt
 
 _NothingHappenedText::
@@ -202,53 +202,54 @@ _NoEffectText::
 	prompt
 
 _ButItFailedText::
-	text "però ha fallat!"
+	text "Però ha fallat!"
 	prompt
 
 _DidntAffectText::
-	text "No té cap efecte"
-	line "en <TARGET>!"
+	text "No afecta gens en"
+	line "<TARGET>!"
 	prompt
 
 _IsUnaffectedText::
-	text "<TARGET>"
-	line "is unaffected!"
+	text "A <TARGET> no"
+	line "li afecta!"
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET>'s"
-	line "paralyzed! It may"
-	cont "not attack!"
+	text "<TARGET>"
+	line "està paralitzat!"
+	cont "Podria no atacar!"
 	prompt
 
 _SubstituteText::
-	text "It created a"
-	line "SUBSTITUTE!"
+	text "Ha creat un"
+	line "Substitut!"
 	prompt
 
 _HasSubstituteText::
 	text "<USER>"
-	line "has a SUBSTITUTE!"
+	line "té un Substitut!"
 	prompt
 
 _TooWeakSubstituteText::
-	text "Too weak to make"
-	line "a SUBSTITUTE!"
+	text "Falten forces"
+	line "per crear un"
+	cont "Substitut!"
 	prompt
 
 _CoinsScatteredText::
-	text "Coins scattered"
-	line "everywhere!"
+	text "Hi ha monedes"
+	line "per tot arreu!"
 	prompt
 
 _GettingPumpedText::
-	text "<USER>'s"
-	line "getting pumped!"
+	text "<USER> es"
+	line "concentra!"
 	prompt
 
 _WasSeededText::
-	text "<TARGET>"
-	line "was seeded!"
+	text "<TARGET> té"
+	line "llavors plantades!"
 	prompt
 
 _EvadedAttackText::
@@ -257,68 +258,68 @@ _EvadedAttackText::
 	prompt
 
 _HitWithRecoilText::
-	text "<USER>'s"
-	line "hit with recoil!"
+	text "<USER>"
+	line "rep retrocés!"
 	prompt
 
 _ConvertedTypeText::
-	text "Converted type to"
-	line "<TARGET>'s!"
+	text "El seu tipus ara"
+	line "és com <TARGET>!"
 	prompt
 
 _StatusChangesEliminatedText::
-	text "All STATUS changes"
-	line "are eliminated!"
+	text "Els canvis d'estat"
+	line "s'han eliminat!"
 	prompt
 
 _StartedSleepingEffect::
 	text "<USER>"
-	line "started sleeping!"
+	line "està dormint!"
 	done
 
 _FellAsleepBecameHealthyText::
 	text "<USER>"
-	line "fell asleep and"
-	cont "became healthy!"
+	line "ha dormit i es"
+	cont "troba millor!"
 	done
 
 _RegainedHealthText::
-	text "<USER>"
-	line "regained health!"
+	text "<USER> ara"
+	line "té millor salut!"
 	prompt
 
 _TransformedText::
-	text "<USER>"
-	line "transformed into"
+	text "<USER> s'ha"
+	line "transformat en"
 	cont "@"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _LightScreenProtectedText::
-	text "<USER>'s"
-	line "protected against"
-	cont "special attacks!"
+	text "<USER> té"
+	line "protecció contra"
+	cont "atacs especials!"
 	prompt
 
 _ReflectGainedArmorText::
-	text "<USER>"
-	line "gained armor!"
+	text "<USER> té"
+	line "un escut!"
 	prompt
 
 _ShroudedInMistText::
-	text "<USER>'s"
-	line "shrouded in mist!"
+	text "<USER> s'ha"
+	line "envoltat de baf!"
 	prompt
 
 _SuckedHealthText::
-	text "Sucked health from"
-	line "<TARGET>!"
+	text "Ha xuclat forces"
+	line "de <TARGET>!"
 	prompt
 
 _DreamWasEatenText::
-	text "<TARGET>'s"
-	line "dream was eaten!"
+	text "Es menja el somni"
+	line "de <TARGET>!"
 	prompt
 
 _TradeCenterOpponentText::

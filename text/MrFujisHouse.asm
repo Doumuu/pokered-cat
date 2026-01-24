@@ -1,7 +1,8 @@
 _MrFujisHouseSuperNerdMrFujiIsntHereText::
 	text "És estrany que el"
-	line "Sr.Fuji no hi"
-	cont "sigui! On serà?"
+	line "Sr.Fuji no hagi"
+	cont "tornat!"
+	cont "On deu ser?"
 	done
 
 _MrFujisHouseSuperNerdMrFujiHadBeenPrayingText::
@@ -12,7 +13,7 @@ _MrFujisHouseSuperNerdMrFujiHadBeenPrayingText::
 
 _MrFujisHouseLittleGirlThisIsMrFujisHouseText::
 	text "El Sr.Fuji"
-	line "viu aquí!"
+	line "viu aquí."
 
 	para "És molt amable!"
 
@@ -85,5 +86,5 @@ _MrFujisHouseMrFujiPokedexText::
 	line "empleneu..."
 
 	para "Ostres. L'han"
-	line "retallat.!"
+	line "retallat!"
 	done

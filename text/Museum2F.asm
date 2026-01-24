@@ -13,7 +13,7 @@ _Museum2FGrampsText::
 	line "a la lluna!"
 
 	para "Em vaig comprar"
-	line "un TV a color!"
+	line "un TV en color!"
 	done
 
 _Museum2FScientistText::
@@ -23,7 +23,7 @@ _Museum2FScientistText::
 
 _Museum2FBrunetteGirlText::
 	text "Vull un Pikachu!"
-	line "És tan maco!"
+	line "És tan boniquet!"
 
 	para "Li he dit al pare"
 	line "que me'n caci un."

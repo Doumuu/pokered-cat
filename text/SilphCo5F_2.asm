@@ -1,55 +1,55 @@
 _SilphCo5FRockerEndBattleText::
-	text "Oh"
-	line "goodness!"
+	text "No"
+	line "és possible."
 	prompt
 
 _SilphCo5FRockerAfterBattleText::
-	text "You're only on 5F."
-	line "It's a long way"
-	cont "to my BOSS!"
+	text "Ets a la P4! Et"
+	line "queden uns quants"
+	cont "pisos fins al cap!"
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
-	line "a little respect!"
+	text "T'enviaré a fer"
+	line "nones, marrec."
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Cough..."
-	line "Cough..."
+	text "Eh..."
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Which reminds me."
+	text "Parlant de nones,"
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "Sobec evoluciona"
+	line "a Hipno!"
 	done
 
 _SilphCo5FPokemonReport1Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "És un report"
+	line "#mon!"
 
-	para "#MON LAB"
-	line "created PORYGON,"
-	cont "the first virtual"
-	cont "reality #MON."
+	para "«En Porígon va ser"
+	line "el primer #mon"
+	cont "a crear-se en un"
+	cont "laboratori.»"
 	done
 
 _SilphCo5FPokemonReport2Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "És un report"
+	line "#mon!"
 
-	para "Over 160 #MON"
-	line "techniques have"
-	cont "been confirmed."
+	para "«Es calcula que"
+	line "existeixen uns"
+	cont "160 moviments.»"
 	done
 
 _SilphCo5FPokemonReport3Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "És un report"
+	line "#mon!"
 
-	para "4 #MON evolve"
-	line "only when traded"
-	cont "by link-cable."
+	para "«Només 4 #mon"
+	line "evolucionen a"
+	cont "l'intercanviar-se"
+	cont "per Cable Link!»"
 	done

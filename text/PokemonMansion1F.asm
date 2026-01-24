@@ -1,29 +1,28 @@
 _PokemonMansion1FScientistBattleText::
-	text "Who are you? There"
-	line "shouldn't be"
-	cont "anyone here."
+	text "Qui ets, tu? No hi"
+	line "hauria d'haver"
+	cont "ningú, aquí!"
 	done
 
 _PokemonMansion1FScientistEndBattleText::
-	text "Ouch!"
+	text "Pum!"
 	prompt
 
 _PokemonMansion1FScientistAfterBattleText::
-	text "A key? I don't"
-	line "know what you're"
-	cont "talking about."
+	text "Una clau? No sé"
+	line "de què parles."
 	done
 
 _PokemonMansion1FSwitchText::
-	text "A secret switch!"
+	text "Un botó secret!"
 
-	para "Press it?"
+	para "El pitjo?"
 	done
 
 _PokemonMansion1FSwitchPressedText::
-	text "Who wouldn't?"
+	text "Qui no ho faria?"
 	prompt
 
 _PokemonMansion1FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Millor després!"
 	done

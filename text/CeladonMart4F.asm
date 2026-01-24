@@ -15,8 +15,8 @@ _CeladonMart4FYoungsterText::
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "P4: Regals"
+	text "P3: Regals"
 
 	para "Rebaixes en"
-	line "Pedres Evolutives"
+	line "Pedres evolutives"
 	done

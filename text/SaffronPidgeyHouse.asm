@@ -1,27 +1,27 @@
 _SaffronPidgeyHouseBrunetteGirlText::
-	text "Thank you for"
-	line "writing. I hope"
-	cont "to see you soon!"
+	text "«Moltes gràcies"
+	line "per escriure. Ens"
+	cont "veurem aviat!»"
 
-	para "Hey! Don't look"
-	line "at my letter!"
+	para "Ei, no miris"
+	line "la meva carta!"
 	done
 
 _SaffronPidgeyHousePidgeyText::
-	text "PIDGEY: Kurukkoo!@"
+	text "Parrup: Rup rup!@"
 	text_end
 
 _SaffronPidgeyHouseYoungsterText::
-	text "The COPYCAT is"
-	line "cute! I'm getting"
-	cont "her a # DOLL!"
+	text "La Copieta és tan"
+	line "bufona! Li donaré"
+	cont "una Pokenina!"
 	done
 
 _SaffronPidgeyHousePaperText::
-	text "I was given a PP"
-	line "UP as a gift."
+	text "M'han regalat"
+	line "+PP."
 
-	para "It's used for"
-	line "increasing the PP"
-	cont "of techniques!"
+	para "Serveix per omplir"
+	line "els punts de"
+	cont "poder dels atacs!"
 	done

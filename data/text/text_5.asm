@@ -1,33 +1,33 @@
 _CableClubNPCPleaseComeAgainText::
-	text "Please come again!"
+	text "A reveure!"
 	done
 
 _CableClubNPCMakingPreparationsText::
-	text "We're making"
-	line "preparations."
-	cont "Please wait."
+	text "Ho estem preparant"
+	line "tot. Un moment,"
+	cont "si us plau."
 	done
 
 _UsedStrengthText::
 	text_ram wNameBuffer
-	text " used"
-	line "STRENGTH.@"
+	text " fa"
+	line "servir Força.@"
 	text_end
 
 _CanMoveBouldersText::
 	text_ram wNameBuffer
-	text " can"
-	line "move boulders."
+	text " ara pot"
+	line "moure roques."
 	prompt
 
 _CurrentTooFastText::
-	text "The current is"
-	line "much too fast!"
+	text "El corrent és"
+	line "massa ràpid!"
 	prompt
 
 _CyclingIsFunText::
-	text "Cycling is fun!"
-	line "Forget SURFing!"
+	text "Prefereixo anar"
+	line "en bici, ara!"
 	prompt
 
 _FlashLightsAreaText::
@@ -36,44 +36,44 @@ _FlashLightsAreaText::
 	prompt
 
 _WarpToLastPokemonCenterText::
-	text "Warp to the last"
-	line "#MON CENTER."
+	text "Saltes al darrer"
+	line "Centre #mon."
 	done
 
 _CannotUseTeleportNowText::
 	text_ram wNameBuffer
-	text " can't"
-	line "use TELEPORT now."
+	text " no pot"
+	line "fer teleport."
 	prompt
 
 _CannotFlyHereText::
 	text_ram wNameBuffer
-	text " can't"
-	line "FLY here."
+	text " no pot"
+	line "volar aquí."
 	prompt
 
 _NotHealthyEnoughText::
-	text "Not healthy"
-	line "enough."
+	text "No té prou"
+	line "bona salut."
 	prompt
 
 _NewBadgeRequiredText::
-	text "No! A new BADGE"
-	line "is required."
+	text "Em cal una altra"
+	line "medalla!"
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "No es permet l'ús"
+	line "d'objectes, aquí."
 	prompt
 
 _CannotGetOffHereText::
-	text "You can't get off"
-	line "here."
+	text "Aquí no em"
+	line "puc baixar."
 	prompt
 
 _GotMonText::
-	text "<PLAYER> got"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wNameBuffer
 	text "!@"

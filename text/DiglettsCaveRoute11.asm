@@ -3,6 +3,5 @@ _DiglettsCaveRoute11GamblerText::
 	line "Uns Excavet van"
 	cont "fer aquest túnel!"
 
-	para "Va fins a"
-	line "Ciutat Maragda!"
+	para "Va fins a Verdins!"
 	done

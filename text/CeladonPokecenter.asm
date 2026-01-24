@@ -6,6 +6,5 @@ _CeladonPokecenterGentlemanText::
 
 _CeladonPokecenterBeautyText::
 	text "He anat pel carril"
-	line "bici fins a"
-	cont "Ciutat Rosa!"
+	line "bici fins a Rosó!"
 	done

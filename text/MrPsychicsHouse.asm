@@ -1,26 +1,26 @@
 _MrPsychicsHouseMrPsychicYouWantedThisText::
-	text "...Wait! Don't"
-	line "say a word!"
+	text "...Espera!"
+	line "No diguis res!"
 
-	para "You wanted this!"
+	para "Vols això!"
 	prompt
 
 _MrPsychicsHouseMrPsychicReceivedTM29Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _MrPsychicsHouseMrPsychicTM29ExplanationText::
-	text "TM29 is PSYCHIC!"
+	text "MT29 conté"
+	line "Telecinesi."
 
-	para "It can lower the"
-	line "target's SPECIAL"
-	cont "abilities."
+	para "Pot reduir els"
+	line "atacs especials"
+	cont "de l'oponent."
 	done
 
 _MrPsychicsHouseMrPsychicTM29NoRoomText::
-	text "Where do you plan"
-	line "to put this?"
+	text "Portes massa cosa!"
 	done

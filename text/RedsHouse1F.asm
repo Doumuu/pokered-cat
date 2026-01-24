@@ -35,6 +35,6 @@ _RedsHouse1FTVStandByMeMovieText::
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Ui, per aquest"
-	line "costat no."
+	text "No hi veig per"
+	line "aquest costat."
 	done

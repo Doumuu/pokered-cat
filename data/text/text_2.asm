@@ -1,7 +1,7 @@
 _AIBattleWithdrawText::
 	text_ram wTrainerName
-	text " with-"
-	line "drew @"
+	text " ha"
+	line "cridat @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
@@ -9,32 +9,32 @@ _AIBattleWithdrawText::
 _AIBattleUseItemText::
 	text_ram wTrainerName
 	text_start
-	line "used @"
+	line "usa @"
 	text_ram wNameBuffer
 	text_start
-	cont "on @"
+	cont "en @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
 
 _TradeWentToText::
 	text_ram wStringBuffer
-	text " went"
-	line "to @"
+	text " s'ha"
+	line "enviat a @"
 	text_ram wLinkEnemyTrainerName
 	text "."
 	done
 
 _TradeForText::
-	text "For <PLAYER>'s"
-	line "@"
+	text "Pel @"
 	text_ram wStringBuffer
-	text ","
+	text_start
+	line "de <PLAYER>,"
 	done
 
 _TradeSendsText::
 	text_ram wLinkEnemyTrainerName
-	text " sends"
+	text " envia"
 	line "@"
 	text_ram wNameBuffer
 	text "."
@@ -42,36 +42,36 @@ _TradeSendsText::
 
 _TradeWavesFarewellText::
 	text_ram wLinkEnemyTrainerName
-	text " waves"
-	line "farewell as"
+	text " s'acomiada"
+	line "mentre"
 	done
 
 _TradeTransferredText::
 	text_ram wNameBuffer
-	text " is"
-	line "transferred."
+	text " es"
+	line "transfereix."
 	done
 
 _TradeTakeCareText::
-	text "Take good care of"
+	text "Cuida't de"
 	line "@"
 	text_ram wNameBuffer
-	text "."
+	text "!"
 	done
 
 _TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " will"
-	line "trade @"
+	text " canviarà"
+	line "@"
 	text_ram wNameBuffer
 	text_start
 	done
 
 _TradeforText::
-	text "for <PLAYER>'s"
-	line "@"
+	text "pel @"
 	text_ram wStringBuffer
-	text "."
+	text_start
+	line "de <PLAYER>."
 	done
 
 _PlaySlotMachineText::
@@ -105,10 +105,10 @@ _OneMoreGoSlotMachineText::
 	done
 
 _LinedUpText::
-	text " lined up!"
-	line "Scored @"
+	text " fa línia!"
+	line "Obtens @"
 	text_ram wStringBuffer
-	text " coins!"
+	text " monedes!"
 	done
 
 _NotThisTimeText::
@@ -116,23 +116,23 @@ _NotThisTimeText::
 	prompt
 
 _YeahText::
-	text "Yeah!@"
+	text "Sí!@"
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX   Seen:@"
+	text "#dex-Vistos:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
-	line "         Owned:@"
+	line "        Caçats:@"
 	text_decimal wDexRatingNumMonsOwned, 1, 3
 	text_end
 
 _DexRatingText::
-	text "#DEX Rating<COLON>"
+	text "Avaluació #dex<COLON>"
 	done
 
 _GymStatueText1::
-	text "Gimnàs #mon de"
+	text "Gimnàs #mon"
 	line "@"
 	text_ram wGymCityName
 	text_start
@@ -140,12 +140,12 @@ _GymStatueText1::
 	text_ram wGymLeaderName
 	text_start
 
-	para "Llista vençedors:"
+	para "Llista vencedors:"
 	line "<RIVAL>"
 	done
 
 _GymStatueText2::
-	text "Gimnàs #mon de"
+	text "Gimnàs #mon"
 	line "@"
 	text_ram wGymCityName
 	text_start
@@ -153,7 +153,7 @@ _GymStatueText2::
 	text_ram wGymLeaderName
 	text_start
 
-	para "Llista vençedors:"
+	para "Llista vencedors:"
 	line "<RIVAL>"
 	cont "<PLAYER>"
 	done
@@ -161,15 +161,16 @@ _GymStatueText2::
 _ViridianCityPokecenterGuyText::
 	text "Al Centre #mon"
 	line "pots curar els"
-	cont "#mon cansats,"
-	cont "ferits o desmaiats"
+	cont "#mon ferits,"
+	cont "estabornits o"
+	cont "cansats."
 	done
 
 _PewterCityPokecenterGuyText::
-	text "Uaah!"
+	text "Uaaah...!"
 
-	para "Quan canta en"
-	line "JIGGLYPUFF, els"
+	para "Quan canta"
+	line "en Núvol, els"
 	cont "#mon s'adormen"
 
 	para "...i jo també..."
@@ -180,16 +181,16 @@ _CeruleanPokecenterGuyText::
 	text "L'Èric té un munt"
 	line "de #mon!"
 
-	para "I col·lecciona"
-	line "els rars, també!"
+	para "I en col·lecciona"
+	line "de rars, també!"
 	done
 
 _LavenderPokecenterGuyText::
 	text "Els Crànics porten"
 	line "un crani posat."
 
-	para "La gent paga molta"
-	line "pasta per un!"
+	para "La gent paga molts"
+	line "pèmpins per un!"
 	done
 
 _MtMoonPokecenterBenchGuyText::
@@ -206,19 +207,19 @@ _RockTunnelPokecenterGuyText::
 	done
 
 _UnusedBenchGuyText1::
-	text "I wish I could"
-	line "catch #MON."
+	text "Tant de bo pogués"
+	line "caçar #mon."
 	done
 
 _UnusedBenchGuyText2::
-	text "I'm tired from"
-	line "all the fun..."
+	text "Estic cansat de"
+	line "tanta festa..."
 	done
 
 _UnusedBenchGuyText3::
-	text "SILPH's manager"
-	line "is hiding in the"
-	cont "SAFARI ZONE."
+	text "El cap de Silph"
+	line "s'amaga a la"
+	cont "Zona Safari."
 	done
 
 _VermilionPokecenterGuyText::
@@ -244,42 +245,42 @@ _CeladonCityPokecenterGuyText::
 	done
 
 _FuchsiaCityPokecenterGuyText::
-	text "If you're studying "
-	line "#MON, visit"
-	cont "the SAFARI ZONE."
+	text "Si estudies els"
+	line "#mon, ves a"
+	cont "la Zona Safari."
 
-	para "It has all sorts"
-	line "of rare #MON."
+	para "Hi ha #mon"
+	line "poc comuns!"
 	done
 
 _CinnabarPokecenterGuyText::
-	text "#MON can still"
-	line "learn techniques"
-	cont "after canceling"
-	cont "evolution."
+	text "Els #mon poden"
+	line "aprendre més"
+	cont "moviments tot i"
+	cont "no evolucionar."
 
-	para "Evolution can wait"
-	line "until new moves"
-	cont "have been learned."
+	para "De fet, l'evolució"
+	line "es pot posposar"
+	cont "fins que vulguis."
 	done
 
 _SaffronCityPokecenterGuyText1::
-	text "It would be great"
-	line "if the ELITE FOUR"
-	cont "came and stomped"
-	cont "TEAM ROCKET!"
+	text "Seria brutal si el"
+	line "Quartet vingués a"
+	cont "fer fora els"
+	cont "Rocket d'aquí!"
 	done
 
 _SaffronCityPokecenterGuyText2::
-	text "TEAM ROCKET took"
-	line "off! We can go"
-	cont "out safely again!"
-	cont "That's great!"
+	text "Els Rocket se n'han"
+	line "anat! Podrem"
+	cont "tornar a estar"
+	cont "tranquils! Que bé!"
 	done
 
 _CeladonCityHotelText::
-	text "My sis brought me"
-	line "on this vacation!"
+	text "Estic viatjant amb"
+	line "la meva germana!"
 	done
 
 _BookcaseText::
@@ -288,7 +289,7 @@ _BookcaseText::
 	done
 
 _NewBicycleText::
-	text "Unes bicis"
+	text "Quines bicis tan"
 	line "espatarrants!"
 	done
 
@@ -304,86 +305,83 @@ _SaveOptionText::
 	done
 
 _StrengthsAndWeaknessesText::
-	text "All #MON types"
-	line "have strong and"
-	cont "weak points"
-	cont "against others."
+	text "Tots els tipus de"
+	line "#mon tenen"
+	cont "debilitats i"
+	cont "fortaleses."
 	done
 
 _TimesUpText::
-	text "PA: Ding-dong!"
+	text "Parc: Ding, dong!"
 
-	para "Time's up!"
+	para "Ja és hora!"
 	prompt
 
 _GameOverText::
-	text "PA: Your SAFARI"
-	line "GAME is over!"
+	text "Parc: El joc"
+	line "s'ha acabat!"
 	done
 
 _CinnabarGymQuizIntroText::
-	text "#MON Quiz!"
+	text "Test #mon!"
 
-	para "Get it right and"
-	line "the door opens to"
-	cont "the next room!"
+	para "Si l'encertes"
+	line "podràs passar a"
+	cont "la següent sala."
 
-	para "Get it wrong and"
-	line "face a trainer!"
+	para "Si t'equivoces,"
+	line "et toca lluitar."
 
-	para "If you want to"
-	line "conserve your"
-	cont "#MON for the"
-	cont "GYM LEADER..."
+	para "Si vols arribar al"
+	line "líder amb forces,"
+	cont "espavila't!"
 
-	para "Then get it right!"
-	line "Here we go!"
+	line "Som-hi!"
 	prompt
 
 _CinnabarQuizQuestionsText1::
-	text "CATERPIE evolves"
-	line "into BUTTERFREE?"
+	text "Seruga evoluciona"
+	line "a Papalluna?"
 	done
 
 _CinnabarQuizQuestionsText2::
-	text "There are 9"
-	line "certified #MON"
-	cont "LEAGUE BADGEs?"
+	text "Hi ha 9 medalles"
+	line "oficials a"
+	cont "la lliga?"
 	done
 
 _CinnabarQuizQuestionsText3::
-	text "POLIWAG evolves 3"
-	line "times?"
+	text "Espiret té 3"
+	line "evolucions?"
 	done
 
 _CinnabarQuizQuestionsText4::
-	text "Are thunder moves"
-	line "effective against"
-	cont "ground element-"
-	cont "type #MON?"
+	text "Un atac elèctric"
+	line "és eficaç contra"
+	cont "un #mon de"
+	cont "tipus terra?"
 	done
 
 _CinnabarQuizQuestionsText5::
-	text "#MON of the"
-	line "same kind and"
-	cont "level are not"
-	cont "identical?"
+	text "Dos #mon"
+	line "idèntics poden"
+	cont "tenir forces"
+	cont "diferents?"
 	done
 
 _CinnabarQuizQuestionsText6::
-	text "TM28 contains"
-	line "TOMBSTONER?"
+	text "Conté l'MT28"
+	line "l'atac Rosegar?"
 	done
 
 _CinnabarGymQuizCorrectText::
-	text "You're absolutely"
-	line "correct!"
+	text "Correcte!"
 
-	para "Go on through!@"
+	para "Endavant!@"
 	text_end
 
 _CinnabarGymQuizIncorrectText::
-	text "Sorry! Bad call!"
+	text "Incorrecte!"
 	prompt
 
 _MagazinesText::
@@ -401,9 +399,8 @@ _BillsHouseMonitorText::
 	done
 
 _BillsHouseInitiatedText::
-	text "Separació"
-	line "cel·lular"
-	cont "inciada.@"
+	text "Separació cel·lular"
+	line "iniciada.@"
 	text_end
 
 _BillsHousePokemonListText1::
@@ -422,7 +419,7 @@ _OakLabEmailText::
 
 	para "..."
 
-	para "Als entrenadors"
+	para "«Als entrenadors"
 	line "#mon veterans:"
 
 	para "El Quartet de la"
@@ -436,56 +433,55 @@ _OakLabEmailText::
 	cont "vostre nivell!"
 
 	para "Ubicació:"
-	line "altiplà Indi"
+	line "plana de Quars"
 
 	para "PD: Dr.Roure,"
-	line "vingui aviat!"
+	line "vingui aviat!»"
 	cont "-Lliga #mon"
 	done
 
 _GameCornerCoinCaseText::
-	text "A COIN CASE is"
-	line "required!"
+	text "Necessites un"
+	line "moneder!"
 	done
 
 _GameCornerNoCoinsText::
-	text "You don't have"
-	line "any coins!"
+	text "No tens monedes!"
 	done
 
 _GameCornerOutOfOrderText::
-	text "OUT OF ORDER"
-	line "This is broken."
+	text "«No funciona»"
+	line "Està espatllada."
 	done
 
 _GameCornerOutToLunchText::
-	text "OUT TO LUNCH"
-	line "This is reserved."
+	text "«He anat a dinar»"
+	line "Està reservada."
 	done
 
 _GameCornerSomeonesKeysText::
-	text "Someone's keys!"
-	line "They'll be back."
+	text "Hi ha unes claus"
+	line "d'algú..."
 	done
 
 _JustAMomentText::
-	text "Just a moment."
+	text "Un moment."
 	done
 
 TMNotebookText::
-	text "It's a pamphlet"
-	line "on TMs."
+	text "Un fulletó que"
+	line "parla dels MT."
 
 	para "..."
 
-	para "There are 50 TMs"
-	line "in all."
+	para "«Hi ha un total"
+	line "de 50 MT."
 
-	para "There are also 5"
-	line "HMs that can be"
-	cont "used repeatedly."
+	para "També hi ha 5 MO"
+	line "que es poden usar"
+	cont "sense límit.»"
 
-	para "SILPH CO.@"
+	para "-Silph Company@"
 	text_end
 
 _TurnPageText::
@@ -557,22 +553,23 @@ _ViridianSchoolNotebookText4::
 	prompt
 
 _EnemiesOnEverySideText::
-	text "Enemies on every"
-	line "side!"
+	text "«Els enemics"
+	line "t'envoltaran.»"
 	done
 
 _WhatGoesAroundComesAroundText::
-	text "What goes around"
-	line "comes around!"
+	text "«Segaràs el"
+	line "que sembres.»"
 	done
 
 _FightingDojoText::
-	text "FIGHTING DOJO"
+	text "Dojo -"
+	line "Arts marcials"
 	done
 
 _IndigoPlateauHQText::
-	text "INDIGO PLATEAU"
-	line "#MON LEAGUE HQ"
+	text "Altiplà Indi"
+	line "Lliga #mon"
 	done
 
 _RedBedroomSNESText::
@@ -583,12 +580,12 @@ _RedBedroomSNESText::
 	done
 
 _Route15UpstairsBinocularsText::
-	text "Looked into the"
-	line "binoculars..."
+	text "Mires pels"
+	line "binocles."
 
-	para "A large, shining"
-	line "bird is flying"
-	cont "toward the sea."
+	para "Un #mon ocell"
+	line "brillant vola"
+	cont "cap al mar."
 	done
 
 _AerodactylFossilText::
@@ -637,10 +634,10 @@ _LinkCableInfoText3::
 	prompt
 
 _ViridianSchoolBlackboardText1::
-	text "The blackboard"
-	line "describes #MON"
-	cont "STATUS changes"
-	cont "during battles."
+	text "La pissarra conté"
+	line "els canvis d'estat"
+	cont "d'un #mon"
+	cont "durant un combat."
 	prompt
 
 _ViridianSchoolBlackboardText2::
@@ -649,66 +646,65 @@ _ViridianSchoolBlackboardText2::
 	done
 
 _ViridianBlackboardSleepText::
-	text "Un #mon no pot"
-	line "atacar si està"
-	cont "adormit!"
+	text "Un #mon"
+	line "adormit no"
+	cont "podrà atacar."
 
-	para "#MON will stay"
-	line "asleep even after"
-	cont "battles."
+	para "De fet, continuarà"
+	line "adormit fora de"
+	cont "la batalla."
 
-	para "Use AWAKENING to"
-	line "wake them up!"
+	para "Usa el Llevador"
+	line "per despertar-lo."
 	prompt
 
 _ViridianBlackboardPoisonText::
-	text "When poisoned, a"
-	line "#MON's health"
-	cont "steadily drops."
+	text "Quan un #mon"
+	line "s'enverina, s'anirà"
+	cont "apagant lentament."
 
-	para "Poison lingers"
-	line "after battles."
+	para "El verí continuarà"
+	line "fora del combat."
 
-	para "Use an ANTIDOTE"
-	line "to cure poison!"
+	para "Cura'l fent"
+	line "servir l'Antídot."
 	prompt
 
 _ViridianBlackboardPrlzText::
-	text "Paralysis could"
-	line "make #MON"
-	cont "moves misfire!"
+	text "La paràlisi pot"
+	line "deixar immòbil"
+	cont "un #mon."
 
-	para "Paralysis remains"
-	line "after battles."
+	para "Els efectes duren"
+	line "fora d'un combat."
 
-	para "Use PARLYZ HEAL"
-	line "for treatment!"
+	para "Usa l'Antiparàlisi"
+	line "per curar-lo."
 	prompt
 
 _ViridianBlackboardBurnText::
-	text "A burn reduces"
-	line "power and speed."
-	cont "It also causes"
-	cont "ongoing damage."
+	text "Una cremada mitiga"
+	line "la força i la"
+	cont "velocitat, a més"
+	cont "dels PV."
 
-	para "Burns remain"
-	line "after battles."
+	para "Les cremades duren"
+	line "fora d'un combat."
 
-	para "Use BURN HEAL to"
-	line "cure a burn!"
+	para "Usa l'Anticremades"
+	line "com a remei."
 	prompt
 
 _ViridianBlackboardFrozenText::
-	text "If frozen, a"
-	line "#MON becomes"
-	cont "totally immobile!"
+	text "Quan un #mon"
+	line "es glaça, no es"
+	cont "podrà moure."
 
-	para "It stays frozen"
-	line "even after the"
-	cont "battle ends."
+	para "Continuarà glaçat"
+	line "fora d'un combat."
 
-	para "Use ICE HEAL to"
-	line "thaw out #MON!"
+	para "Desglaça'l amb"
+	line "Antigel!"
 	prompt
 
 _VermilionGymTrashText::
@@ -717,35 +713,35 @@ _VermilionGymTrashText::
 	done
 
 _VermilionGymTrashSuccessText1::
-	text "Hey! There's a"
-	line "switch under the"
-	cont "trash!"
-	cont "Turn it on!"
+	text "Ei! Hi ha un"
+	line "interruptor sota"
+	cont "la paperera!"
+	cont "El pitjo!"
 
-	para "The 1st electric"
-	line "lock opened!@"
+	para "S'ha obert el"
+	line "1r pestell!@"
 	text_end
 
 _VermilionGymTrashSuccessText2::
-	text "Hey! There's"
-	line "another switch"
-	cont "under the trash!"
-	cont "Turn it on!"
+	text "Ei! Hi ha un"
+	line "altre interruptor"
+	cont "sota la paperera!"
+	cont "L'engego!"
 	prompt
 
 _VermilionGymTrashSuccessText3::
-	text "The 2nd electric"
-	line "lock opened!"
+	text "S'ha obert el"
+	line "2n pestell!"
 
-	para "The motorized door"
-	line "opened!@"
+	para "La porta mecànica"
+	line "s'ha obert!@"
 	text_end
 
 _VermilionGymTrashFailText::
 	text "Res, només"
 	line "escombraries..."
-	cont "Hey! The electric"
-	cont "locks were reset!@"
+	cont "Ei! El sistema"
+	cont "s'ha reiniciat!@"
 	text_end
 
 _FoundHiddenItemText::
@@ -756,9 +752,9 @@ _FoundHiddenItemText::
 	text_end
 
 _HiddenItemBagFullText::
-	text "But, <PLAYER> has"
-	line "no more room for"
-	cont "other items!"
+	text "Però <PLAYER> no"
+	line "té més espai per"
+	cont "a més objectes."
 	done
 
 _FoundHiddenCoinsText::
@@ -769,16 +765,16 @@ _FoundHiddenCoinsText::
 	text_end
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> found"
+	text "<PLAYER> ha trobat"
 	line "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text " monedes!@"
 	text_end
 
 _DroppedHiddenCoinsText::
 	text_start
-	para "Oops! Dropped"
-	line "some coins!"
+	para "Algú ha perdut"
+	line "unes monedes!"
 	done
 
 _IndigoPlateauStatuesText1::
@@ -786,15 +782,15 @@ _IndigoPlateauStatuesText1::
 	prompt
 
 _IndigoPlateauStatuesText2::
-	text "The ultimate goal"
-	line "of trainers!"
-	cont "#MON LEAGUE HQ"
+	text "La fita dels"
+	line "entrenadors"
+	cont "-Lliga #mon"
 	done
 
 _IndigoPlateauStatuesText3::
-	text "The highest"
-	line "#MON authority"
-	cont "#MON LEAGUE HQ"
+	text "L'autoritat"
+	line "sobre #mon"
+	cont "-Lliga #mon"
 	done
 
 _PokemonBooksText::
@@ -803,17 +799,15 @@ _PokemonBooksText::
 	done
 
 _DiglettSculptureText::
-	text "It's a sculpture"
-	line "of DIGLETT."
+	text "És un buda."
 	done
 
 _ElevatorText::
-	text "This is an"
-	line "elevator."
+	text "És un ascensor."
 	done
 
 _TownMapText::
-	text "A TOWN MAP.@"
+	text "És un mapa.@"
 	text_end
 
 _PokemonStuffText::
@@ -822,57 +816,57 @@ _PokemonStuffText::
 	done
 
 _OutOfSafariBallsText::
-	text "PA: Ding-dong!"
+	text "Ding-dong!"
 
-	para "You are out of"
-	line "SAFARI BALLs!"
+	para "Ja no et queda"
+	line "cap Safariball!"
 	prompt
 
 _WildRanText::
-	text "Wild @"
+	text "@"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "ha fugit!"
 	prompt
 
 _EnemyRanText::
-	text "Enemy @"
+	text "En @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "ha fugit!"
 	prompt
 
 _HurtByPoisonText::
-	text "<USER>'s"
-	line "hurt by poison!"
+	text "<USER>"
+	line "sent el verí!"
 	prompt
 
 _HurtByBurnText::
-	text "<USER>'s"
-	line "hurt by the burn!"
+	text "<USER>"
+	line "sent la cremada!"
 	prompt
 
 _HurtByLeechSeedText::
-	text "LEECH SEED saps"
-	line "<USER>!"
+	text "<USER> ha"
+	line "sigut drenat!"
 	prompt
 
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "@"
 	text_ram wEnemyMonNick
-	text_start
-	line "està estabornit!"
+	text " està"
+	line "estabornit!"
 	prompt
 
 _MoneyForWinningText::
 	text "<PLAYER> rep @"
 	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text_start
+	text "¥"
 	line "per guanyar!"
 	prompt
 
 _TrainerDefeatedText::
-	text "<PLAYER> defeated"
+	text "<PLAYER> ha vençut"
 	line "@"
 	text_ram wTrainerName
 	text "!"
@@ -881,11 +875,12 @@ _TrainerDefeatedText::
 _PlayerMonFaintedText::
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "està estabornit!"
 	prompt
 
 _UseNextMonText::
-	text "Use next #MON?"
+	text "Vols treure el"
+	line "següent #mon?"
 	done
 
 _Rival1WinText::
@@ -928,18 +923,17 @@ _TrainerSentOutText::
 	done
 
 _NoWillText::
-	text "There's no will"
-	line "to fight!"
+	text "No tens forces"
+	line "per lluitar!"
 	prompt
 
 _CantEscapeText::
-	text "Can't escape!"
+	text "No pots fugir!"
 	prompt
 
 _NoRunningText::
-	text "No et pots"
-	line "escapar d'una"
-	cont "batalla!"
+	text "No pots fugir"
+	line "d'una batalla!"
 	prompt
 
 _GotAwayText::
@@ -947,37 +941,37 @@ _GotAwayText::
 	prompt
 
 _ItemsCantBeUsedHereText::
-	text "Items can't be"
-	line "used here."
+	text "No pots fer servir"
+	line "objectes aquí."
 	prompt
 
 _AlreadyOutText::
 	text_ram wBattleMonNick
-	text " is"
-	line "already out!"
+	text " ja"
+	line "està lluitant!"
 	prompt
 
 _MoveNoPPText::
-	text "No PP left for"
-	line "this move!"
+	text "No tens PP per a"
+	line "aquest atac!"
 	prompt
 
 _MoveDisabledText::
-	text "The move is"
-	line "disabled!"
+	text "Aquest atac"
+	line "està blocat!"
 	prompt
 
 _NoMovesLeftText::
 	text_ram wBattleMonNick
-	text " has no"
-	line "moves left!"
+	text " ja no té"
+	line "més atacs!"
 	done
 
 _MultiHitText::
-	text "Hit the enemy"
+	text "S'ha atacat"
 	line "@"
 	text_decimal wPlayerNumHits, 1, 1
-	text " times!"
+	text " vegades!"
 	prompt
 
 _ScaredText::
@@ -1003,7 +997,7 @@ _WokeUpText::
 
 _IsFrozenText::
 	text "<USER>"
-	line "està congelat!"
+	line "està glaçat!"
 	prompt
 
 _FullyParalyzedText::
@@ -1013,7 +1007,7 @@ _FullyParalyzedText::
 
 _FlinchedText::
 	text "<USER>"
-	line "flinched!"
+	line "recula!"
 	prompt
 
 _MustRechargeText::
@@ -1022,8 +1016,9 @@ _MustRechargeText::
 	prompt
 
 _DisabledNoMoreText::
-	text "<USER>'s"
-	line "disabled no more!"
+	text "Els atacs de"
+	line "<USER>"
+	cont "s'han desblocat!"
 	prompt
 
 _IsConfusedText::
@@ -1032,8 +1027,8 @@ _IsConfusedText::
 	prompt
 
 _HurtItselfText::
-	text "It hurt itself in"
-	line "its confusion!"
+	text "S'ataca a si"
+	line "mateix!"
 	prompt
 
 _ConfusedNoMoreText::
@@ -1043,22 +1038,22 @@ _ConfusedNoMoreText::
 
 _SavingEnergyText::
 	text "<USER>"
-	line "is saving energy!"
+	line "es reté!"
 	prompt
 
 _UnleashedEnergyText::
-	text "<USER>"
-	line "unleashed energy!"
+	text "<USER> ja"
+	line "no es reté!"
 	prompt
 
 _ThrashingAboutText::
-	text "<USER>'s"
-	line "thrashing about!"
+	text "<USER>"
+	line "esclata de fúria!"
 	done
 
 _AttackContinuesText::
-	text "<USER>'s"
-	line "attack continues!"
+	text "<USER>"
+	line "continua atacant!"
 	done
 
 _CantMoveText::
@@ -1067,11 +1062,11 @@ _CantMoveText::
 	prompt
 
 _MoveIsDisabledText::
-	text "<USER>'s"
-	line "@"
+	text "L'atac @"
 	text_ram wNameBuffer
-	text " is"
-	cont "disabled!"
+	text_start
+	line "de <USER>"
+	cont "s'ha blocat!"
 	prompt
 
 _MonName1Text::
@@ -1079,17 +1074,17 @@ _MonName1Text::
 	text_end
 
 _Used1Text::
-	text_start
-	line "usa @"
+	text " "
+	line "fa @"
 	text_end
 
 _Used2Text::
-	text_start
-	line "usa @"
+	text " "
+	line "fa @"
 	text_end
 
 _InsteadText::
-	text "instead,"
+	text "en comptes d'això,"
 	cont "@"
 	text_end
 
@@ -1118,23 +1113,23 @@ _ExclamationPoint5Text::
 	done
 
 _AttackMissedText::
-	text "<USER>'s"
-	line "attack missed!"
+	text "<USER>"
+	line "ha fallat l'atac!"
 	prompt
 
 _KeptGoingAndCrashedText::
-	text "<USER>"
-	line "kept going and"
-	cont "crashed!"
+	text "<USER> ha"
+	line "atacat fins a"
+	cont "estampar-se!"
 	prompt
 
 _UnaffectedText::
-	text "<TARGET>'s"
-	line "unaffected!"
+	text "A <TARGET> no"
+	line "li afecta!"
 	prompt
 
 _DoesntAffectMonText::
-	text "It doesn't affect"
+	text "No té efecte en"
 	line "<TARGET>!"
 	prompt
 
@@ -1143,91 +1138,93 @@ _CriticalHitText::
 	prompt
 
 _OHKOText::
-	text "One-hit KO!"
+	text "KO d'un cop!"
 	prompt
 
 _LoafingAroundText::
 	text_ram wBattleMonNick
-	text " is"
-	line "loafing around."
+	text_start
+	line "fa el gandul!"
 	prompt
 
 _BeganToNapText::
 	text_ram wBattleMonNick
-	text " began"
-	line "to nap!"
+	text_start
+	line "fa una becaina!"
 	prompt
 
 _WontObeyText::
 	text_ram wBattleMonNick
-	text " won't"
-	line "obey!"
+	text_start
+	line "no obeeix!"
 	prompt
 
 _TurnedAwayText::
 	text_ram wBattleMonNick
-	text " turned"
-	line "away!"
+	text_start
+	line "gira l'esquena!"
 	prompt
 
 _IgnoredOrdersText::
 	text_ram wBattleMonNick
 	text_start
-	line "ignored orders!"
+	line "no fa cas!"
 	prompt
 
 _SubstituteTookDamageText::
-	text "The SUBSTITUTE"
-	line "took damage for"
+	text "El substitut rep"
+	line "el dany de"
 	cont "<TARGET>!"
 	prompt
 
 _SubstituteBrokeText::
-	text "<TARGET>'s"
-	line "SUBSTITUTE broke!"
+	text "El substitut de"
+	line "<TARGET>"
+	cont "s'ha trencat!"
 	prompt
 
 _BuildingRageText::
-	text "<USER>'s"
-	line "RAGE is building!"
+	text "La fúria de"
+	line "<USER>"
+	cont "està creixent!"
 	prompt
 
 _MirrorMoveFailedText::
-	text "The MIRROR MOVE"
-	next "failed!"
+	text "L'atac Mirall"
+	next "ha fallat!"
 	prompt
 
 _HitXTimesText::
-	text "Hit @"
+	text "Fa @"
 	text_decimal wEnemyNumHits, 1, 1
-	text " times!"
+	text " cops!"
 	prompt
 
 _GainedText::
 	text_ram wNameBuffer
-	text " gained"
+	text " guanya"
 	line "@"
 	text_end
 
 _WithExpAllText::
-	text "with EXP.ALL,"
+	text "amb Multi exp.,"
 	cont "@"
 	text_end
 
 _BoostedText::
-	text "a boosted"
+	text "un extra de"
 	cont "@"
 	text_end
 
 _ExpPointsText::
 	text_decimal wExpAmountGained, 2, 4
-	text " EXP. Points!"
+	text " punts d'exp.!"
 	prompt
 
 _GrewLevelText::
 	text_ram wNameBuffer
-	text " ha"
-	line "pujat a nivell @"
+	text " puja"
+	line "al nivell @"
 	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
@@ -1240,18 +1237,17 @@ _WildMonAppearedText::
 	prompt
 
 _HookedMonAttackedText::
-	text "The hooked"
-	line "@"
+	text "Un @"
 	text_ram wEnemyMonNick
-	text_start
-	cont "attacked!"
+	text " ha"
+	line "mossegat l'ham!"
 	prompt
 
 _EnemyAppearedText::
 	text "Ha aparegut un"
 	line "@"
-	text_start
 	text_ram wEnemyMonNick
+	text "!"
 	prompt
 
 _TrainerWantsToFightText::
@@ -1280,12 +1276,12 @@ _DoItText::
 	text_end
 
 _GetmText::
-	text "Ves-hi, @"
+	text "Ànims, @"
 	text_end
 
 _EnemysWeakText::
-	text "The enemy's weak!"
-	line "Ves-hi, @"
+	text "Està feble!"
+	line "Ànims, @"
 	text_end
 
 _PlayerMon1Text::
@@ -1295,24 +1291,26 @@ _PlayerMon1Text::
 
 _PlayerMon2Text::
 	text_ram wBattleMonNick
-	text " @"
+	text "! @"
 	text_end
 
 _EnoughText::
-	text "prou!@"
+	text_start
+	line "Prou! @"
 	text_end
 
 _OKExclamationText::
-	text "OK!@"
+	text_start
+	line "Ben fet! @"
 	text_end
 
 _GoodText::
-	text "molt bé!@"
+	text_start
+	line "Molt bé! @"
 	text_end
 
 _ComeBackText::
-	text_start
-	line "torna!"
+	text "Torna!"
 	done
 
 _SuperEffectiveText::
@@ -1326,17 +1324,17 @@ _NotVeryEffectiveText::
 	prompt
 
 _SafariZoneEatingText::
-	text "Wild @"
+	text "@"
 	text_ram wEnemyMonNick
 	text_start
-	line "is eating!"
+	line "està menjant!"
 	prompt
 
 _SafariZoneAngryText::
-	text "Wild @"
+	text "El @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is angry!"
+	line "està enfadat!"
 	prompt
 
 ; money related
@@ -1348,12 +1346,12 @@ _PickUpPayDayMoneyText::
 	prompt
 
 _ClearSaveDataText::
-	text "Clear all saved"
-	line "data?"
+	text "Vols esborrar la"
+	line "partida desada?"
 	done
 
 _WhichFloorText::
-	text "A quin pis"
+	text "A quina planta"
 	line "vols anar?"
 	done
 
@@ -1383,58 +1381,58 @@ _PartyMenuSwapMonText::
 
 _PotionText::
 	text_ram wNameBuffer
-	text_start
-	line "recovered by @"
+	text " s'ha"
+	line "curat @"
 	text_decimal wHPBarHPDifference, 2, 3
-	text "!"
+	text " punts!"
 	done
 
 _AntidoteText::
 	text_ram wNameBuffer
-	text " was"
-	line "cured of poison!"
+	text " s'ha"
+	line "curat del verí!"
 	done
 
 _ParlyzHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "rid of paralysis!"
+	text " ja no"
+	line "està paralitzat!"
 	done
 
 _BurnHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "burn was healed!"
+	text " s'ha curat"
+	line "de les cremades!"
 	done
 
 _IceHealText::
 	text_ram wNameBuffer
-	text " was"
-	line "defrosted!"
+	text " s'ha"
+	line "desglaçat!"
 	done
 
 _AwakeningText::
 	text_ram wNameBuffer
-	text_start
-	line "woke up!"
+	text " s'ha"
+	line "despertat!"
 	done
 
 _FullHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "health returned!"
+	text " s'ha"
+	line "curat del tot!"
 	done
 
 _ReviveText::
 	text_ram wNameBuffer
 	text_start
-	line "is revitalized!"
+	line "ha revifat!"
 	done
 
 _RareCandyText::
 	text_ram wNameBuffer
-	text " grew"
-	line "to level @"
+	text " ha pujat"
+	line "al nivell @"
 	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
@@ -1538,15 +1536,15 @@ _TossHowManyText::
 	done
 
 _AccessedHoFPCText::
-	text "Accessed #MON"
-	line "LEAGUE's site."
+	text "Has accedit a la"
+	line "Lliga #mon."
 
-	para "Accessed the HALL"
-	line "OF FAME List."
+	para "Llista de la"
+	line "Sala d'Honor."
 	prompt
 
 _SwitchOnText::
-	text "Switch on!"
+	text "Engegat!"
 	prompt
 
 _WhatText::
@@ -1567,8 +1565,8 @@ _MonWasStoredText::
 	prompt
 
 _CantDepositLastMonText::
-	text "L'últim #mon"
-	line "no s'ha depositat."
+	text "No pots quedar-te"
+	line "sense #mon."
 	prompt
 
 _BoxFullText::
@@ -1588,13 +1586,13 @@ _MonIsTakenOutText::
 	prompt
 
 _NoMonText::
-	text "What? There are"
-	line "no #MON here!"
+	text "No hi tens"
+	line "cap #mon."
 	prompt
 
 _CantTakeMonText::
-	text "No hi ha #mon"
-	line "per retirar."
+	text "No tens lloc per"
+	line "retirar #mon."
 
 	para "Diposita'n"
 	line "algun primer."
@@ -1606,18 +1604,19 @@ _ReleaseWhichMonText::
 	done
 
 _OnceReleasedText::
-	text "Once released,"
+	text "Un cop s'alliberi,"
 	line "@"
 	text_ram wStringBuffer
-	text " is"
-	cont "gone forever. OK?"
+	text_start
+	cont "ja no tornarà."
+	cont "D'acord?"
 	done
 
 _MonWasReleasedText::
 	text_ram wStringBuffer
-	text " was"
-	line "released outside."
-	cont "Bye @"
+	text " ha"
+	line "marxat."
+	cont "Adeu, @"
 	text_ram wStringBuffer
 	text "!"
 	prompt
@@ -1662,46 +1661,44 @@ _OhFineThenText::
 	text_end
 
 _GetDexRatedText::
-	text "Want to get your"
-	line "#DEX rated?"
+	text "Vols avaluar la"
+	line "teva #dex?"
 	done
 
 _ClosedOaksPCText::
-	text "Closed link to"
-	line "PROF.OAK's PC.@"
+	text "T'has desconnectat"
+	line "del PC de Roure.@"
 	text_end
 
 _AccessedOaksPCText::
-	text "Accessed PROF."
-	line "OAK's PC."
+	text "Has accedit al"
+	line "PC del Dr.Roure."
 
-	para "Accessed #DEX"
-	line "Rating System."
+	para "Sistema d'anàlisi"
+	line "de la #dex."
 	prompt
 
 _WhereWouldYouLikeText::
-	text "Where would you"
-	line "like to go?"
+	text "On vols anar?"
 	done
 
 _PleaseWaitText::
-	text "OK, please wait"
-	line "just a moment."
+	text "Molt bé. Un segon,"
+	line "si us plau."
 	done
 
 _LinkCanceledText::
-	text "The link was"
-	line "canceled."
+	text "L'enllaç s'ha"
+	line "cancel·lat."
 	done
 
 _OakSpeechText1::
-	text "Ei, hola!"
-	line "Benvingut a"
-	cont "l'univers #mon!"
+	text "Benvingut a"
+	line "l'univers #mon!"
 
 	para "Soc en Dr.Roure,"
 	line "però la gent em"
-	cont "diu Dr.#mon."
+	cont "diu «Dr.#mon»."
 	prompt
 
 _OakSpeechText2A::
@@ -1718,10 +1715,9 @@ _OakSpeechText2B::
 	cont "lluitadors hàbils"
 	cont "en un combat."
 
-	para "Personalment..."
-
-	para "jo em dedico a"
-	line "estudiar-los."
+	para "Personalment,"
+	line "jo em dedico a"
+	cont "estudiar-los."
 	prompt
 
 _IntroducePlayerText::
@@ -1772,11 +1768,11 @@ _HisNameIsText::
 
 _WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
-	text " and"
+	text " i"
 	line "@"
 	text_ram wNameBuffer
-	text " will"
-	cont "be traded."
+	text_start
+	cont "s'intercanviaran."
 	done
 
 _TextIDErrorText::

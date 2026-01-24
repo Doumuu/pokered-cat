@@ -1,44 +1,43 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "Soc la Sibil·la,"
+	line "del Quartet."
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "El vell Roure ha"
+	line "apostat fort per"
+	cont "tu, noiet."
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Era ben plantat,"
+	line "el carraca!"
+	cont "Però d'això fa"
+	cont "molt de temps."
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Ara només magreja"
+	line "la seva #dex!"
+	cont "Quin babau!"
+	cont "Els #mon són"
+	cont "per lluitar!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! Veuràs"
+	line "ara com es lluita"
+	cont "de veritat!"
 	done
 
 _AgathaEndBattleText::
-	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	text "Bufa!"
+	line "No et quedes"
+	cont "curt, noiet!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Has guanyat! Ara"
+	line "veig que veu el"
+	cont "carraca en tu."
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "No tinc res més"
+	line "a dir! Passa a"
+	cont "la següent sala."
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Veu: No fugis!"
 	done

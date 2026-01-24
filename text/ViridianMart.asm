@@ -14,7 +14,8 @@ _ViridianMartClerkParcelQuestText::
 
 	para "Li ha arribat"
 	line "un paquet."
-	cont "Li pots entregar?"
+	cont "Creus que l'hi"
+	cont "podries entregar?"
 
 	para "<PLAYER> rep"
 	line "un paquet!@"

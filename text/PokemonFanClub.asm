@@ -1,6 +1,6 @@
 _PokemonFanClubPikachuFanNormalText::
-	text "Has la cua tan"
-	line "bonica del"
+	text "Has vist la cua"
+	line "tan bonica del"
 	cont "meu Pikachu?"
 	done
 
@@ -11,8 +11,8 @@ _PokemonFanClubPikachuFanBetterText::
 	done
 
 _PokemonFanClubSeelFanNormalText::
-	text "M'encanta el meu"
-	line "SEEL!"
+	text "M'encanta el"
+	line "meu Focà!"
 
 	para "Xiscla fort"
 	line "quan l'abraço!"
@@ -21,7 +21,7 @@ _PokemonFanClubSeelFanNormalText::
 _PokemonFanClubSeelFanBetterText::
 	text "Bonica...!"
 
-	para "El meu SEEL és"
+	para "El meu Focà és"
 	line "molt més maco!"
 	done
 
@@ -31,7 +31,7 @@ _PokemonFanClubPikachuText::
 	done
 
 _PokemonFanClubSeelText::
-	text "SEEL: Iii!"
+	text "Focà: Iii!"
 	done
 
 _PokemonFanClubChairmanIntroText::
@@ -45,7 +45,7 @@ _PokemonFanClubChairmanIntroText::
 	line "a l'hora de triar"
 	cont "#mon..."
 
-	para "Digue'm..."
+	para "D'això..."
 
 	para "Has vingut per"
 	line "conèixer els"
@@ -59,7 +59,7 @@ _PokemonFanClubChairmanStoryText::
 	para "El meu preferit,"
 	line "Galop..."
 
-	para "És...elegant..."
+	para "és...elegant..."
 	line "maco...llest..."
 	cont "impressionant..."
 	cont "hi estàs d'acord?"
@@ -92,24 +92,24 @@ _PokemonFanClubReceivedBikeVoucherText::
 _PokemonFanClubExplainBikeVoucherText::
 	text_start
 
-	para "Canvia-ho per"
+	para "Canvia'l per"
 	line "una bici!"
 
-	para "No pateixis, el"
-	line "meu Foram em duu"
+	para "No pateixis, en"
+	line "Foradam em duu"
 	cont "volant on calgui."
 
-	para "Per això no"
-	line "vull una bici."
+	para "Per això no em"
+	line "cal una bici."
 
 	para "Espero que siguis"
 	line "un bon ciclista!"
 	done
 
 _PokemonFanClubNoStoryText::
-	text "Torna quan"
-	line "vulguis escoltar-"
-	cont "me una estona!"
+	text "Torna quan vulguis"
+	line "escoltar-me una"
+	cont "estona!"
 	done
 
 _PokemonFanClubChairFinalText::
@@ -140,6 +140,6 @@ _PokemonFanClubSign1Text::
 	done
 
 _PokemonFanClubSign2Text::
-	text "Si algú es venta,"
-	line "venta't tu també!"
+	text "Si algú es vanta,"
+	line "vanta't tu també!"
 	done

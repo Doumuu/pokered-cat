@@ -1,155 +1,155 @@
 _Route20Swimmer1BattleText::
-	text "The water is"
-	line "shallow here."
+	text "L'aigua no"
+	line "cobreix aquí."
 	done
 
 _Route20Swimmer1EndBattleText::
-	text "Splash!"
+	text "Plof!"
 	prompt
 
 _Route20Swimmer1AfterBattleText::
-	text "I wish I could"
-	line "ride my #MON."
+	text "M'agradaria muntar"
+	line "sobre un #mon."
 	done
 
 _Route20Swimmer2BattleText::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "Les illes Bessones"
+	line "és un destí ideal!"
 	done
 
 _Route20Swimmer2EndBattleText::
-	text "Quit it!"
+	text "Prou!"
 	prompt
 
 _Route20Swimmer2AfterBattleText::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "Hi ha una cova"
+	line "sota les illes"
+	cont "Bessones."
 	done
 
 _Route20Swimmer3BattleText::
-	text "I love floating"
-	line "with the fishes!"
+	text "M'encanta nedar"
+	line "amb els peixos!"
 	done
 
 _Route20Swimmer3EndBattleText::
-	text "Yowch!"
+	text "Au!"
 	prompt
 
 _Route20Swimmer3AfterBattleText::
-	text "Want to float"
-	line "with me?"
+	text "Vols nedar"
+	line "amb mi?"
 	done
 
 _Route20Swimmer4BattleText::
-	text "Are you on"
-	line "vacation too?"
+	text "També has vingut"
+	line "de vacances aquí?"
 	done
 
 _Route20Swimmer4EndBattleText::
-	text "No"
-	line "mercy at all!"
+	text "T'has"
+	line "de relaxar!"
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "Abans hi havia"
+	line "dues illes aquí."
 	done
 
 _Route20Swimmer5BattleText::
-	text "Check out my buff"
-	line "physique!"
+	text "Mira quin cos"
+	line "tinc, marrec!"
 	done
 
 _Route20Swimmer5EndBattleText::
-	text "Wimpy!"
+	text "Què?!"
 	prompt
 
 _Route20Swimmer5AfterBattleText::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "Hauria d'haver"
+	line "entrenat els"
+	cont "#mon, no jo!"
 	done
 
 _Route20Swimmer6BattleText::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "Què fas a sobre"
+	line "d'un #mon?"
+	cont "Que no saps nedar?"
 	done
 
 _Route20Swimmer6EndBattleText::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "Glub,"
+	line "glub, glub!"
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "Sembla divertit"
+	line "muntar un #mon."
 	done
 
 _Route20CooltrainerMBattleText::
-	text "I rode my bird"
-	line "#MON here!"
+	text "He vingut aquí"
+	line "volant!"
 	done
 
 _Route20CooltrainerMEndBattleText::
-	text "Oh"
-	line "no!"
+	text "Me'n"
+	line "vaig volant!"
 	prompt
 
 _Route20CooltrainerMAfterBattleText::
-	text "My birds can't"
-	line "FLY me back!"
+	text "Els ocells ara no"
+	line "em volen portar!"
 	done
 
 _Route20Swimmer7BattleText::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "El meu xicot m'ha"
+	line "portat una perla!"
 	done
 
 _Route20Swimmer7EndBattleText::
-	text "Don't"
-	line "touch my pearls!"
+	text "Aii!"
+	line "La meva perla!"
 	prompt
 
 _Route20Swimmer7AfterBattleText::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "Si entreno en"
+	line "Conquillo, em"
+	cont "donarà una perla?"
 	done
 
 _Route20Swimmer8BattleText::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "Vinc nedant des de"
+	line "l'illa Escarlata!"
 	done
 
 _Route20Swimmer8EndBattleText::
-	text "I'm"
-	line "so disappointed!"
+	text "Quin"
+	line "rotllo...!"
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "Hi ha una mansió"
+	line "abandonada a illa"
+	cont "Escarlata que és"
+	cont "plena de #mon!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "A Escarlata hi ha"
+	line "un laboratori"
+	cont "#mon."
 	done
 
 _Route20Swimmer9EndBattleText::
-	text "Wait!"
+	text "Espera!"
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "L'illa Escarlata"
+	line "és volcànica."
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "SEAFOAM ISLANDS"
+	text "Illes Bessones"
 	done

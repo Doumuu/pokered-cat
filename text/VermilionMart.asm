@@ -4,8 +4,8 @@ _VermilionMartCooltrainerMText::
 	cont "els #mon per"
 	cont "cometre delictes."
 
-	para "El Team Rocket"
-	line "trafica amb"
+	para "Els Rocket"
+	line "trafiquen amb"
 	cont "#mon rars."
 
 	para "També abandonen"

@@ -1,5 +1,5 @@
 _Route7UndergroundPathSignText::
 	text "Via subterrània:"
-	line "Ciutat Iridescent"
-	cont "- Vilamalva"
+	line "Iridescent -"
+	cont "Vilamalva"
 	done

@@ -449,7 +449,7 @@ CalcStringLength:
 	jr .loop
 
 PrintNamingText:
-	hlcoord 0, 1
+	hlcoord 1, 1
 	ld a, [wNamingScreenType]
 	ld de, YourTextString
 	and a
@@ -468,26 +468,24 @@ PrintNamingText:
 	call PlaceString
 	ld hl, $1
 	add hl, bc
-	ld [hl], "の" ; leftover from Japanese version; blank tile $c9 in English
+	ld [hl], " " ; leftover from Japanese version; blank tile $c9 in English
 	hlcoord 1, 3
 	ld de, NicknameTextString
 	jr .placeString
 .notNickname
-	call PlaceString
-	ld l, c
-	ld h, b
-	ld de, NameTextString
+	; print just one full sentence and return
+	jp PlaceString
 .placeString
 	jp PlaceString
 
 YourTextString:
-	db "YOUR @"
+	db "Com et dius?@"
 
 RivalsTextString:
-	db "RIVAL's @"
+	db "Com es diu?@"
 
 NameTextString:
-	db "NAME?@"
+	db "Nom?@"
 
 NicknameTextString:
-	db "NICKNAME?@"
+	db "Nom nou: @"

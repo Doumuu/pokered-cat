@@ -1,18 +1,18 @@
 _SafariZoneEastRestHouseScientistText::
-	text "How many did you"
-	line "catch? I'm bushed"
-	cont "from the work!"
+	text "Quants n'has"
+	line "atrapat? Jo"
+	cont "estic reventat!"
 	done
 
 _SafariZoneEastRestHouseRockerText::
-	text "I caught a"
-	line "CHANSEY!"
+	text "He atrapat"
+	line "un Xamba!"
 
-	para "That makes this"
-	line "all worthwhile!"
+	para "Només per això"
+	line "ja val la pena!"
 	done
 
 _SafariZoneEastRestHouseSilphWorkerMText::
-	text "Whew! I'm tired"
-	line "from all the fun!"
+	text "Buf! Estic cansat"
+	line "de tanta acció!"
 	done

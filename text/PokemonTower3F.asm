@@ -1,6 +1,6 @@
 _PokemonTower3FChanneler1BattleText::
-	text "... Aah..."
-	line "... Hu, hu...!"
+	text "...Aah..."
+	line "...Hu, hu...!"
 	done
 
 _PokemonTower3FChanneler1EndBattleText::

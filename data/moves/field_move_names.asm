@@ -7,5 +7,5 @@ FieldMoveNames:
 	db "Força@"
 	db "Flaix@"
 	db "Cavar@"
-	db "TELEPORT@"
-	db "SOFTBOILED@"
+	db "Teleport@"
+	db "Covaous@"

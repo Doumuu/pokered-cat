@@ -1,173 +1,169 @@
 _Route14CooltrainerM1BattleText::
-	text "You need to use"
-	line "TMs to teach good"
-	cont "moves to #MON!"
+	text "Si vols tenir un"
+	line "#mon fort,"
+	cont "ensenya-li MTs!"
 	done
 
 _Route14CooltrainerM1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Soc"
+	line "patètic!"
 	prompt
 
 _Route14CooltrainerM1AfterBattleText::
-	text "You have some HMs"
-	line "right? #MON"
-	cont "can't ever forget"
-	cont "those moves."
+	text "Tens MOs, oi?"
+	line "Els #mon no"
+	cont "poden oblidar"
+	cont "aquests atacs."
 	done
 
 _Route14CooltrainerM2BattleText::
-	text "My bird #MON"
-	line "should be ready"
-	cont "for battle."
+	text "Els meus ocells"
+	line "estan llestos"
+	cont "per combatre."
 	done
 
 _Route14CooltrainerM2EndBattleText::
-	text "Not"
-	line "ready yet!"
+	text "Encara"
+	line "no estan llestos!"
 	prompt
 
 _Route14CooltrainerM2AfterBattleText::
-	text "They need to learn"
-	line "better moves."
+	text "Han d'aprendre"
+	line "atacs millors..."
 	done
 
 _Route14CooltrainerM3BattleText::
-	text "TMs are on sale"
-	line "in CELADON!"
-	cont "But, only a few"
-	cont "people have HMs!"
+	text "Venen MTs a"
+	line "Iridescent, però"
+	cont "no hi ha gaire"
+	cont "gent amb MOs."
 	done
 
 _Route14CooltrainerM3EndBattleText::
-	text "Aww,"
-	line "bummer!"
+	text "Quina"
+	line "pena!"
 	prompt
 
 _Route14CooltrainerM3AfterBattleText::
-	text "Teach #MON"
-	line "moves of the same"
-	cont "element type for"
-	cont "more power."
+	text "Els #mon són"
+	line "més forts amb"
+	cont "atacs del mateix"
+	cont "tipus que ells."
 	done
 
 _Route14CooltrainerM4BattleText::
-	text "Have you taught"
-	line "your bird #MON"
-	cont "how to FLY?"
+	text "Has ensenyat Vol"
+	line "als teus ocells?"
 	done
 
 _Route14CooltrainerM4EndBattleText::
-	text "Shot"
-	line "down in flames!"
+	text "Quin"
+	line "ridícul!"
 	prompt
 
 _Route14CooltrainerM4AfterBattleText::
-	text "Bird #MON are"
-	line "my true love!"
+	text "Només crio #mon"
+	line "de tipus ocell!"
 	done
 
 _Route14CooltrainerM5BattleText::
-	text "Have you heard of"
-	line "the legendary"
-	cont "#MON?"
+	text "Saps res sobre"
+	line "els #mon"
+	cont "llegendaris?"
 	done
 
 _Route14CooltrainerM5EndBattleText::
-	text "Why?"
-	line "Why'd I lose?"
+	text "Com"
+	line "puc haver perdut?"
 	prompt
 
 _Route14CooltrainerM5AfterBattleText::
-	text "The 3 legendary"
-	line "#MON are all"
-	cont "birds of prey."
+	text "Els tres #mon"
+	line "llegendaris són"
+	cont "ocells!"
 	done
 
 _Route14CooltrainerM6BattleText::
-	text "I'm not into it,"
-	line "but OK! Let's go!"
+	text "No em ve de gust,"
+	line "però va! Som-hi!"
 	done
 
 _Route14CooltrainerM6EndBattleText::
-	text "I"
-	line "knew it!"
+	text "Ah..."
+	line "ho sabia."
 	prompt
 
 _Route14CooltrainerM6AfterBattleText::
-	text "Winning, losing,"
-	line "it doesn't matter"
-	cont "in the long run!"
+	text "Comparat amb el"
+	line "cel, què és"
+	cont "guanyar o perdre?"
 	done
 
 _Route14Biker1BattleText::
-	text "C'mon, c'mon."
-	line "Let's go, let's"
-	cont "go, let's go!"
+	text "Vinga, vinga,"
+	line "vinga! Que soc"
+	cont "impapacient!"
 	done
 
 _Route14Biker1EndBattleText::
-	text "Arrg!"
-	line "Lost! Get lost!"
+	text "Baaah!"
+	line "He perdudut!"
 	prompt
 
 _Route14Biker1AfterBattleText::
-	text "What, what, what?"
-	line "What do you want?"
+	text "Què, què, què?"
+	line "Bubusques brega?"
 	done
 
 _Route14Biker2BattleText::
-	text "Perfect! I need to"
-	line "burn some time!"
+	text "Que bé! No tenia"
+	line "res a fer..."
 	done
 
 _Route14Biker2EndBattleText::
-	text "What?"
-	line "You!?"
+	text "Me"
+	line "càsum...!"
 	prompt
 
 _Route14Biker2AfterBattleText::
-	text "Raising #MON"
-	line "is a drag, man."
+	text "Criar #mon fa"
+	line "una mandra...!"
 	done
 
 _Route14Biker3BattleText::
-	text "We ride out here"
-	line "because there's"
-	cont "more room!"
+	text "Sortim per aquí"
+	line "perquè hi ha més"
+	cont "lloc per conduir."
 	done
 
 _Route14Biker3EndBattleText::
-	text "Wipe out!"
+	text "Barrumb!"
 	prompt
 
 _Route14Biker3AfterBattleText::
-	text "It's cool you"
-	line "made your #MON"
-	cont "so strong!"
+	text "Mola que hagis"
+	line "entrenat tan bé"
+	cont "els #mon!"
 
-	para "Might is right!"
-	line "And you know it!"
+	para "La unió fa la"
+	line "força, oi?"
 	done
 
 _Route14Biker4BattleText::
-	text "#MON fight?"
-	line "Cool! Rumble!"
+	text "Combat #mon?"
+	line "Compta amb mi!"
 	done
 
 _Route14Biker4EndBattleText::
-	text "Blown"
-	line "away!"
+	text "Bufa!"
 	prompt
 
 _Route14Biker4AfterBattleText::
-	text "You know who'd"
-	line "win, you and me"
-	cont "one on one!"
+	text "Qui ha guanyat,"
+	line "tu o jo?"
 	done
 
 _Route14SignText::
-	text "ROUTE 14"
-	line "West to FUCHSIA"
-	cont "CITY"
+	text "Ruta 14"
+	line "Rosó a l'oest"
 	done

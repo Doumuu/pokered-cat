@@ -1,37 +1,37 @@
 _PokemonMansion3FSuperNerdBattleText::
-	text "This place is"
-	line "like, huge!"
+	text "Aquest lloc és"
+	line "immens, oi?"
 	done
 
 _PokemonMansion3FSuperNerdEndBattleText::
-	text "Ayah!"
+	text "Bua!"
 	prompt
 
 _PokemonMansion3FSuperNerdAfterBattleText::
-	text "I wonder where"
-	line "my partner went."
+	text "On s'ha ficat"
+	line "el meu company?"
 	done
 
 _PokemonMansion3FScientistBattleText::
-	text "My mentor once"
-	line "lived here."
+	text "Aquí va viure"
+	line "el meu mestre."
 	done
 
 _PokemonMansion3FScientistEndBattleText::
-	text "Whew!"
-	line "Overwhelming!"
+	text "Quina"
+	line "força, noi!"
 	prompt
 
 _PokemonMansion3FScientistAfterBattleText::
-	text "So, you're stuck?"
-	line "Try jumping off"
-	cont "over there!"
+	text "Estàs atrapat?"
+	line "Intenta saltar"
+	cont "des d'allà!"
 	done
 
 _PokemonMansion3FDiaryText::
-	text "Diary: Feb. 6"
-	line "MEW gave birth."
+	text "Diari: 6 febrer"
+	line "Mew ha parit."
 
-	para "We named the"
-	line "newborn MEWTWO."
+	para "El nounat es"
+	line "diu Mewtwo."
 	done

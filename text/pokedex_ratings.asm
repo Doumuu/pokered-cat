@@ -1,117 +1,114 @@
 _DexCompletionText::
-	text "#DEX comp-"
-	line "letion is:"
+	text "Anàlisi de"
+	line "la #dex:"
 
 	para "@"
 	text_decimal hDexRatingNumMonsSeen, 1, 3
-	text " #MON seen"
+	text " <PK><MN> vistos"
 	line "@"
 	text_decimal hDexRatingNumMonsOwned, 1, 3
-	text " #MON owned"
+	text " <PK><MN> caçats"
 
-	para "PROF.OAK's"
-	line "Rating:"
+	para "Avaluació"
+	line "Dr.Roure:"
 	prompt
 
 _DexRatingText_Own0To9::
-	text "You still have"
-	line "lots to do."
-	cont "Look for #MON"
-	cont "in grassy areas!"
+	text "Encara tens"
+	line "feina a fer."
+	cont "Cerca #mon"
+	cont "als matolls!"
 	done
 
 _DexRatingText_Own10To19::
-	text "You're on the"
-	line "right track! "
-	cont "Get a FLASH HM"
-	cont "from my AIDE!"
+	text "Vas ben"
+	line "encarrilat!"
+	cont "Demana-li Flaix"
+	cont "al meu ajudant!"
 	done
 
 _DexRatingText_Own20To29::
-	text "You still need"
-	line "more #MON!"
-	cont "Try to catch"
-	cont "other species!"
+	text "Et calen molts"
+	line "més #mon!"
+	cont "Caça'n d'altres"
+	cont "tipus!"
 	done
 
 _DexRatingText_Own30To39::
-	text "Good, you're"
-	line "trying hard!"
-	cont "Get an ITEMFINDER"
-	cont "from my AIDE!"
+	text "Molt bé! Vas"
+	line "per bon camí!"
+	cont "Usa el Detector"
+	cont "del meu ajudant!"
 	done
 
 _DexRatingText_Own40To49::
-	text "Looking good!"
-	line "Go find my AIDE"
-	cont "when you get 50!"
+	text "Força bé!"
+	line "Amb 50, ves al"
+	cont "meu ajudant!"
 	done
 
 _DexRatingText_Own50To59::
-	text "You finally got at"
-	line "least 50 species!"
-	cont "Be sure to get"
-	cont "EXP.ALL from my"
-	cont "AIDE!"
+	text "Tens com a mínim"
+	line "50 tipus!"
+	cont "El meu ajudant et"
+	cont "donarà Multi Exp."
 	done
 
 _DexRatingText_Own60To69::
-	text "Ho! This is geting"
-	line "even better!"
+	text "Caram! Vas"
+	line "millorant!"
 	done
 
 _DexRatingText_Own70To79::
-	text "Very good!"
-	line "Go fish for some"
-	cont "marine #MON!"
+	text "Molt bé!"
+	line "Ves a pescar"
+	cont "alguns #mon!"
 	done
 
 _DexRatingText_Own80To89::
-	text "Wonderful!"
-	line "Do you like to"
-	cont "collect things?"
+	text "Increïble!"
+	line "Ets tot un"
+	cont "col·leccionista!"
 	done
 
 _DexRatingText_Own90To99::
-	text "I'm impressed!"
-	line "It must have been"
-	cont "difficult to do!"
+	text "Quina sorpresa!"
+	line "Et deu haver"
+	cont "costat moltíssim!"
 	done
 
 _DexRatingText_Own100To109::
-	text "You finally got at"
-	line "least 100 species!"
-	cont "I can't believe"
-	cont "how good you are!"
+	text "Tens com a mínim"
+	line "100 tipus!"
+	cont "És impressionant!"
 	done
 
 _DexRatingText_Own110To119::
-	text "You even have the"
-	line "evolved forms of"
-	cont "#MON! Super!"
+	text "Fins i tot tens"
+	line "evolucions de"
+	cont "#mon! Molt bé!"
 	done
 
 _DexRatingText_Own120To129::
-	text "Excellent! Trade"
-	line "with friends to"
-	cont "get some more!"
+	text "Excel·lent!"
+	line "Intercanvia'n"
+	cont "amb els amics!"
 	done
 
 _DexRatingText_Own130To139::
-	text "Outstanding!"
-	line "You've become a"
-	cont "real pro at this!"
+	text "Espectacular!"
+	line "Ets tot un"
+	cont "professional!"
 	done
 
 _DexRatingText_Own140To149::
-	text "I have nothing"
-	line "left to say!"
-	cont "You're the"
-	cont "authority now!"
+	text "No tinc res"
+	line "més a dir!"
+	cont "Ets un mestre!"
 	done
 
 _DexRatingText_Own150To151::
-	text "Your #DEX is"
-	line "entirely complete!"
-	cont "Congratulations!"
+	text "Has completat la"
+	line "teva #dex!"
+	cont "Enhorabona!"
 	done

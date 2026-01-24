@@ -1,239 +1,236 @@
 _SaffronGymSabrinaText::
-	text "I had a vision of"
-	line "your arrival!"
+	text "Sabia que vindries"
+	line "a veure'm."
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "Tinc poders des de"
+	line "ben petita."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "Com que doblegava"
+	line "culleres amb la"
+	cont "ment, em deien la"
+	cont "noia mentalista."
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "Odio lluitar però,"
+	line "si insisteixes,"
+	cont "t'ensenyaré el"
+	cont "meu poder!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "He..."
+	line "perdut!"
+	cont "Però perdre és"
+	cont "una lliçó, oi?"
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "He d'admetre que"
+	line "has sigut un"
+	cont "adversari digne."
 
-	para "You earned the"
-	line "MARSHBADGE!@"
+	para "T'has guanyat la"
+	line "Medalla or.@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "Tothom té poders,"
+	line "però la gent"
+	cont "no se n'adona."
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "The MARSHBADGE"
-	line "makes #MON up"
-	cont "to L70 obey you!"
+	text "La medalla or"
+	line "fa que tots els"
+	cont "#mon fins al"
+	cont "n70 t'obeeixin."
 
-	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
+	para "Però els #mon"
+	line "de més nivell no"
+	cont "et faran cas!"
 
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
+	para "Ves amb compte de"
+	line "no entrenar-los"
+	cont "massa."
 
-	para "Wait, please take"
-	line "this TM with you!"
+	para "Té, enduu-te"
+	line "aquesta MT."
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
-	text "<PLAYER> received"
-	line "TM46!@"
+	text "<PLAYER> rep"
+	line "MT46!@"
 	text_end
 
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
-	cont "psychic waves to"
-	cont "inflict damage!"
+	para "MT46 conté"
+	line "Psicoona, la qual"
+	cont "causa molt dany."
 	done
 
 _SaffronGymSabrinaTM46NoRoomText::
-	text "Your pack is full"
-	line "of other items!"
+	text "Primer buida una"
+	line "mica la bossa!"
 	done
 
 _SaffronGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Home!"
+	line "Futur mestre!"
 
-	para "SABRINA's #MON"
-	line "use psychic power"
-	cont "instead of force!"
+	para "Els #mon de la"
+	line "Natusme utilitzen"
+	cont "poder psíquic!"
 
-	para "Fighting #MON"
-	line "are weak against"
-	cont "psychic #MON!"
+	para "Els #mon"
+	line "lluitadors són"
+	cont "els més dèbils"
+	cont "a aquests atacs."
 
-	para "They get creamed"
-	line "before they can"
-	cont "even aim a punch!"
+	para "Els estabornirà"
+	line "de seguida!"
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "Psychic power,"
-	line "huh?"
+	text "Poder psíquic,"
+	line "eh..."
 
-	para "If I had that,"
-	line "I'd make a bundle"
-	cont "at the slots!"
+	para "Si en tingués, em"
+	line "folraria a les"
+	cont "escurabutxaques!"
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA is younger"
-	line "than I, but I"
-	cont "respect her!"
+	text "La Natsume és més"
+	line "jove que jo, però"
+	cont "la respecto."
 	done
 
 _SaffronGymChanneler1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "No"
+	line "soc prou bo?"
 	prompt
 
 _SaffronGymChanneler1AfterBattleText::
-	text "In a battle of"
-	line "equals, the one"
-	cont "with the stronger"
-	cont "will wins!"
+	text "En un combat a"
+	line "iguals, guanyarà"
+	cont "el que tingui més"
+	cont "determinació!"
 
-	para "If you wish"
-	line "to beat SABRINA,"
-	cont "focus on winning!"
+	para "Si vols guanyar"
+	line "la Natsume, centra't"
+	cont "en guanyar!"
 	done
 
 _SaffronGymYoungster1BattleText::
-	text "Does our unseen"
-	line "power scare you?"
+	text "Et fan por els"
+	line "poders mentals?"
 	done
 
 _SaffronGymYoungster1EndBattleText::
-	text "I never"
-	line "foresaw this!"
+	text "Sí que"
+	line "ets fort!"
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "Psychic #MON"
-	line "fear only ghosts"
-	cont "and bugs!"
+	text "Un #mon psíquic"
+	line "només té por dels"
+	cont "#mon fantasma"
+	cont "i dels insectes!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON take on"
-	line "the appearance of"
-	cont "their trainers."
+	text "Els #mon"
+	line "s'assemblen als"
+	cont "seus amos."
 
-	para "Your #MON must"
-	line "be tough, then!"
+	para "Serà dèbil el"
+	line "teu #mon?"
 	done
 
 _SaffronGymChanneler2EndBattleText::
-	text "I knew"
-	line "it!"
+	text "Ho"
+	line "sabia!"
 	prompt
 
 _SaffronGymChanneler2AfterBattleText::
-	text "I must teach"
-	line "better techniques"
-	cont "to my #MON!"
+	text "He d'ensenyar"
+	line "tècniques mentals"
+	cont "als meus #mon!"
 	done
 
 _SaffronGymYoungster2BattleText::
-	text "You know that"
-	line "power alone isn't"
-	cont "enough!"
+	text "Ja ho saps, oi?"
+	line "Només amb força"
+	cont "no vas enlloc!"
 	done
 
 _SaffronGymYoungster2EndBattleText::
-	text "I don't"
-	line "believe this!"
+	text "Ah!"
+	line "No m'ho crec!"
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "La Natsume ha"
+	line "estovat el mestre"
+	cont "karate del costat!"
 	done
 
 _SaffronGymChanneler3BattleText::
-	text "You and I, our"
-	line "#MON shall"
-	cont "fight!"
+	text "Lluitem amb els"
+	line "nostres #mon!"
 	done
 
 _SaffronGymChanneler3EndBattleText::
-	text "I lost"
-	line "after all!"
+	text "Ugh!"
+	line "M'has guanyat!"
 	prompt
 
 _SaffronGymChanneler3AfterBattleText::
-	text "I knew that this"
-	line "was going to take"
-	cont "place."
+	text "He previst que"
+	line "passaria tot això."
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "SABRINA is young,"
-	line "but she's also"
-	cont "our LEADER!"
+	text "La Natsume és jove"
+	line "però és la líder"
+	cont "d'aquest gimnàs!"
 
-	para "You won't reach"
-	line "her easily!"
+	para "No et serà fàcil"
+	line "arribar-hi!"
 	done
 
 _SaffronGymYoungster3EndBattleText::
-	text "I lost"
-	line "my concentration!"
+	text "Com"
+	line "puc haver perdut?"
 	prompt
 
 _SaffronGymYoungster3AfterBattleText::
-	text "There used to be"
-	line "2 #MON GYMs in"
-	cont "SAFFRON."
+	text "Fa anys, a Daurada"
+	line "hi havia dos"
+	cont "gimnasos #mon."
 
-	para "The FIGHTING DOJO"
-	line "next door lost"
-	cont "its GYM status"
-	cont "when we went and"
-	cont "creamed them!"
+	para "El dojo del costat"
+	line "va deixar de ser"
+	cont "gimnàs quan va"
+	cont "perdre contra"
+	cont "nosaltres."
 	done
 
 _SaffronGymYoungster4BattleText::
-	text "SAFFRON #MON"
-	line "GYM is famous for"
-	cont "its psychics!"
+	text "Aquest gimnàs és"
+	line "conegut pel nom"
+	cont "«gimnàs psíquic»!"
 
-	para "You want to see"
-	line "SABRINA!"
-	cont "I can tell!"
+	para "Vols veure"
+	line "la Natsume, oi?"
+	cont "Ho sé!"
 	done
 
 _SaffronGymYoungster4EndBattleText::
-	text "Arrrgh!"
+	text "Uaaa!"
 	prompt
 
 _SaffronGymYoungster4AfterBattleText::
-	text "That's right! I"
-	line "used telepathy to"
-	cont "read your mind!"
+	text "He fet servir"
+	line "la telepatia per"
+	cont "llegir-te la ment."
 	done

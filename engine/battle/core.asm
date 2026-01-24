@@ -2047,7 +2047,7 @@ DisplayBattleMenu::
 	ld a, $2 ; select the "ITEM" menu
 	jp .upperLeftMenuItemWasNotSelected
 .oldManName
-	db "Ancià@"
+	db "Avi@"
 .handleBattleMenuInput
 	ld a, [wBattleAndStartSavedMenuItem]
 	ld [wCurrentMenuItem], a
@@ -2069,8 +2069,8 @@ DisplayBattleMenu::
 	ld b, $9 ; top menu item X
 	jr .leftColumn_WaitForInput
 .safariLeftColumn
-	ldcoord_a 13, 14
-	ldcoord_a 13, 16
+	ldcoord_a 11, 14
+	ldcoord_a 11, 16
 	hlcoord 7, 14
 	ld de, wNumSafariBalls
 	lb bc, 1, 2
@@ -2108,7 +2108,7 @@ DisplayBattleMenu::
 	ld de, wNumSafariBalls
 	lb bc, 1, 2
 	call PrintNumber
-	ld b, $d ; top menu item X
+	ld b, $b ; top menu item X
 .rightColumn_WaitForInput
 	ld hl, wTopMenuItemY
 	ld a, $e
@@ -2644,7 +2644,7 @@ SelectMenuItem:
 	ld b, $0
 	add hl, bc
 	ld a, [hl]
-	and PP_MASK
+	and $3f
 	jr z, .noPP
 	ld a, [wPlayerDisabledMove]
 	swap a
@@ -2685,7 +2685,8 @@ MoveDisabledText:
 	text_end
 
 WhichTechniqueString:
-	db "WHICH TECHNIQUE?@"
+	db "Quin moviment"
+	next "vols imitar?@"
 
 SelectMenuItem_CursorUp:
 	ld a, [wCurrentMenuItem]
@@ -2724,7 +2725,7 @@ AnyMoveToSelect:
 	or [hl]
 	inc hl
 	or [hl]
-	and PP_MASK
+	and $3f
 	ret nz
 	jr .noMovesLeft
 .handleDisabledMove
@@ -2878,7 +2879,7 @@ PrintMenuItem:
 	ld hl, wBattleMonPP
 	add hl, bc
 	ld a, [hl]
-	and PP_MASK
+	and $3f
 	ld [wBattleMenuCurrentPP], a
 ; print TYPE/<type> and <curPP>/<maxPP>
 	hlcoord 1, 9
@@ -2886,7 +2887,7 @@ PrintMenuItem:
 	call PlaceString
 	hlcoord 7, 11
 	ld [hl], "/"
-	hlcoord 5, 9
+	hlcoord 6, 9
 	ld [hl], "/"
 	hlcoord 5, 11
 	ld de, wBattleMenuCurrentPP
@@ -2905,10 +2906,10 @@ PrintMenuItem:
 	jp Delay3
 
 DisabledText:
-	db "disabled!@"
+	db "Blocat!@"
 
 TypeText:
-	db "TYPE@"
+	db "Tipus@"
 
 SelectEnemyMove:
 	ld a, [wLinkState]
@@ -4071,18 +4072,18 @@ CheckForDisobedience:
 	ld hl, wBattleMonPP
 	push hl
 	ld a, [hli]
-	and PP_MASK
+	and $3f
 	ld b, a
 	ld a, [hli]
-	and PP_MASK
+	and $3f
 	add b
 	ld b, a
 	ld a, [hli]
-	and PP_MASK
+	and $3f
 	add b
 	ld b, a
 	ld a, [hl]
-	and PP_MASK
+	and $3f
 	add b
 	pop hl
 	push af
@@ -4091,7 +4092,7 @@ CheckForDisobedience:
 	ld b, $0
 	add hl, bc
 	ld a, [hl]
-	and PP_MASK
+	and $3f
 	ld b, a
 	pop af
 	cp b
@@ -6837,15 +6838,21 @@ InitWildBattle:
 	ld [hli], a   ; write front sprite pointer
 	ld [hl], b
 	ld hl, wEnemyMonNick  ; set name to "GHOST"
-	ld a, "G"
+	ld a, "F"
 	ld [hli], a
-	ld a, "H"
+	ld a, "a"
 	ld [hli], a
-	ld a, "O"
+	ld a, "n"
 	ld [hli], a
-	ld a, "S"
+	ld a, "t"
 	ld [hli], a
-	ld a, "T"
+	ld a, "a"
+	ld [hli], a
+	ld a, "s"
+	ld [hli], a
+	ld a, "m"
+	ld [hli], a
+	ld a, "a"
 	ld [hli], a
 	ld [hl], "@"
 	ld a, [wCurPartySpecies]

@@ -14,7 +14,7 @@ _RocketHideoutB1FRocket1EndBattleText::
 
 _RocketHideoutB1FRocket1AfterBattleText::
 	text "Vas en contra"
-	line "del Team Rocket?"
+	line "dels Rocket?"
 	done
 
 _RocketHideoutB1FRocket2BattleText::

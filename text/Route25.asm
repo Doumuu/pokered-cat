@@ -20,7 +20,7 @@ _Route25Youngster2BattleText::
 	text "Vaig anar amb el"
 	line "meu pare a bord"
 	cont "del St.Anne fins"
-	cont "a Ciutat Ocre!"
+	cont "a Ocre!"
 	done
 
 _Route25Youngster2EndBattleText::
@@ -50,8 +50,8 @@ _Route25CooltrainerMAfterBattleText::
 	done
 
 _Route25CooltrainerF1BattleText::
-	text "El meu"
-	line "xicot és guai!"
+	text "El meu xicot"
+	line "és el millor!"
 	done
 
 _Route25CooltrainerF1EndBattleText::
@@ -60,8 +60,8 @@ _Route25CooltrainerF1EndBattleText::
 	prompt
 
 _Route25CooltrainerF1AfterBattleText::
-	text "El meu"
-	line "nen no és tan bo!"
+	text "El meu xicot no"
+	line "és tan bo com tu!"
 	done
 
 _Route25Youngster3BattleText::
@@ -76,7 +76,7 @@ _Route25Youngster3EndBattleText::
 
 _Route25Youngster3AfterBattleText::
 	text "Si el teu #mon"
-	line "està confús o"
+	line "està confós o"
 	cont "adormit, canvia'l!"
 	done
 
@@ -115,8 +115,8 @@ _Route25Hiker1AfterBattleText::
 	done
 
 _Route25Hiker2BattleText::
-	text "Vaig cap el cap"
-	line "a veure un expert"
+	text "Vaig a El Cap a"
+	line "veure un expert"
 	cont "en #mon!"
 	done
 
@@ -128,7 +128,7 @@ _Route25Hiker2EndBattleText::
 _Route25Hiker2AfterBattleText::
 	text "L'expert que"
 	line "conec té un munt"
-	cont "#mon rars."
+	cont "de #mon rars!"
 	done
 
 _Route25Hiker3BattleText::
@@ -144,8 +144,8 @@ _Route25Hiker3EndBattleText::
 
 _Route25Hiker3AfterBattleText::
 	text "El camí de sota"
-	line "és una drecera a"
-	cont "Ciutat Blaucel."
+	line "és una drecera"
+	cont "cap a Blaucel."
 	done
 
 _Route25BillSignText::

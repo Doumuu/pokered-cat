@@ -1,6 +1,6 @@
 _GameCornerPrizeRoomBaldingGuyText::
 	text "M'encantaria tenir"
-	line "un Porygon!"
+	line "un Porígon!"
 
 	para "Però és difícil"
 	line "de guanyar!"

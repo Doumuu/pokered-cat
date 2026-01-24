@@ -5,9 +5,9 @@ _ViridianSchoolHouseBrunetteGirlText::
 	done
 
 _ViridianSchoolHouseCooltrainerFText::
-	text "Bé, doncs..."
+	text "Vols aprendre?"
 
-	para "llegeix amb cura"
-	line "el contingut"
-	cont "de la pissarra."
+	para "Llegeix amb cura"
+	line "el que hi ha a"
+	cont "la pissarra."
 	done

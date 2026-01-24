@@ -24,9 +24,9 @@ _BluesHouseDaisyBagFullText::
 	done
 
 _BluesHouseDaisyUseMapText::
-	text "Mira on et trobes"
-	line "fent servir"
-	cont "el mapa."
+	text "Mira el mapa"
+	line "per saber on"
+	cont "et trobes."
 	done
 
 _BluesHouseDaisyWalkingText::
@@ -37,6 +37,6 @@ _BluesHouseDaisyWalkingText::
 	done
 
 _BluesHouseTownMapText::
-	text "És un mapa gros."
+	text "Un mapa de Kanto."
 	line "Sembla útil!"
 	done

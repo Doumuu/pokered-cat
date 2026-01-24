@@ -1,21 +1,20 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "Ei, nano!"
+	line "Què fas per aquí?"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "Diria que no"
+	line "arribaràs"
+	cont "gaire lluny."
 
-	para "I tell you kid,"
-	line "electric #MON"
-	cont "saved me during"
-	cont "the war!"
+	para "Els #mon "
+	line "elèctrics em van"
+	cont "salvar la vida"
+	cont "a la guerra!"
 
-	para "They zapped my"
-	line "enemies into"
-	cont "paralysis!"
+	para "Deixaven els"
+	line "meus enemics"
+	cont "immòbils!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "Crec que tu"
+	line "acabaràs igual."
 	done

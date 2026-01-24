@@ -1,78 +1,74 @@
 _CinnabarLabFossilRoomScientist1Text::
-	text "Hiya!"
+	text "Hola!"
 
-	para "I am important"
-	line "doctor!"
+	para "Soc un doctor"
+	line "important!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "Estudio #mon"
+	line "fòssils aquí!"
 
-	para "You! Have you a"
-	line "fossil for me?"
+	para "Tens un fòssil"
+	line "per a mi o què?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "No! Is too bad!"
+	text "No? Quina pena!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "I take a little"
-	line "time!"
+	text "Trigarà una mica."
 
-	para "You go for walk a"
-	line "little while!"
+	para "Tu ves a fer"
+	line "un tomb!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
-	text "Where were you?"
+	text "On eres?"
 
-	para "Your fossil is"
-	line "back to life!"
+	para "El teu fòssil"
+	line "ha ressuscitat!"
 
-	para "It was @"
+	para "Era un @"
 	text_ram wStringBuffer
 	text_start
-	line "like I think!"
+	line "com creia!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1SeesFossilText::
-	text "Oh! That is"
+	text "Oh! És un"
 	line "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "It is fossil of"
+	para "És un fòssil de"
 	line "@"
 	text_ram wStringBuffer
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	text ", un"
+	cont "#mon extint!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	para "La meva màquina"
+	line "ressuscitadora"
+	cont "farà que torni"
+	cont "a la vida!"
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "So! You hurry and"
-	line "give me that!"
+	text "Vinga, afanya't"
+	line "i dona-me'l!"
 
-	para "<PLAYER> handed"
-	line "over @"
+	para "<PLAYER> entrega"
+	line "@"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "I take a little"
-	line "time!"
+	text "Trigarà una mica."
 
-	para "You go for walk a"
-	line "little while!"
+	para "Tu ves a fer"
+	line "un tomb!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
-	text "Aiyah! You come"
-	line "again!"
+	text "Hola! Has tornat!"
 	done

@@ -1,26 +1,26 @@
 _FuchsiaMeetingRoomSafariZoneWorker1::
-	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	text "Al vigilant li"
+	line "diem Salamandró."
 
-	para "He and SLOWPOKE"
-	line "both look vacant!"
+	para "És igual que"
+	line "el #mon!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker2::
-	text "SLOWPOKE is very"
-	line "knowledgeable"
-	cont "about #MON!"
+	text "En Salamandró sap"
+	line "molt sobre els"
+	cont "#mon!"
 
-	para "He even has some"
-	line "fossils of rare,"
-	cont "extinct #MON!"
+	para "Fins i tot té"
+	line "fòssils rars de"
+	cont "#mon extingits."
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "SLOWPOKE came in,"
-	line "but I couldn't"
-	cont "understand him."
+	text "Mai entenc en"
+	line "Salamandró quan"
+	cont "parla!"
 
-	para "I think he's got"
-	line "a speech problem!"
+	para "No sé què té"
+	line "a la boca."
 	done

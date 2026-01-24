@@ -826,8 +826,8 @@ ItemUseMedicine:
 	ld [wActionResultOrTookBattleTurn], a ; item use failed
 	jp PrintText
 .emptyPartyText
-	text "You don't have"
-	line "any #MON!"
+	text "No tens cap"
+	line "#mon!"
 	prompt
 .notUsingSoftboiled
 	call DisplayPartyMenu
@@ -1308,7 +1308,7 @@ ItemUseMedicine:
 	jr .statNameLoop
 .gotStatName
 	ld de, wStringBuffer
-	ld bc, 10
+	ld bc, 13
 	call CopyData ; copy the stat's name to wStringBuffer
 	ld a, SFX_HEAL_AILMENT
 	call PlaySound

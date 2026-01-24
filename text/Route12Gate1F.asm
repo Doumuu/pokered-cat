@@ -1,4 +1,4 @@
 _Route12Gate1FGuardText::
-	text "There's a lookout"
-	line "spot upstairs."
+	text "Hi ha un mirador"
+	line "al pis de dalt."
 	done

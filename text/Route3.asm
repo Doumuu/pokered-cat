@@ -10,12 +10,12 @@ _Route3Text1::
 
 _Route3Youngster1BattleText::
 	text "Ei! Ens hem vist"
-	line "al Bosc Maragda!"
+	line "abans al bosc!"
 	done
 
 _Route3Youngster1EndBattleText::
-	text "M'has"
-	line "tornat a guanyar!"
+	text "He"
+	line "tornat a perdre!"
 	prompt
 
 _Route3Youngster1AfterBattleText::
@@ -65,7 +65,7 @@ _Route3Youngster3BattleText::
 
 _Route3Youngster3EndBattleText::
 	text "Amb"
-	line "#mon més nous"
+	line "#mon més forts"
 	cont "t'hauria guanyat!"
 	prompt
 
@@ -86,7 +86,7 @@ _Route3CooltrainerF2EndBattleText::
 	prompt
 
 _Route3CooltrainerF2AfterBattleText::
-	text "Si no et veuen"
+	text "Si no et veuen,"
 	line "et pots escapolir"
 	cont "de les batalles!"
 	done
@@ -140,5 +140,5 @@ _Route3CooltrainerF3AfterBattleText::
 
 _Route3SignText::
 	text "Ruta 3"
-	line "Direcció Mt.Lluna"
+	line "Cap a Mt.Lluna"
 	done

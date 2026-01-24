@@ -1,7 +1,8 @@
 _CeruleanMartCooltrainerMText::
-	text "El repel·lent"
-	line "allunya cuques i"
-	cont "#mon dèbils."
+	text "Amb el repel·lent"
+	line "no se t'acostaran"
+	cont "ni insectes ni"
+	cont "#mon salvatges."
 
 	para "És més efectiu si"
 	line "poses els #mon"

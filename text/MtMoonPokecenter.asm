@@ -2,17 +2,17 @@ _MtMoonPokecenterYoungsterText::
 	text "Porto 6 #balls"
 	line "al cinturó."
 
-	para "Com a molt, pots"
-	line "portar 6 #mon."
+	para "És el màxim que"
+	line "pots portar-ne."
 	done
 
 _MtMoonPokecenterGentlemanText::
-	text "El Team Rocket"
-	line "ataca ciutadans"
-	cont "de Blaucel..."
+	text "«Atac dels Rocket"
+	line "a ciutadans de"
+	cont "Blaucel...»"
 
-	para "El Team Rocket"
-	line "sempre surt a"
+	para "Els Rocket"
+	line "sempre surten a"
 	cont "les notícies!"
 	done
 
@@ -22,7 +22,7 @@ _MtMoonPokecenterMagikarpSalesmanIGotADealText::
 	cont "només per a tu!"
 
 	para "Et deixo aquest"
-	line "formós Magikarp"
+	line "formós Magicarp"
 	cont "només per 500¥!"
 	cont "Què me'n dius?"
 	done

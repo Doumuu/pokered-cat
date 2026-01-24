@@ -6,7 +6,7 @@ _Museum1FScientist1WouldYouLikeToComeInText::
 	text "L'entrada per a"
 	line "nens val 50¥."
 
-	para "Vols comprar-la?"
+	para "En vols una?"
 	done
 
 _Museum1FScientist1ThankYouText::

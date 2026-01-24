@@ -66,15 +66,15 @@ _Route8SuperNerd3BattleText::
 	done
 
 _Route8SuperNerd3EndBattleText::
-	text "Seguiré"
-	line "estudiant..."
+	text "Crec"
+	line "que estudiaré..."
 	prompt
 
 _Route8SuperNerd3AfterBattleText::
 	text "Vull sortir d'aquí"
 	line "però el peatge de"
-	cont "Ciutat Daurada"
-	cont "ens té engabiats!"
+	cont "Daurada ens té"
+	cont "engabiats!"
 	done
 
 _Route8CooltrainerF2BattleText::

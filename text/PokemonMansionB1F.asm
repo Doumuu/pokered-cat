@@ -1,39 +1,38 @@
 _PokemonMansionB1FBurglarBattleText::
-	text "Uh-oh. Where am"
-	line "I now?"
+	text "Ups!"
+	line "On soc ara?"
 	done
 
 _PokemonMansionB1FBurglarEndBattleText::
-	text "Awooh!"
+	text "Auuuu!"
 	prompt
 
 _PokemonMansionB1FBurglarAfterBattleText::
-	text "You can find stuff"
-	line "lying around."
+	text "Hi ha un fotimer"
+	line "de coses aquí."
 	done
 
 _PokemonMansionB1FScientistBattleText::
-	text "This place is"
-	line "ideal for a lab."
+	text "És un bon lloc per"
+	line "a un laboratori!"
 	done
 
 _PokemonMansionB1FScientistEndBattleText::
-	text "What"
-	line "was that for?"
+	text "Que"
+	line "t'he fet res?"
 	prompt
 
 _PokemonMansionB1FScientistAfterBattleText::
-	text "I like it here!"
-	line "It's conducive to"
-	cont "my studies!"
+	text "Si visqués aquí"
+	line "faria molt més"
+	cont "bona feina!"
 	done
 
 _PokemonMansionB1FDiaryText::
-	text "Diary; Sept. 1"
-	line "MEWTWO is far too"
-	cont "powerful."
+	text "Diari: 1 setembre"
+	line "Mewtwo és massa"
+	cont "poderós."
 
-	para "We have failed to"
-	line "curb its vicious"
-	cont "tendencies..."
+	para "Soc incapaç de"
+	line "fer-hi res..."
 	done

@@ -1,42 +1,40 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Waaaaa!"
-	cont "I'm scared!"
+	text "Tinc por!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "No diguis a ningú"
+	line "que estic plorant!"
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Benvingut a la"
+	line "P9! Has arribat"
+	cont "lluny, eh?"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text "No"
+	line "pot ser!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "Has arribat lluny,"
+	line "però el despatx"
+	cont "del cap és a dalt!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Enough of your"
-	line "silly games!"
+	text "Va, deixa't ja"
+	line "d'històries!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "No"
-	line "continues left!"
+	text "He"
+	line "après la lliçó!"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "No n'has tingut"
+	line "prou guanyant-me?"
 	done

@@ -24,5 +24,5 @@ _CeladonMart5FSailorText::
 	done
 
 _CeladonMart5FCurrentFloorSignText::
-	text "P6: Farmàcia"
+	text "P4: Farmàcia"
 	done

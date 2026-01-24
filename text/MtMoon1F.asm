@@ -85,20 +85,20 @@ _MtMoon1FYoungster2BattleText::
 	done
 
 _MtMoon1FYoungster2EndBattleText::
-	text "M'has"
-	line "vençut!"
+	text ""
+	line "M'has vençut!"
 	prompt
 
 _MtMoon1FYoungster2AfterBattleText::
 	text "Els he vist!"
 	line "Segur que eren"
-	cont "del Team Rocket!"
+	cont "els Rocket!"
 	done
 
 _MtMoon1FYoungster3BattleText::
 	text "Al final de la"
-	line "cova hi ha la"
-	cont "Ciutat Blaucel!"
+	line "cova arribaràs"
+	cont "a Blaucel!"
 	done
 
 _MtMoon1FYoungster3EndBattleText::

@@ -123,7 +123,7 @@ _Route9Hiker3BattleText::
 
 _Route9Hiker3EndBattleText::
 	text "Hoho!"
-	line "Em callo!"
+	line "No he dit res!"
 	prompt
 
 _Route9Hiker3AfterBattleText::
@@ -150,6 +150,6 @@ _Route9Youngster2AfterBattleText::
 
 _Route9SignText::
 	text "Ruta 9"
-	line "Ciutat Blaucel -"
+	line "Blaucel -"
 	cont "Túnel Roca"
 	done

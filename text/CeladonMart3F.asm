@@ -86,7 +86,7 @@ _CeladonMart3FFightingGameText::
 	done
 
 _CeladonMart3FCurrentFloorSignText::
-	text "P3: Videjocs"
+	text "P2: Videjocs"
 	done
 
 _CeladonMart3FPokemonPosterText::

@@ -1,30 +1,30 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "Un consell, nano!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "L'electricitat és"
+	line "molt poderosa."
 
-	para "But, it's useless"
-	line "against ground-"
-	cont "type #MON!"
+	para "Però és inútil"
+	line "contra #mon de"
+	cont "tipus terra!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
-	text "The THUNDERBADGE"
-	line "cranks up your"
-	cont "#MON's SPEED!"
+	text "La Medalla ocre"
+	line "augmenta la"
+	cont "velocitat dels"
+	cont "teus #mon!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para "També et deixa"
+	line "fer servir Vol en"
+	cont "qualsevol moment!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "Ets especial,"
+	line "nano! Té això."
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
-	text "<PLAYER> received "
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -33,113 +33,108 @@ _VermilionGymLTSurgeReceivedTM24Text::
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 contains"
-	line "THUNDERBOLT!"
+	para "MT24 conté"
+	line "Electroxoc!"
 
-	para "Teach it to an"
-	line "electric #MON!"
+	para "Ensenya-li a un"
+	line "#mon elèctric."
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "No tens lloc a"
+	line "la bossa, nano."
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
-	text "Whoa!"
+	text "Carai!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "Ets més fort del"
+	line "que em pensava!"
 
-	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	para "Doncs la Medalla"
+	line "ocre és teva!"
 	prompt
 
 _VermilionGymGentlemanBattleText::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "A l'exèrcit, el"
+	line "Tt.Slate va ser"
+	cont "el meu comandant."
 	done
 
 _VermilionGymGentlemanEndBattleText::
-	text "Stop!"
-	line "You're very good!"
+	text "Quina"
+	line "sorpresa."
 	prompt
 
 _VermilionGymGentlemanAfterBattleText::
-	text "The door won't"
-	line "open?"
+	text "Dius que no pots"
+	line "entrar-hi?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "El tinent és"
+	line "molt minuciós!"
 	done
 
 _VermilionGymSuperNerdBattleText::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "No soc gaire fort,"
+	line "però soc bo amb"
+	cont "l'electricitat!"
 	done
 
 _VermilionGymSuperNerdEndBattleText::
-	text "Fried!"
+	text "Fregit!"
 	prompt
 
 _VermilionGymSuperNerdAfterBattleText::
-	text "OK, I'll talk!"
+	text "Ok, t'ho diré!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "El tinent ha posat"
+	line "interruptors a"
+	cont "algun lloc!"
 	done
 
 _VermilionGymSailorBattleText::
-	text "This is no place"
-	line "for kids!"
+	text "Aquest lloc no"
+	line "és per a nens!"
 	done
 
 _VermilionGymSailorEndBattleText::
-	text "Wow!"
-	line "Surprised me!"
+	text "Renoi!"
 	prompt
 
 _VermilionGymSailorAfterBattleText::
-	text "LT.SURGE set up"
-	line "double locks!"
-	cont "Here's a hint!"
+	text "El tinent ha posat"
+	line "panys dobles!"
+	cont "Aquest és el truc:"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "Quan obris el 1r"
+	line "pany, el 2n està"
+	cont "just al costat!"
 	done
 
 _VermilionGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Ei! Futur mestre!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
-	cont "American!"
+	para "Al Tt.Slate li"
+	line "diuen el llamp"
+	cont "americà!"
 
-	para "He's an expert on"
-	line "electric #MON!"
+	para "És un mestre dels"
+	line "#mon elèctrics!"
 
-	para "Birds and water"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "Els #mon ocell"
+	line "i d'aigua patiran!"
+	cont "I compte amb la"
+	cont "paràlisi!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "El Tt.Slate és"
+	line "molt minuciós!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "Té tot un sistema"
+	line "de codis per"
+	cont "arribar a ell."
 	done
 
 _VermilionGymGymGuideBeatLTSurgeText::
-	text "Whew! That match"
-	line "was electric!"
+	text "Uf! Quins nervis"
+	line "he passat!"
 	done

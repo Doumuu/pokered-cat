@@ -85,11 +85,11 @@ DisplayPCMainMenu::
 	ret
 
 SomeonesPCText:   db "PC d'Algú@"
-BillsPCText:      db "PC d'Èric@"
+BillsPCText:      db "PC de l'Èric@"
 PlayersPCText:    db "El meu PC@"
 OaksPCText:       db "PC de Roure@"
 PKMNLeaguePCText: db "Lliga <PKMN>@"
-LogOffPCText:     db "Desconnexió@"
+LogOffPCText:     db "Desconnecta@"
 
 BillsPC_::
 	ld hl, wStatusFlags5
@@ -341,8 +341,8 @@ BillsPCMenuText:
 	db   "Retira <PKMN>"
 	next "Diposita <PKMN>"
 	next "Allibera <PKMN>"
-	next "Canvi bloc"
-	next "Enrere"
+	next "Canvia bloc"
+	next "Desconnecta"
 	db "@"
 
 BoxNoPCText:

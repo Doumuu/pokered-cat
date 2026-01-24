@@ -1,45 +1,44 @@
 _SafariZoneSecretHouseFishingGuruYouHaveWonText::
-	text "Ah! Finally!"
+	text "Home! Per fi!"
 
-	para "You're the first"
-	line "person to reach"
-	cont "the SECRET HOUSE!"
+	para "Ets el primer a"
+	line "trobar la Cabana"
+	cont "secreta!"
 
-	para "I was getting"
-	line "worried that no"
-	cont "one would win our"
-	cont "campaign prize."
+	para "Ja patia que ningú"
+	line "guanyés el premi"
+	cont "del concurs!"
 
-	para "Congratulations!"
-	line "You have won!"
+	para "Enhorabona!"
+	line "Has guanyat!"
 	prompt
 
 _SafariZoneSecretHouseFishingGuruReceivedHM03Text::
-	text "<PLAYER> received"
+	text "<PLAYER> rep"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SafariZoneSecretHouseFishingGuruHM03ExplanationText::
-	text "HM03 is SURF!"
+	text "MO03 és Surf."
 
-	para "#MON will be"
-	line "able to ferry you"
-	cont "across water!"
+	para "Els teus #mon"
+	line "podran portar-te"
+	cont "sobre l'aigua!"
 
-	para "And, this HM isn't"
-	line "disposable! You"
-	cont "can use it over"
-	cont "and over!"
+	para "I aquesta MO"
+	line "no es gasta! La"
+	cont "pots fer servir"
+	cont "tant com vulguis!"
 
-	para "You're super lucky"
-	line "for winning this"
-	cont "fabulous prize!"
+	para "Tens molta sort"
+	line "d'endur-te aquest"
+	cont "premi tan bo!"
 	done
 
 _SafariZoneSecretHouseFishingGuruHM03NoRoomText::
-	text "You don't have"
-	line "room for this"
-	cont "fabulous prize!"
+	text "No tens lloc a"
+	line "la bossa pel"
+	cont "premi, nano!"
 	done

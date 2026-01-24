@@ -1,93 +1,91 @@
 _Route16Biker1BattleText::
-	text "What do you want?"
+	text "Què vols?"
 	done
 
 _Route16Biker1EndBattleText::
-	text "Don't you"
-	line "dare laugh!"
+	text "No"
+	line "riguis, marrec!"
 	prompt
 
 _Route16Biker1AfterBattleText::
-	text "We like just"
-	line "hanging here,"
-	cont "what's it to you?"
+	text "Preferim quedar-"
+	line "nos aquí xerrant"
+	cont "que anar rondant."
 	done
 
 _Route16Biker2BattleText::
-	text "Nice BIKE!"
-	line "Hand it over!"
+	text "Quina bici, tu!"
+	line "Dona-me-la!"
 	done
 
 _Route16Biker2EndBattleText::
-	text "Knock"
-	line "out!"
+	text "KO!"
 	prompt
 
 _Route16Biker2AfterBattleText::
-	text "Forget it, who"
-	line "needs your BIKE!"
+	text "Bah, queda't"
+	line "la bici, va!"
 	done
 
 _Route16Biker3BattleText::
-	text "Come out and play,"
-	line "little mouse!"
+	text "Vols un cop"
+	line "de mà?"
 	done
 
 _Route16Biker3EndBattleText::
-	text "You"
-	line "little rat!"
+	text "Quin"
+	line "cop, tu!"
 	prompt
 
 _Route16Biker3AfterBattleText::
-	text "I hate losing!"
-	line "Get away from me!"
+	text "Odio perdre, però"
+	line "ben jugat, noi!"
 	done
 
 _Route16biker4BattleText::
-	text "Hey, you just"
-	line "bumped me!"
+	text "Vas xocant-te amb"
+	line "la gent, o què?"
 	done
 
 _Route16Biker4EndBattleText::
-	text "Kaboom!"
+	text "Plof!"
 	prompt
 
 _Route16Biker4AfterBattleText::
-	text "You can also get"
-	line "to FUCHSIA from"
-	cont "VERMILION using a"
-	cont "coastal road."
+	text "Pots anar des de"
+	line "Rosó fins a Ocre"
+	cont "per la costa."
 	done
 
 _Route16Biker5BattleText::
-	text "I'm feeling"
-	line "hungry and mean!"
+	text "Estic de"
+	line "mala lluna!"
 	done
 
 _Route16Biker5EndBattleText::
-	text "Bad,"
-	line "bad, bad!"
+	text "Quines"
+	line "penques!"
 	prompt
 
 _Route16Biker5AfterBattleText::
-	text "I like my #MON"
-	line "ferocious! They"
-	cont "tear up enemies!"
+	text "A les batalles,"
+	line "vull destrossar"
+	cont "els oponents!"
 	done
 
 _Route16Biker6BattleText::
-	text "Sure, I'll go!"
+	text "Vinga, juguem!"
 	done
 
 _Route16Biker6EndBattleText::
-	text "Don't make"
-	line "me mad!"
+	text "No"
+	line "m'emprenyis!"
 	prompt
 
 _Route16Biker6AfterBattleText::
-	text "I like harassing"
-	line "people with my"
-	cont "vicious #MON!"
+	text "M'encanta prendre"
+	line "el pèl amb els"
+	cont "meus #mon!"
 	done
 
 _Route16Text7::
@@ -99,23 +97,22 @@ _Route16SnorlaxWokeUpText::
 	text "Dropo s'ha"
 	line "despertat!"
 
-	para "Està irritat"
+	para "Està emprenyat"
 	line "i ataca!"
 	done
 
 _Route16SnorlaxReturnedToMountainsText::
 	text "Dropo se'n torna"
 	line "a la muntanya"
-	cont "mentre badalla!"
+	cont "entre badalls!"
 	done
 
 _Route16CyclingRoadSignText::
-	text "Carril Bici:"
+	text "Carril bici:"
 	line "Fa baixada!"
 	done
 
 _Route16SignText::
 	text "Ruta 16"
-	line "Ciutat Iridescent"
-	cont "- Ciutat Rosa"
+	line "Iridescent - Rosó"
 	done

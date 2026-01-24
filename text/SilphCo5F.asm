@@ -1,51 +1,51 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
-	line "in an uproar over"
-	cont "some intruder."
-	cont "That's you right?"
+	text "S'ha muntat un"
+	line "guirigall als"
+	cont "Rocket per culpa"
+	cont "d'un desconegut!"
+
+	para "Ets tu, oi?"
 	done
 
 _SilphCo5FSilphWorkerMYoureOurHeroText::
-	text "TEAM ROCKET took"
-	line "off! You're our"
-	cont "hero! Thank you!"
+	text "Els Rocket han"
+	line "marxat! Ens has"
+	cont "salvat! Gràcies!"
 	done
 
 _SilphCo5FRocket1BattleText::
-	text "I heard a kid was"
-	line "wandering around."
+	text "Diuen que un nen"
+	line "volta per aquí."
 	done
 
 _SilphCo5FRocket1EndBattleText::
-	text "Boom!"
+	text "Bum!"
 	prompt
 
 _SilphCo5FRocket1AfterBattleText::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	text "Lluitar contra"
+	line "els Rocket no és"
+	cont "gaire assenyat."
 	done
 
 _SilphCo5FScientistBattleText::
-	text "We study #"
-	line "BALL technology"
-	cont "on this floor!"
+	text "Aquí fem R+D de"
+	line "tecnologia"
+	cont "#ball."
 	done
 
 _SilphCo5FScientistEndBattleText::
-	text "Dang!"
-	line "Blast it!"
+	text "Càsum!"
 	prompt
 
 _SilphCo5FScientistAfterBattleText::
-	text "We worked on the"
-	line "ultimate #"
-	cont "BALL which would"
-	cont "catch anything!"
+	text "Hem desenvolupat"
+	line "una #ball per"
+	cont "atrapar #mon"
+	cont "llegendaris i tot!"
 	done
 
 _SilphCo5FRockerBattleText::
-	text "Whaaat? There"
-	line "shouldn't be any"
-	cont "children here?"
+	text "Com pot ser que"
+	line "entrin nens aquí?"
 	done

@@ -1,10 +1,10 @@
 _PewterSpeechHouseGamblerText::
 	text "Un #mon aprèn"
-	line "moviments nous"
-	cont "quan creix..."
+	line "moviments nous a"
+	cont "mesura que creix."
 
-	para "però tu també"
-	line "li pots ensenyar"
+	para "Però tu també"
+	line "pots ensenyar-li"
 	cont "tècniques noves!"
 	done
 

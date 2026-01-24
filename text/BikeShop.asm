@@ -39,7 +39,7 @@ _BikeShopClerkHowDoYouLikeYourBicycleText::
 	line "nova bici?"
 
 	para "Pots portar-la"
-	line "pels carrils bici"
+	line "pel carril bici"
 	cont "i per les coves!"
 	done
 
@@ -65,6 +65,6 @@ _BikeShopYoungsterTheseBikesAreExpensiveText::
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Ei! La teva bici"
-	line "és xulíssima!"
+	text "Ostres! Quina"
+	line "enveja de bici!"
 	done

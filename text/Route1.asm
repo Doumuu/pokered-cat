@@ -4,8 +4,8 @@ _Route1Youngster1MartSampleText::
 
 	para "És una cadena"
 	line "de botigues."
-	cont "Vine a veure'ns a"
-	cont "ciutat Maragda!"
+	cont "Vine a veure'ns"
+	cont "a Verdins!"
 
 	para "Saps què? Te'n"
 	line "dono una mostra."
@@ -40,11 +40,11 @@ _Route1Youngster2Text::
 
 	para "Així s'arriba"
 	line "molt més ràpid"
-	cont "a Ciutat Maragda."
+	cont "a Vilablanca."
 	done
 
 _Route1SignText::
-	text "RUTA 1"
+	text "Ruta 1"
 	line "Vilablanca -"
-	cont "Ciutat Maragda"
+	cont "Verdins"
 	done

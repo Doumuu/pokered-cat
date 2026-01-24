@@ -2,14 +2,14 @@ _ViridianForestYoungster1Text::
 	text "He vingut al bosc"
 	line "amb alguns amics."
 
-	para "Busquen fer"
-	line "batalles #mon."
+	para "Tenen ganes de fer"
+	line "batalles #mon!"
 	done
 
 _ViridianForestYoungster2BattleText::
 	text "Ei! Tens"
-	line "#mon! Vinga,"
-	cont "fem una batalla!"
+	line "#mon? Vinga,"
+	cont "lluitem!"
 	done
 
 _ViridianForestYoungster2EndBattleText::
@@ -24,18 +24,19 @@ _ViridianForestYoungster2AfterBattleText::
 	done
 
 _ViridianForestYoungster3BattleText::
-	text "Ei, marrec! Què"
-	line "fas per aquí?"
+	text "Els entrenadors"
+	line "mai es neguen a"
+	cont "combatre!"
 	done
 
 _ViridianForestYoungster3EndBattleText::
-	text "Carai!"
+	text "Ai!"
 	line "Ja no em queden"
 	cont "#mon!"
 	prompt
 
 _ViridianForestYoungster3AfterBattleText::
-	text "Grr! Hauré de"
+	text "Carai! Hauré de"
 	line "caçar #mon"
 	cont "més forts!"
 	done
@@ -48,22 +49,22 @@ _ViridianForestYoungster4BattleText::
 _ViridianForestYoungster4EndBattleText::
 	text "Ja"
 	line "veig que això"
-	cont "se't dona bé."
+	cont "se't dona bé!"
 	prompt
 
 _ViridianForestYoungster4AfterBattleText::
-	text "De vegades pots"
-	line "trobar coses"
-	cont "a terra."
+	text "Pots trobar coses"
+	line "a terra encara"
+	cont "que no es vegin."
 
-	para "Jo estic buscant"
-	line "el que he perdut."
+	para "Juraria que he"
+	line "perdut una cosa."
 	done
 
 _ViridianForestYoungster5Text::
 	text "M'he quedat sense"
-	line "#balls per"
-	cont "caçar #mon!"
+	line "#balls quan"
+	cont "caçava #mon."
 
 	para "És important"
 	line "dur-ne de més!"
@@ -117,6 +118,6 @@ _ViridianForestTrainerTips4Text::
 
 _ViridianForestLeavingSignText::
 	text "Sortida de"
-	line "Bosc Maragda a"
-	cont "Ciutat Argent"
+	line "bosc de Verdins"
+	cont "a Llicorella"
 	done

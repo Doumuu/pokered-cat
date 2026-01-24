@@ -1,19 +1,19 @@
 _SafariZoneWestRestHouseScientistText::
-	text "Tossing ROCKs at"
-	line "#MON might"
-	cont "make them run,"
-	cont "but they'll be"
-	cont "easier to catch."
+	text "Tirar pedres als"
+	line "#mon els pot"
+	cont "fer fugir, però"
+	cont "també els fa més"
+	cont "fàcils d'atrapar."
 	done
 
 _SafariZoneWestRestHouseCooltrainerMText::
-	text "Using BAIT will"
-	line "make #MON"
-	cont "easier to catch."
+	text "L'esquer fa més"
+	line "fàcil atrapar"
+	cont "els #mon."
 	done
 
 _SafariZoneWestRestHouseSilphWorkerFText::
-	text "I hiked a lot, but"
-	line "I didn't see any"
-	cont "#MON I wanted."
+	text "No he vist cap"
+	line "#mon que"
+	cont "m'interessés..."
 	done

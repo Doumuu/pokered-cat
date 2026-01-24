@@ -12,7 +12,7 @@ _CeruleanPokecenterGentlemanText::
 	line "parlar de l'Èric?"
 
 	para "Tothom el coneix"
-	line "per Pokemaniac!"
+	line "per Pokefriqui!"
 
 	para "Però crec que la"
 	line "gent només li té"

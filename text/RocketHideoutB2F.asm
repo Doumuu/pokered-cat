@@ -10,7 +10,7 @@ _RocketHideoutB2FRocketEndBattleText::
 	prompt
 
 _RocketHideoutB2FRocketAfterBattleText::
-	text "La seu del Team"
+	text "La seu dels"
 	line "Rocket té 4 pisos"
 	cont "soterranis."
 	cont "Arribaràs al cap?"

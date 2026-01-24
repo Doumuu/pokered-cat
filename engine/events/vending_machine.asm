@@ -86,8 +86,8 @@ VendingMachineText1:
 
 DrinkText:
 	db   "Aigua"
-	next "Refresc"
-	next "Llimonada"
+	next "Psicola"
+	next "Cacaollet"
 	next "Enrere@"
 
 DrinkPriceText:

@@ -23,8 +23,8 @@ _SSAnneKitchenCook4Text::
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Coneixes"
-	line "l'Snorlax?"
+	text "Has vist mai"
+	line "un Dropo?"
 
 	para "Només fa que"
 	line "menjar i dormir!"

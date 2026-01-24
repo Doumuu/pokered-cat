@@ -1,7 +1,7 @@
 _Route2SignText::
-	text "RUTA 2"
-	line "Ciutat Maragda -"
-	cont "Ciutat Argent"
+	text "Ruta 2"
+	line "Verdins -"
+	cont "Llicorella"
 	done
 
 _Route2DiglettsCaveSignText::

@@ -20,7 +20,7 @@ _Route10Hiker1BattleText::
 	done
 
 _Route10Hiker1EndBattleText::
-	text "Haha...!"
+	text "Ha...!"
 	line "M'he menjat..."
 	cont "bolets del riure!"
 	cont "Hahahaha!"

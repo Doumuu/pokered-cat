@@ -1,17 +1,16 @@
 _VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
-	text "Soc el Mestre"
-	line "Pescador!"
+	text "Soc el Pescador"
+	line "savi!"
 
-	para "M'entusiaaasma"
-	line "la pesca!"
+	para "M'encanta pescar!"
 
 	para "A tu t'agrada"
-	line "pescar?"
+	line "la pesca?"
 	done
 
 _VermilionOldRodHouseFishingGuruTakeThisText::
-	text "Maco, m'encanta"
-	line "el teu estil!"
+	text "Que bé! Em caus"
+	line "bé, nano!"
 
 	para "Emporta't això"
 	line "i pesca!"
@@ -26,17 +25,17 @@ _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	text_start
 
 	para "La pesca és un"
-	line "estil de vida!"
+	line "estil de vida."
 
 	para "De rius a mars,"
 	line "estanys a oceans,"
 	cont "pescar el peix"
-	cont "gros és el somni!"
+	cont "gros és la meta!"
 	done
 
 _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... Quina"
-	line "decepció..."
+	text "Quin greu"
+	line "em sap, noiet."
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::

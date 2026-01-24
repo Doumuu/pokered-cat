@@ -41,13 +41,8 @@ DisplayTitleScreen:
 	call LoadFontTilePatterns
 	ld hl, NintendoCopyrightLogoGraphics
 	ld de, vTitleLogo2 tile 16
-	ld bc, 5 tiles
+	ld bc, 26 tiles
 	ld a, BANK(NintendoCopyrightLogoGraphics)
-	call FarCopyData2
-	ld hl, GameFreakLogoGraphics
-	ld de, vTitleLogo2 tile (16 + 5)
-	ld bc, 9 tiles
-	ld a, BANK(GameFreakLogoGraphics)
 	call FarCopyData2
 	ld hl, PokemonLogoGraphics
 	ld de, vTitleLogo
@@ -60,7 +55,7 @@ DisplayTitleScreen:
 	ld a, BANK(PokemonLogoGraphics)
 	call FarCopyData2          ; second chunk
 	ld hl, Version_GFX
-	ld de, vChars2 tile $60 + (10 tiles - (Version_GFXEnd - Version_GFX) * 2) / 2
+	ld de, vChars2 tile $61
 	ld bc, Version_GFXEnd - Version_GFX
 	ld a, BANK(Version_GFX)
 	call FarCopyDataDouble
@@ -103,21 +98,26 @@ DisplayTitleScreen:
 
 ; place tiles for title screen copyright
 	hlcoord 2, 17
-	ld de, .tileScreenCopyrightTiles
-	ld b, $10
+	ld a, $41
+	ld b, 4
 .tileScreenCopyrightTilesLoop
-	ld a, [de]
 	ld [hli], a
-	inc de
+	inc a
 	dec b
 	jr nz, .tileScreenCopyrightTilesLoop
+	ld [hl], $42
+	inc hl
+	ld [hl], $43
+	inc hl
+	ld [hl], $5a
+	inc hl
+	ld b, 9
+.tileScreenCopyrightTilesLoop2
+	ld [hli], a
+	inc a
+	dec b
+	jr nz, .tileScreenCopyrightTilesLoop2
 
-	jr .next
-
-.tileScreenCopyrightTiles
-	db $41,$42,$43,$42,$44,$42,$45,$46,$47,$48,$49,$4A,$4B,$4C,$4D,$4E ; ©'95.'96.'98 GAME FREAK inc.
-
-.next
 	call SaveScreenTilesToBuffer2
 	call LoadScreenTilesFromBuffer2
 	call EnableLCD
@@ -380,37 +380,42 @@ LoadCopyrightAndTextBoxTiles:
 LoadCopyrightTiles:
 	ld de, NintendoCopyrightLogoGraphics
 	ld hl, vChars2 tile $60
-	lb bc, BANK(NintendoCopyrightLogoGraphics), (GameFreakLogoGraphicsEnd - NintendoCopyrightLogoGraphics) / $10
+	lb bc, BANK(NintendoCopyrightLogoGraphics), (NintendoCopyrightLogoGraphicsEnd - NintendoCopyrightLogoGraphics) / $10
 	call CopyVideoData
 	hlcoord 2, 7
 	ld de, CopyrightTextString
 	jp PlaceString
 
 CopyrightTextString:
-	db   $60,$61,$62,$61,$63,$61,$64,$7F,$65,$66,$67,$68,$69,$6A             ; ©'95.'96.'98 Nintendo
-	next $60,$61,$62,$61,$63,$61,$64,$7F,$6B,$6C,$6D,$6E,$6F,$70,$71,$72     ; ©'95.'96.'98 Creatures inc.
-	next $60,$61,$62,$61,$63,$61,$64,$7F,$73,$74,$75,$76,$77,$78,$79,$7A,$7B ; ©'95.'96.'98 GAME FREAK inc.
+	db   $60, $61, $62, $63, $61, $62, $79, $6D, $6E, $6F, $70, $71, $72                ; ©1995.1996 Nintendo
+	next $60, $61, $62, $63, $61, $62, $79, $73, $74, $75, $76, $77, $78, $6B, $6C      ; ©1995.1996 Creatures Inc.
+	next $60, $61, $62, $63, $61, $62, $79, $64, $65, $66, $67, $68, $69, $6A, $6B, $6C ; ©1995.1996 GAME FREAK Inc.
 	db   "@"
 
 INCLUDE "data/pokemon/title_mons.asm"
 
 ; prints version text (red, blue)
 PrintGameVersionOnTitleScreen:
+IF DEF(_RED)
 	hlcoord 6, 8
+ENDC
+IF DEF(_BLUE)
+	hlcoord 7, 8
+ENDC
 	ld de, VersionOnTitleScreenText
 	jp PlaceString
 
 ; these point to special tiles specifically loaded for that purpose and are not usual text
 VersionOnTitleScreenText:
 IF DEF(_RED)
-	db $60,$61,$62,$63,$64,$65,$66,$67,$68,$69,"@" ; "Red Version"
+	db $61,$62,$63,$64,$65,$66,$67,$68,$69,"@" ; "Edició vermella"
 ENDC
 IF DEF(_BLUE)
-	db $61,$62,$63,$64,$65,$66,$67,$68,"@" ; "Blue Version"
+	db $61,$62,$63,$64,$65,$66,$67,$68,"@" ; "Edició blava"
 ENDC
 
 DebugNewGamePlayerName:
-	db "NINTEN@"
+	db "Game@"
 
 DebugNewGameRivalName:
-	db "SONY@"
+	db "Freak@"

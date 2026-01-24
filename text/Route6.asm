@@ -36,9 +36,9 @@ _Route6Youngster1EndBattleText::
 	prompt
 
 _Route6Youngster1AfterBattleText::
-	text "Me'n vaig al Bosc"
-	line "Maragda a buscar"
-	cont "insectes."
+	text "Me'n vaig al bosc"
+	line "de Verdins a"
+	cont "buscar insectes."
 	done
 
 _Route6CooltrainerM2BattleText::
@@ -86,12 +86,11 @@ _Route6Youngster2EndBattleText::
 
 _Route6Youngster2AfterBattleText::
 	text "Són dèbils, els"
-	line "meus #mon? O"
-	cont "soc jo?"
+	line "meus #mon?"
+	cont "O soc jo?"
 	done
 
 _Route6UndergroundPathSignText::
 	text "Via subterrània:"
-	line "Ciutat Blaucel -"
-	cont "Ciutat Ocre"
+	line "Blaucel - Ocre"
 	done

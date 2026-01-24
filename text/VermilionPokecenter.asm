@@ -13,7 +13,7 @@ _VermilionPokecenterFishingGuruText::
 
 _VermilionPokecenterSailorText::
 	text "El meu #mon"
-	line "estava enverinat"
-	cont "i s'ha desmaiat"
+	line "enverinat ha"
+	cont "quedat estabornit"
 	cont "quan caminàvem."
 	done

@@ -1,5 +1,5 @@
 _SSAnneB1FRoomsMachokeText::
-	text "MACHOKE: Uah!"
+	text "Braçal: Uah!"
 	line "Guah!@"
 	text_end
 
@@ -31,8 +31,8 @@ _SSAnneB1FRoomsSailor2EndBattleText::
 
 _SSAnneB1FRoomsSailor2AfterBattleText::
 	text "Has conegut el"
-	line "Pescador gurú de"
-	cont "Ciutat Ocre?"
+	line "Pescador savi"
+	cont "d'Ocre?"
 	done
 
 _SSAnneB1FRoomsSailor3BattleText::
@@ -62,7 +62,7 @@ _SSAnneB1FRoomsSailor4EndBattleText::
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::
-	text "Als #mon marins"
+	text "Els #mon marins"
 	line "només els caçaràs"
 	cont "amb una canya!"
 	done
@@ -103,9 +103,9 @@ _SSAnneB1FRoomsFisherAfterBattleText::
 
 _SSAnneB1FRoomsSuperNerdText::
 	text "El meu company,"
-	line "en MACHOKE,"
+	line "en Braçal,"
 	cont "és fortíssim!"
 
-	para "Té prou força com"
-	line "per moure roques!"
+	para "Té tanta força que"
+	line "pot moure roques!"
 	done

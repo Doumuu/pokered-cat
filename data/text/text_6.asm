@@ -1,51 +1,48 @@
 _ItemUseBallText00::
-	text "It dodged the"
-	line "thrown BALL!"
+	text "L'ha esquivat!"
 
-	para "This #MON"
-	line "can't be caught!"
+	para "Sembla que no"
+	line "es pot atrapar!"
 	prompt
 
 _ItemUseBallText01::
-	text "You missed the"
-	line "#MON!"
+	text "He fallat!"
 	prompt
 
 _ItemUseBallText02::
-	text "Darn! The #MON"
-	line "broke free!"
+	text "Ah! El #mon"
+	line "s'ha escapat!"
 	prompt
 
 _ItemUseBallText03::
-	text "Aww! It appeared"
-	line "to be caught! "
+	text "Ah! Semblava"
+	line "que el tenia!"
 	prompt
 
 _ItemUseBallText04::
-	text "Shoot! It was so"
-	line "close too!"
+	text "Càsum! M'ha"
+	line "anat de poc!"
 	prompt
 
 _ItemUseBallText05::
-	text "All right!"
-	line "@"
+	text "Sí! Has atrapat"
+	line "un @"
 	text_ram wEnemyMonNick
-	text " was"
-	cont "caught!@"
+	text "!@"
 	text_end
 
 _ItemUseBallText07::
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "BILL's PC!"
+	text " s'ha"
+	line "enviat al"
+	cont "PC de l'Èric."
 	prompt
 
 _ItemUseBallText08::
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "someone's PC!"
+	text " s'ha"
+	line "enviat al"
+	cont "PC d'algú."
 	prompt
 
 _ItemUseBallText06::
@@ -53,7 +50,7 @@ _ItemUseBallText06::
 	line "afegit info sobre"
 	cont "@"
 	text_ram wEnemyMonNick
-	text "!@"
+	text ".@"
 	text_end
 
 _SurfingGotOnText::
@@ -70,26 +67,26 @@ _SurfingNoPlaceToGetOffText::
 	prompt
 
 _VitaminStatRoseText::
-	text_ram wNameBuffer
-	text "'s"
+        text_ram wStringBuffer
+	text " de"
 	line "@"
-	text_ram wStringBuffer
-	text " rose."
+	text_ram wNameBuffer
+	text " ha"
+        cont "pujat."
 	prompt
 
 _VitaminNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "No té cap efecte."
 	prompt
 
 _ThrewBaitText::
-	text "<PLAYER> threw"
-	line "some BAIT."
+	text "<PLAYER> llança"
+	line "l'esquer."
 	done
 
 _ThrewRockText::
-	text "<PLAYER> threw a"
-	line "ROCK."
+	text "<PLAYER> llança"
+	line "una pedra."
 	done
 
 _PlayedFluteNoEffectText::
@@ -97,7 +94,7 @@ _PlayedFluteNoEffectText::
 	line "Pokeflauta."
 
 	para "Quina melodia"
-	line "tan bona!"
+	line "tan bonica!"
 	prompt
 
 _FluteWokeUpText::
@@ -111,47 +108,51 @@ _PlayedFluteHadEffectText::
 	text_end
 
 _CoinCaseNumCoinsText::
-	text "Coins"
+	text "Monedes"
 	line "@"
 	text_bcd wPlayerCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " "
 	prompt
 
 _ItemfinderFoundItemText::
-	text "Yes! ITEMFINDER"
-	line "indicates there's"
-	cont "an item nearby."
+	text "Sí! El detector"
+	line "diu que hi ha un"
+	cont "objecte a prop!"
 	prompt
 
 _ItemfinderFoundNothingText::
-	text "Nope! ITEMFINDER"
-	line "isn't responding."
+	text "El detector no"
+	line "troba res..."
 	prompt
 
 _RaisePPWhichTechniqueText::
-	text "Raise PP of which"
-	line "technique?"
+	text "Augmentes els PP"
+	line "de quin moviment?"
 	done
 
 _RestorePPWhichTechniqueText::
-	text "Restore PP of"
-	line "which technique?"
+	text "Restaures els PP"
+	line "de quin moviment?"
 	done
 
 _PPMaxedOutText::
+	text "Els PP de"
+	line "@"
 	text_ram wStringBuffer
-	text "'s PP"
-	line "is maxed out."
+	text_start
+	cont "estan al màxim."
 	prompt
 
 _PPIncreasedText::
+	text "Els PP de"
+	line "@"
 	text_ram wStringBuffer
-	text "'s PP"
-	line "increased."
+	text_start
+	cont "han augmentat."
 	prompt
 
 _PPRestoredText::
-	text "PP was restored."
+	text "PP restaurats."
 	prompt
 
 _BootedUpTMText::
@@ -189,44 +190,42 @@ _MonCannotLearnMachineMoveText::
 	prompt
 
 _ItemUseNotTimeText::
-	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that! "
+	text "Roure: <PLAYER>!"
+	line "Això ara no toca!"
 	prompt
 
 _ItemUseNotYoursToUseText::
-	text "This isn't yours"
-	line "to use!"
+	text "Aquest objecte"
+	line "no és meu!"
 	prompt
 
 _ItemUseNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "No té efecte."
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "The trainer"
-	line "blocked the BALL!"
+	text "L'entrenador ha"
+	line "parat la bola!"
 	prompt
 
 _ThrowBallAtTrainerMonText2::
-	text "Don't be a thief!"
+	text "No siguis lladre!"
 	prompt
 
 _NoCyclingAllowedHereText::
-	text "No cycling"
-	next "allowed here."
+	text "Aquí no es pot"
+	next "anar en bici."
 	prompt
 
 _NoSurfingHereText::
-	text "No SURFing on"
-	line "@"
+	text "@"
 	text_ram wNameBuffer
-	text " here!"
+	text " no pot"
+	line "fer Surf aquí!"
 	prompt
 
 _BoxFullCannotThrowBallText::
-	text "The #MON BOX"
-	line "is full! Can't"
-	cont "use that item!"
+	text "El bloc #mon"
+	line "està ple! No pots"
+	cont "capturar res!"
 	prompt

@@ -19,7 +19,7 @@ _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
 	para "Vols veure la"
 	line "tècnica de tall?"
 
-	para "Te la ensenyaria"
+	para "Te l'ensenyaria"
 	line "si em trobés bé."
 
 	para "Ja ho sé!"
@@ -57,8 +57,8 @@ _SSAnneCaptainsRoomTrashText::
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "Com superar el"
-	line "mal de mariners."
+	text "«Com superar el"
+	line "mal de mariners»."
 	cont "El capità està"
 	cont "llegint això!"
 	done

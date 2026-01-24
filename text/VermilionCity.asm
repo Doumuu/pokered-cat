@@ -2,9 +2,9 @@ _VermilionCityBeautyText::
 	text "Aquí mirem de"
 	line "no contaminar."
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Diuen que Viscox"
+	line "va néixer de la"
+	cont "brossa del mar!"
 	done
 
 _VermilionCityGambler1DidYouSeeText::
@@ -15,7 +15,7 @@ _VermilionCityGambler1DidYouSeeText::
 
 _VermilionCityGambler1SSAnneDepartedText::
 	text "El St.Anne"
-	line "ha partit!"
+	line "ha partit."
 
 	para "Tornarà d'aquí"
 	line "a un any."
@@ -67,13 +67,13 @@ _VermilionCityGambler2Text::
 	done
 
 _VermilionCityMachopText::
-	text "MACHOP: Guoh!"
-	line "Gogogoh!@"
+	text "Bracet: Gua!"
+	line "Guagua!@"
 	text_end
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "Un MACHOP està"
+	para "Un Bracet està"
 	line "aplanant el"
 	cont "terreny."
 	done
@@ -83,12 +83,12 @@ _VermilionCitySailor2Text::
 	line "creuer de luxe"
 	cont "molt famós."
 
-	para "Ve a Ciutat Ocre"
-	line "un cop l'any."
+	para "Ve a Ocre un"
+	line "cop l'any."
 	done
 
 _VermilionCitySignText::
-	text "Ciutat Ocre:"
+	text "Ocre:"
 	line "L'ocàs etern"
 	done
 
@@ -107,16 +107,15 @@ _VermilionCityNoticeSignText::
 
 _VermilionCityPokemonFanClubSignText::
 	text "#mon Club:"
-	line "Benvingut, fans"
+	line "Benvinguts, fans"
 	cont "dels #mon!"
 	done
 
 _VermilionCityGymSignText::
 	text "Líder del gimnàs"
-	line "#mon de Ciutat"
-	cont "Ocre: Tt.Slate,"
-
-	para "El llamp americà"
+	line "#mon d'Ocre:"
+	cont "Tt.Slate,"
+	cont "el llamp americà"
 	done
 
 _VermilionCityHarborSignText::

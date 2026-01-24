@@ -496,21 +496,21 @@ ChooseABoxText:
 	text_end
 
 BoxNames:
-	db   "BOX 1"
-	next "BOX 2"
-	next "BOX 3"
-	next "BOX 4"
-	next "BOX 5"
-	next "BOX 6"
-	next "BOX 7"
-	next "BOX 8"
-	next "BOX 9"
-	next "BOX10"
-	next "BOX11"
-	next "BOX12@"
+	db   "Bloc 1"
+	next "Bloc 2"
+	next "Bloc 3"
+	next "Bloc 4"
+	next "Bloc 5"
+	next "Bloc 6"
+	next "Bloc 7"
+	next "Bloc 8"
+	next "Bloc 9"
+	next "Bloc10"
+	next "Bloc11"
+	next "Bloc12@"
 
 BoxNoText:
-	db "BOX No.@"
+	db "Bloc n.@"
 
 EmptyAllSRAMBoxes:
 ; marks all boxes in SRAM as empty (initialisation for the first time the

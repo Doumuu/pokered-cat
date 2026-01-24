@@ -1,209 +1,199 @@
 _SilphCo7FSilphWorkerM1HaveThisPokemonText::
-	text "Oh! Hi! You're"
-	line "not a ROCKET! You"
-	cont "came to save us?"
-	cont "Why, thank you!"
+	text "Ei! Tu no ets"
+	line "un Rocket! Has"
+	cont "vingut a salvar-"
+	cont "nos? Gràcies!"
 
-	para "I want you to"
-	line "have this #MON"
-	cont "for saving us."
+	para "Vull donar-te"
+	line "aquest #mon"
+	cont "per agrair-t'ho!"
 	prompt
 
 _SilphCo7FSilphWorkerM1LaprasDescriptionText::
-	text "It's LAPRAS. It's"
-	line "very intelligent."
+	text "És un Lapras. És"
+	line "molt intel·ligent."
 
-	para "We kept it in our"
-	line "lab, but it will"
-	cont "be much better"
-	cont "off with you!"
+	para "El teníem al"
+	line "laboratori, però"
+	cont "estarà molt"
+	cont "millor amb tu!"
 
-	para "I think you will"
-	line "be a good trainer"
-	cont "for LAPRAS!"
+	para "Crec que seràs un"
+	line "bon entrenador"
+	cont "per a en Lapras!"
 
-	para "It's a good"
-	line "swimmer. It'll"
-	cont "give you a lift!"
+	para "És un bon nedador."
+	line "Podràs navegar a"
+	cont "sobre d'ell."
 	done
 
 _SilphCo7FSilphWorkerM1IsOurPresidentOkText::
-	text "TEAM ROCKET's"
-	line "BOSS went to the"
-	cont "boardroom! Is our"
-	cont "PRESIDENT OK?"
+	text "El cap dels Rocket"
+	line "ha anat al"
+	cont "despatx executiu!"
+	cont "Està en perill"
+	cont "el director?"
 	done
 
 _SilphCo7FSilphWorkerM1SavedText::
-	text "Saved at last!"
-	line "Thank you!"
+	text "Moltes gràcies"
+	line "per rescatar-me!"
 	done
 
 _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
-	text "TEAM ROCKET was"
-	line "after the MASTER"
-	cont "BALL which will"
-	cont "catch any #MON!"
+	text "Els Rocket volien"
+	line "la Masterball per"
+	cont "caçar el #mon"
+	cont "que vulguessin."
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::
-	text "We canceled the"
-	line "MASTER BALL"
-	cont "project because"
-	cont "of TEAM ROCKET."
+	text "Hem cancel·lat el"
+	line "projecte de la"
+	cont "Masterball."
 	done
 
 _SilphCo7FSilphWorkerM3ItWouldBeBadText::
-	text "It would be bad"
-	line "if TEAM ROCKET"
-	cont "took over SILPH"
-	cont "or our #MON!"
+	text "Si els Rocket"
+	line "dirigissin Silph"
+	cont "seria horrible!"
 	done
 
 _SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
-	text "Wow! You chased"
-	line "off TEAM ROCKET"
-	cont "all by yourself?"
+	text "Carai! T'has"
+	line "enfrontat sol"
+	cont "als Rocket?"
 	done
 
 _SilphCo7FSilphWorkerM4ItsReallyDangerousHereText::
-	text "You! It's really"
-	line "dangerous here!"
-	cont "You came to save"
-	cont "me? You can't!"
+	text "M'has vingut a"
+	line "salvar? És molt"
+	cont "perillós! Compte!"
 	done
 
 _SilphCo7FSilphWorkerM4SafeAtLastText::
-	text "Safe at last!"
-	line "Oh thank you!"
+	text "M'has rescatat!"
+	line "Gràcies!"
 	done
 
 _SilphCo7FRocket1BattleText::
-	text "Oh ho! I smell a"
-	line "little rat!"
+	text "Mira! He trobat"
+	line "un ratolinet!"
 	done
 
 _SilphCo7FRocket1EndBattleText::
-	text "Lights"
-	line "out!"
+	text "T'has"
+	line "escapat!"
 	prompt
 
 _SilphCo7FRocket1AfterBattleText::
-	text "You won't find my"
-	line "BOSS by just"
-	cont "scurrying around!"
+	text "No trobaràs el cap"
+	line "tan fàcilment!"
 	done
 
 _SilphCo7FScientistBattleText::
-	text "Heheh!"
+	text "Hehe!"
 
-	para "You mistook me for"
-	line "a SILPH worker?"
+	para "Pensaves que era"
+	line "de Silph?"
 	done
 
 _SilphCo7FScientistEndBattleText::
-	text "I'm"
-	line "done!"
+	text "Ja"
+	line "en tinc prou!"
 	prompt
 
 _SilphCo7FScientistAfterBattleText::
-	text "Despite your age,"
-	line "you are a skilled"
-	cont "trainer!"
+	text "No ho fas malament"
+	line "per ser petit."
 	done
 
 _SilphCo7FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Soc un dels 4"
+	line "Germans Rocket!"
 	done
 
 _SilphCo7FRocket2EndBattleText::
-	text "Aack!"
-	line "Brothers, I lost!"
+	text "He"
+	line "perdut, germans!"
 	prompt
 
 _SilphCo7FRocket2AfterBattleText::
-	text "Doesn't matter."
-	line "My brothers will"
-	cont "repay the favor!"
+	text "Tant és. Els meus"
+	line "germans et"
+	cont "guanyaran!"
 	done
 
 _SilphCo7FRocket3BattleText::
-	text "A child intruder?"
-	line "That must be you!"
+	text "Un nen intrús?"
+	line "Deus ser tu!"
 	done
 
 _SilphCo7FRocket3EndBattleText::
-	text "Fine!"
-	line "I lost!"
+	text "Doncs"
+	line "sí, has guanyat."
 	prompt
 
 _SilphCo7FRocket3AfterBattleText::
-	text "Go on home"
-	line "before my BOSS"
-	cont "gets ticked off!"
+	text "Fuig abans que"
+	line "s'emprenyi el cap!"
 	done
 
 _SilphCo7FRivalText::
-	text "<RIVAL>: What"
-	line "kept you <PLAYER>?"
+	text "<RIVAL>: Arribes"
+	line "tard, <PLAYER>!"
 	done
 
 _SilphCo7FRivalWaitedHereText::
-	text "<RIVAL>: Hahaha!"
-	line "I thought you'd"
-	cont "turn up if I"
-	cont "waited here!"
+	text "<RIVAL>: Haha!"
+	line "Sabia que si"
+	cont "t'esperava aquí"
+	cont "apareixeries!"
 
-	para "I guess TEAM"
-	line "ROCKET slowed you"
-	cont "down! Not that I"
-	cont "care!"
+	para "Suposo que no t'ho"
+	line "han posat fàcil"
+	cont "els Rocket, eh?"
 
-	para "I saw you in"
-	line "SAFFRON, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	para "T'he vist per la"
+	line "ciutat i he"
+	cont "pensat que potser"
+	cont "hauries millorat."
 	done
 
 _SilphCo7FRivalDefeatedText::
-	text "Oh ho!"
-	line "So, you are ready"
-	cont "for BOSS ROCKET!"
+	text "Au!"
+	line "Veig que estàs"
+	cont "al nivell del cap!"
 	prompt
 
 _SilphCo7FRivalVictoryText::
-	text "<RIVAL>: How can"
-	line "I put this?"
+	text "<RIVAL>: Renoi..."
 
-	para "You're not good"
-	line "enough to play"
-	cont "with us big boys!"
+	para "Encara et falta"
+	line "per estar al"
+	cont "nivell dels pros!"
 	prompt
 
 _SilphCo7FRivalGoodLuckToYouText::
-	text "Well, <PLAYER>!"
+	text "Apa, <PLAYER>."
 
-	para "I'm moving on up"
-	line "and ahead!"
+	para "Jo vaig tirant!"
 
-	para "By checking my"
-	line "#DEX, I'm"
-	cont "starting to see"
-	cont "what's strong and"
-	cont "how they evolve!"
+	para "Amb la #dex"
+	line "veig si els meus"
+	cont "#mon son forts"
+	cont "i han evolucionat"
+	cont "com cal..."
 
-	para "I'm going to the"
-	line "#MON LEAGUE"
-	cont "to boot out the"
-	cont "ELITE FOUR!"
+	para "Me'n vaig a la"
+	line "Lliga #mon a"
+	cont "trobar-me amb"
+	cont "el Gran Quartet."
 
-	para "I'll become the"
-	line "world's most"
-	cont "powerful trainer!"
+	para "Seré el millor"
+	line "entrenador del"
+	cont "món!"
 
-	para "<PLAYER>, well"
-	line "good luck to you!"
-	cont "Don't sweat it!"
-	cont "Smell ya!"
+	para "<PLAYER>, molts"
+	line "ànims! A reveure!"
 	done

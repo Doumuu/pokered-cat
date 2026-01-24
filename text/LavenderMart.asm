@@ -6,7 +6,7 @@ _LavenderMartBaldingGuyText::
 	cont "combat."
 
 	para "En concret, busco"
-	line "+Atac, +Defensa"
+	line "+Atac, +Defensa,"
 	cont "+Velocitat i"
 	cont "+Especial."
 
@@ -16,8 +16,8 @@ _LavenderMartBaldingGuyText::
 
 _LavenderMartCooltrainerMReviveText::
 	text "Conèixes Reànim?"
-	line "Torna la vida als"
-	cont "#mon desmaiats!"
+	line "Aviva els #mon"
+	cont "estabornits!"
 	done
 
 _LavenderMartCooltrainerMNuggetText::

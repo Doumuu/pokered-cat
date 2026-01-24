@@ -1,9 +1,9 @@
 _CeladonHotelGrannyText::
-	text "Eh, #mon?"
-	line "No, és un hotel"
-	cont "per a persones."
+	text "Eh, Pokexprés...?"
+	line "Et confons. Això"
+	cont "és un hotel."
 
-	para "Està tot ple."
+	para "Estem plens."
 	done
 
 _CeladonHotelBeautyText::
