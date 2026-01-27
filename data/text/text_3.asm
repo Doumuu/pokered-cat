@@ -194,7 +194,7 @@ _MoveWasDisabledText::
 	prompt
 
 _NothingHappenedText::
-	text "No ha funcionat!"
+	text "No ha passat res!"
 	prompt
 
 _NoEffectText::
@@ -206,7 +206,7 @@ _ButItFailedText::
 	prompt
 
 _DidntAffectText::
-	text "No afecta gens en"
+	text "No ha afectat"
 	line "<TARGET>!"
 	prompt
 

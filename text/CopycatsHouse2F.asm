@@ -38,7 +38,7 @@ _CopycatsHouse2FCopycatTM31Explanation1Text::
 	para "MT31 és el meu"
 	line "moviment favorit."
 
-	para "Imitar! Ensenya-"
+	para "Imitació! Ensenya-"
 	line "li a un #mon!@"
 	text_end
 
