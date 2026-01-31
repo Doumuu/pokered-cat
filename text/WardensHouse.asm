@@ -59,8 +59,8 @@ _WardensHouseWardenHM04ExplanationText::
 	cont "dels combats."
 
 	para "Per cert, has vist"
-	line "la Casa secreta a"
-	cont "la Zona Safari?"
+	line "la Cabana secreta"
+	cont "a la Zona Safari?"
 
 	para "Si hi entres, et"
 	line "donaran una MO!"

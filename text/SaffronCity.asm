@@ -10,7 +10,8 @@ _SaffronCityRocket2Text::
 	done
 
 _SaffronCityRocket3Text::
-	text "Aparta, marrec!"
+	text "Fuig si no vols"
+	line "rebre, marrec!"
 	done
 
 _SaffronCityRocket4Text::
@@ -36,9 +37,9 @@ _SaffronCityRocket7Text::
 	done
 
 _SaffronCityScientistText::
-	text "Has guanyat els"
-	line "Rocket tot sol?"
-	cont "Quina canya!"
+	text "He sentit que algú"
+	line "ha vençut els"
+	cont "Rocket tot sol!"
 	done
 
 _SaffronCitySilphWorkerMText::
@@ -49,8 +50,9 @@ _SaffronCitySilphWorkerMText::
 	done
 
 _SaffronCitySilphWorkerFText::
-	text "La gent tornarà"
-	line "a Daurada aviat."
+	text "La gent que ha"
+	line "fugit de Daurada"
+	line "tornarà aviat!"
 	done
 
 _SaffronCityGentlemanText::

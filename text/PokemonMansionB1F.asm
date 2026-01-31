@@ -13,8 +13,8 @@ _PokemonMansionB1FBurglarAfterBattleText::
 	done
 
 _PokemonMansionB1FScientistBattleText::
-	text "És un bon lloc per"
-	line "a un laboratori!"
+	text "Aquest local va bé"
+	line "per fer recerca!"
 	done
 
 _PokemonMansionB1FScientistEndBattleText::
@@ -30,9 +30,9 @@ _PokemonMansionB1FScientistAfterBattleText::
 
 _PokemonMansionB1FDiaryText::
 	text "Diari: 1 setembre"
-	line "Mewtwo és massa"
+	line "«Mewtwo és massa"
 	cont "poderós."
 
 	para "Soc incapaç de"
-	line "fer-hi res..."
+	line "fer-hi res...»"
 	done

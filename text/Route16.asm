@@ -1,5 +1,5 @@
 _Route16Biker1BattleText::
-	text "Què vols?"
+	text "Què dius, pallús?"
 	done
 
 _Route16Biker1EndBattleText::
@@ -28,18 +28,17 @@ _Route16Biker2AfterBattleText::
 	done
 
 _Route16Biker3BattleText::
-	text "Vols un cop"
-	line "de mà?"
+	text "Vols que t'arregli?"
 	done
 
 _Route16Biker3EndBattleText::
-	text "Quin"
-	line "cop, tu!"
+	text "Ves"
+	line "passant!"
 	prompt
 
 _Route16Biker3AfterBattleText::
 	text "Odio perdre, però"
-	line "ben jugat, noi!"
+	line "ben jugat, noi."
 	done
 
 _Route16biker4BattleText::

@@ -1,6 +1,6 @@
 _Route20Swimmer1BattleText::
-	text "L'aigua no"
-	line "cobreix aquí."
+	text "Tothom neda aquí"
+	line "perquè no cobreix!"
 	done
 
 _Route20Swimmer1EndBattleText::
@@ -13,8 +13,8 @@ _Route20Swimmer1AfterBattleText::
 	done
 
 _Route20Swimmer2BattleText::
-	text "Les illes Bessones"
-	line "és un destí ideal!"
+	text "L'illa Bessona és"
+	line "un destí ideal!"
 	done
 
 _Route20Swimmer2EndBattleText::
@@ -23,17 +23,17 @@ _Route20Swimmer2EndBattleText::
 
 _Route20Swimmer2AfterBattleText::
 	text "Hi ha una cova"
-	line "sota les illes"
-	cont "Bessones."
+	line "sota de l'illa"
+	cont "Bessona."
 	done
 
 _Route20Swimmer3BattleText::
-	text "M'encanta nedar"
-	line "amb els peixos!"
+	text "M'encanta nedar!"
+	line "...Seré un peix?"
 	done
 
 _Route20Swimmer3EndBattleText::
-	text "Au!"
+	text "Bacallà!"
 	prompt
 
 _Route20Swimmer3AfterBattleText::
@@ -136,9 +136,9 @@ _Route20Swimmer8AfterBattleText::
 	done
 
 _Route20Swimmer9BattleText::
-	text "A Escarlata hi ha"
-	line "un laboratori"
-	cont "#mon."
+	text "Vas a Escarlata?"
+	line "El pare treballa"
+	cont "al laboratori!"
 	done
 
 _Route20Swimmer9EndBattleText::
@@ -151,5 +151,5 @@ _Route20Swimmer9AfterBattleText::
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "Illes Bessones"
+	text "Illa Bessona"
 	done

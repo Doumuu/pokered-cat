@@ -2,9 +2,9 @@ _CinnabarLabFishingGuruText::
 	text "Aquí estudiem"
 	line "els #mon."
 
-	para "La gent sovint"
-	line "ens en porta per-"
-	cont "què els examinem."
+	para "La gent també ens"
+	line "en porta perquè"
+	cont "els examinem."
 	done
 
 _CinnabarLabPhotoText::

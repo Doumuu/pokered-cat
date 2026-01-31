@@ -1,14 +1,13 @@
 _Route12SnorlaxText::
 	text "Hi ha un #mon"
-	line "adormit al camí!"
+	line "roncant al camí!"
 	done
 
 _Route12SnorlaxWokeUpText::
 	text "Dropo s'ha"
 	line "despertat!"
 
-	para "Està irritat"
-	line "i ataca!"
+	para "Ataca mig adormit!"
 	done
 
 _Route12SnorlaxCalmedDownText::

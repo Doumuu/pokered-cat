@@ -30,8 +30,8 @@ _PokemonMansion3FScientistAfterBattleText::
 
 _PokemonMansion3FDiaryText::
 	text "Diari: 6 febrer"
-	line "Mew ha parit."
+	line "«Mew ha parit."
 
 	para "El nounat es"
-	line "diu Mewtwo."
+	line "diu Mewtwo.»"
 	done

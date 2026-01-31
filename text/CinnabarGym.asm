@@ -1,8 +1,8 @@
 _CinnabarGymBlainePreBattleText::
 	text "Déu vos guard!"
 
-	para "Em dic Ignaz, i"
-	line "soc el líder del"
+	para "Soc l'Ignaz, l'home"
+	line "torxa i líder del"
 	cont "gimnàs Escarlata."
 
 	para "Els meus #mon"

@@ -10,8 +10,8 @@ _SilphCo3FSilphWorkerMYouSavedUsText::
 	done
 
 _SilphCo3FRocketBattleText::
-	text "Deixa de ficar-te"
-	line "on no et demanen!"
+	text "Sempre estàs enmig"
+	line "com el dijous?"
 	done
 
 _SilphCo3FRocketEndBattleText::

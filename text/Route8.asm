@@ -83,7 +83,7 @@ _Route8CooltrainerF2BattleText::
 	done
 
 _Route8CooltrainerF2EndBattleText::
-	text "Meu!"
+	text "Marrameu!"
 	prompt
 
 _Route8CooltrainerF2AfterBattleText::
@@ -93,8 +93,8 @@ _Route8CooltrainerF2AfterBattleText::
 	done
 
 _Route8CooltrainerF3BattleText::
-	text "Què fem plantats"
-	line "com estaquirots?"
+	text "Estàs trencant la"
+	line "nostra fila!"
 	done
 
 _Route8CooltrainerF3EndBattleText::

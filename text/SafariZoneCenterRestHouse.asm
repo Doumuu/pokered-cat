@@ -1,6 +1,7 @@
 _SafariZoneCenterRestHouseGirlText::
-	text "Atsuko: On és"
-	line "en Koji...?"
+	text "Atsuko: On és en"
+	line "Koji? Li he dit"
+	cont "de veure'ns aquí."
 	done
 
 _SafariZoneCenterRestHouseScientistText::

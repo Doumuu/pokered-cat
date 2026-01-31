@@ -1,6 +1,6 @@
 _SilphCo4FSilphWorkerMImHidingText::
-	text "Xxt! M'estic"
-	line "amagant!"
+	text "M'estic amagant!"
+	line "Quina por...!"
 	done
 
 _SilphCo4FSilphWorkerMTeamRocketIsGoneText::

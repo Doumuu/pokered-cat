@@ -103,7 +103,7 @@
 	li "Foscor"
 	li "Imitació"
 	li "Xiscle"
-	li "Mirall"
+	li "Ombra doble"
 	li "Curació"
 	li "Armadura"
 	li "Minvada"

@@ -10,8 +10,8 @@ _SilphCo6FSilphWorkerM1BackToWorkText::
 	done
 
 _SilphCo6FSilphWorkerMHelpMePleaseText::
-	text "Déu meu, si us"
-	line "plau, ajuda'm!"
+	text "Ai, ai... Déu,"
+	line "Buda, ajuda'ns!"
 	done
 
 _SilphCo6FSilphWorkerMWeGotEngagedText::

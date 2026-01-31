@@ -22,7 +22,7 @@ FuchsiaGym_Script:
 	db "de Rosó@"
 
 .LeaderName:
-	db "Koga@"
+	db "Ryu@"
 
 FuchsiaGymResetScripts:
 	xor a ; SCRIPT_FUCHSIAGYM_DEFAULT

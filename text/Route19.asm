@@ -49,11 +49,11 @@ _Route19Swimmer2BattleText::
 	done
 
 _Route19Swimmer2EndBattleText::
-	text "Glup!"
+	text "Renoi!"
 	prompt
 
 _Route19Swimmer2AfterBattleText::
-	text "Veig dues illes!"
+	text "Veig unes illes!"
 	done
 
 _Route19Swimmer3BattleText::
@@ -99,8 +99,8 @@ _Route19Swimmer5EndBattleText::
 
 _Route19Swimmer5AfterBattleText::
 	text "Encara tinc un"
-	line "tros fins a les"
-	cont "illes Bessones!"
+	line "tros fins a l'illa"
+	cont "Bessona!"
 	done
 
 _Route19Swimmer6BattleText::
@@ -114,13 +114,13 @@ _Route19Swimmer6EndBattleText::
 
 _Route19Swimmer6AfterBattleText::
 	text "El meu xicot volia"
-	line "nedar fins a les"
-	cont "illes Bessones."
+	line "nedar fins a"
+	cont "l'illa Bessona."
 	done
 
 _Route19Swimmer7BattleText::
-	text "Aquest mar és"
-	line "molt traïdor!"
+	text "Noiet! Aquesta mar"
+	line "és molt traïdora!"
 	done
 
 _Route19Swimmer7EndBattleText::
@@ -134,8 +134,8 @@ _Route19Swimmer7AfterBattleText::
 	done
 
 _Route19Swimmer8BattleText::
-	text "He nedat fins aquí"
-	line "i estic reventada!"
+	text "Estem reventats de"
+	line "tant nedar!"
 	done
 
 _Route19Swimmer8EndBattleText::
@@ -152,5 +152,5 @@ _Route19Swimmer8AfterBattleText::
 _Route19SignText::
 	text "Ruta marítima 19"
 	line "Rosó -"
-	cont "Illes Bessones"
+	cont "Illa Bessona"
 	done

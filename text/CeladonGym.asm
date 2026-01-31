@@ -16,9 +16,9 @@ _CeladonGymErikaPreBattleText::
 	cont "els meus #mon"
 	cont "són tipus planta."
 
-	para "Ai, no sabia que"
-	line "volies lluitar"
-	cont "amb mi...!"
+	para "Ai, dius que només"
+	line "vols combatre amb"
+	cont "mi? Quina pena..."
 
 	para "Entesos, doncs."
 	line "No em rendiré."
@@ -28,8 +28,8 @@ _CeladonGymErikaReceivedRainbowBadgeText::
 	text "Oh!"
 	line "He perdut."
 
-	para "Ets un oponent"
-	line "molt fort."
+	para "Els nois sou"
+	line "molt forts..."
 
 	para "Et concedeixo"
 	line "la Medalla iris."
@@ -108,8 +108,8 @@ _CeladonGymBattleText3::
 	done
 
 _CeladonGymEndBattleText3::
-	text "N'estic"
-	line "farta!"
+	text "Quin"
+	line "rotllo!"
 	prompt
 
 _CeladonGymAfterBattleText3::

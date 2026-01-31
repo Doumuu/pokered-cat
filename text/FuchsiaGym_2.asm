@@ -35,8 +35,9 @@ _FuchsiaGymKogaTM06ExplanationText::
 	line "Tòxic!"
 
 	para "És una tècnica de"
-	line "més de 400 anys"
-	cont "d'antiguitat!"
+	line "la meva família"
+	cont "de més de 400"
+	cont "anys d'antiguitat!"
 	done
 
 _FuchsiaGymKogaTM06NoRoomText::
@@ -79,9 +80,8 @@ _FuchsiaGymRocker2EndBattleText::
 
 _FuchsiaGymRocker2AfterBattleText::
 	text "Continuaré"
-	line "aprenent de"
-	cont "Koga, el mestre"
-	cont "ninja!"
+	line "aprenent de Ryu,"
+	cont "el mestre ninja!"
 	done
 
 _FuchsiaGymRocker3BattleText::
@@ -126,7 +126,7 @@ _FuchsiaGymRocker4AfterBattleText::
 
 _FuchsiaGymRocker5BattleText::
 	text "També soc aprenent"
-	line "del mestre Koga!"
+	line "del mestre Ryu!"
 
 	para "Els ninges feien"
 	line "servir animals"
@@ -143,9 +143,9 @@ _FuchsiaGymRocker5AfterBattleText::
 	done
 
 _FuchsiaGymRocker6BattleText::
-	text "El mestre Koga"
-	line "ve d'una família"
-	cont "de ninges!"
+	text "El mestre Ryu"
+	line "ve de la família"
+	cont "de ninges Iga!"
 
 	para "De quina família"
 	line "provens, tu?"
@@ -173,7 +173,7 @@ _FuchsiaGymGymGuideChampInMakingText::
 	cont "invisibles!"
 
 	para "Encara que no ho"
-	line "sembli, en Koga"
+	line "sembli, en Ryu"
 	cont "està protegit."
 
 	para "Mou-te entremig"

@@ -6,7 +6,7 @@ _PokemonMansion2FSuperNerdBattleText::
 
 _PokemonMansion2FSuperNerdEndBattleText::
 	text "Oh, no!"
-	line "El meu botí!"
+	line "El meu botí...!"
 	prompt
 
 _PokemonMansion2FSuperNerdAfterBattleText::
@@ -17,18 +17,18 @@ _PokemonMansion2FSuperNerdAfterBattleText::
 
 _PokemonMansion2FDiary1Text::
 	text "Diari: 5 juliol"
-	line "Guaiana,"
-	cont "Amèrica del Sud"
+	line "«Guaiana,"
+	cont "Amèrica del Sud."
 
 	para "He descobert un"
-	line "nou #mon al"
-	cont "nucli de la selva."
+	line "nou #mon a"
+	cont "la selva.»"
 	done
 
 _PokemonMansion2FDiary2Text::
 	text "Diari: 10 juliol"
-	line "He anomenat el"
-	cont "nou #mon Mew."
+	line "«He anomenat el"
+	cont "nou #mon Mew.»"
 	done
 
 _PokemonMansion2FSwitchText::

@@ -1,8 +1,8 @@
 _CeladonDinerCookText::
 	text "Benvingut!"
 
-	para "Perdona, hem fet"
-	line "una paradeta."
+	para "Avui som només"
+	line "quatre gats..."
 	done
 
 _CeladonDinerMiddleAgedWomanText::

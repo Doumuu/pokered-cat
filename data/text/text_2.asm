@@ -265,10 +265,10 @@ _CinnabarPokecenterGuyText::
 	done
 
 _SaffronCityPokecenterGuyText1::
-	text "Seria brutal si el"
+	text "Tant de bo que el"
 	line "Quartet vingués a"
 	cont "fer fora els"
-	cont "Rocket d'aquí!"
+	cont "Rocket d'aquí..."
 	done
 
 _SaffronCityPokecenterGuyText2::
@@ -279,8 +279,8 @@ _SaffronCityPokecenterGuyText2::
 	done
 
 _CeladonCityHotelText::
-	text "Estic viatjant amb"
-	line "la meva germana!"
+	text "Quina il·lusió!"
+	line "Merci, germaneta!"
 	done
 
 _BookcaseText::
@@ -799,7 +799,7 @@ _PokemonBooksText::
 	done
 
 _DiglettSculptureText::
-	text "És un buda."
+	text "Un altar budista."
 	done
 
 _ElevatorText::
@@ -1331,10 +1331,10 @@ _SafariZoneEatingText::
 	prompt
 
 _SafariZoneAngryText::
-	text "El @"
+	text "@"
 	text_ram wEnemyMonNick
-	text_start
-	line "està enfadat!"
+	text " s'ha"
+	line "enfadat!"
 	prompt
 
 ; money related

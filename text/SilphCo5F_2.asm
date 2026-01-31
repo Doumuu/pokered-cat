@@ -29,10 +29,9 @@ _SilphCo5FPokemonReport1Text::
 	text "És un report"
 	line "#mon!"
 
-	para "«En Porígon va ser"
-	line "el primer #mon"
-	cont "a crear-se en un"
-	cont "laboratori.»"
+	para "«S'ha pogut crear"
+	line "en Porígon al la-"
+	cont "boratori #mon."
 	done
 
 _SilphCo5FPokemonReport2Text::

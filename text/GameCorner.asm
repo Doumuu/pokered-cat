@@ -77,8 +77,8 @@ _GameCornerFishingGuruWinsComeAndGoText::
 	done
 
 _GameCornerMiddleAgedWomanText::
-	text "M'ho estic"
-	line "passant bomba!"
+	text "Aquí se'm passa"
+	line "el temps volant!"
 	done
 
 _GameCornerGymGuideChampInMakingText::

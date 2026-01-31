@@ -13,7 +13,7 @@ _CinnabarIslandGirlText::
 
 _CinnabarIslandGamblerText::
 	text "Els científics fan"
-	line "experiments a la"
+	line "recerca a la"
 	cont "Mansió #mon."
 	done
 

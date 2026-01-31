@@ -1,8 +1,7 @@
 _CinnabarLabTradeRoomSuperNerdText::
 	text "Tinc un fòssil"
-	line "rar del Mt.Lluna!"
+	line "del Mt.Lluna!"
 
-	para "Diria que és"
-	line "un #mon"
-	cont "prehistòric!"
+	para "Sembla que és"
+	line "d'un #mon rar!"
 	done

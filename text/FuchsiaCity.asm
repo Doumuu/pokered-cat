@@ -17,8 +17,9 @@ _FuchsiaCityGamblerText::
 
 _FuchsiaCityErikText::
 	text "Koji: On és"
-	line "l'Atsuko? Hem dit"
-	cont "de veure'ns aquí."
+	line "l'Atsuko? M'havia"
+	cont "dit de prendre's"
+	cont "un respir..."
 	done
 
 _FuchsiaCityYoungster2Text::
@@ -54,7 +55,7 @@ _FuchsiaCitySafariZoneSignText::
 _FuchsiaCityGymSignText::
 	text "Líder del gimnàs"
 	line "#mon de Rosó:"
-	cont "Koga, l'expert"
+	cont "Ryu, l'expert"
 	cont "en verí"
 	done
 

@@ -3,8 +3,9 @@ _CeladonMansion1FMeowthText::
 	text_end
 
 _CeladonMansion1FGrannyText::
-	text "Els meus #mon"
-	line "em fan companyia."
+	text "Estic sol, però"
+	line "els #mon em"
+	line "fan companyia."
 
 	para "En Siameu em porta"
 	line "diners i tot!"
@@ -16,8 +17,7 @@ _CeladonMansion1FClefairyText::
 	text_end
 
 _CeladonMansion1FNidoranFText::
-	text "Nidonar: Graa!"
-	line "Graa!@"
+	text "Nidonar: Graa!@"
 	text_end
 
 _CeladonMansion1FManagersSuiteSignText::

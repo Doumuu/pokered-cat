@@ -64,7 +64,7 @@ _PokemonTower5FChanneler5AfterBattleText::
 
 _PokemonTower5FPurifiedZoneText::
 	text "Has entrat a una"
-	line "zona protegida!"
+	line "zona sagrada!"
 
 	para "Els teus #mon"
 	line "s'han recuperat!"

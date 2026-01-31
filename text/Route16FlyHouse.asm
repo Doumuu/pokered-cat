@@ -14,11 +14,11 @@ _Route16FlyHouseBrunetteGirlReceivedHM02Text::
 	text_end
 
 _Route16FlyHouseBrunetteGirlHM02ExplanationText::
-	text "MO02 és Vol."
-	line "Podràs volar a"
-	cont "qualsevol poble!"
+	text "MO02 conté Vol."
+	line "Podràs volar"
+	cont "pel cel!"
 
-	para "Aprofita-ho bé!"
+	para "Aprofita-la bé!"
 	done
 
 _Route16FlyHouseBrunetteGirlHM02NoRoomText::

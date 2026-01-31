@@ -1,10 +1,10 @@
 _ViridianGymGiovanniPreBattleText::
-	text "Hehe! Aquest és"
+	text "Heh! Aquest és"
 	line "el meu amagatall!"
 
 	para "Els Rocket havien"
-	line "d'entrenar a"
-	cont "aquest gimnàs."
+	line "de reagrupar-se"
+	cont "en aquest gimnàs."
 
 	para "Però ara que ho"
 	line "saps, hi haurà"

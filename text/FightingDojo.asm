@@ -21,8 +21,8 @@ _FightingDojoKarateMasterIWillGiveYouAPokemonText::
 	line "que he perdut."
 
 	para "Però et prego que"
-	line "no t'enduguis el"
-	cont "nostre emblema"
+	line "no t'enduguis els"
+	cont "nostres rètols"
 	cont "com a trofeu."
 
 	para "A canvi, et donaré"
@@ -41,8 +41,8 @@ _FightingDojoKarateMasterStayAndTrainWithUsText::
 	done
 
 _FightingDojoBlackbelt1BattleText::
-	text "Hua! Aquí seguim"
-	line "unes regles!"
+	text "Hua! Has vingut"
+	line "a humiliar-nos?"
 	done
 
 _FightingDojoBlackbelt1EndBattleText::
@@ -59,7 +59,7 @@ _FightingDojoBlackbelt1AfterBattleText::
 	done
 
 _FightingDojoBlackbelt2BattleText::
-	text "Iia! Diuen que ets"
+	text "Diuen que ets"
 	line "bo. Demostra-ho!"
 	done
 
@@ -93,11 +93,11 @@ _FightingDojoBlackbelt3AfterBattleText::
 	done
 
 _FightingDojoBlackbelt4BattleText::
-	text "Iiah!"
+	text "Ei!"
 
-	para "Saps que això és"
-	line "un dojo i que ens"
-	cont "agrada lluitar?"
+	para "Com t'atreveixes a"
+	line "faltar el respecte"
+	cont "a aquest dojo?"
 	done
 
 _FightingDojoBlackbelt4EndBattleText::

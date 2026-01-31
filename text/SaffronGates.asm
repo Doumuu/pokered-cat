@@ -7,11 +7,12 @@ _SaffronGateGuardGeeImThirstyText::
 	done
 
 _SaffronGateGuardImParchedText::
-	text "Ostres, noi!"
-	line "Em moro de set!"
+	text "Oh...!"
+	cont "Portes begudes"
+	cont "fresquetes...!"
 	cont "..."
-	cont "Eh? Em dones"
-	cont "aquesta beguda?"
+	cont "Eh? Que me'n"
+	cont "dones una...?"
 	cont "Moltes gràcies!@"
 	text_end
 

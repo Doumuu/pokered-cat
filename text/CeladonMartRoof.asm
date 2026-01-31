@@ -104,13 +104,13 @@ _CeladonMartRoofSuperNerdText::
 	done
 
 _CeladonMartRoofLittleGirlImThirstyText::
-	text "Tinc set!"
-	line "Vull una beguda!"
+	text "Germanet!"
+	line "Tinc set!"
 	done
 
 _CeladonMartRoofLittleGirlGiveHerADrinkText::
-	text "Tinc set!"
-	line "Vull una beguda!"
+	text "Germanet!"
+	line "Tinc set!"
 
 	para "Vols donar-li"
 	line "una beguda?"

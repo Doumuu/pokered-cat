@@ -1,5 +1,5 @@
 _FuchsiaGymKogaBeforeBattleText::
-	text "Koga: Hu, hu...!"
+	text "Ryu: Hu, hu...!"
 
 	para "Un nyicris com"
 	line "tu s'atreveix a"
@@ -10,7 +10,7 @@ _FuchsiaGymKogaBeforeBattleText::
 	cont "estabornit, noi!"
 
 	para "Preparat per veure"
-	line "tècniques ninja?"
+	line "tècniques shinobi?"
 	done
 
 _FuchsiaGymKogaReceivedSoulBadgeText::

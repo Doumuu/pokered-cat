@@ -12,8 +12,8 @@ _SaffronGymSabrinaText::
 
 	para "Odio lluitar però,"
 	line "si insisteixes,"
-	cont "t'ensenyaré el"
-	cont "meu poder!"
+	cont "t'ensenyaré els"
+	cont "meus poders!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::

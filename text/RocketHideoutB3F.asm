@@ -1,7 +1,6 @@
 _RocketHideoutB3FRocket1BattleText::
-	text "Deixa de ficar-te"
-	line "en els temes"
-	cont "dels Rocket!"
+	text "Estàs tocant-nos"
+	line "massa el crostó!"
 	done
 
 _RocketHideoutB3FRocket1EndBattleText::

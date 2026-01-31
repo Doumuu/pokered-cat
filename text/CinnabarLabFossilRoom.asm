@@ -1,32 +1,32 @@
 _CinnabarLabFossilRoomScientist1Text::
 	text "Hola!"
 
-	para "Soc un doctor"
+	para "Jo soc doctor"
 	line "important!"
 
-	para "Estudio #mon"
-	line "fòssils aquí!"
+	para "Aquí estudio"
+	line "#mon fòssil!"
 
-	para "Tens un fòssil"
-	line "per a mi o què?"
+	para "Tu tens fòssil"
+	line "per a jo?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "No? Quina pena!"
+	text "No? Soc trist!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "Trigarà una mica."
+	text "Trigarà un mica."
 
-	para "Tu ves a fer"
-	line "un tomb!"
+	para "Tu surts a"
+	line "caminar!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
 	text "On eres?"
 
 	para "El teu fòssil"
-	line "ha ressuscitat!"
+	line "és ressuscitat!"
 
 	para "Era un @"
 	text_ram wStringBuffer
@@ -48,13 +48,12 @@ _CinnabarLabFossilRoomScientist1SeesFossilText::
 
 	para "La meva màquina"
 	line "ressuscitadora"
-	cont "farà que torni"
+	cont "farà que torna"
 	cont "a la vida!"
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "Vinga, afanya't"
-	line "i dona-me'l!"
+	text "Tu, dona'm!"
 
 	para "<PLAYER> entrega"
 	line "@"
@@ -63,10 +62,10 @@ _CinnabarLabFossilRoomScientist1TakesFossilText::
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "Trigarà una mica."
+	text "Trigarà un mica."
 
-	para "Tu ves a fer"
-	line "un tomb!"
+	para "Tu surts"
+	line "a caminar!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
