@@ -10,19 +10,19 @@ _SilphCo5FRockerAfterBattleText::
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "T'enviaré a fer"
-	line "nones, marrec."
+	text "Provocar un Rocket"
+	line "et sortirà car!"
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Eh..."
+	text "Càsum l'ou!"
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Parlant de nones,"
+	text "Parlant d'ous,"
 
-	para "Sobec evoluciona"
-	line "a Hipno!"
+	para "Escamou evoluciona"
+	line "a Bandàtil."
 	done
 
 _SilphCo5FPokemonReport1Text::
@@ -31,7 +31,7 @@ _SilphCo5FPokemonReport1Text::
 
 	para "«S'ha pogut crear"
 	line "en Porígon al la-"
-	cont "boratori #mon."
+	cont "boratori #mon.»"
 	done
 
 _SilphCo5FPokemonReport2Text::
@@ -50,5 +50,5 @@ _SilphCo5FPokemonReport3Text::
 	para "«Només 4 #mon"
 	line "evolucionen a"
 	cont "l'intercanviar-se"
-	cont "per Cable Link!»"
+	cont "per Cable Link.»"
 	done

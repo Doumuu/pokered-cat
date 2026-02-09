@@ -59,7 +59,7 @@ ItemNames::
 	li "Repel·lent Max"
 	li "+Crític"
 	li "Moneda"
-	li "Aigua"
+	li "Font Bella"
 	li "Psicola"
 	li "Cacaollet"
 	li "Bitllet St."

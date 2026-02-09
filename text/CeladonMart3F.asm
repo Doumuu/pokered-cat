@@ -1,6 +1,6 @@
 _CeladonMart3FClerkTM18PreReceiveText::
-	text "Per fi m'he passat"
-	line "el joc #mon!"
+	text "Ja m'he passat el"
+	line "joc de #mon!"
 
 	para "Tu encara no?"
 	line "Això t'ajudarà."
@@ -16,8 +16,7 @@ _CeladonMart3FClerkReceivedTM18Text::
 _CeladonMart3FClerkTM18ExplanationText::
 	text "L'MT18 conté"
 	line "Contraatac."
-	cont "El nom és lletjot"
-	cont "però funciona."
+	cont "Molts ànims!"
 	done
 
 _CeladonMart3FClerkTM18NoRoomText::
@@ -30,7 +29,7 @@ _CeladonMart3FGameBoyKid1Text::
 	line "tenen un número"
 	cont "d'ID i el nom de"
 	cont "l'entrenador"
-	cont "original, o EO!"
+	cont "original, o EO."
 	done
 
 _CeladonMart3FGameBoyKid2Text::
@@ -38,7 +37,7 @@ _CeladonMart3FGameBoyKid2Text::
 
 	para "Canviaré al meu"
 	line "veí un Tasma per"
-	cont "un Cangurpa!"
+	cont "un Cangurpes!"
 	done
 
 _CeladonMart3FGameBoyKid3Text::

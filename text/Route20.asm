@@ -52,8 +52,9 @@ _Route20Swimmer4EndBattleText::
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "Abans hi havia"
-	line "dues illes aquí."
+	text "Fa temps n'hi havia"
+	line "dues, d'illes"
+	cont "bessones."
 	done
 
 _Route20Swimmer5BattleText::
@@ -83,8 +84,8 @@ _Route20Swimmer6EndBattleText::
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Sembla divertit"
-	line "muntar un #mon."
+	text "Que bonic nedar"
+	line "amb un #mon!"
 	done
 
 _Route20CooltrainerMBattleText::

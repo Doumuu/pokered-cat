@@ -85,7 +85,7 @@ VendingMachineText1:
 	text_end
 
 DrinkText:
-	db   "Aigua"
+	db   "Font Bella"
 	next "Psicola"
 	next "Cacaollet"
 	next "Enrere@"

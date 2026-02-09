@@ -53,12 +53,13 @@ _Route19Swimmer2EndBattleText::
 	prompt
 
 _Route19Swimmer2AfterBattleText::
-	text "Veig unes illes!"
+	text "Des d'aquí es"
+	line "veuen unes illes."
 	done
 
 _Route19Swimmer3BattleText::
 	text "Volia bussejar per"
-	line "atrapar #mon"
+	line "atrapar #mon,"
 	cont "però no funciona!"
 	done
 

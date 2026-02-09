@@ -1,7 +1,7 @@
 _CeladonCityLittleGirlText::
 	text "Vaig atrapar"
 	line "un Boirum a"
-	cont "Illa Escarlata!"
+	cont "illa Escarlata!"
 
 	para "És bo, però quan"
 	line "s'emprenya deixa"

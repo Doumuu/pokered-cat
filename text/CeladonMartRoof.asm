@@ -6,7 +6,7 @@ _CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
 _CeladonMartRoofLittleGirlYayFreshWaterText::
 	text "Que bé!"
 
-	para "Aigua!"
+	para "Font Bella!"
 
 	para "Moltes gràcies!"
 

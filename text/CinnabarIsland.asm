@@ -32,6 +32,6 @@ _CinnabarIslandGymSignText::
 	line "#mon d'illa"
 	cont "Escarlata:"
 
-	para "Ignaz, el foll"
+	para "Ignaz, el iaio"
 	line "dels enigmes"
 	done

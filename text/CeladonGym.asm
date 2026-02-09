@@ -117,9 +117,9 @@ _CeladonGymAfterBattleText3::
 	line "guanyen els de"
 	cont "tipus aigua!"
 
-	para "També superen als"
+	para "També superen els"
 	line "de tipus roca i"
-	cont "als de terra!"
+	cont "els de terra!"
 	done
 
 _CeladonGymBattleText4::
@@ -214,6 +214,6 @@ _CeladonGymAfterBattleText8::
 	text "Avui no tenia els"
 	line "#mon forts..."
 
-	para "A la pròxima"
+	para "La pròxima vegada"
 	line "et guanyaré!"
 	done

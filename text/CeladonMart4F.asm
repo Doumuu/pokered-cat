@@ -5,13 +5,14 @@ _CeladonMart4FSuperNerdText::
 	done
 
 _CeladonMart4FYoungsterText::
-	text "Un consell"
-	line "molt útil:"
+	text "Vols un consell"
+	line "que he sentit?"
 
-	para "si llences una"
-	line "Pokenina a un"
-	cont "#mon en combat"
-	cont "el distrauràs!"
+	para "Llançar una"
+	line "Pokenina en un"
+	cont "combat distreu"
+	cont "el #mon rival"
+	cont "i et deixa fugir!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::

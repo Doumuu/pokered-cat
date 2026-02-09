@@ -1,6 +1,6 @@
 _CeladonMart5FGentlemanText::
 	text "Només aquí venen"
-	line "vitamines per als"
+	line "fàrmacs per als"
 	cont "#mon!"
 
 	para "Lisozim augmenta"
@@ -13,7 +13,7 @@ _CeladonMart5FGentlemanText::
 
 _CeladonMart5FSailorText::
 	text "He vingut a"
-	line "comprar vitamines"
+	line "comprar fàrmacs"
 	cont "per als #mon."
 
 	para "Taurina augmenta"
