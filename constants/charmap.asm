@@ -13,7 +13,7 @@
 	charmap "<PARA>",    $51
 	charmap "<PLAYER>",  $52 ; wPlayerName
 	charmap "<RIVAL>",   $53 ; wRivalName
-	charmap "#",         $54 ; "POKé"
+	charmap "#",         $54 ; "Poké"
 	charmap "<CONT>",    $55
 	charmap "<……>",      $56 ; "……"
 	charmap "<DONE>",    $57
@@ -69,8 +69,8 @@
 	charmap "<to>",      $70 ; narrow "to"
 
 	charmap "『",         $72 ; Japanese opening quote, unused
-	charmap "<ID>",      $73
-	charmap "№",         $74
+	charmap "<ID>",      $74
+	charmap "№",         $73
 
 ; Actual characters (from other graphics files)
 
@@ -183,6 +183,7 @@
 
 	charmap "«",         $d6
 	charmap "»",         $d7
+	charmap "...",       $d8	
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1

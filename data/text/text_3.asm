@@ -4,23 +4,23 @@ _FileDataDestroyedText::
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Vols desar"
-	line "la partida?"
+	text "Vols escriure"
+	line "un report?"
 	done
 
 _GameSavedText::
-	text "Partida desada."
+	text "Report enviat."
 	done
 
 _OlderFileWillBeErasedText::
-	text "Se sobrescriurà"
-	line "la partida"
-	cont "desada, d'acord?"
+	text "El report se"
+	line "sobreescriurà,"
+	cont "d'acord?"
 	done
 
 _WhenYouChangeBoxText::
-	text "La partida es"
-	line "desarà al canviar"
+	text "S'escriurà un"
+	line "report al canviar"
 	cont "de bloc."
 
 	para "D'acord?"

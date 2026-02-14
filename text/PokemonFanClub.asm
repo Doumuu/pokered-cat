@@ -35,8 +35,8 @@ _PokemonFanClubSeelText::
 	done
 
 _PokemonFanClubChairmanIntroText::
-	text "Dirigeixo el Club"
-	line "de Fans #mon!"
+	text "Dirigeixo el"
+	line "Club #mon!"
 
 	para "Tinc més de"
 	line "100 #mon!"
@@ -134,12 +134,12 @@ _PokemonFanClubReceptionistText::
 	done
 
 _PokemonFanClubSign1Text::
-	text "És important"
+	text "«És important"
 	line "escoltar els"
-	cont "entrenadors!"
+	cont "entrenadors.»"
 	done
 
 _PokemonFanClubSign2Text::
-	text "Si algú es vanta,"
-	line "vanta't tu també!"
+	text "«Si algú es vanta,"
+	line "vanta't tu també!»"
 	done

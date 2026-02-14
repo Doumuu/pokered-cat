@@ -197,8 +197,8 @@ _CableClubNPCPleaseApplyHereHaveToSaveText::
 	text "De seguida"
 	line "us connectem."
 
-	para "Desarem primer"
-	line "la partida."
+	para "Primer escriurem"
+	line "un report."
 	done
 
 _CableClubNPCPleaseWaitText::

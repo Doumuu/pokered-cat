@@ -3,9 +3,9 @@ _CeladonMansion1FMeowthText::
 	text_end
 
 _CeladonMansion1FGrannyText::
-	text "Estic sol, però"
+	text "Visc sol, però"
 	line "els #mon em"
-	line "fan companyia."
+	cont "fan companyia."
 
 	para "En Siameu em porta"
 	line "diners i tot!"

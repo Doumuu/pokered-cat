@@ -43,7 +43,7 @@ Trade_PrintEnemyMonInfoText:
 	jp PrintNumber
 
 Trade_MonInfoText:
-	db   "──№<DOT>"
+	db   "──№"
 	next ""
 	next "EO/"
-	next "<ID>№<DOT>@"
+	next "№<ID>@"

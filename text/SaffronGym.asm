@@ -90,8 +90,7 @@ _SaffronGymGuideChampInMakingText::
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "Poder psíquic,"
-	line "eh..."
+	text "Poder psíquic, eh..."
 
 	para "Si en tingués, em"
 	line "folraria a les"

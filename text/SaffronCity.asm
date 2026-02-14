@@ -52,7 +52,7 @@ _SaffronCitySilphWorkerMText::
 _SaffronCitySilphWorkerFText::
 	text "La gent que ha"
 	line "fugit de Daurada"
-	line "tornarà aviat!"
+	cont "tornarà aviat!"
 	done
 
 _SaffronCityGentlemanText::

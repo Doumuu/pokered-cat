@@ -110,9 +110,9 @@ StatusScreen:
 	call DrawLineBox ; Draws the box around name, HP and status
 	ld de, -6
 	add hl, de
-	ld [hl], "<DOT>"
-	dec hl
 	ld [hl], "№"
+	dec hl
+	ld [hl], " "
 	hlcoord 19, 9
 	lb bc, 8, 6
 	call DrawLineBox ; Draws the box around types, ID No. and OT
@@ -213,7 +213,7 @@ Type2Text:
 	next ""
 	; fallthrough
 IDNoText:
-	db   "<ID>№/"
+	db   "№<ID>/"
 	next ""
 	; fallthrough
 OTText:

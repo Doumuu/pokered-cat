@@ -106,7 +106,7 @@ _VermilionCityNoticeSignText::
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#mon Club:"
+	text "Club #mon:"
 	line "Benvinguts, fans"
 	cont "dels #mon!"
 	done

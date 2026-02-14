@@ -478,8 +478,6 @@ ShowPokedexDataInternal:
 	hlcoord 2, 8
 	ld a, "№"
 	ld [hli], a
-	ld a, "<DOT>"
-	ld [hli], a
 	ld de, wPokedexNum
 	lb bc, LEADING_ZEROES | 1, 3
 	call PrintNumber ; print pokedex number

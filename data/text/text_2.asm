@@ -299,9 +299,9 @@ _PushStartText::
 	done
 
 _SaveOptionText::
-	text "Pots desar la"
-	line "partida al"
-	cont "menú principal."
+	text "Per desar la"
+	line "partida, escriu"
+	cont "un report."
 	done
 
 _StrengthsAndWeaknessesText::
@@ -1084,7 +1084,7 @@ _Used2Text::
 	text_end
 
 _InsteadText::
-	text "en comptes d'això,"
+	text "un altre atac:"
 	cont "@"
 	text_end
 
@@ -1346,8 +1346,8 @@ _PickUpPayDayMoneyText::
 	prompt
 
 _ClearSaveDataText::
-	text "Vols esborrar la"
-	line "partida desada?"
+	text "Vols esborrar el"
+	line "report desat?"
 	done
 
 _WhichFloorText::

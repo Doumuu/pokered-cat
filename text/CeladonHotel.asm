@@ -17,5 +17,5 @@ _CeladonHotelBeautyText::
 
 _CeladonHotelSuperNerdText::
 	text "Què fa portant"
-	line "el seu germà?"
+	line "el seu germà...?"
 	done

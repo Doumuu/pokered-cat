@@ -18,10 +18,10 @@ _SaffronPidgeyHouseYoungsterText::
 	done
 
 _SaffronPidgeyHousePaperText::
-	text "M'han regalat"
+	text "«M'han regalat"
 	line "+PP."
 
-	para "Serveix per omplir"
-	line "els punts de"
-	cont "poder dels atacs!"
+	para "Serveix per pujar"
+	line "els punts de po-"
+	cont "der dels atacs.»"
 	done

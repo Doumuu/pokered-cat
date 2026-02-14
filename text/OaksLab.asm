@@ -148,7 +148,7 @@ _OaksLabGivePokeballsExplanationText::
 _OaksLabOak1ComeSeeMeSometimesText::
 	text "Roure: Passa a"
 	line "veure'm de tant"
-	line "en tant."
+	cont "en tant."
 
 	para "Vull veure com"
 	line "vas ampliant la"
