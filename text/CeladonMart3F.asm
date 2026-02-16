@@ -61,7 +61,8 @@ _CeladonMart3FLittleBoyText::
 	done
 
 _CeladonMart3FSNESText::
-	text "És una SNES!"
+	text "És una"
+	line "Super Famicom!"
 	done
 
 _CeladonMart3FRPGText::

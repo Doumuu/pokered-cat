@@ -46,7 +46,7 @@ _ViridianCityGirlHasntHadHisCoffeeYetText::
 	line "de terra!"
 
 	para "Hauré d'esperar"
-	line "que se li passi."
+	line "que se li passi..."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
@@ -58,11 +58,11 @@ _ViridianCityGirlWhenIGoShopText::
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "Ei, tu!...Hip!"
+	text "Ei, tu... hip!"
 	line "Et diré una cosa."
 
 	para "No pots passar"
-	line "per aquí...hip!"
+	line "per aquí... hip!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::

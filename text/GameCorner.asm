@@ -99,9 +99,9 @@ _GameCornerGymGuideChampInMakingText::
 	done
 
 _GameCornerGymGuideTheyOfferRarePokemonText::
-	text "Aquí pots canviar"
-	line "bons #mon per"
-	cont "monedes."
+	text "Pots canviar mone-"
+	line "des per #mon"
+	cont "molt bons!"
 
 	para "Ho intento, però"
 	line "no hi ha manera!"

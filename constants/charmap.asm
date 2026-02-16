@@ -121,8 +121,6 @@
 	charmap ")",         $9b
 	charmap ":",         $9c
 	charmap ";",         $9d
-	charmap "[",         $9e
-	charmap "]",         $9f
 
 	charmap "a",         $a0
 	charmap "b",         $a1
@@ -183,7 +181,8 @@
 
 	charmap "«",         $d6
 	charmap "»",         $d7
-	charmap "...",       $d8	
+	charmap "...",       $d8
+	charmap "L'",	     $d9
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
@@ -197,7 +196,7 @@
 	charmap "!",         $e7
 	charmap ".",         $e8
 
-	charmap "+",         $e9 ; katakana small a, unused
+	charmap "+",         $e9 ;
 	charmap "ゥ",         $ea ; katakana small u, unused
 	charmap "ェ",         $eb ; katakana small e, unused
 

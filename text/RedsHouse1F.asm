@@ -1,11 +1,12 @@
 _RedsHouse1FMomWakeUpText::
-	text "Mare: Suposo"
-	line "que els fills han"
-	cont "de marxar de casa"
-	cont "algun dia..."
-	para "Res, parlo sola."
+	text "Mare: Suposo que"
+	line "els nois han de"
+	cont "sortir i tenir"
+	cont "aventures..."
+	para "Res, parlo de"
+	line "la pel·lícula."
 
-	para "El nostre veí,"
+	para "Ah! El nostre veí,"
 	line "el Dr.Roure,"
 	cont "t'està buscant."
 	done
@@ -30,8 +31,7 @@ _RedsHouse1FTVStandByMeMovieText::
 	cont "nens caminant"
 	cont "per unes vies."
 
-	para "Millor vaig"
-	line "tirant."
+	para "...He d'anar tirant!"
 	done
 
 _RedsHouse1FTVWrongSideText::

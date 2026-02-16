@@ -1,13 +1,12 @@
 _OaksLabRivalGrampsIsntAroundText::
-	text "<RIVAL>: Hola,"
-	line "<PLAYER>. L'avi"
-	cont "és fora."
+	text "<RIVAL>: Home,"
+	line "<PLAYER>! L'avi"
+	cont "acaba de sortir."
 	done
 
 _OaksLabRivalGoAheadAndChooseText::
-	text "<RIVAL>: Jo"
-	line "soc més gran"
-	cont "que tu."
+	text "<RIVAL>: Jo soc"
+	line "més madur que tu."
 
 	para "Et deixo triar"
 	line "primer, <PLAYER>."
@@ -20,32 +19,31 @@ _OaksLabRivalMyPokemonLooksStrongerText::
 	done
 
 _OaksLabThoseArePokeBallsText::
-	text "Són #balls"
-	line "amb #mon"
-	cont "a dins."
+	text "Són #balls amb"
+	line "#mon a dins."
 	done
 
 _OaksLabYouWantCharmanderText::
-	text "I què? Vols un"
-	line "Flamet, el"
+	text "Ah, et fa gràcia"
+	line "un Flamet, el"
 	cont "#mon de foc?"
 	done
 
 _OaksLabYouWantSquirtleText::
-	text "I què? Vols un"
-	line "Tuguet, el"
+	text "Oh! Et decantes"
+	line "per un Tuguet, el"
 	cont "#mon d'aigua?"
 	done
 
 _OaksLabYouWantBulbasaurText::
-	text "I què? Vols un"
-	line "Bulbet, el"
+	text "Ja veig... Vols"
+	line "un Bulbet, el"
 	cont "#mon planta?"
 	done
 
 _OaksLabMonEnergeticText::
 	text "Aquest #mon"
-	line "és molt enèrgic!"
+	line "és molt viu!"
 	prompt
 
 _OaksLabReceivedMonText::

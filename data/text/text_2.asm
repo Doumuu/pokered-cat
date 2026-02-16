@@ -573,10 +573,10 @@ _IndigoPlateauHQText::
 	done
 
 _RedBedroomSNESText::
-	text "M'encanta jugar"
-	line "a la meva NES!"
+	text "<PLAYER> juga"
+	line "a la Famicom."
 	cont "..."
-	cont "Millor després."
+	cont "Millor faig via."
 	done
 
 _Route15UpstairsBinocularsText::
@@ -1640,7 +1640,7 @@ _HereYouGoText::
 	text_end
 
 _SoYouWantPrizeText::
-	text "Així que vols"
+	text "Així que vols un"
 	line "@"
 	text_ram wNameBuffer
 	text "?"
@@ -1726,7 +1726,7 @@ _IntroducePlayerText::
 	prompt
 
 _IntroduceRivalText::
-	text "Aquest és el"
+	text "Aquest és el meu"
 	line "meu net. És el"
 	cont "teu amic de la"
 	cont "infantesa i rival."
@@ -1742,9 +1742,8 @@ _OakSpeechText3::
 	line "de començar la"
 	cont "teva aventura!"
 
-	para "La teva"
-	line "llegenda #mon"
-	cont "t'espera."
+	para "La teva llegenda"
+	line "#mon t'espera."
 	cont "Som-hi!"
 	done
 
