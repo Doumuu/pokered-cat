@@ -121,6 +121,7 @@
 	charmap ")",         $9b
 	charmap ":",         $9c
 	charmap ";",         $9d
+	charmap "ll",        $9e
 
 	charmap "a",         $a0
 	charmap "b",         $a1
