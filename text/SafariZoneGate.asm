@@ -69,8 +69,8 @@ _SafariZoneGateSafariZoneWorker2FirstTimeHereText::
 	done
 
 _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
-	text "La Zona safari té"
-	line "4 zones diferents."
+	text "El safari té 4"
+	line "zones diferents."
 
 	para "Cada zona té"
 	line "#mon variats."

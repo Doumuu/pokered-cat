@@ -13,8 +13,8 @@ _Route20Swimmer1AfterBattleText::
 	done
 
 _Route20Swimmer2BattleText::
-	text "L'illa Bessona és"
-	line "un destí ideal!"
+	text "Les illes Bessones"
+	line "són fantàstiques!"
 	done
 
 _Route20Swimmer2EndBattleText::
@@ -23,8 +23,8 @@ _Route20Swimmer2EndBattleText::
 
 _Route20Swimmer2AfterBattleText::
 	text "Hi ha una cova"
-	line "sota de l'illa"
-	cont "Bessona."
+	line "a sota de les"
+	cont "illes Bessones."
 	done
 
 _Route20Swimmer3BattleText::
@@ -52,9 +52,9 @@ _Route20Swimmer4EndBattleText::
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "Fa temps n'hi havia"
-	line "dues, d'illes"
-	cont "bessones."
+	text "Fa temps les illes"
+	line "Bessones eren 2"
+	cont "illes diferents."
 	done
 
 _Route20Swimmer5BattleText::
@@ -152,5 +152,5 @@ _Route20Swimmer9AfterBattleText::
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "Illa Bessona"
+	text "Illes Bessones"
 	done

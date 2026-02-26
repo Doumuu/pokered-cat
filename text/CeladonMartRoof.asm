@@ -57,7 +57,7 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 	text " conté"
 	line "Enderroc!"
 
-	para "Pot espantar"
+	para "Pot estabornir"
 	line "el contrincant!@"
 	text_end
 

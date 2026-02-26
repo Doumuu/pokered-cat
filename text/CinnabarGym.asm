@@ -6,8 +6,8 @@ _CinnabarGymBlainePreBattleText::
 	cont "gimnàs Escarlata."
 
 	para "Els meus #mon"
-	line "de foc cremen els"
-	cont "meus rivals!"
+	line "de foc socarren"
+	cont "tot el que toquen!"
 
 	para "Espero que portis"
 	line "Anticremades!"
@@ -15,19 +15,19 @@ _CinnabarGymBlainePreBattleText::
 
 _CinnabarGymBlaineReceivedVolcanoBadgeText::
 	text "M'he"
-	line "apagat!"
+	line "apagat...!"
 
 	para "T'has guanyat la"
 	line "medalla Escarlata!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
-	text "Foc Daimonji és"
-	line "el millor"
-	cont "atac de foc!"
+	text "Foc Daimonji agafa"
+	line "el nom del festi-"
+	cont "val de Kyoto!"
 
-	para "Però no contra"
-	line "#mon d'aigua!"
+	para "És una tècnica de"
+	line "foc molt poderosa!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
@@ -38,8 +38,8 @@ _CinnabarGymBlaineVolcanoBadgeInfoText::
 	cont "els moviments"
 	cont "especials!"
 
-	para "Té, emporta't"
-	line "això també!"
+	para "Et vull donar un"
+	line "altre present."
 	done
 
 _CinnabarGymBlaineReceivedTM38Text::
@@ -64,14 +64,14 @@ _CinnabarGymBlaineTM38ExplanationText::
 	done
 
 _CinnabarGymBlaineTM38NoRoomText::
-	text "Fes un foradet a"
-	line "la bossa, corre!"
+	text "Crec que has de"
+	line "buidar la bossa."
 	done
 
 _CinnabarGymSuperNerd1BattleText::
-	text "Saps com crema el"
-	line "foc que llancen"
-	cont "els #mon?"
+	text "A quina temperatu-"
+	line "ra crema el foc"
+	cont "dels #mon?"
 	done
 
 _CinnabarGymSuperNerd1EndBattleText::
@@ -99,15 +99,15 @@ _CinnabarGymSuperNerd2EndBattleText::
 	prompt
 
 _CinnabarGymSuperNerd2AfterBattleText::
-	text "Encara robo els"
-	line "#mon dels"
-	cont "entrenadors..."
+	text "Quan veig els"
+	line "#mon d'altres,"
+	cont "els vull robar..."
 	done
 
 _CinnabarGymSuperNerd3BattleText::
-	text "Guanyaràs, dius?"
-	line "Conec els #mon"
-	cont "millor que tu!"
+	text "Guanyaràs a un"
+	line "especialista en"
+	cont "en Pokémon...?"
 	done
 
 _CinnabarGymSuperNerd3EndBattleText::
@@ -118,7 +118,7 @@ _CinnabarGymSuperNerd3EndBattleText::
 _CinnabarGymSuperNerd3AfterBattleText::
 	text "Ets massa petit"
 	line "per entendre"
-	cont "aquests temes."
+	cont "de què parlo."
 	done
 
 _CinnabarGymSuperNerd4BattleText::
@@ -132,8 +132,9 @@ _CinnabarGymSuperNerd4EndBattleText::
 	prompt
 
 _CinnabarGymSuperNerd4AfterBattleText::
-	text "Vull un #mon"
-	line "que sigui un"
+	text "El meu #mon"
+	line "ideal...?"
+	cont "Un que sigui un"
 	cont "lladre!"
 	done
 
@@ -152,9 +153,9 @@ _CinnabarGymSuperNerd5AfterBattleText::
 	cont "quan va aparèixer"
 	cont "un ocell de foc!"
 
-	para "La llum que"
-	line "emetia va fer que"
-	cont "pogués tornar!"
+	para "La llum que emetia"
+	line "va il·luminar el"
+	cont "camí de tornada."
 	done
 
 _CinnabarGymSuperNerd6BattleText::
@@ -171,12 +172,12 @@ _CinnabarGymSuperNerd6EndBattleText::
 _CinnabarGymSuperNerd6AfterBattleText::
 	text "Ens encanten els"
 	line "#mon de foc"
-	cont "Ponic i Guinou!"
+	cont "Galop i Guinou!"
 	done
 
 _CinnabarGymSuperNerd7BattleText::
 	text "El foc és dèbil"
-	line "contra l'aigua."
+	line "contra l'H2O."
 	done
 
 _CinnabarGymSuperNerd7EndBattleText::
@@ -206,6 +207,7 @@ _CinnabarGymGymGuideChampInMakingText::
 	done
 
 _CinnabarGymGymGuideBeatBlaineText::
-	text "<PLAYER>! Molt"
-	line "bona feina!"
+	text "<PLAYER>! Has"
+	line "vençut el iaio!"
+	cont "Enhorabona!"
 	done

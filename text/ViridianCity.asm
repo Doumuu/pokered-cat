@@ -66,19 +66,18 @@ _ViridianCityOldManSleepyPrivatePropertyText::
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Uaaa..."
+	text "Uaaa...!"
 	line "Em dec haver"
 	cont "quedat adormit."
 
 	para "He somiat que un"
 	line "Sobec es menjava"
 	cont "el meu somni."
-	cont "Què és això?"
-	cont "D'on ha sortit"
-	cont "aquest MT?"
+	cont "...I ara! D'on ha"
+	cont "sortit aquest MT?"
 
 	para "Quin mal rotllo!"
-	line "Té, queda-te'l!"
+	line "Té, queda-te'l."
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
@@ -87,14 +86,13 @@ _ViridianCityFisherReceivedTM42Text::
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "L'MT42 conté"
-	line "Menjasomnis."
-	cont "...Rrr..."
+	text "L'MT42 conté..."
+	line "Menjasomnis..."
+	cont "...Zzz..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "Portes massa cosa"
-	line "a sobre, nano."
+	text "Portes massa cosa."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::

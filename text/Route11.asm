@@ -77,7 +77,7 @@ _Route11Youngster2AfterBattleText5::
 	done
 
 _Route11Gambler3BattleText::
-	text "Ho, ho! Mai m'ha"
+	text "Ho,ho! Mai m'ha"
 	line "guanyat ningú!"
 	done
 

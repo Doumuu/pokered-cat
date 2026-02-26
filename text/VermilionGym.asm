@@ -1,20 +1,20 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Ei, nano!"
-	line "Què fas per aquí?"
+	text "Hey!"
+	line "Little boy!"
 
-	para "Diria que no"
-	line "arribaràs"
-	cont "gaire lluny."
+	para "Diria que amb el"
+	line "teu power no ani-"
+	cont "ràs gaire far..."
 
 	para "Els #mon "
-	line "elèctrics em van"
-	cont "salvar la vida"
+	line "elèctrics van"
+	cont "salvar my life"
 	cont "a la guerra!"
 
 	para "Deixaven els"
 	line "meus enemics"
-	cont "immòbils!"
+	cont "in shock!"
 
-	para "Crec que tu"
+	para "Crec que you"
 	line "acabaràs igual."
 	done

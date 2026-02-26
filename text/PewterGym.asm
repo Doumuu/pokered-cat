@@ -1,17 +1,17 @@
 _PewterGymBrockPreBattleText::
-	text "Em dic Roc. Soc el"
-	line "líder del gimnàs"
-	cont "de Llicorella."
+	text "Has vingut! Em dic"
+	line "Roc. Soc el líder"
+	cont "d'aquest gimnàs."
 
-	para "Crec que tota"
-	line "pedra fa paret,"
-	cont "defensa i atac."
+	para "Els meus #mon"
+	line "són immutables"
+	cont "i resistents!"
 
-	para "Per això els meus"
-	line "#mon són de"
-	cont "tipus roca."
+	para "Exacte! Són tots"
+	line "de tipus roca."
 
-	para "Encara vols"
-	line "lluitar?"
+	para "Ha! Tot i així"
+	line "vols lluitar,eh?"
+	cont "És encomiable."
 	cont "Doncs endavant!"
 	done

@@ -1,7 +1,7 @@
 _AIBattleWithdrawText::
 	text_ram wTrainerName
-	text " ha"
-	line "cridat @"
+	text " crida"
+	line "@"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
@@ -290,7 +290,7 @@ _BookcaseText::
 
 _NewBicycleText::
 	text "Quines bicis tan"
-	line "espatarrants!"
+	line "espaterrants!"
 	done
 
 _PushStartText::

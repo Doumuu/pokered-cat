@@ -116,8 +116,8 @@ _PokemonFanClubChairFinalText::
 	text "Home, <PLAYER>!"
 
 	para "Has tornat perquè"
-	line "et parli dels meu"
-	cont "#mon?"
+	line "et parli dels"
+	cont "meus #mon?"
 
 	para "No? Quina pena!"
 	done

@@ -1,20 +1,20 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hola! A tu no et"
-	line "tinc gaire vist!"
+	text "Ei, napbuf."
 
-	para "Els entrenadors"
-	line "amb futur han"
-	cont "de tenir una"
-	cont "estratègia clara."
+	para "Si vols ser un"
+	line "bon entrenador"
+	cont "has de tenir una"
+	cont "estratègia!"
 
-	para "Quina estratègia"
-	line "tens amb el teu"
-	cont "equip #mon?"
+	para "Has pensat per què"
+	line "caces i entrenes"
+	cont "certs #mon?"
 
-	para "La meva és un"
-	line "sistema ofensiu"
-	cont "amb #mon de"
-	cont "tipus aigua!"
+	para "Jo...?"
+
+	para "Doncs tinc #mon"
+	line "d'aigua i ataco"
+	cont "sense parar!"
 	done
 
 _CeruleanGymMistyTM11ExplanationText::
@@ -42,7 +42,7 @@ _CeruleanGymMistyCascadeBadgeInfoText::
 	line "arbustos per"
 	cont "obrir-te camí!"
 
-	para "També et dono el"
+	para "...També et dono el"
 	line "meu MT preferit."
 	done
 
@@ -60,7 +60,7 @@ _CeruleanGymMistyReceivedCascadeBadgeText::
 	text "Carai!"
 	line "Ets massa!"
 
-	para "Molt bé!"
+	para "Què hi farem..."
 
 	para "Aquí tens la"
 	line "Medalla blava"
@@ -130,5 +130,4 @@ _CeruleanGymGymGuideBeatMistyText::
 
 	para "Fem un equip de"
 	line "conya, tu i jo!"
-	cont "No creus?"
 	done

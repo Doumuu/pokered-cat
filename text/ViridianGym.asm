@@ -32,7 +32,7 @@ _ViridianGymGiovanniPostBattleAdviceText::
 	line "també és la fi"
 	cont "dels Rocket."
 	cont "És una deshonra"
-	cont "per a mi."
+	cont "per a mi..."
 
 	para "Investigaré de"
 	line "prop els #mon"

@@ -82,9 +82,9 @@ _Route16Biker6EndBattleText::
 	prompt
 
 _Route16Biker6AfterBattleText::
-	text "M'encanta prendre"
-	line "el pèl amb els"
-	cont "meus #mon!"
+	text "M'agrada fer la"
+	line "guitza a la gent"
+	cont "amb els #mon!"
 	done
 
 _Route16Text7::
@@ -96,8 +96,7 @@ _Route16SnorlaxWokeUpText::
 	text "Dropo s'ha"
 	line "despertat!"
 
-	para "Està emprenyat"
-	line "i ataca!"
+	para "Ataca mig adormit!"
 	done
 
 _Route16SnorlaxReturnedToMountainsText::

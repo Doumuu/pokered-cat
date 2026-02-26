@@ -100,8 +100,8 @@ _Route19Swimmer5EndBattleText::
 
 _Route19Swimmer5AfterBattleText::
 	text "Encara tinc un"
-	line "tros fins a l'illa"
-	cont "Bessona!"
+	line "tros fins a les"
+	cont "illes Bessones!"
 	done
 
 _Route19Swimmer6BattleText::
@@ -115,8 +115,8 @@ _Route19Swimmer6EndBattleText::
 
 _Route19Swimmer6AfterBattleText::
 	text "El meu xicot volia"
-	line "nedar fins a"
-	cont "l'illa Bessona."
+	line "nedar fins a les"
+	cont "illes Bessones."
 	done
 
 _Route19Swimmer7BattleText::
@@ -153,5 +153,5 @@ _Route19Swimmer8AfterBattleText::
 _Route19SignText::
 	text "Ruta marítima 19"
 	line "Rosó -"
-	cont "Illa Bessona"
+	cont "Illes Bessones"
 	done

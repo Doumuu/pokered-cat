@@ -5,11 +5,11 @@ _CopycatsHouse2FCopycatDoYouLikePokemonText::
 	para "<PLAYER>: Això"
 	line "t'he preguntat..."
 
-	para "<PLAYER>: Ets"
-	line "una mica rara..."
+	para "<PLAYER>: ..."
+	line "Que rara que ets."
 
-	para "Copieta: Vols"
-	line "que no t'imiti?"
+	para "Copieta: Què?"
+	line "No et puc imitar?"
 
 	para "Però si m'encanta!"
 	prompt
@@ -46,7 +46,7 @@ _CopycatsHouse2FCopycatTM31Explanation2Text::
 	text "<PLAYER>: Gràcies"
 	line "per l'MT31!"
 
-	para "<PLAYER>: Eh?"
+	para "<PLAYER>: Eh...?"
 
 	para "<PLAYER>: Tan"
 	line "divertit és"
@@ -71,7 +71,7 @@ _CopycatsHouse2FDoduoText::
 
 _CopycatsHouse2FRareDollText::
 	text "Quin #mon tan"
-	line "estrany! Eh? Si"
+	line "estrany...! Eh? Si"
 	cont "només és un nino!"
 	done
 

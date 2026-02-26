@@ -1,11 +1,12 @@
 _NameRatersHouseNameRaterWantMeToRateText::
-	text "Benvingut a cal"
-	line "Nomòleg, l'expert"
-	cont "en noms!"
+	text "Ei, benvingut!"
+	line "Tothom em diu"
+	cont "nomòleg, però"
+	cont "soc onomasta."
 
-	para "Vols que miri els"
-	line "noms dels teus"
-	cont "#mon?"
+	para "En fi, vols que"
+	line "miri els noms"
+	cont "dels teus #mon?"
 	done
 
 _NameRatersHouseNameRaterWhichPokemonText::

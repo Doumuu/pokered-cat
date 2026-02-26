@@ -1,10 +1,10 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "Un consell, nano!"
+	text "Un consell, boy:"
 
-	para "L'electricitat és"
+	para "L'electricity és"
 	line "molt poderosa."
 
-	para "Però és inútil"
+	para "Però és useless"
 	line "contra #mon de"
 	cont "tipus terra!"
 	done
@@ -17,10 +17,10 @@ _VermilionGymLTSurgeThunderBadgeInfoText::
 
 	para "També et deixa"
 	line "fer servir Vol en"
-	cont "qualsevol moment!"
+	cont "qualsevol time!"
 
 	para "Ets especial,"
-	line "nano! Té això."
+	line "boy! Take this."
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
@@ -36,23 +36,23 @@ _TM24ExplanationText::
 	para "MT24 conté"
 	line "Electroxoc!"
 
-	para "Ensenya-li a un"
+	para "Teach it a un"
 	line "#mon elèctric."
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "No tens lloc a"
-	line "la bossa, nano."
+	text "Your bossa"
+	line "is full, boy."
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
-	text "Carai!"
+	text "My God!"
 
-	para "Ets més fort del"
-	line "que em pensava!"
+	para "Quin power!"
+	line "Ets unreal!"
 
 	para "Doncs la Medalla"
-	line "ocre és teva!"
+	line "ocre is yours."
 	prompt
 
 _VermilionGymGentlemanBattleText::
@@ -103,8 +103,8 @@ _VermilionGymSailorEndBattleText::
 
 _VermilionGymSailorAfterBattleText::
 	text "El tinent ha posat"
-	line "panys dobles!"
-	cont "Aquest és el truc:"
+	line "panys dobles! El"
+	cont "truc és aquest:"
 
 	para "Quan obris el 1r"
 	line "pany, el 2n està"

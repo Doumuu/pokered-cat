@@ -102,11 +102,11 @@ _Route12Fisher4BattleText::
 
 _Route12Fisher4EndBattleText::
 	text "No"
-	line "soc gaire bo, oi?"
+	line "soc gaire bo,oi?"
 	prompt
 
 _Route12Fisher4AfterBattleText::
-	text "Ha, ha! Tranquil."
+	text "Ha,ha! Tranquil."
 	line "No em molesta"
 	cont "perdre."
 	done

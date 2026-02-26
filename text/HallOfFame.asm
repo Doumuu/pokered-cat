@@ -6,9 +6,9 @@ _HallOfFameOakText::
 	para "Aquesta és la"
 	line "Sala d'Honor."
 
-	para "Als campions de"
-	line "la Lliga #mon"
-	cont "se'ls honora aquí."
+	para "Els campions de la"
+	line "Lliga #mon són"
+	cont "honorats aquí."
 
 	para "També s'inclouen"
 	line "els seus #mon"

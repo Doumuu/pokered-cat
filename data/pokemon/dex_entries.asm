@@ -338,7 +338,7 @@ ArcanineDexEntry:
 	text_end
 
 MewDexEntry:
-	db "N. espècie@"
+	db "N.espècie@"
 	db 4
 	dw 40
 	text_far _MewDexEntry
@@ -1152,7 +1152,7 @@ NidorinaDexEntry:
 GeodudeDexEntry:
 	db "Roca@"
 	db 4
-	dw 20
+	dw 200
 	text_far _GeodudeDexEntry
 	text_end
 

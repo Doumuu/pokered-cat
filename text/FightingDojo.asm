@@ -12,7 +12,7 @@ _FightingDojoKarateMasterText::
 	done
 
 _FightingDojoKarateMasterDefeatedText::
-	text "Uaa!"
+	text "Aah!"
 	line "M'has derrotat!"
 	prompt
 

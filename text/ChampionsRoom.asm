@@ -2,11 +2,11 @@ _ChampionsRoomRivalIntroText::
 	text "<RIVAL>: Ei!"
 
 	para "Què fas aquí,"
-	line "<PLAYER>? Ha, ha!"
+	line "<PLAYER>? Ha,ha!"
 	cont "Que fort!"
 
 	para "Tu no pots ser el"
-	line "meu rival, oi? No"
+	line "meu rival,oi? No"
 	cont "ets gaire fort!"
 
 	para "Mentre enllestia"

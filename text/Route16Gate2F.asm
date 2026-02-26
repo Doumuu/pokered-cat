@@ -5,7 +5,7 @@ _Route16Gate2FLittleBoyText::
 	done
 
 _Route16Gate2FLittleGirlText::
-	text "Hi, hi! Estem"
+	text "Hi,hi! Estem"
 	line "anant d'excursió!"
 	done
 

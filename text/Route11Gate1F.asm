@@ -5,10 +5,10 @@ _Route11Gate1FGuardText::
 	cont "noms originals."
 
 	para "A Vilamalva hi ha"
-	line "un home que mira"
-	cont "si el nom del teu"
-	cont "#mon és bo."
+	line "un nomòleg que"
+	cont "avalua els noms"
+	cont "dels teus #mon."
 
-	para "Tambe els hi posa"
-	line "noms nous!"
+	para "També els hi posa"
+	line "sobrenoms nous!"
 	done

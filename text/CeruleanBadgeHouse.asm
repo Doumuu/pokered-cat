@@ -88,7 +88,7 @@ _CeruleanBadgeHouseMarshBadgeText::
 _CeruleanBadgeHouseVolcanoBadgeText::
 	text "Fa créixer una"
 	line "mica els atacs"
-	cont "esp. dels #mon."
+	cont "esp.dels #mon."
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::

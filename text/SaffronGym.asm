@@ -141,8 +141,8 @@ _SaffronGymChanneler2BattleText::
 	line "s'assemblen als"
 	cont "seus amos."
 
-	para "Serà dèbil el"
-	line "teu #mon?"
+	para "Els teus són"
+	line "dèbils o forts?"
 	done
 
 _SaffronGymChanneler2EndBattleText::

@@ -201,7 +201,7 @@ _OaksLabOakChooseMonText::
 	para "sobre la taula"
 	line "hi ha 3 #mon!"
 
-	para "Hu, hu, hu..."
+	para "Hu,hu,hu..."
 
 	para "Són a dins de"
 	line "les #balls."

@@ -15,7 +15,7 @@ _SSAnneB1FRoomsSailor1EndBattleText::
 	prompt
 
 _SSAnneB1FRoomsSailor1AfterBattleText::
-	text "Ha, ha! Vols"
+	text "Ha,ha! Vols"
 	line "ser mariner?"
 	done
 

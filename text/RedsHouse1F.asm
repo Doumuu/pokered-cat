@@ -19,19 +19,20 @@ _RedsHouse1FMomYouShouldRestText::
 
 _RedsHouse1FMomLookingGreatText::
 	text "Mare: <PLAYER>,"
-	line "tu i el teu"
+	line "tu i els teus"
 	cont "#mon sou"
-	cont "tan bufons!"
+	cont "tan bufons...!"
 	cont "Aneu amb compte!"
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
 	text "Hi ha una pel·li"
-	line "a la tele d'uns"
+	line "a la tele de 4"
 	cont "nens caminant"
 	cont "per unes vies."
 
-	para "...He d'anar tirant!"
+	para "...Jo també he"
+	line "d'anar tirant!"
 	done
 
 _RedsHouse1FTVWrongSideText::

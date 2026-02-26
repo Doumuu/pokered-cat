@@ -158,22 +158,22 @@ _CeruleanCityCooltrainerF1SlowbroWithdrawText::
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
-	text "En Salamaimó fa"
+	text "Salamaimó fa"
 	line "una becaina."
 	done
 
 _CeruleanCitySlowbroIsLoafingAroundText::
-	text "En Salamaimó"
+	text "Salamaimó fa"
 	line "fa el gandul."
 	done
 
 _CeruleanCitySlowbroTurnedAwayText::
-	text "En Salamaimó"
+	text "Salamaimó"
 	line "gira l'esquena."
 	done
 
 _CeruleanCitySlowbroIgnoredOrdersText::
-	text "En Salamaimó"
+	text "Salamaimó"
 	line "no fa cas."
 	done
 

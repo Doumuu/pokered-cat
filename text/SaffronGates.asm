@@ -8,7 +8,7 @@ _SaffronGateGuardGeeImThirstyText::
 
 _SaffronGateGuardImParchedText::
 	text "Oh...!"
-	cont "Portes begudes"
+	line "Portes begudes"
 	cont "fresquetes...!"
 	cont "..."
 	cont "Eh? Que me'n"

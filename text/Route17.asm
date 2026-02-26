@@ -146,8 +146,8 @@ _Route17Biker10AfterBattleText::
 _Route17NoticeSign1Text::
 	text "El cartell diu:"
 
-	para "Vigileu de no"
-	line "tirar objectes!"
+	para "«Vigileu de no"
+	line "tirar objectes!»"
 	done
 
 _Route17TrainerTips1Text::
@@ -177,9 +177,9 @@ _Route17SignText::
 _Route17NoticeSign2Text::
 	text "El cartell diu:"
 
-	para "No llanceu la"
+	para "«No llanceu la"
 	line "tovallola,"
-	cont "llanceu #balls!"
+	cont "llanceu #balls!»"
 	done
 
 _Route17CyclingRoadEndsSignText::
