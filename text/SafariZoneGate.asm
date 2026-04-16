@@ -17,7 +17,7 @@ _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
 	line "Seran 500¥."
 
 	para "Aquí fem servir"
-	line "unes #ball"
+	line "unes #balls"
 	cont "especials."
 
 	para "<PLAYER> rep"
@@ -58,7 +58,7 @@ _SafariZoneGateSafariZoneWorker1GoodLuckText::
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
-	text "Espero que hagis"
+	text "Esperem que hagis"
 	line "pogut caçar molt!"
 	cont "Que vagi bé!"
 	done

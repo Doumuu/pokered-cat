@@ -39,8 +39,7 @@ _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
-	text "Bon dia,"
-	line "<PLAYER>!"
+	text "Bon dia, <PLAYER>!"
 
 	para "Que piquen"
 	line "els peixos?"

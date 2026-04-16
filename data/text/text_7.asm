@@ -87,7 +87,7 @@ _NoTrade1Text::
 	done
 
 _WrongMon1Text::
-	text "Mmm...aquest no"
+	text "Mmm... aquest no"
 	line "és un @"
 	text_ram wInGameTradeGiveMonName
 	text "."

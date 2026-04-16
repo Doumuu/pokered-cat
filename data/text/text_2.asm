@@ -106,7 +106,7 @@ _OneMoreGoSlotMachineText::
 
 _LinedUpText::
 	text " fa línia!"
-	line "Obtens @"
+	line "Reps @"
 	text_ram wStringBuffer
 	text " monedes!"
 	done
@@ -1124,8 +1124,8 @@ _KeptGoingAndCrashedText::
 	prompt
 
 _UnaffectedText::
-	text "A <TARGET> no"
-	line "li afecta!"
+	text "A <TARGET>"
+	line "no li afecta!"
 	prompt
 
 _DoesntAffectMonText::

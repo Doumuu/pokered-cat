@@ -211,8 +211,8 @@ _DidntAffectText::
 	prompt
 
 _IsUnaffectedText::
-	text "A <TARGET> no"
-	line "li afecta!"
+	text "A <TARGET>"
+	line "no li afecta!"
 	prompt
 
 _ParalyzedMayNotAttackText::

@@ -77,9 +77,9 @@ _FuchsiaCityKangaskhanSignText::
 	text "Nom: Cangurpes"
 
 	para "#mon mare que"
-	line "porta la seva"
-	cont "cria a la bossa"
-	cont "que té a la panxa."
+	line "porta una cria"
+	cont "a la bossa que"
+	cont "té a la panxa."
 	prompt
 
 _FuchsiaCitySlowpokeSignText::
