@@ -1,4 +1,4 @@
-# Pokémon vermell i blau (Projecte de localització al català)
+# Pokémon vermell i blau (Projecte de localització en català)
 
 Aquest és un desensamblatge de Pokémon vermell i blau basat en [Pokered](https://github.com/pret/pokered/).
 
